@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="Workspace" id="{39b454ed-c2ce-4bbb-aada-b6f422a8dc49}">
+		<property name="builtBanksOutputDirectory">
+			<value>E:/DieAgainProjects/DieAgain/DieAgain 4.23/Content/FMOD</value>
+		</property>
+		<relationship name="masterEventFolder">
+			<destination>{0fe0ce48-24be-4b5a-a980-d4030de4908c}</destination>
+		</relationship>
+		<relationship name="masterTagFolder">
+			<destination>{fb5d2c8c-80f1-4ca1-a5dc-5a46fc15535e}</destination>
+		</relationship>
+		<relationship name="masterEffectPresetFolder">
+			<destination>{20fde5a2-9a90-438f-a7fe-496f3ac7f89e}</destination>
+		</relationship>
+		<relationship name="masterParameterPresetFolder">
+			<destination>{2335bd9a-2311-4278-a617-14bab3672e69}</destination>
+		</relationship>
+		<relationship name="masterBankFolder">
+			<destination>{55fd9c6d-c4e9-4d6a-9300-e0f7cc273ec3}</destination>
+		</relationship>
+		<relationship name="masterAssetFolder">
+			<destination>{02c4dbd5-9d63-4585-86d4-2d7dda4c31e3}</destination>
+		</relationship>
+		<relationship name="mixer">
+			<destination>{fe64a442-d514-45be-a874-e4fde11e46a2}</destination>
+		</relationship>
+		<relationship name="platforms">
+			<destination>{06cee8a3-26b0-44c6-b430-7df3d43213a6}</destination>
+		</relationship>
+	</object>
+</objects>
