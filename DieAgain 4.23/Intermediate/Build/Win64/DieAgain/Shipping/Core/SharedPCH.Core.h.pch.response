@@ -36,11 +36,11 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\winrt"
 /D_HAS_EXCEPTIONS=0
-/I "E:\DieAgainProjects\DieAgain\DieAgain 4.23\Intermediate\Build\Win64\DieAgain\Shipping\Core"
-/Yc"E:\DieAgainProjects\DieAgain\DieAgain 4.23\Intermediate\Build\Win64\DieAgain\Shipping\Core\SharedPCH.Core.h"
-/Fp"E:\DieAgainProjects\DieAgain\DieAgain 4.23\Intermediate\Build\Win64\DieAgain\Shipping\Core\SharedPCH.Core.h.pch"
-"E:\DieAgainProjects\DieAgain\DieAgain 4.23\Intermediate\Build\Win64\DieAgain\Shipping\Core\SharedPCH.Core.cpp"
-/Fo"E:\DieAgainProjects\DieAgain\DieAgain 4.23\Intermediate\Build\Win64\DieAgain\Shipping\Core\SharedPCH.Core.h.obj"
+/I "E:\DieAgainProjects\GitHub DieAgain\DieAgain 4.23\Intermediate\Build\Win64\DieAgain\Shipping\Core"
+/Yc"E:\DieAgainProjects\GitHub DieAgain\DieAgain 4.23\Intermediate\Build\Win64\DieAgain\Shipping\Core\SharedPCH.Core.h"
+/Fp"E:\DieAgainProjects\GitHub DieAgain\DieAgain 4.23\Intermediate\Build\Win64\DieAgain\Shipping\Core\SharedPCH.Core.h.pch"
+"E:\DieAgainProjects\GitHub DieAgain\DieAgain 4.23\Intermediate\Build\Win64\DieAgain\Shipping\Core\SharedPCH.Core.cpp"
+/Fo"E:\DieAgainProjects\GitHub DieAgain\DieAgain 4.23\Intermediate\Build\Win64\DieAgain\Shipping\Core\SharedPCH.Core.h.obj"
 /TP
 /GR-
 /W4

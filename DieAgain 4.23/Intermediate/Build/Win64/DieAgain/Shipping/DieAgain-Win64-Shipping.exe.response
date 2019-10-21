@@ -238,8 +238,8 @@
 "E:\UE_4.23\Engine\Plugins\Media\WebMMedia\Intermediate\Build\Win64\UE4\Shipping\WebMMedia\Module.WebMMedia.cpp.obj"
 "E:\UE_4.23\Engine\Plugins\Media\WebMMedia\Intermediate\Build\Win64\UE4\Shipping\WebMMediaFactory\WebMMediaFactoryModule.cpp.obj"
 "E:\UE_4.23\Engine\Plugins\Runtime\WindowsMoviePlayer\Intermediate\Build\Win64\UE4\Shipping\WindowsMoviePlayer\Module.WindowsMoviePlayer.cpp.obj"
-"E:\DieAgainProjects\DieAgain\DieAgain 4.23\Intermediate\Build\Win64\DieAgain\Shipping\Core\SharedPCH.Core.h.obj"
-"E:\DieAgainProjects\DieAgain\DieAgain 4.23\Intermediate\Build\Win64\UE4\Shipping\DieAgain\DieAgain.cpp.obj"
+"E:\DieAgainProjects\GitHub DieAgain\DieAgain 4.23\Intermediate\Build\Win64\DieAgain\Shipping\Core\SharedPCH.Core.h.obj"
+"E:\DieAgainProjects\GitHub DieAgain\DieAgain 4.23\Intermediate\Build\Win64\UE4\Shipping\DieAgain\DieAgain.cpp.obj"
 "E:\UE_4.23\Engine\Intermediate\Build\Win64\UE4\Shipping\BuildSettings\BuildSettings.cpp.obj"
 "E:\UE_4.23\Engine\Intermediate\Build\Win64\UE4\Shipping\TraceLog\Module.TraceLog.cpp.obj"
 "E:\UE_4.23\Engine\Intermediate\Build\Win64\UE4\Shipping\Core\PCH.Core.h.obj"
@@ -626,7 +626,7 @@
 "E:\UE_4.23\Engine\Intermediate\Build\Win64\UE4\Shipping\ImageCore\ImageCore.cpp.obj"
 "E:\UE_4.23\Engine\Intermediate\Build\Win64\UE4\Shipping\Voice\Module.Voice.cpp.obj"
 "E:\UE_4.23\Engine\Intermediate\Build\Win64\UE4\Shipping\InputDevice\InputDeviceModule.cpp.obj"
-"E:\DieAgainProjects\DieAgain\DieAgain 4.23\Intermediate\Build\Win64\DieAgain\Shipping\Default.rc2.res"
+"E:\DieAgainProjects\GitHub DieAgain\DieAgain 4.23\Intermediate\Build\Win64\DieAgain\Shipping\Default.rc2.res"
 "delayimp.lib"
 "wininet.lib"
 "rpcrt4.lib"
@@ -732,8 +732,8 @@
 "PhysX3Cooking_x64.lib"
 "legacy_stdio_definitions.lib"
 "d3d11.lib"
-/OUT:"E:\DieAgainProjects\DieAgain\DieAgain 4.23\Binaries\Win64\DieAgain-Win64-Shipping.exe"
-/PDB:"E:\DieAgainProjects\DieAgain\DieAgain 4.23\Binaries\Win64\DieAgain-Win64-Shipping.pdb"
+/OUT:"E:\DieAgainProjects\GitHub DieAgain\DieAgain 4.23\Binaries\Win64\DieAgain-Win64-Shipping.exe"
+/PDB:"E:\DieAgainProjects\GitHub DieAgain\DieAgain 4.23\Binaries\Win64\DieAgain-Win64-Shipping.pdb"
 /ignore:4078
 /INCLUDE:IMPLEMENT_MODULE_ApexDestruction
 /INCLUDE:IMPLEMENT_MODULE_FMODStudio
