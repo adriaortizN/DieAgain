@@ -62,21 +62,21 @@
 /I Runtime\TraceLog
 /I Runtime\TraceLog\Public\Trace
 /I Runtime\TraceLog\Public\Trace\Private
-/I "E:\DieAgainProjects\GitHub DieAgain\DieAgain 4.23\Intermediate"
-/I "E:\DieAgainProjects\GitHub DieAgain\DieAgain 4.23\Intermediate\Source"
-/I "E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.13.26128\INCLUDE"
-/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"
+/I "C:\Users\alumno\Desktop\TFG\DieAgain 4.23\Intermediate"
+/I "C:\Users\alumno\Desktop\TFG\DieAgain 4.23\Source"
+/I "C:\Users\alumno\Desktop\TFG\DieAgain 4.23\Intermediate\Source"
+/I "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\winrt"
 /D_HAS_EXCEPTIONS=0
-/FI"E:\DieAgainProjects\GitHub DieAgain\DieAgain 4.23\Intermediate\Build\Win64\DieAgain\Shipping\Core\SharedPCH.Core.h"
-/Yu"E:\DieAgainProjects\GitHub DieAgain\DieAgain 4.23\Intermediate\Build\Win64\DieAgain\Shipping\Core\SharedPCH.Core.h"
-/Fp"E:\DieAgainProjects\GitHub DieAgain\DieAgain 4.23\Intermediate\Build\Win64\DieAgain\Shipping\Core\SharedPCH.Core.h.pch"
-"E:\DieAgainProjects\GitHub DieAgain\DieAgain 4.23\Intermediate\Source\DieAgain.cpp"
-/FI"E:\DieAgainProjects\GitHub DieAgain\DieAgain 4.23\Intermediate\Build\Win64\UE4\Shipping\DieAgain\Definitions.DieAgain.h"
-/Fo"E:\DieAgainProjects\GitHub DieAgain\DieAgain 4.23\Intermediate\Build\Win64\UE4\Shipping\DieAgain\DieAgain.cpp.obj"
+/FI"C:\Users\alumno\Desktop\TFG\DieAgain 4.23\Intermediate\Build\Win64\DieAgain\Shipping\Core\SharedPCH.Core.h"
+/Yu"C:\Users\alumno\Desktop\TFG\DieAgain 4.23\Intermediate\Build\Win64\DieAgain\Shipping\Core\SharedPCH.Core.h"
+/Fp"C:\Users\alumno\Desktop\TFG\DieAgain 4.23\Intermediate\Build\Win64\DieAgain\Shipping\Core\SharedPCH.Core.h.pch"
+"C:\Users\alumno\Desktop\TFG\DieAgain 4.23\Intermediate\Source\DieAgain.cpp"
+/FI"C:\Users\alumno\Desktop\TFG\DieAgain 4.23\Intermediate\Build\Win64\UE4\Shipping\DieAgain\Definitions.DieAgain.h"
+/Fo"C:\Users\alumno\Desktop\TFG\DieAgain 4.23\Intermediate\Build\Win64\UE4\Shipping\DieAgain\DieAgain.cpp.obj"
 /TP
 /GR-
 /W4

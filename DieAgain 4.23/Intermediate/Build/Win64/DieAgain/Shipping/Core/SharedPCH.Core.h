@@ -1,4 +1,4 @@
-// PCH for E:\UE_4.23\Engine\Source\Runtime\Core\Public\CoreSharedPCH.h
+// PCH for C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\CoreSharedPCH.h
 #define IS_PROGRAM 0
 #define UE_GAME 1
 #define ENABLE_PGO_PROFILE 0
@@ -41,7 +41,7 @@
 #define OVERRIDE_PLATFORM_HEADER_NAME Windows
 #define NDEBUG 1
 #define UE_BUILD_SHIPPING 1
-#define UE_ENGINE_DIRECTORY "../../../../../UE_4.23/Engine/"
+#define UE_ENGINE_DIRECTORY "../../../../../../../Program Files/Epic Games/UE_4.23/Engine/"
 #define UE_IS_ENGINE_MODULE 1
 #define UE_ENABLE_ICU 1
 #define WITH_VS_PERF_PROFILER 0
@@ -55,4 +55,4 @@
 #define CORE_API 
 #define TRACELOG_VTABLE 
 #define TRACELOG_API 
-#include "E:/UE_4.23/Engine/Source/Runtime/Core/Public/CoreSharedPCH.h"
+#include "C:/Program Files/Epic Games/UE_4.23/Engine/Source/Runtime/Core/Public/CoreSharedPCH.h"

@@ -47,7 +47,7 @@
 #define OVERRIDE_PLATFORM_HEADER_NAME Windows
 #define NDEBUG 1
 #define UE_BUILD_SHIPPING 1
-#define UE_ENGINE_DIRECTORY "../../../../../UE_4.23/Engine/"
+#define UE_ENGINE_DIRECTORY "../../../../../../../Program Files/Epic Games/UE_4.23/Engine/"
 #define UE_IS_ENGINE_MODULE 0
 #define UE_PROJECT_NAME DieAgain
 #define IMPLEMENT_ENCRYPTION_KEY_REGISTRATION() 
