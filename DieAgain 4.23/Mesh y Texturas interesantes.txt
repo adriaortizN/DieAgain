@@ -39,6 +39,10 @@ MI_Wall04 --> Su material
 SM_Wall04_Innercorner --> Mesh de una pared haciendo esquina. Combina con los dos mesh superiores 
 MI_Wall04 --> Su material, como de cemento
 
+SM_WallConcrete --> Mesh de una gran pared. Debe dejarse por debajo del nivel del suelo.
+MI_Hangarwall01 --> Su material, negro
+MI_Hangarwall02 --> Su material, naranja
+
 
 SM_Door2_Combined --> Mesh de puerta cerrada naranja
 MI_Door01 --> Material de la puerta 
@@ -62,6 +66,43 @@ MI_Container_Red --> Material del contenedor
 
 SM_Barrel --> Mesh de un bidon 
 MI_Barrel02 --> Material azul. El rojo puede hacer que parezca explosivo 
+
+
+
+
+M_WallStripe (Imagenes planas para el suelo)
+
+MI_WallStripe02_Yellow --> Cuadrado amarillo 
+
+MI_WallStripe04_Dark --> Lineas en forma de _/- más o menos. Junto a otras del mismo timpo parecen dar un buen resultado
+
+MI_AreaDecal --> Circulo (grande tipo helipuesto) con nombre AT Area, todo blanco. 
+
+
+
+
+SM_Pipe01_Bend90 --> Tuberia que puede curvarse para acabarla, empezarla o girar esquinas. Utilizarla con MI_Pipa01
+SM_Pipe01 --> Tuberia totalmente recta. Utilizarla con lo mismo. 
+
+
+
+
+Para hacer espacios de casa:
+SM_Table_Lamp --> Lampara blanca de sobremesa. Diseño más tirando a antiguo
+SM_Bed_lamp_3 --> Lampara gris de sobremesa. Diseño bastante más contemporaneo
+
+BP_Classic_Commode_2 --> Cajón que se puede ajustar lo abierto o cerrado que está. Marron madera fuerte. 
+BP_Classic_Cupboard --> Armario que se puede ajustar lo abierto o cerrado que está. Marrón madera fuerte
+SM_Toilet --> Vater blanco. 
+
+SM_Military_Bed --> Cama militar con otra arriba
+SM_Military_Bed_2 --> Cama militar con una sola
+
+SM_Modern_Table --> Mesa algo cutre con madera 
+SM_Old_Table --> Mesa con aspecto de vieja, con un madera fuerte
+SM_Old_Chair --> Silla vieja con madera fuerte
+
+
 
 
 
