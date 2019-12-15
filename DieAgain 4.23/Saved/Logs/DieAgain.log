@@ -4732,3 +4732,880 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.15-19.57.50:446][637]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.12.15-19.57.53:411][974]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/DestructibleMesh/Building_04" FILE="../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Art/DestructibleMesh/Building_04.uasset" SILENT=true
 [2019.12.15-19.57.53:429][974]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/Building_04D5A207FC498233A4CDC6A39A9767B8A3.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Art/DestructibleMesh/Building_04.uasset'
+[2019.12.15-20.04.00:939][767]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-20.15.45:898][934]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-20.15.45:960][939]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.15-20.15.45:986][939]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk' with GeneratedClass '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk'
+[2019.12.15-20.15.46:009][939]LogFMOD: Creating runtime Studio System
+[2019.12.15-20.15.46:010][939]LogFMOD: Default sample rate = 48000
+[2019.12.15-20.15.46:010][939]LogFMOD: System sample rate = 44100
+[2019.12.15-20.15.46:010][939]LogFMOD: Matching system sample rate 44100
+[2019.12.15-20.15.46:019][939]LogFMOD: Loading Banks
+[2019.12.15-20.15.46:061][939]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.15-20.15.46:061][939]PIE: New page: PIE session: MockUp_Walk (Dec 15, 2019, 10:15:46 PM)
+[2019.12.15-20.15.46:062][939]LogPlayLevel: Creating play world package: /Game/Levels/LV4/UEDPIE_0_MockUp_Walk
+[2019.12.15-20.15.46:142][939]LogPlayLevel: PIE: StaticDuplicateObject took: (0.079993s)
+[2019.12.15-20.15.46:143][939]LogAIModule: Creating AISystem for world MockUp_Walk
+[2019.12.15-20.15.46:143][939]LogPlayLevel: PIE: World Init took: (0.001390s)
+[2019.12.15-20.15.46:143][939]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV4/MockUp_Walk.MockUp_Walk to /Game/Levels/LV4/UEDPIE_0_MockUp_Walk.MockUp_Walk (0.081657s)
+[2019.12.15-20.15.46:192][939]LogUObjectHash: Compacting FUObjectHashTables data took   4.98ms
+[2019.12.15-20.15.46:209][939]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.15-20.15.46:216][939]LogInit: FAudioDevice initialized.
+[2019.12.15-20.15.46:282][939]LogInit: Error: Failed to load cursor '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/None'
+[2019.12.15-20.15.46:292][939]LogLoad: Game class is 'GameMode'
+[2019.12.15-20.15.46:304][939]LogWorld: Bringing World /Game/Levels/LV4/UEDPIE_0_MockUp_Walk.MockUp_Walk up for play (max tick rate 0) at 2019.12.15-21.15.46
+[2019.12.15-20.15.46:305][939]LogWorld: Bringing up level for play took: 0.012272
+[2019.12.15-20.15.46:413][939]LogOnline: OSS: Creating online subsystem instance for: :Context_100
+[2019.12.15-20.15.46:415][939]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.12.15-20.15.46:415][939]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.12.15-20.15.46:415][939]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.12.15-20.15.46:417][939]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.12.15-20.15.46:417][939]PIE: Play in editor start time for /Game/Levels/LV4/UEDPIE_0_MockUp_Walk 0.332
+[2019.12.15-20.15.46:417][939]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk' with GeneratedClass '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk'
+[2019.12.15-20.15.50:220][241]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk' with GeneratedClass '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk'
+[2019.12.15-20.15.50:315][241]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-20.15.50:316][241]LogWorld: BeginTearingDown for /Game/Levels/LV4/UEDPIE_0_MockUp_Walk
+[2019.12.15-20.15.50:317][241]LogWorld: UWorld::CleanupWorld for MockUp_Walk, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-20.15.50:334][241]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.15-20.15.50:334][241]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk' with GeneratedClass '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk'
+[2019.12.15-20.15.50:384][241]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-20.15.50:391][241]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2019.12.15-20.15.50:419][242]LogPlayLevel: Display: Destroying online subsystem :Context_100
+[2019.12.15-20.21.16:305][774]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-20.21.51:399][832]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.12.15-20.23.02:263][425]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-20.23.24:734][487]LogEditorTransaction: Undo Delete current selection
+[2019.12.15-20.24.22:636][240]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.15-20.24.22:659][240]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk' with GeneratedClass '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk'
+[2019.12.15-20.24.22:697][240]LogFMOD: Creating runtime Studio System
+[2019.12.15-20.24.22:698][240]LogFMOD: Default sample rate = 48000
+[2019.12.15-20.24.22:698][240]LogFMOD: System sample rate = 44100
+[2019.12.15-20.24.22:698][240]LogFMOD: Matching system sample rate 44100
+[2019.12.15-20.24.22:708][240]LogFMOD: Loading Banks
+[2019.12.15-20.24.22:748][240]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.15-20.24.22:763][240]LogPlayLevel: [PlayLevel] Compiling Building_04 before play...
+[2019.12.15-20.24.23:374][240]LogUObjectHash: Compacting FUObjectHashTables data took   8.15ms
+[2019.12.15-20.24.23:374][240]LogPlayLevel: PlayLevel: Blueprint regeneration took 626 ms (1 blueprints)
+[2019.12.15-20.24.23:375][240]PIE: New page: PIE session: MockUp_Walk (Dec 15, 2019, 10:24:23 PM)
+[2019.12.15-20.24.23:375][240]LogPlayLevel: Creating play world package: /Game/Levels/LV4/UEDPIE_0_MockUp_Walk
+[2019.12.15-20.24.23:423][240]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048201s)
+[2019.12.15-20.24.23:425][240]LogAIModule: Creating AISystem for world MockUp_Walk
+[2019.12.15-20.24.23:425][240]LogPlayLevel: PIE: World Init took: (0.001371s)
+[2019.12.15-20.24.23:425][240]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV4/MockUp_Walk.MockUp_Walk to /Game/Levels/LV4/UEDPIE_0_MockUp_Walk.MockUp_Walk (0.049744s)
+[2019.12.15-20.24.23:481][240]LogUObjectHash: Compacting FUObjectHashTables data took   5.28ms
+[2019.12.15-20.24.23:488][240]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.15-20.24.23:495][240]LogInit: FAudioDevice initialized.
+[2019.12.15-20.24.23:571][240]LogInit: Error: Failed to load cursor '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/None'
+[2019.12.15-20.24.23:586][240]LogLoad: Game class is 'GameMode'
+[2019.12.15-20.24.23:599][240]LogWorld: Bringing World /Game/Levels/LV4/UEDPIE_0_MockUp_Walk.MockUp_Walk up for play (max tick rate 0) at 2019.12.15-21.24.23
+[2019.12.15-20.24.23:601][240]LogWorld: Bringing up level for play took: 0.014409
+[2019.12.15-20.24.23:723][240]LogOnline: OSS: Creating online subsystem instance for: :Context_101
+[2019.12.15-20.24.23:725][240]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.12.15-20.24.23:725][240]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.12.15-20.24.23:726][240]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.12.15-20.24.23:728][240]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.12.15-20.24.23:728][240]PIE: Play in editor start time for /Game/Levels/LV4/UEDPIE_0_MockUp_Walk 1.639
+[2019.12.15-20.24.23:728][240]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk' with GeneratedClass '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk'
+[2019.12.15-20.24.29:703][692]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk' with GeneratedClass '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk'
+[2019.12.15-20.24.29:801][692]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-20.24.29:801][692]LogWorld: BeginTearingDown for /Game/Levels/LV4/UEDPIE_0_MockUp_Walk
+[2019.12.15-20.24.29:803][692]LogWorld: UWorld::CleanupWorld for MockUp_Walk, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-20.24.29:819][692]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.15-20.24.29:819][692]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk' with GeneratedClass '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk'
+[2019.12.15-20.24.29:874][692]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-20.24.29:881][692]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2019.12.15-20.24.29:912][693]LogPlayLevel: Display: Destroying online subsystem :Context_101
+[2019.12.15-20.24.30:212][713]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-20.24.30:279][718]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.15-20.24.30:311][718]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk' with GeneratedClass '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk'
+[2019.12.15-20.24.30:357][718]LogFMOD: Creating runtime Studio System
+[2019.12.15-20.24.30:359][718]LogFMOD: Default sample rate = 48000
+[2019.12.15-20.24.30:359][718]LogFMOD: System sample rate = 44100
+[2019.12.15-20.24.30:360][718]LogFMOD: Matching system sample rate 44100
+[2019.12.15-20.24.30:376][718]LogFMOD: Loading Banks
+[2019.12.15-20.24.30:419][718]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.15-20.24.30:419][718]PIE: New page: PIE session: MockUp_Walk (Dec 15, 2019, 10:24:30 PM)
+[2019.12.15-20.24.30:420][718]LogPlayLevel: Creating play world package: /Game/Levels/LV4/UEDPIE_0_MockUp_Walk
+[2019.12.15-20.24.30:492][718]LogPlayLevel: PIE: StaticDuplicateObject took: (0.072325s)
+[2019.12.15-20.24.30:493][718]LogAIModule: Creating AISystem for world MockUp_Walk
+[2019.12.15-20.24.30:494][718]LogPlayLevel: PIE: World Init took: (0.001510s)
+[2019.12.15-20.24.30:494][718]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV4/MockUp_Walk.MockUp_Walk to /Game/Levels/LV4/UEDPIE_0_MockUp_Walk.MockUp_Walk (0.074057s)
+[2019.12.15-20.24.30:540][718]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2019.12.15-20.24.30:548][718]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.15-20.24.30:553][718]LogInit: FAudioDevice initialized.
+[2019.12.15-20.24.30:617][718]LogInit: Error: Failed to load cursor '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/None'
+[2019.12.15-20.24.30:622][718]LogLoad: Game class is 'GameMode'
+[2019.12.15-20.24.30:633][718]LogWorld: Bringing World /Game/Levels/LV4/UEDPIE_0_MockUp_Walk.MockUp_Walk up for play (max tick rate 0) at 2019.12.15-21.24.30
+[2019.12.15-20.24.30:635][718]LogWorld: Bringing up level for play took: 0.012118
+[2019.12.15-20.24.30:742][718]LogOnline: OSS: Creating online subsystem instance for: :Context_102
+[2019.12.15-20.24.30:744][718]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.12.15-20.24.30:744][718]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.12.15-20.24.30:744][718]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.12.15-20.24.30:746][718]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.12.15-20.24.30:746][718]PIE: Play in editor start time for /Game/Levels/LV4/UEDPIE_0_MockUp_Walk 0.657
+[2019.12.15-20.24.30:746][718]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk' with GeneratedClass '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk'
+[2019.12.15-20.24.32:471][854]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-20.24.32:471][854]LogBlueprintUserMessages: [Conversation_Actor_2] IM TALKING
+[2019.12.15-20.24.35:397][ 70]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-20.24.35:441][ 74]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-20.24.37:983][249]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk' with GeneratedClass '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk'
+[2019.12.15-20.24.38:067][249]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-20.24.38:067][249]LogWorld: BeginTearingDown for /Game/Levels/LV4/UEDPIE_0_MockUp_Walk
+[2019.12.15-20.24.38:069][249]LogWorld: UWorld::CleanupWorld for MockUp_Walk, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-20.24.38:079][249]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.15-20.24.38:079][249]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk' with GeneratedClass '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk'
+[2019.12.15-20.24.38:131][249]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-20.24.38:138][249]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2019.12.15-20.24.38:169][250]LogPlayLevel: Display: Destroying online subsystem :Context_102
+[2019.12.15-20.24.38:754][291]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-20.24.39:193][324]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.15-20.24.39:214][324]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk' with GeneratedClass '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk'
+[2019.12.15-20.24.39:246][324]LogFMOD: Creating runtime Studio System
+[2019.12.15-20.24.39:247][324]LogFMOD: Default sample rate = 48000
+[2019.12.15-20.24.39:247][324]LogFMOD: System sample rate = 44100
+[2019.12.15-20.24.39:247][324]LogFMOD: Matching system sample rate 44100
+[2019.12.15-20.24.39:254][324]LogFMOD: Loading Banks
+[2019.12.15-20.24.39:298][324]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.15-20.24.39:298][324]PIE: New page: PIE session: MockUp_Walk (Dec 15, 2019, 10:24:39 PM)
+[2019.12.15-20.24.39:299][324]LogPlayLevel: Creating play world package: /Game/Levels/LV4/UEDPIE_0_MockUp_Walk
+[2019.12.15-20.24.39:368][324]LogPlayLevel: PIE: StaticDuplicateObject took: (0.069289s)
+[2019.12.15-20.24.39:369][324]LogAIModule: Creating AISystem for world MockUp_Walk
+[2019.12.15-20.24.39:369][324]LogPlayLevel: PIE: World Init took: (0.001258s)
+[2019.12.15-20.24.39:369][324]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV4/MockUp_Walk.MockUp_Walk to /Game/Levels/LV4/UEDPIE_0_MockUp_Walk.MockUp_Walk (0.070747s)
+[2019.12.15-20.24.39:415][324]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2019.12.15-20.24.39:422][324]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.15-20.24.39:428][324]LogInit: FAudioDevice initialized.
+[2019.12.15-20.24.39:493][324]LogInit: Error: Failed to load cursor '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/None'
+[2019.12.15-20.24.39:499][324]LogLoad: Game class is 'GameMode'
+[2019.12.15-20.24.39:510][324]LogWorld: Bringing World /Game/Levels/LV4/UEDPIE_0_MockUp_Walk.MockUp_Walk up for play (max tick rate 0) at 2019.12.15-21.24.39
+[2019.12.15-20.24.39:512][324]LogWorld: Bringing up level for play took: 0.011924
+[2019.12.15-20.24.39:620][324]LogOnline: OSS: Creating online subsystem instance for: :Context_103
+[2019.12.15-20.24.39:622][324]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.12.15-20.24.39:622][324]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.12.15-20.24.39:622][324]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.12.15-20.24.39:624][324]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.12.15-20.24.39:624][324]PIE: Play in editor start time for /Game/Levels/LV4/UEDPIE_0_MockUp_Walk -0.464
+[2019.12.15-20.24.39:624][324]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk' with GeneratedClass '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk'
+[2019.12.15-20.24.44:076][661]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk' with GeneratedClass '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk'
+[2019.12.15-20.24.44:162][661]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-20.24.44:162][661]LogWorld: BeginTearingDown for /Game/Levels/LV4/UEDPIE_0_MockUp_Walk
+[2019.12.15-20.24.44:164][661]LogWorld: UWorld::CleanupWorld for MockUp_Walk, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-20.24.44:176][661]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.15-20.24.44:176][661]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk' with GeneratedClass '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk'
+[2019.12.15-20.24.44:230][661]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-20.24.44:238][661]LogUObjectHash: Compacting FUObjectHashTables data took   5.00ms
+[2019.12.15-20.24.44:270][662]LogPlayLevel: Display: Destroying online subsystem :Context_103
+[2019.12.15-20.24.44:951][710]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.15-20.24.45:777][769]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2019.12.15-20.24.45:782][769]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.15-20.24.45:851][769]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2019.12.15-20.24.46:927][769]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/MockUp_Walk57CB41F64A180F82990EBF9D626B9968.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LV4/MockUp_Walk.umap'
+[2019.12.15-20.24.46:962][769]LogFileHelpers: Saving map 'MockUp_Walk' took 1.167
+[2019.12.15-20.24.46:966][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/DestructibleMesh/Building_04" FILE="../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Art/DestructibleMesh/Building_04.uasset" SILENT=true
+[2019.12.15-20.24.47:048][769]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/Building_048B5EC334406EBCB2B81175AB9500C125.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Art/DestructibleMesh/Building_04.uasset'
+[2019.12.15-20.25.04:827][838]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-20.25.17:934][345]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.15-20.25.17:955][345]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk' with GeneratedClass '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk'
+[2019.12.15-20.25.17:981][345]LogFMOD: Creating runtime Studio System
+[2019.12.15-20.25.17:982][345]LogFMOD: Default sample rate = 48000
+[2019.12.15-20.25.17:982][345]LogFMOD: System sample rate = 44100
+[2019.12.15-20.25.17:982][345]LogFMOD: Matching system sample rate 44100
+[2019.12.15-20.25.17:989][345]LogFMOD: Loading Banks
+[2019.12.15-20.25.18:033][345]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.15-20.25.18:033][345]PIE: New page: PIE session: MockUp_Walk (Dec 15, 2019, 10:25:18 PM)
+[2019.12.15-20.25.18:034][345]LogPlayLevel: Creating play world package: /Game/Levels/LV4/UEDPIE_0_MockUp_Walk
+[2019.12.15-20.25.18:091][345]LogPlayLevel: PIE: StaticDuplicateObject took: (0.056929s)
+[2019.12.15-20.25.18:092][345]LogAIModule: Creating AISystem for world MockUp_Walk
+[2019.12.15-20.25.18:092][345]LogPlayLevel: PIE: World Init took: (0.001427s)
+[2019.12.15-20.25.18:092][345]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV4/MockUp_Walk.MockUp_Walk to /Game/Levels/LV4/UEDPIE_0_MockUp_Walk.MockUp_Walk (0.058577s)
+[2019.12.15-20.25.18:141][345]LogUObjectHash: Compacting FUObjectHashTables data took   6.14ms
+[2019.12.15-20.25.18:148][345]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.15-20.25.18:154][345]LogInit: FAudioDevice initialized.
+[2019.12.15-20.25.18:221][345]LogInit: Error: Failed to load cursor '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/None'
+[2019.12.15-20.25.18:227][345]LogLoad: Game class is 'GameMode'
+[2019.12.15-20.25.18:239][345]LogWorld: Bringing World /Game/Levels/LV4/UEDPIE_0_MockUp_Walk.MockUp_Walk up for play (max tick rate 0) at 2019.12.15-21.25.18
+[2019.12.15-20.25.18:240][345]LogWorld: Bringing up level for play took: 0.012386
+[2019.12.15-20.25.18:348][345]LogOnline: OSS: Creating online subsystem instance for: :Context_104
+[2019.12.15-20.25.18:350][345]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.12.15-20.25.18:350][345]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.12.15-20.25.18:350][345]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.12.15-20.25.18:352][345]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.12.15-20.25.18:352][345]PIE: Play in editor start time for /Game/Levels/LV4/UEDPIE_0_MockUp_Walk 0.263
+[2019.12.15-20.25.18:352][345]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk' with GeneratedClass '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk'
+[2019.12.15-20.25.23:571][746]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk' with GeneratedClass '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk'
+[2019.12.15-20.25.23:661][746]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-20.25.23:661][746]LogWorld: BeginTearingDown for /Game/Levels/LV4/UEDPIE_0_MockUp_Walk
+[2019.12.15-20.25.23:662][746]LogWorld: UWorld::CleanupWorld for MockUp_Walk, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-20.25.23:690][746]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.15-20.25.23:690][746]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk' with GeneratedClass '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk'
+[2019.12.15-20.25.23:746][746]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-20.25.23:754][746]LogUObjectHash: Compacting FUObjectHashTables data took   5.20ms
+[2019.12.15-20.25.23:774][747]LogPlayLevel: Display: Destroying online subsystem :Context_104
+[2019.12.15-20.25.24:166][776]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-20.25.24:243][782]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.15-20.25.24:267][782]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk' with GeneratedClass '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk'
+[2019.12.15-20.25.24:300][782]LogFMOD: Creating runtime Studio System
+[2019.12.15-20.25.24:301][782]LogFMOD: Default sample rate = 48000
+[2019.12.15-20.25.24:301][782]LogFMOD: System sample rate = 44100
+[2019.12.15-20.25.24:301][782]LogFMOD: Matching system sample rate 44100
+[2019.12.15-20.25.24:308][782]LogFMOD: Loading Banks
+[2019.12.15-20.25.24:351][782]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.15-20.25.24:351][782]PIE: New page: PIE session: MockUp_Walk (Dec 15, 2019, 10:25:24 PM)
+[2019.12.15-20.25.24:351][782]LogPlayLevel: Creating play world package: /Game/Levels/LV4/UEDPIE_0_MockUp_Walk
+[2019.12.15-20.25.24:399][782]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047736s)
+[2019.12.15-20.25.24:400][782]LogAIModule: Creating AISystem for world MockUp_Walk
+[2019.12.15-20.25.24:400][782]LogPlayLevel: PIE: World Init took: (0.001199s)
+[2019.12.15-20.25.24:400][782]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV4/MockUp_Walk.MockUp_Walk to /Game/Levels/LV4/UEDPIE_0_MockUp_Walk.MockUp_Walk (0.049093s)
+[2019.12.15-20.25.24:453][782]LogUObjectHash: Compacting FUObjectHashTables data took   4.79ms
+[2019.12.15-20.25.24:460][782]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.15-20.25.24:467][782]LogInit: FAudioDevice initialized.
+[2019.12.15-20.25.24:536][782]LogInit: Error: Failed to load cursor '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/None'
+[2019.12.15-20.25.24:546][782]LogLoad: Game class is 'GameMode'
+[2019.12.15-20.25.24:558][782]LogWorld: Bringing World /Game/Levels/LV4/UEDPIE_0_MockUp_Walk.MockUp_Walk up for play (max tick rate 0) at 2019.12.15-21.25.24
+[2019.12.15-20.25.24:560][782]LogWorld: Bringing up level for play took: 0.013388
+[2019.12.15-20.25.24:689][782]LogOnline: OSS: Creating online subsystem instance for: :Context_105
+[2019.12.15-20.25.24:691][782]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.12.15-20.25.24:691][782]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.12.15-20.25.24:691][782]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.12.15-20.25.24:693][782]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.12.15-20.25.24:693][782]PIE: Play in editor start time for /Game/Levels/LV4/UEDPIE_0_MockUp_Walk 0.604
+[2019.12.15-20.25.24:694][782]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk' with GeneratedClass '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk'
+[2019.12.15-20.25.29:035][114]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk' with GeneratedClass '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk'
+[2019.12.15-20.25.29:137][114]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-20.25.29:137][114]LogWorld: BeginTearingDown for /Game/Levels/LV4/UEDPIE_0_MockUp_Walk
+[2019.12.15-20.25.29:140][114]LogWorld: UWorld::CleanupWorld for MockUp_Walk, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-20.25.29:162][114]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.15-20.25.29:162][114]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk' with GeneratedClass '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk'
+[2019.12.15-20.25.29:221][114]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-20.25.29:229][114]LogUObjectHash: Compacting FUObjectHashTables data took   4.81ms
+[2019.12.15-20.25.29:258][115]LogPlayLevel: Display: Destroying online subsystem :Context_105
+[2019.12.15-20.25.29:522][133]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-20.25.34:178][670]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.12.15-20.25.38:615][154]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.15-20.25.38:637][154]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk' with GeneratedClass '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk'
+[2019.12.15-20.25.38:674][154]LogFMOD: Creating runtime Studio System
+[2019.12.15-20.25.38:675][154]LogFMOD: Default sample rate = 48000
+[2019.12.15-20.25.38:675][154]LogFMOD: System sample rate = 44100
+[2019.12.15-20.25.38:675][154]LogFMOD: Matching system sample rate 44100
+[2019.12.15-20.25.38:683][154]LogFMOD: Loading Banks
+[2019.12.15-20.25.38:726][154]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.15-20.25.38:737][154]LogPlayLevel: [PlayLevel] Compiling Building_04 before play...
+[2019.12.15-20.25.39:333][154]LogUObjectHash: Compacting FUObjectHashTables data took   6.90ms
+[2019.12.15-20.25.39:333][154]LogPlayLevel: PlayLevel: Blueprint regeneration took 607 ms (1 blueprints)
+[2019.12.15-20.25.39:333][154]PIE: New page: PIE session: MockUp_Walk (Dec 15, 2019, 10:25:39 PM)
+[2019.12.15-20.25.39:334][154]LogPlayLevel: Creating play world package: /Game/Levels/LV4/UEDPIE_0_MockUp_Walk
+[2019.12.15-20.25.39:383][154]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048727s)
+[2019.12.15-20.25.39:384][154]LogAIModule: Creating AISystem for world MockUp_Walk
+[2019.12.15-20.25.39:384][154]LogPlayLevel: PIE: World Init took: (0.001228s)
+[2019.12.15-20.25.39:384][154]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV4/MockUp_Walk.MockUp_Walk to /Game/Levels/LV4/UEDPIE_0_MockUp_Walk.MockUp_Walk (0.050124s)
+[2019.12.15-20.25.39:434][154]LogUObjectHash: Compacting FUObjectHashTables data took   4.91ms
+[2019.12.15-20.25.39:441][154]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.15-20.25.39:447][154]LogInit: FAudioDevice initialized.
+[2019.12.15-20.25.39:521][154]LogInit: Error: Failed to load cursor '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/None'
+[2019.12.15-20.25.39:532][154]LogLoad: Game class is 'GameMode'
+[2019.12.15-20.25.39:544][154]LogWorld: Bringing World /Game/Levels/LV4/UEDPIE_0_MockUp_Walk.MockUp_Walk up for play (max tick rate 0) at 2019.12.15-21.25.39
+[2019.12.15-20.25.39:547][154]LogWorld: Bringing up level for play took: 0.013535
+[2019.12.15-20.25.39:677][154]LogOnline: OSS: Creating online subsystem instance for: :Context_106
+[2019.12.15-20.25.39:679][154]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.12.15-20.25.39:679][154]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.12.15-20.25.39:679][154]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.12.15-20.25.39:681][154]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.12.15-20.25.39:681][154]PIE: Play in editor start time for /Game/Levels/LV4/UEDPIE_0_MockUp_Walk 1.592
+[2019.12.15-20.25.39:681][154]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk' with GeneratedClass '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk'
+[2019.12.15-20.25.44:050][486]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk' with GeneratedClass '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk'
+[2019.12.15-20.25.44:150][486]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-20.25.44:150][486]LogWorld: BeginTearingDown for /Game/Levels/LV4/UEDPIE_0_MockUp_Walk
+[2019.12.15-20.25.44:152][486]LogWorld: UWorld::CleanupWorld for MockUp_Walk, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-20.25.44:170][486]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.15-20.25.44:171][486]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk' with GeneratedClass '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk'
+[2019.12.15-20.25.44:239][486]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-20.25.44:246][486]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2019.12.15-20.25.44:266][487]LogPlayLevel: Display: Destroying online subsystem :Context_106
+[2019.12.15-20.25.44:507][504]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-20.26.12:215][304]LogUObjectHash: Compacting FUObjectHashTables data took   5.36ms
+[2019.12.15-20.26.12:797][337]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/CameraActor/CameraShakeLittleExplosion.CameraShakeLittleExplosion
+[2019.12.15-20.26.15:841][591]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/CameraActor/CameraShakeShotgun.CameraShakeShotgun
+[2019.12.15-20.26.23:099][354]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/CameraActor/CameraShakeRifle.CameraShakeRifle
+[2019.12.15-20.26.26:282][684]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-20.26.28:449][882]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.15-20.26.28:484][882]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk' with GeneratedClass '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk'
+[2019.12.15-20.26.28:522][882]LogFMOD: Creating runtime Studio System
+[2019.12.15-20.26.28:523][882]LogFMOD: Default sample rate = 48000
+[2019.12.15-20.26.28:523][882]LogFMOD: System sample rate = 44100
+[2019.12.15-20.26.28:523][882]LogFMOD: Matching system sample rate 44100
+[2019.12.15-20.26.28:531][882]LogFMOD: Loading Banks
+[2019.12.15-20.26.28:573][882]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.15-20.26.28:573][882]PIE: New page: PIE session: MockUp_Walk (Dec 15, 2019, 10:26:28 PM)
+[2019.12.15-20.26.28:573][882]LogPlayLevel: Creating play world package: /Game/Levels/LV4/UEDPIE_0_MockUp_Walk
+[2019.12.15-20.26.28:616][882]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042807s)
+[2019.12.15-20.26.28:617][882]LogAIModule: Creating AISystem for world MockUp_Walk
+[2019.12.15-20.26.28:617][882]LogPlayLevel: PIE: World Init took: (0.001207s)
+[2019.12.15-20.26.28:617][882]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV4/MockUp_Walk.MockUp_Walk to /Game/Levels/LV4/UEDPIE_0_MockUp_Walk.MockUp_Walk (0.044173s)
+[2019.12.15-20.26.28:677][882]LogUObjectHash: Compacting FUObjectHashTables data took   5.74ms
+[2019.12.15-20.26.28:685][882]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.15-20.26.28:692][882]LogInit: FAudioDevice initialized.
+[2019.12.15-20.26.28:765][882]LogInit: Error: Failed to load cursor '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/None'
+[2019.12.15-20.26.28:772][882]LogLoad: Game class is 'GameMode'
+[2019.12.15-20.26.28:783][882]LogWorld: Bringing World /Game/Levels/LV4/UEDPIE_0_MockUp_Walk.MockUp_Walk up for play (max tick rate 0) at 2019.12.15-21.26.28
+[2019.12.15-20.26.28:785][882]LogWorld: Bringing up level for play took: 0.012900
+[2019.12.15-20.26.28:902][882]LogOnline: OSS: Creating online subsystem instance for: :Context_110
+[2019.12.15-20.26.28:904][882]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.12.15-20.26.28:904][882]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.12.15-20.26.28:904][882]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.12.15-20.26.28:906][882]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.12.15-20.26.28:906][882]PIE: Play in editor start time for /Game/Levels/LV4/UEDPIE_0_MockUp_Walk 0.817
+[2019.12.15-20.26.28:907][882]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk' with GeneratedClass '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk'
+[2019.12.15-20.26.32:715][182]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk' with GeneratedClass '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk'
+[2019.12.15-20.26.32:821][182]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-20.26.32:821][182]LogWorld: BeginTearingDown for /Game/Levels/LV4/UEDPIE_0_MockUp_Walk
+[2019.12.15-20.26.32:824][182]LogWorld: UWorld::CleanupWorld for MockUp_Walk, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-20.26.32:863][182]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.15-20.26.32:863][182]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk' with GeneratedClass '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk'
+[2019.12.15-20.26.32:921][182]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-20.26.32:929][182]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2019.12.15-20.26.32:958][183]LogPlayLevel: Display: Destroying online subsystem :Context_110
+[2019.12.15-20.26.33:322][208]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-20.27.16:929][159]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.15-20.27.16:963][159]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk' with GeneratedClass '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk'
+[2019.12.15-20.27.17:009][159]LogFMOD: Creating runtime Studio System
+[2019.12.15-20.27.17:010][159]LogFMOD: Default sample rate = 48000
+[2019.12.15-20.27.17:010][159]LogFMOD: System sample rate = 44100
+[2019.12.15-20.27.17:010][159]LogFMOD: Matching system sample rate 44100
+[2019.12.15-20.27.17:019][159]LogFMOD: Loading Banks
+[2019.12.15-20.27.17:061][159]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.15-20.27.17:061][159]PIE: New page: PIE session: MockUp_Walk (Dec 15, 2019, 10:27:17 PM)
+[2019.12.15-20.27.17:061][159]LogPlayLevel: Creating play world package: /Game/Levels/LV4/UEDPIE_0_MockUp_Walk
+[2019.12.15-20.27.17:105][159]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043760s)
+[2019.12.15-20.27.17:106][159]LogAIModule: Creating AISystem for world MockUp_Walk
+[2019.12.15-20.27.17:106][159]LogPlayLevel: PIE: World Init took: (0.001161s)
+[2019.12.15-20.27.17:106][159]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV4/MockUp_Walk.MockUp_Walk to /Game/Levels/LV4/UEDPIE_0_MockUp_Walk.MockUp_Walk (0.045090s)
+[2019.12.15-20.27.17:154][159]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2019.12.15-20.27.17:161][159]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.15-20.27.17:167][159]LogInit: FAudioDevice initialized.
+[2019.12.15-20.27.17:243][159]LogInit: Error: Failed to load cursor '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/None'
+[2019.12.15-20.27.17:252][159]LogLoad: Game class is 'GameMode'
+[2019.12.15-20.27.17:263][159]LogWorld: Bringing World /Game/Levels/LV4/UEDPIE_0_MockUp_Walk.MockUp_Walk up for play (max tick rate 0) at 2019.12.15-21.27.17
+[2019.12.15-20.27.17:265][159]LogWorld: Bringing up level for play took: 0.012967
+[2019.12.15-20.27.17:390][159]LogOnline: OSS: Creating online subsystem instance for: :Context_111
+[2019.12.15-20.27.17:392][159]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.12.15-20.27.17:392][159]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.12.15-20.27.17:393][159]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.12.15-20.27.17:395][159]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.12.15-20.27.17:395][159]PIE: Play in editor start time for /Game/Levels/LV4/UEDPIE_0_MockUp_Walk 1.305
+[2019.12.15-20.27.17:395][159]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk' with GeneratedClass '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk'
+[2019.12.15-20.27.20:277][388]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk' with GeneratedClass '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk'
+[2019.12.15-20.27.20:384][388]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-20.27.20:384][388]LogWorld: BeginTearingDown for /Game/Levels/LV4/UEDPIE_0_MockUp_Walk
+[2019.12.15-20.27.20:387][388]LogWorld: UWorld::CleanupWorld for MockUp_Walk, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-20.27.20:403][388]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.15-20.27.20:403][388]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk' with GeneratedClass '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk'
+[2019.12.15-20.27.20:471][388]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-20.27.20:478][388]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2019.12.15-20.27.20:507][389]LogPlayLevel: Display: Destroying online subsystem :Context_111
+[2019.12.15-20.27.20:838][412]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-20.27.23:329][695]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.12.15-20.27.25:713][938]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.15-20.27.25:748][938]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk' with GeneratedClass '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk'
+[2019.12.15-20.27.25:787][938]LogFMOD: Creating runtime Studio System
+[2019.12.15-20.27.25:788][938]LogFMOD: Default sample rate = 48000
+[2019.12.15-20.27.25:788][938]LogFMOD: System sample rate = 44100
+[2019.12.15-20.27.25:788][938]LogFMOD: Matching system sample rate 44100
+[2019.12.15-20.27.25:797][938]LogFMOD: Loading Banks
+[2019.12.15-20.27.25:838][938]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.15-20.27.25:849][938]LogPlayLevel: [PlayLevel] Compiling Building_04 before play...
+[2019.12.15-20.27.26:445][938]LogUObjectHash: Compacting FUObjectHashTables data took   8.08ms
+[2019.12.15-20.27.26:446][938]LogPlayLevel: PlayLevel: Blueprint regeneration took 607 ms (1 blueprints)
+[2019.12.15-20.27.26:446][938]PIE: New page: PIE session: MockUp_Walk (Dec 15, 2019, 10:27:26 PM)
+[2019.12.15-20.27.26:446][938]LogPlayLevel: Creating play world package: /Game/Levels/LV4/UEDPIE_0_MockUp_Walk
+[2019.12.15-20.27.26:494][938]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047758s)
+[2019.12.15-20.27.26:495][938]LogAIModule: Creating AISystem for world MockUp_Walk
+[2019.12.15-20.27.26:495][938]LogPlayLevel: PIE: World Init took: (0.001165s)
+[2019.12.15-20.27.26:495][938]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV4/MockUp_Walk.MockUp_Walk to /Game/Levels/LV4/UEDPIE_0_MockUp_Walk.MockUp_Walk (0.049080s)
+[2019.12.15-20.27.26:554][938]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2019.12.15-20.27.26:561][938]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.15-20.27.26:567][938]LogInit: FAudioDevice initialized.
+[2019.12.15-20.27.26:636][938]LogInit: Error: Failed to load cursor '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/None'
+[2019.12.15-20.27.26:644][938]LogLoad: Game class is 'GameMode'
+[2019.12.15-20.27.26:655][938]LogWorld: Bringing World /Game/Levels/LV4/UEDPIE_0_MockUp_Walk.MockUp_Walk up for play (max tick rate 0) at 2019.12.15-21.27.26
+[2019.12.15-20.27.26:657][938]LogWorld: Bringing up level for play took: 0.012569
+[2019.12.15-20.27.26:780][938]LogOnline: OSS: Creating online subsystem instance for: :Context_112
+[2019.12.15-20.27.26:782][938]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.12.15-20.27.26:782][938]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.12.15-20.27.26:782][938]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.12.15-20.27.26:784][938]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.12.15-20.27.26:784][938]PIE: Play in editor start time for /Game/Levels/LV4/UEDPIE_0_MockUp_Walk 0.694
+[2019.12.15-20.27.26:784][938]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk' with GeneratedClass '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk'
+[2019.12.15-20.27.31:428][300]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk' with GeneratedClass '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk'
+[2019.12.15-20.27.31:518][300]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-20.27.31:518][300]LogWorld: BeginTearingDown for /Game/Levels/LV4/UEDPIE_0_MockUp_Walk
+[2019.12.15-20.27.31:521][300]LogWorld: UWorld::CleanupWorld for MockUp_Walk, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-20.27.31:538][300]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.15-20.27.31:538][300]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk' with GeneratedClass '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk'
+[2019.12.15-20.27.31:597][300]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-20.27.31:604][300]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2019.12.15-20.27.31:633][301]LogPlayLevel: Display: Destroying online subsystem :Context_112
+[2019.12.15-20.27.31:982][325]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-20.27.33:100][439]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.12.15-20.27.40:545][285]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.15-20.27.40:581][285]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk' with GeneratedClass '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk'
+[2019.12.15-20.27.40:619][285]LogFMOD: Creating runtime Studio System
+[2019.12.15-20.27.40:620][285]LogFMOD: Default sample rate = 48000
+[2019.12.15-20.27.40:620][285]LogFMOD: System sample rate = 44100
+[2019.12.15-20.27.40:620][285]LogFMOD: Matching system sample rate 44100
+[2019.12.15-20.27.40:629][285]LogFMOD: Loading Banks
+[2019.12.15-20.27.40:670][285]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.15-20.27.40:670][285]PIE: New page: PIE session: MockUp_Walk (Dec 15, 2019, 10:27:40 PM)
+[2019.12.15-20.27.40:670][285]LogPlayLevel: Creating play world package: /Game/Levels/LV4/UEDPIE_0_MockUp_Walk
+[2019.12.15-20.27.40:717][285]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046717s)
+[2019.12.15-20.27.40:718][285]LogAIModule: Creating AISystem for world MockUp_Walk
+[2019.12.15-20.27.40:718][285]LogPlayLevel: PIE: World Init took: (0.001212s)
+[2019.12.15-20.27.40:718][285]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV4/MockUp_Walk.MockUp_Walk to /Game/Levels/LV4/UEDPIE_0_MockUp_Walk.MockUp_Walk (0.048091s)
+[2019.12.15-20.27.40:764][285]LogUObjectHash: Compacting FUObjectHashTables data took   5.10ms
+[2019.12.15-20.27.40:773][285]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.15-20.27.40:780][285]LogInit: FAudioDevice initialized.
+[2019.12.15-20.27.40:852][285]LogInit: Error: Failed to load cursor '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/None'
+[2019.12.15-20.27.40:861][285]LogLoad: Game class is 'GameMode'
+[2019.12.15-20.27.40:873][285]LogWorld: Bringing World /Game/Levels/LV4/UEDPIE_0_MockUp_Walk.MockUp_Walk up for play (max tick rate 0) at 2019.12.15-21.27.40
+[2019.12.15-20.27.40:875][285]LogWorld: Bringing up level for play took: 0.012789
+[2019.12.15-20.27.40:995][285]LogOnline: OSS: Creating online subsystem instance for: :Context_113
+[2019.12.15-20.27.40:997][285]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.12.15-20.27.40:997][285]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.12.15-20.27.40:997][285]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.12.15-20.27.40:999][285]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.12.15-20.27.41:000][285]PIE: Play in editor start time for /Game/Levels/LV4/UEDPIE_0_MockUp_Walk 0.909
+[2019.12.15-20.27.41:000][285]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk' with GeneratedClass '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk'
+[2019.12.15-20.27.45:645][645]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk' with GeneratedClass '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk'
+[2019.12.15-20.27.45:739][645]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-20.27.45:739][645]LogWorld: BeginTearingDown for /Game/Levels/LV4/UEDPIE_0_MockUp_Walk
+[2019.12.15-20.27.45:741][645]LogWorld: UWorld::CleanupWorld for MockUp_Walk, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-20.27.45:760][645]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.15-20.27.45:760][645]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk' with GeneratedClass '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk'
+[2019.12.15-20.27.45:810][645]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-20.27.45:818][645]LogUObjectHash: Compacting FUObjectHashTables data took   5.26ms
+[2019.12.15-20.27.45:850][646]LogPlayLevel: Display: Destroying online subsystem :Context_113
+[2019.12.15-20.27.46:179][668]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-20.27.46:259][674]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.15-20.27.46:291][674]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk' with GeneratedClass '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk'
+[2019.12.15-20.27.46:328][674]LogFMOD: Creating runtime Studio System
+[2019.12.15-20.27.46:329][674]LogFMOD: Default sample rate = 48000
+[2019.12.15-20.27.46:329][674]LogFMOD: System sample rate = 44100
+[2019.12.15-20.27.46:329][674]LogFMOD: Matching system sample rate 44100
+[2019.12.15-20.27.46:337][674]LogFMOD: Loading Banks
+[2019.12.15-20.27.46:379][674]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.15-20.27.46:379][674]PIE: New page: PIE session: MockUp_Walk (Dec 15, 2019, 10:27:46 PM)
+[2019.12.15-20.27.46:380][674]LogPlayLevel: Creating play world package: /Game/Levels/LV4/UEDPIE_0_MockUp_Walk
+[2019.12.15-20.27.46:455][674]LogPlayLevel: PIE: StaticDuplicateObject took: (0.075267s)
+[2019.12.15-20.27.46:456][674]LogAIModule: Creating AISystem for world MockUp_Walk
+[2019.12.15-20.27.46:457][674]LogPlayLevel: PIE: World Init took: (0.001519s)
+[2019.12.15-20.27.46:457][674]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV4/MockUp_Walk.MockUp_Walk to /Game/Levels/LV4/UEDPIE_0_MockUp_Walk.MockUp_Walk (0.077014s)
+[2019.12.15-20.27.46:511][674]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2019.12.15-20.27.46:518][674]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.15-20.27.46:525][674]LogInit: FAudioDevice initialized.
+[2019.12.15-20.27.46:590][674]LogInit: Error: Failed to load cursor '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/None'
+[2019.12.15-20.27.46:598][674]LogLoad: Game class is 'GameMode'
+[2019.12.15-20.27.46:609][674]LogWorld: Bringing World /Game/Levels/LV4/UEDPIE_0_MockUp_Walk.MockUp_Walk up for play (max tick rate 0) at 2019.12.15-21.27.46
+[2019.12.15-20.27.46:611][674]LogWorld: Bringing up level for play took: 0.012748
+[2019.12.15-20.27.46:721][674]LogOnline: OSS: Creating online subsystem instance for: :Context_114
+[2019.12.15-20.27.46:723][674]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.12.15-20.27.46:723][674]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.12.15-20.27.46:723][674]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.12.15-20.27.46:725][674]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.12.15-20.27.46:725][674]PIE: Play in editor start time for /Game/Levels/LV4/UEDPIE_0_MockUp_Walk 0.635
+[2019.12.15-20.27.46:725][674]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk' with GeneratedClass '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk'
+[2019.12.15-20.27.47:538][738]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-20.27.47:538][738]LogBlueprintUserMessages: [Conversation_Actor_2] IM TALKING
+[2019.12.15-20.27.51:470][ 48]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-20.27.52:345][114]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk' with GeneratedClass '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk'
+[2019.12.15-20.27.52:464][114]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-20.27.52:464][114]LogWorld: BeginTearingDown for /Game/Levels/LV4/UEDPIE_0_MockUp_Walk
+[2019.12.15-20.27.52:465][114]LogWorld: UWorld::CleanupWorld for MockUp_Walk, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-20.27.52:476][114]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.15-20.27.52:476][114]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk' with GeneratedClass '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/MockUp_Walk.MockUp_Walk:PersistentLevel.MockUp_Walk'
+[2019.12.15-20.27.52:529][114]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-20.27.52:538][114]LogUObjectHash: Compacting FUObjectHashTables data took   4.98ms
+[2019.12.15-20.27.52:562][115]LogPlayLevel: Display: Destroying online subsystem :Context_114
+[2019.12.15-20.27.53:105][155]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.15-20.27.53:818][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2019.12.15-20.27.53:823][205]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.15-20.27.53:889][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2019.12.15-20.27.54:535][205]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/MockUp_WalkB9FA460D40031CE47C685792ABF6E331.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LV4/MockUp_Walk.umap'
+[2019.12.15-20.27.54:568][205]LogFileHelpers: Saving map 'MockUp_Walk' took 0.732
+[2019.12.15-20.27.54:570][205]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/DestructibleMesh/Building_04" FILE="../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Art/DestructibleMesh/Building_04.uasset" SILENT=true
+[2019.12.15-20.27.54:593][205]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/Building_042894CCAA473547CAB4739696BBABAB5E.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Art/DestructibleMesh/Building_04.uasset'
+[2019.12.15-20.27.54:644][205]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/CameraShakeLittleExplosion0CD0DE5744F0EDABDD56FF95A10B0400.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/CameraActor/CameraShakeLittleExplosion.uasset'
+[2019.12.15-20.27.55:601][274]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-20.27.55:754][280]LogUObjectHash: Compacting FUObjectHashTables data took   7.31ms
+[2019.12.15-20.27.56:090][280]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-20.27.56:337][280]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-20.27.56:468][280]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-20.27.57:108][280]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.12.15-20.27.57:108][280]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-20.27.57:898][280]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.12.15-20.27.57:898][280]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-20.27.57:957][280]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-20.27.57:991][280]LogSlate: Window 'DieAgain - Unreal Editor' being destroyed
+[2019.12.15-20.27.58:864][281]Cmd: QUIT_EDITOR
+[2019.12.15-20.27.59:438][281]LogExit: Preparing to exit.
+[2019.12.15-20.28.00:621][281]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-20.28.00:629][281]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-20.28.00:637][281]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-20.28.00:645][281]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-20.28.00:652][281]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-20.28.00:656][281]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-20.28.00:660][281]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-20.28.01:465][281]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2019.12.15-20.28.01:916][281]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-20.28.01:916][281]LogExit: Editor shut down
+[2019.12.15-20.28.01:925][281]LogExit: Transaction tracking system shut down
+[2019.12.15-20.28.12:117][281]LogExit: Object subsystem successfully closed.
+[2019.12.15-20.28.12:571][281]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.12.15-20.28.15:852][281]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (684)
+[2019.12.15-20.28.15:853][281]LogModuleManager: Shutting down and abandoning module BlueprintGraph (682)
+[2019.12.15-20.28.15:894][281]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (680)
+[2019.12.15-20.28.15:894][281]LogModuleManager: Shutting down and abandoning module Voice (678)
+[2019.12.15-20.28.15:928][281]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (676)
+[2019.12.15-20.28.15:929][281]LogModuleManager: Shutting down and abandoning module SceneOutliner (674)
+[2019.12.15-20.28.15:929][281]LogModuleManager: Shutting down and abandoning module AddContentDialog (672)
+[2019.12.15-20.28.16:020][281]LogModuleManager: Shutting down and abandoning module WidgetCarousel (671)
+[2019.12.15-20.28.16:020][281]LogModuleManager: Shutting down and abandoning module EditorWidgets (668)
+[2019.12.15-20.28.16:020][281]LogModuleManager: Shutting down and abandoning module CollectionManager (666)
+[2019.12.15-20.28.16:022][281]LogModuleManager: Shutting down and abandoning module StatsViewer (664)
+[2019.12.15-20.28.16:023][281]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (662)
+[2019.12.15-20.28.16:023][281]LogModuleManager: Shutting down and abandoning module FoliageEdit (660)
+[2019.12.15-20.28.16:030][281]LogModuleManager: Shutting down and abandoning module LandscapeEditor (658)
+[2019.12.15-20.28.16:062][281]LogModuleManager: Shutting down and abandoning module MeshPaintMode (656)
+[2019.12.15-20.28.16:063][281]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (654)
+[2019.12.15-20.28.16:070][281]LogModuleManager: Shutting down and abandoning module ActorPickerMode (652)
+[2019.12.15-20.28.16:070][281]LogModuleManager: Shutting down and abandoning module GeometryMode (650)
+[2019.12.15-20.28.16:071][281]LogModuleManager: Shutting down and abandoning module TextureAlignMode (648)
+[2019.12.15-20.28.16:071][281]LogModuleManager: Shutting down and abandoning module BspMode (646)
+[2019.12.15-20.28.16:071][281]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (644)
+[2019.12.15-20.28.16:076][281]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (642)
+[2019.12.15-20.28.16:076][281]LogModuleManager: Shutting down and abandoning module AutomationWorker (640)
+[2019.12.15-20.28.16:091][281]LogModuleManager: Shutting down and abandoning module OculusMR (638)
+[2019.12.15-20.28.16:091][281]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (636)
+[2019.12.15-20.28.16:091][281]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (634)
+[2019.12.15-20.28.16:106][281]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (632)
+[2019.12.15-20.28.16:192][281]LogModuleManager: Shutting down and abandoning module PlacementMode (631)
+[2019.12.15-20.28.16:192][281]LogModuleManager: Shutting down and abandoning module MaterialEditor (630)
+[2019.12.15-20.28.16:313][281]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (626)
+[2019.12.15-20.28.16:339][281]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (624)
+[2019.12.15-20.28.16:339][281]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (622)
+[2019.12.15-20.28.16:339][281]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (620)
+[2019.12.15-20.28.16:339][281]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (618)
+[2019.12.15-20.28.16:339][281]LogModuleManager: Shutting down and abandoning module WebMMedia (616)
+[2019.12.15-20.28.16:346][281]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (614)
+[2019.12.15-20.28.16:369][281]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (612)
+[2019.12.15-20.28.16:427][281]LogModuleManager: Shutting down and abandoning module SequenceRecorder (611)
+[2019.12.15-20.28.16:427][281]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (608)
+[2019.12.15-20.28.16:427][281]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (606)
+[2019.12.15-20.28.16:427][281]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (604)
+[2019.12.15-20.28.16:427][281]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (602)
+[2019.12.15-20.28.16:427][281]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (600)
+[2019.12.15-20.28.16:427][281]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (598)
+[2019.12.15-20.28.16:427][281]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (596)
+[2019.12.15-20.28.16:427][281]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (594)
+[2019.12.15-20.28.16:427][281]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (592)
+[2019.12.15-20.28.16:427][281]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (590)
+[2019.12.15-20.28.16:427][281]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (588)
+[2019.12.15-20.28.16:427][281]LogModuleManager: Shutting down and abandoning module CharacterAI (586)
+[2019.12.15-20.28.16:427][281]LogModuleManager: Shutting down and abandoning module SmartSnapping (584)
+[2019.12.15-20.28.16:437][281]LogModuleManager: Shutting down and abandoning module SessionServices (582)
+[2019.12.15-20.28.16:438][281]LogModuleManager: Shutting down and abandoning module MeshPaint (580)
+[2019.12.15-20.28.16:449][281]LogModuleManager: Shutting down and abandoning module ViewportSnapping (578)
+[2019.12.15-20.28.16:449][281]LogModuleManager: Shutting down and abandoning module ViewportInteraction (576)
+[2019.12.15-20.28.16:457][281]LogModuleManager: Shutting down and abandoning module ClothPainter (574)
+[2019.12.15-20.28.16:544][281]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (573)
+[2019.12.15-20.28.16:553][281]LogModuleManager: Shutting down and abandoning module LogVisualizer (570)
+[2019.12.15-20.28.16:573][281]LogModuleManager: Shutting down and abandoning module IntroTutorials (568)
+[2019.12.15-20.28.16:584][281]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (567)
+[2019.12.15-20.28.16:601][281]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (564)
+[2019.12.15-20.28.16:601][281]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (562)
+[2019.12.15-20.28.16:614][281]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (560)
+[2019.12.15-20.28.16:614][281]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (558)
+[2019.12.15-20.28.16:614][281]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (557)
+[2019.12.15-20.28.17:392][281]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (554)
+[2019.12.15-20.28.17:392][281]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (552)
+[2019.12.15-20.28.17:392][281]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (550)
+[2019.12.15-20.28.17:392][281]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (548)
+[2019.12.15-20.28.17:392][281]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (546)
+[2019.12.15-20.28.17:402][281]LogModuleManager: Shutting down and abandoning module InputBindingEditor (544)
+[2019.12.15-20.28.17:409][281]LogModuleManager: Shutting down and abandoning module MergeActors (542)
+[2019.12.15-20.28.17:427][281]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (540)
+[2019.12.15-20.28.17:443][281]LogModuleManager: Shutting down and abandoning module LocalizationService (539)
+[2019.12.15-20.28.17:448][281]LogModuleManager: Shutting down and abandoning module HardwareTargeting (536)
+[2019.12.15-20.28.17:448][281]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (534)
+[2019.12.15-20.28.17:465][281]LogModuleManager: Shutting down and abandoning module UndoHistory (532)
+[2019.12.15-20.28.17:488][281]LogModuleManager: Shutting down and abandoning module XmlParser (530)
+[2019.12.15-20.28.17:494][281]LogModuleManager: Shutting down and abandoning module Blutility (528)
+[2019.12.15-20.28.17:494][281]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (526)
+[2019.12.15-20.28.17:495][281]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (525)
+[2019.12.15-20.28.17:495][281]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (522)
+[2019.12.15-20.28.17:496][281]LogModuleManager: Shutting down and abandoning module SettingsEditor (520)
+[2019.12.15-20.28.17:509][281]LogModuleManager: Shutting down and abandoning module ProjectLauncher (518)
+[2019.12.15-20.28.17:524][281]LogModuleManager: Shutting down and abandoning module SessionFrontend (516)
+[2019.12.15-20.28.17:529][281]LogModuleManager: Shutting down and abandoning module ProfilerClient (514)
+[2019.12.15-20.28.17:535][281]LogModuleManager: Shutting down and abandoning module DeviceManager (512)
+[2019.12.15-20.28.17:548][281]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (511)
+[2019.12.15-20.28.17:606][281]LogModuleManager: Shutting down and abandoning module AutomationController (508)
+[2019.12.15-20.28.17:643][281]LogModuleManager: Shutting down and abandoning module AutomationWindow (506)
+[2019.12.15-20.28.17:654][281]LogModuleManager: Shutting down and abandoning module Layers (504)
+[2019.12.15-20.28.17:664][281]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (502)
+[2019.12.15-20.28.17:664][281]LogModuleManager: Shutting down and abandoning module DetailCustomizations (500)
+[2019.12.15-20.28.17:665][281]LogModuleManager: Shutting down and abandoning module PackagesDialog (498)
+[2019.12.15-20.28.17:665][281]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (496)
+[2019.12.15-20.28.17:678][281]LogModuleManager: Shutting down and abandoning module Persona (494)
+[2019.12.15-20.28.17:722][281]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (493)
+[2019.12.15-20.28.17:722][281]LogModuleManager: Shutting down and abandoning module AnimGraph (491)
+[2019.12.15-20.28.17:729][281]LogModuleManager: Shutting down and abandoning module Kismet (488)
+[2019.12.15-20.28.17:921][281]LogModuleManager: Shutting down and abandoning module KismetWidgets (487)
+[2019.12.15-20.28.17:936][281]LogModuleManager: Shutting down and abandoning module GraphEditor (484)
+[2019.12.15-20.28.17:937][281]LogModuleManager: Shutting down and abandoning module StructViewer (482)
+[2019.12.15-20.28.17:943][281]LogModuleManager: Shutting down and abandoning module ClassViewer (480)
+[2019.12.15-20.28.17:948][281]LogModuleManager: Shutting down and abandoning module Toolbox (478)
+[2019.12.15-20.28.17:948][281]LogModuleManager: Shutting down and abandoning module ModuleUI (476)
+[2019.12.15-20.28.17:954][281]LogModuleManager: Shutting down and abandoning module MovieSceneTools (474)
+[2019.12.15-20.28.17:968][281]LogModuleManager: Shutting down and abandoning module OutputLog (472)
+[2019.12.15-20.28.18:025][281]LogModuleManager: Shutting down and abandoning module GammaUI (470)
+[2019.12.15-20.28.18:032][281]LogModuleManager: Shutting down and abandoning module Documentation (468)
+[2019.12.15-20.28.18:045][281]LogModuleManager: Shutting down and abandoning module LiveCoding (466)
+[2019.12.15-20.28.18:049][281]LogModuleManager: Shutting down and abandoning module LevelSequence (464)
+[2019.12.15-20.28.18:049][281]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (462)
+[2019.12.15-20.28.18:049][281]LogModuleManager: Shutting down and abandoning module MovieScene (460)
+[2019.12.15-20.28.18:051][281]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (458)
+[2019.12.15-20.28.18:061][281]LogModuleManager: Shutting down and abandoning module LauncherPlatform (456)
+[2019.12.15-20.28.18:061][281]LogModuleManager: Shutting down and abandoning module AnalyticsET (454)
+[2019.12.15-20.28.18:061][281]LogModuleManager: Shutting down and abandoning module PortalServices (452)
+[2019.12.15-20.28.18:061][281]LogModuleManager: Shutting down and abandoning module PortalRpc (450)
+[2019.12.15-20.28.18:061][281]LogModuleManager: Shutting down and abandoning module MessagingRpc (448)
+[2019.12.15-20.28.18:061][281]LogModuleManager: Shutting down and abandoning module AIModule (446)
+[2019.12.15-20.28.18:061][281]LogModuleManager: Shutting down and abandoning module GameplayDebugger (445)
+[2019.12.15-20.28.18:061][281]LogModuleManager: Shutting down and abandoning module AITestSuite (443)
+[2019.12.15-20.28.18:070][281]LogModuleManager: Shutting down and abandoning module NavigationSystem (441)
+[2019.12.15-20.28.18:071][281]LogModuleManager: Shutting down and abandoning module DesktopPlatform (438)
+[2019.12.15-20.28.18:079][281]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (436)
+[2019.12.15-20.28.18:088][281]LogModuleManager: Shutting down and abandoning module ProfilerService (434)
+[2019.12.15-20.28.18:194][281]LogModuleManager: Shutting down and abandoning module TaskGraph (432)
+[2019.12.15-20.28.18:210][281]LogModuleManager: Shutting down and abandoning module ScreenshotTools (430)
+[2019.12.15-20.28.18:210][281]LogModuleManager: Shutting down and abandoning module SteamVRController (428)
+[2019.12.15-20.28.18:210][281]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (426)
+[2019.12.15-20.28.18:219][281]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (424)
+[2019.12.15-20.28.18:219][281]LogModuleManager: Shutting down and abandoning module OculusEditor (422)
+[2019.12.15-20.28.18:230][281]LogModuleManager: Shutting down and abandoning module OculusInput (420)
+[2019.12.15-20.28.18:245][281]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (418)
+[2019.12.15-20.28.18:245][281]LogModuleManager: Shutting down and abandoning module EditableMesh (416)
+[2019.12.15-20.28.18:258][281]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (414)
+[2019.12.15-20.28.18:258][281]LogModuleManager: Shutting down and abandoning module CableComponent (412)
+[2019.12.15-20.28.18:258][281]LogModuleManager: Shutting down and abandoning module AudioCapture (410)
+[2019.12.15-20.28.18:258][281]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (408)
+[2019.12.15-20.28.18:259][281]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (406)
+[2019.12.15-20.28.18:259][281]LogModuleManager: Shutting down and abandoning module AppleImageUtils (404)
+[2019.12.15-20.28.18:259][281]LogModuleManager: Shutting down and abandoning module AndroidPermission (402)
+[2019.12.15-20.28.18:259][281]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (400)
+[2019.12.15-20.28.18:266][281]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (398)
+[2019.12.15-20.28.18:287][281]LogModuleManager: Shutting down and abandoning module MediaCompositing (396)
+[2019.12.15-20.28.18:287][281]LogModuleManager: Shutting down and abandoning module ImgMedia (394)
+[2019.12.15-20.28.18:297][281]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (392)
+[2019.12.15-20.28.18:297][281]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (390)
+[2019.12.15-20.28.18:297][281]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (388)
+[2019.12.15-20.28.18:297][281]LogModuleManager: Shutting down and abandoning module FMODStudioEditor (386)
+[2019.12.15-20.28.18:317][281]LogModuleManager: Shutting down and abandoning module HTML5Networking (384)
+[2019.12.15-20.28.18:317][281]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (382)
+[2019.12.15-20.28.18:317][281]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (380)
+[2019.12.15-20.28.18:317][281]LogModuleManager: Shutting down and abandoning module BackChannel (378)
+[2019.12.15-20.28.18:332][281]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (376)
+[2019.12.15-20.28.18:332][281]LogModuleManager: Shutting down and abandoning module AutomationUtils (374)
+[2019.12.15-20.28.18:332][281]LogModuleManager: Shutting down and abandoning module AlembicImporter (372)
+[2019.12.15-20.28.18:339][281]LogModuleManager: Shutting down and abandoning module AlembicLibrary (371)
+[2019.12.15-20.28.18:343][281]LogModuleManager: Shutting down and abandoning module GeometryCache (370)
+[2019.12.15-20.28.18:343][281]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (369)
+[2019.12.15-20.28.18:343][281]LogModuleManager: Shutting down and abandoning module VariantManagerContent (364)
+[2019.12.15-20.28.18:343][281]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (362)
+[2019.12.15-20.28.18:347][281]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (360)
+[2019.12.15-20.28.18:347][281]LogModuleManager: Shutting down and abandoning module PluginBrowser (358)
+[2019.12.15-20.28.18:422][281]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (356)
+[2019.12.15-20.28.18:426][281]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (354)
+[2019.12.15-20.28.18:436][281]LogModuleManager: Shutting down and abandoning module CurveEditorTools (352)
+[2019.12.15-20.28.18:454][281]LogModuleManager: Shutting down and abandoning module CurveEditor (351)
+[2019.12.15-20.28.18:455][281]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (348)
+[2019.12.15-20.28.18:455][281]LogModuleManager: Shutting down and abandoning module CryptoKeys (346)
+[2019.12.15-20.28.18:455][281]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (344)
+[2019.12.15-20.28.18:463][281]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (342)
+[2019.12.15-20.28.18:463][281]LogModuleManager: Shutting down and abandoning module UObjectPlugin (340)
+[2019.12.15-20.28.18:463][281]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (338)
+[2019.12.15-20.28.18:467][281]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (336)
+[2019.12.15-20.28.18:477][281]LogModuleManager: Shutting down and abandoning module GitSourceControl (334)
+[2019.12.15-20.28.18:486][281]LogModuleManager: Shutting down and abandoning module SourceControl (333)
+[2019.12.15-20.28.18:486][281]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (330)
+[2019.12.15-20.28.18:487][281]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (328)
+[2019.12.15-20.28.18:487][281]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (326)
+[2019.12.15-20.28.18:494][281]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (324)
+[2019.12.15-20.28.18:494][281]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (322)
+[2019.12.15-20.28.18:504][281]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (320)
+[2019.12.15-20.28.18:504][281]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (318)
+[2019.12.15-20.28.18:504][281]LogModuleManager: Shutting down and abandoning module Paper2DEditor (316)
+[2019.12.15-20.28.18:527][281]LogModuleManager: Shutting down and abandoning module SignificanceManager (314)
+[2019.12.15-20.28.18:527][281]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (312)
+[2019.12.15-20.28.18:527][281]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (310)
+[2019.12.15-20.28.18:527][281]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (306)
+[2019.12.15-20.28.18:528][281]LogModuleManager: Shutting down and abandoning module ApexDestructionEditor (304)
+[2019.12.15-20.28.18:539][281]LogModuleManager: Shutting down and abandoning module ApexDestruction (302)
+[2019.12.15-20.28.18:539][281]LogModuleManager: Shutting down and abandoning module ActorSequence (300)
+[2019.12.15-20.28.18:539][281]LogModuleManager: Shutting down and abandoning module UdpMessaging (298)
+[2019.12.15-20.28.18:639][281]LogModuleManager: Shutting down and abandoning module TcpMessaging (296)
+[2019.12.15-20.28.18:759][281]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (294)
+[2019.12.15-20.28.18:759][281]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (292)
+[2019.12.15-20.28.18:759][281]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (290)
+[2019.12.15-20.28.18:768][281]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (288)
+[2019.12.15-20.28.18:782][281]LogModuleManager: Shutting down and abandoning module MagicLeapController (286)
+[2019.12.15-20.28.18:797][281]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.12.15-20.28.18:798][281]LogModuleManager: Shutting down and abandoning module MagicLeapAR (284)
+[2019.12.15-20.28.18:798][281]LogModuleManager: Shutting down and abandoning module AugmentedReality (283)
+[2019.12.15-20.28.18:798][281]LogModuleManager: Shutting down and abandoning module FMODStudio (280)
+[2019.12.15-20.28.19:074][281]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (278)
+[2019.12.15-20.28.19:094][281]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (276)
+[2019.12.15-20.28.19:095][281]LogModuleManager: Shutting down and abandoning module FacialAnimation (274)
+[2019.12.15-20.28.19:095][281]LogModuleManager: Shutting down and abandoning module DataValidation (272)
+[2019.12.15-20.28.19:102][281]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (270)
+[2019.12.15-20.28.19:110][281]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2019.12.15-20.28.19:198][281]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2019.12.15-20.28.19:213][281]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (266)
+[2019.12.15-20.28.19:220][281]LogModuleManager: Shutting down and abandoning module MainFrame (264)
+[2019.12.15-20.28.19:229][281]LogModuleManager: Shutting down and abandoning module HotReload (263)
+[2019.12.15-20.28.19:307][281]LogModuleManager: Shutting down and abandoning module ContentBrowser (259)
+[2019.12.15-20.28.19:321][281]LogModuleManager: Shutting down and abandoning module TreeMap (257)
+[2019.12.15-20.28.19:329][281]LogModuleManager: Shutting down and abandoning module AnimationSharing (254)
+[2019.12.15-20.28.19:329][281]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.12.15-20.28.19:329][281]LogModuleManager: Shutting down and abandoning module Paper2D (250)
+[2019.12.15-20.28.19:341][281]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (248)
+[2019.12.15-20.28.19:388][281]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (246)
+[2019.12.15-20.28.19:389][281]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (244)
+[2019.12.15-20.28.19:398][281]LogModuleManager: Shutting down and abandoning module PacketHandler (242)
+[2019.12.15-20.28.19:399][281]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (240)
+[2019.12.15-20.28.19:401][281]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (238)
+[2019.12.15-20.28.19:470][281]LogModuleManager: Shutting down and abandoning module MediaAssets (236)
+[2019.12.15-20.28.19:470][281]LogModuleManager: Shutting down and abandoning module Overlay (234)
+[2019.12.15-20.28.19:470][281]LogModuleManager: Shutting down and abandoning module OverlayEditor (233)
+[2019.12.15-20.28.19:470][281]LogModuleManager: Shutting down and abandoning module VREditor (230)
+[2019.12.15-20.28.19:477][281]LogModuleManager: Shutting down and abandoning module StringTableEditor (228)
+[2019.12.15-20.28.19:480][281]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (226)
+[2019.12.15-20.28.19:480][281]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (224)
+[2019.12.15-20.28.19:503][281]LogModuleManager: Shutting down and abandoning module FunctionalTesting (222)
+[2019.12.15-20.28.19:510][281]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (220)
+[2019.12.15-20.28.19:528][281]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (219)
+[2019.12.15-20.28.19:579][281]LogModuleManager: Shutting down and abandoning module UMG (216)
+[2019.12.15-20.28.19:579][281]LogModuleManager: Shutting down and abandoning module UMGEditor (215)
+[2019.12.15-20.28.19:589][281]LogModuleManager: Shutting down and abandoning module Sequencer (214)
+[2019.12.15-20.28.19:629][281]LogModuleManager: Shutting down and abandoning module MessageLog (211)
+[2019.12.15-20.28.19:629][281]LogModuleManager: Shutting down and abandoning module SlateReflector (206)
+[2019.12.15-20.28.19:655][281]LogModuleManager: Shutting down and abandoning module Slate (204)
+[2019.12.15-20.28.19:655][281]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (202)
+[2019.12.15-20.28.19:655][281]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2019.12.15-20.28.19:772][281]LogModuleManager: Shutting down and abandoning module UnrealEd (198)
+[2019.12.15-20.28.19:772][281]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.12.15-20.28.19:772][281]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.12.15-20.28.19:772][281]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.12.15-20.28.19:776][281]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.12.15-20.28.19:776][281]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.12.15-20.28.19:776][281]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.12.15-20.28.19:776][281]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2019.12.15-20.28.19:776][281]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2019.12.15-20.28.19:791][281]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2019.12.15-20.28.19:803][281]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2019.12.15-20.28.19:804][281]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (179)
+[2019.12.15-20.28.19:812][281]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2019.12.15-20.28.19:843][281]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (175)
+[2019.12.15-20.28.19:854][281]LogModuleManager: Shutting down and abandoning module MaterialBaking (171)
+[2019.12.15-20.28.19:858][281]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (166)
+[2019.12.15-20.28.19:858][281]LogModuleManager: Shutting down and abandoning module DerivedDataCache (164)
+[2019.12.15-20.28.19:859][281]LogDerivedDataCache: Shutdown
+[2019.12.15-20.28.19:859][281]LogModuleManager: Shutting down and abandoning module XGEController (162)
+[2019.12.15-20.28.19:865][281]LogXGEController: Cleaning working directory: C:/Users/Adrian/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.12.15-20.28.19:865][281]LogModuleManager: Shutting down and abandoning module TargetPlatform (160)
+[2019.12.15-20.28.19:872][281]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (159)
+[2019.12.15-20.28.19:878][281]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (157)
+[2019.12.15-20.28.19:884][281]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (155)
+[2019.12.15-20.28.19:895][281]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (153)
+[2019.12.15-20.28.19:903][281]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (151)
+[2019.12.15-20.28.19:909][281]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (149)
+[2019.12.15-20.28.19:909][281]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (147)
+[2019.12.15-20.28.19:910][281]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (145)
+[2019.12.15-20.28.19:913][281]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (143)
+[2019.12.15-20.28.19:944][281]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (141)
+[2019.12.15-20.28.19:944][281]LogModuleManager: Shutting down and abandoning module ImageWrapper (140)
+[2019.12.15-20.28.19:944][281]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (137)
+[2019.12.15-20.28.19:944][281]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (135)
+[2019.12.15-20.28.19:945][281]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (133)
+[2019.12.15-20.28.19:958][281]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (131)
+[2019.12.15-20.28.19:958][281]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2019.12.15-20.28.20:092][281]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (127)
+[2019.12.15-20.28.20:092][281]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (125)
+[2019.12.15-20.28.20:093][281]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (123)
+[2019.12.15-20.28.20:096][281]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (121)
+[2019.12.15-20.28.20:097][281]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (119)
+[2019.12.15-20.28.20:131][281]LogModuleManager: Shutting down and abandoning module Messaging (117)
+[2019.12.15-20.28.20:131][281]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
+[2019.12.15-20.28.20:172][281]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (113)
+[2019.12.15-20.28.20:192][281]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2019.12.15-20.28.20:612][281]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (109)
+[2019.12.15-20.28.20:612][281]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (107)
+[2019.12.15-20.28.20:638][281]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (105)
+[2019.12.15-20.28.20:644][281]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (103)
+[2019.12.15-20.28.20:651][281]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (101)
+[2019.12.15-20.28.20:652][281]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (99)
+[2019.12.15-20.28.20:662][281]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (97)
+[2019.12.15-20.28.20:665][281]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (95)
+[2019.12.15-20.28.20:714][281]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (93)
+[2019.12.15-20.28.20:722][281]LogModuleManager: Shutting down and abandoning module InputCore (90)
+[2019.12.15-20.28.20:722][281]LogModuleManager: Shutting down and abandoning module Settings (88)
+[2019.12.15-20.28.20:722][281]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (86)
+[2019.12.15-20.28.20:746][281]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2019.12.15-20.28.20:746][281]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (82)
+[2019.12.15-20.28.20:751][281]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (81)
+[2019.12.15-20.28.20:763][281]LogModuleManager: Shutting down and abandoning module SteamVR (78)
+[2019.12.15-20.28.20:763][281]LogHMD: Freeing OpenVRDLLHandle.
+[2019.12.15-20.28.20:763][281]LogModuleManager: Shutting down and abandoning module OculusHMD (76)
+[2019.12.15-20.28.20:772][281]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
+[2019.12.15-20.28.20:772][281]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
+[2019.12.15-20.28.20:772][281]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (70)
+[2019.12.15-20.28.20:772][281]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (66)
+[2019.12.15-20.28.20:784][281]LogModuleManager: Shutting down and abandoning module XMPP (61)
+[2019.12.15-20.28.20:795][281]LogModuleManager: Shutting down and abandoning module WebSockets (60)
+[2019.12.15-20.28.20:859][281]LogModuleManager: Shutting down and abandoning module HTTP (57)
+[2019.12.15-20.28.20:859][281]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.12.15-20.28.20:859][281]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9FE820AF-42F3-5C93-B9A1-E6B77314FC00%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=ccd468f74bb4201230191aa65e43c548%7C9838cf404cf94690918c4422a709b2b6%7C99dd8298-945b-4a52-82ea-adcce7b9c875&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.12.15-20.28.20:893][281]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2019.12.15-20.28.20:922][281]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2019.12.15-20.28.21:001][281]LogModuleManager: Shutting down and abandoning module Media (51)
+[2019.12.15-20.28.21:003][281]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2019.12.15-20.28.21:019][281]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2019.12.15-20.28.21:019][281]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2019.12.15-20.28.21:019][281]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2019.12.15-20.28.21:028][281]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2019.12.15-20.28.21:028][281]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.12.15-20.28.21:043][281]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.12.15-20.28.21:109][281]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.12.15-20.28.21:178][281]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.12.15-20.28.21:216][281]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.12.15-20.28.21:216][281]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.12.15-20.28.21:217][281]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.12.15-20.28.21:433][281]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.12.15-20.28.21:440][281]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.12.15-20.28.21:440][281]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.12.15-20.28.21:440][281]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.12.15-20.28.21:454][281]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.12.15-20.28.21:458][281]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.12.15-20.28.21:458][281]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.12.15-20.28.21:463][281]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.12.15-20.28.21:463][281]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.12.15-20.28.21:468][281]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.12.15-20.28.21:476][281]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.12.15-20.28.21:507][281]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.12.15-20.28.21:581][281]LogD3D11RHI: Shutdown
+[2019.12.15-20.28.21:588][281]LogD3D11RHI: CleanupD3DDevice
+[2019.12.15-20.28.21:740][281]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.15-20.28.21:744][281]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.15-20.28.21:744][281]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.15-20.28.22:933][281]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.12.15-20.28.22:974][281]LogExit: Exiting.
+[2019.12.15-20.28.23:079][281]Log file closed, 12/15/19 21:28:23
