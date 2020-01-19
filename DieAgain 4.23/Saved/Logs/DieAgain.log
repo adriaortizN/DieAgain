@@ -6872,3 +6872,937 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.01.19-19.31.57:015][738]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 64X64)
 [2020.01.19-19.31.57:080][738]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 64X64)
 [2020.01.19-19.32.34:921][933]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.19-19.32.41:160][420]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.19-19.33.05:784][512]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.19-19.33.06:408][559]LogUObjectHash: Compacting FUObjectHashTables data took   5.04ms
+[2020.01.19-19.33.06:415][559]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.19-19.33.06:474][559]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2020.01.19-19.33.07:381][559]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 64X64)
+[2020.01.19-19.33.07:385][559]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 64X64)
+[2020.01.19-19.33.07:388][559]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 64X64)
+[2020.01.19-19.33.07:393][559]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 64X64)
+[2020.01.19-19.33.07:396][559]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 64X64)
+[2020.01.19-19.33.07:405][559]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 64X64)
+[2020.01.19-19.33.07:410][559]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 64X64)
+[2020.01.19-19.33.07:416][559]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 64X64)
+[2020.01.19-19.33.07:419][559]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 64X64)
+[2020.01.19-19.33.07:422][559]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 64X64)
+[2020.01.19-19.33.07:427][559]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 64X64)
+[2020.01.19-19.33.07:433][559]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 64X64)
+[2020.01.19-19.33.07:436][559]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 64X64)
+[2020.01.19-19.33.07:442][559]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 64X64)
+[2020.01.19-19.33.07:450][559]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 64X64)
+[2020.01.19-19.33.07:455][559]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 64X64)
+[2020.01.19-19.33.07:714][559]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/Level4_Walk64A5B98C4B4D343155B7908CF2DB809A.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LV4/Level4_Walk.umap'
+[2020.01.19-19.33.07:790][559]LogFileHelpers: Saving map 'Level4_Walk' took 1.359
+[2020.01.19-19.33.46:458][ 10]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.19-19.33.50:120][368]Cmd: DELETE
+[2020.01.19-19.33.50:120][368]Cmd: ACTOR DELETE
+[2020.01.19-19.33.50:132][368]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.01.19-19.33.50:202][368]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.01.19-19.33.50:301][368]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.01.19-19.33.50:426][368]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.01.19-19.33.50:616][368]LogUObjectHash: Compacting FUObjectHashTables data took   4.85ms
+[2020.01.19-19.33.50:616][368]LogEditorActor: Deleted 4 Actors (0.496 secs)
+[2020.01.19-19.33.51:875][476]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.19-19.33.51:980][486]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.19-19.33.52:001][486]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk' with GeneratedClass '/Game/Levels/LV4/Level4_Walk.Level4_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk'
+[2020.01.19-19.33.52:033][486]LogFMOD: Creating runtime Studio System
+[2020.01.19-19.33.52:034][486]LogFMOD: Default sample rate = 48000
+[2020.01.19-19.33.52:034][486]LogFMOD: System sample rate = 44100
+[2020.01.19-19.33.52:034][486]LogFMOD: Matching system sample rate 44100
+[2020.01.19-19.33.52:044][486]LogFMOD: Loading Banks
+[2020.01.19-19.33.52:104][486]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.19-19.33.52:104][486]PIE: New page: PIE session: Level4_Walk (Jan 19, 2020, 9:33:52 PM)
+[2020.01.19-19.33.52:104][486]LogPlayLevel: Creating play world package: /Game/Levels/LV4/UEDPIE_0_Level4_Walk
+[2020.01.19-19.33.52:193][486]LogPlayLevel: PIE: StaticDuplicateObject took: (0.088552s)
+[2020.01.19-19.33.52:194][486]LogAIModule: Creating AISystem for world Level4_Walk
+[2020.01.19-19.33.52:194][486]LogPlayLevel: PIE: World Init took: (0.001138s)
+[2020.01.19-19.33.52:194][486]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV4/Level4_Walk.Level4_Walk to /Game/Levels/LV4/UEDPIE_0_Level4_Walk.Level4_Walk (0.089858s)
+[2020.01.19-19.33.52:228][486]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2020.01.19-19.33.52:244][486]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.19-19.33.52:251][486]LogInit: FAudioDevice initialized.
+[2020.01.19-19.33.52:359][486]LogInit: Error: Failed to load cursor '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/None'
+[2020.01.19-19.33.52:369][486]LogLoad: Game class is 'GameMode'
+[2020.01.19-19.33.52:381][486]LogWorld: Bringing World /Game/Levels/LV4/UEDPIE_0_Level4_Walk.Level4_Walk up for play (max tick rate 0) at 2020.01.19-20.33.52
+[2020.01.19-19.33.52:382][486]LogWorld: Bringing up level for play took: 0.012119
+[2020.01.19-19.33.52:547][486]LogOnline: OSS: Creating online subsystem instance for: :Context_134
+[2020.01.19-19.33.52:549][486]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.19-19.33.52:549][486]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.19-19.33.52:549][486]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.01.19-19.33.52:561][486]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.01.19-19.33.52:561][486]PIE: Play in editor start time for /Game/Levels/LV4/UEDPIE_0_Level4_Walk 0.575
+[2020.01.19-19.33.52:561][486]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk' with GeneratedClass '/Game/Levels/LV4/Level4_Walk.Level4_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk'
+[2020.01.19-19.33.59:605][169]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk' with GeneratedClass '/Game/Levels/LV4/Level4_Walk.Level4_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk'
+[2020.01.19-19.33.59:694][169]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.19-19.33.59:694][169]LogWorld: BeginTearingDown for /Game/Levels/LV4/UEDPIE_0_Level4_Walk
+[2020.01.19-19.33.59:695][169]LogWorld: UWorld::CleanupWorld for Level4_Walk, bSessionEnded=true, bCleanupResources=true
+[2020.01.19-19.33.59:708][169]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.19-19.33.59:709][169]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk' with GeneratedClass '/Game/Levels/LV4/Level4_Walk.Level4_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk'
+[2020.01.19-19.33.59:750][169]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.19-19.33.59:768][169]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2020.01.19-19.33.59:791][170]LogPlayLevel: Display: Destroying online subsystem :Context_134
+[2020.01.19-19.34.03:390][476]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.19-19.34.04:618][574]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 64X64)
+[2020.01.19-19.34.04:626][574]LogMaterial: Display: Missing cached shader map for material M_Landscape, compiling. 
+[2020.01.19-19.34.04:709][574]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 114
+[2020.01.19-19.34.04:709][574]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 104
+[2020.01.19-19.34.04:709][574]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 94
+[2020.01.19-19.34.04:709][574]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 84
+[2020.01.19-19.34.09:308][871]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 74
+[2020.01.19-19.34.09:308][871]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 64
+[2020.01.19-19.34.09:938][904]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 54
+[2020.01.19-19.34.13:843][ 18]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 44
+[2020.01.19-19.34.14:817][ 46]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 34
+[2020.01.19-19.34.16:304][103]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 25
+[2020.01.19-19.34.17:655][170]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 18
+[2020.01.19-19.34.18:122][194]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2020.01.19-19.34.19:566][268]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.01.19-19.34.21:368][344]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.01.19-19.34.22:172][399]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.01.19-19.34.22:595][427]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.01.19-19.34.22:815][441]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.01.19-19.34.57:183][970]Cmd: TRANSACTION UNDO
+[2020.01.19-19.34.57:183][970]LogEditorTransaction: Undo Landscape Editing: Paint
+[2020.01.19-19.34.59:914][151]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 64X64)
+[2020.01.19-19.34.59:944][151]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 64X64)
+[2020.01.19-19.35.01:822][318]Cmd: TRANSACTION UNDO
+[2020.01.19-19.35.01:822][318]LogEditorTransaction: Undo Landscape Editing: Paint
+[2020.01.19-19.35.03:769][425]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 64X64)
+[2020.01.19-19.35.03:886][427]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 64X64)
+[2020.01.19-19.35.07:046][733]Cmd: TRANSACTION UNDO
+[2020.01.19-19.35.07:047][733]LogEditorTransaction: Undo Landscape Editing: Paint
+[2020.01.19-19.35.11:604][111]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.19-19.35.12:332][164]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2020.01.19-19.35.12:338][164]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.19-19.35.12:389][164]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2020.01.19-19.35.13:223][164]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/Level4_Walk843F106C4823A39CD6191A840395CF8B.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LV4/Level4_Walk.umap'
+[2020.01.19-19.35.13:260][164]LogFileHelpers: Saving map 'Level4_Walk' took 0.907
+[2020.01.19-19.35.42:857][211]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.19-19.37.03:822][411]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.19-19.37.04:213][447]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.19-19.37.04:243][447]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk' with GeneratedClass '/Game/Levels/LV4/Level4_Walk.Level4_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk'
+[2020.01.19-19.37.04:266][447]LogFMOD: Creating runtime Studio System
+[2020.01.19-19.37.04:267][447]LogFMOD: Default sample rate = 48000
+[2020.01.19-19.37.04:267][447]LogFMOD: System sample rate = 44100
+[2020.01.19-19.37.04:267][447]LogFMOD: Matching system sample rate 44100
+[2020.01.19-19.37.04:277][447]LogFMOD: Loading Banks
+[2020.01.19-19.37.04:337][447]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.19-19.37.04:337][447]PIE: New page: PIE session: Level4_Walk (Jan 19, 2020, 9:37:04 PM)
+[2020.01.19-19.37.04:337][447]LogPlayLevel: Creating play world package: /Game/Levels/LV4/UEDPIE_0_Level4_Walk
+[2020.01.19-19.37.04:429][447]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2020.01.19-19.37.04:436][447]LogPlayLevel: PIE: StaticDuplicateObject took: (0.098555s)
+[2020.01.19-19.37.04:437][447]LogAIModule: Creating AISystem for world Level4_Walk
+[2020.01.19-19.37.04:437][447]LogPlayLevel: PIE: World Init took: (0.001157s)
+[2020.01.19-19.37.04:437][447]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV4/Level4_Walk.Level4_Walk to /Game/Levels/LV4/UEDPIE_0_Level4_Walk.Level4_Walk (0.099885s)
+[2020.01.19-19.37.04:494][447]LogUObjectHash: Compacting FUObjectHashTables data took   4.87ms
+[2020.01.19-19.37.04:510][447]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.19-19.37.04:517][447]LogInit: FAudioDevice initialized.
+[2020.01.19-19.37.04:629][447]LogInit: Error: Failed to load cursor '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/None'
+[2020.01.19-19.37.04:640][447]LogLoad: Game class is 'GameMode'
+[2020.01.19-19.37.04:652][447]LogWorld: Bringing World /Game/Levels/LV4/UEDPIE_0_Level4_Walk.Level4_Walk up for play (max tick rate 0) at 2020.01.19-20.37.04
+[2020.01.19-19.37.04:653][447]LogWorld: Bringing up level for play took: 0.012204
+[2020.01.19-19.37.04:841][447]LogOnline: OSS: Creating online subsystem instance for: :Context_135
+[2020.01.19-19.37.04:843][447]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.19-19.37.04:843][447]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.19-19.37.04:843][447]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.01.19-19.37.04:867][447]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.01.19-19.37.04:867][447]PIE: Play in editor start time for /Game/Levels/LV4/UEDPIE_0_Level4_Walk 0.88
+[2020.01.19-19.37.04:867][447]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk' with GeneratedClass '/Game/Levels/LV4/Level4_Walk.Level4_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk'
+[2020.01.19-19.37.06:537][613]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk' with GeneratedClass '/Game/Levels/LV4/Level4_Walk.Level4_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk'
+[2020.01.19-19.37.06:633][613]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.19-19.37.06:633][613]LogWorld: BeginTearingDown for /Game/Levels/LV4/UEDPIE_0_Level4_Walk
+[2020.01.19-19.37.06:633][613]LogWorld: UWorld::CleanupWorld for Level4_Walk, bSessionEnded=true, bCleanupResources=true
+[2020.01.19-19.37.06:646][613]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.19-19.37.06:646][613]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk' with GeneratedClass '/Game/Levels/LV4/Level4_Walk.Level4_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk'
+[2020.01.19-19.37.06:702][613]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.19-19.37.06:719][613]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
+[2020.01.19-19.37.06:742][614]LogPlayLevel: Display: Destroying online subsystem :Context_135
+[2020.01.19-19.37.18:332][696]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.19-19.37.18:906][747]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.01.19-19.37.20:002][854]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.19-19.37.28:118][643]Cmd: DELETE
+[2020.01.19-19.37.28:118][643]Cmd: ACTOR DELETE
+[2020.01.19-19.37.28:128][643]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.01.19-19.37.28:164][643]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2020.01.19-19.37.28:164][643]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2020.01.19-19.37.28:570][679]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.19-19.37.29:328][743]Cmd: DELETE
+[2020.01.19-19.37.29:328][743]Cmd: ACTOR DELETE
+[2020.01.19-19.37.29:340][743]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.01.19-19.37.29:375][743]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2020.01.19-19.37.29:375][743]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2020.01.19-19.37.31:033][896]Cmd: DELETE
+[2020.01.19-19.37.31:033][896]Cmd: ACTOR DELETE
+[2020.01.19-19.37.31:045][896]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.01.19-19.37.31:078][896]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2020.01.19-19.37.31:078][896]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2020.01.19-19.37.33:404][120]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.19-19.37.33:479][127]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.19-19.37.33:502][127]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk' with GeneratedClass '/Game/Levels/LV4/Level4_Walk.Level4_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk'
+[2020.01.19-19.37.33:543][127]LogFMOD: Creating runtime Studio System
+[2020.01.19-19.37.33:544][127]LogFMOD: Default sample rate = 48000
+[2020.01.19-19.37.33:544][127]LogFMOD: System sample rate = 44100
+[2020.01.19-19.37.33:544][127]LogFMOD: Matching system sample rate 44100
+[2020.01.19-19.37.33:553][127]LogFMOD: Loading Banks
+[2020.01.19-19.37.33:596][127]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.19-19.37.33:596][127]PIE: New page: PIE session: Level4_Walk (Jan 19, 2020, 9:37:33 PM)
+[2020.01.19-19.37.33:596][127]LogPlayLevel: Creating play world package: /Game/Levels/LV4/UEDPIE_0_Level4_Walk
+[2020.01.19-19.37.33:689][127]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2020.01.19-19.37.33:692][127]LogPlayLevel: PIE: StaticDuplicateObject took: (0.096222s)
+[2020.01.19-19.37.33:693][127]LogAIModule: Creating AISystem for world Level4_Walk
+[2020.01.19-19.37.33:694][127]LogPlayLevel: PIE: World Init took: (0.001288s)
+[2020.01.19-19.37.33:694][127]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV4/Level4_Walk.Level4_Walk to /Game/Levels/LV4/UEDPIE_0_Level4_Walk.Level4_Walk (0.097677s)
+[2020.01.19-19.37.33:727][127]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2020.01.19-19.37.33:736][127]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.19-19.37.33:743][127]LogInit: FAudioDevice initialized.
+[2020.01.19-19.37.33:856][127]LogInit: Error: Failed to load cursor '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/None'
+[2020.01.19-19.37.33:867][127]LogLoad: Game class is 'GameMode'
+[2020.01.19-19.37.33:880][127]LogWorld: Bringing World /Game/Levels/LV4/UEDPIE_0_Level4_Walk.Level4_Walk up for play (max tick rate 0) at 2020.01.19-20.37.33
+[2020.01.19-19.37.33:881][127]LogWorld: Bringing up level for play took: 0.013245
+[2020.01.19-19.37.34:033][127]LogOnline: OSS: Creating online subsystem instance for: :Context_136
+[2020.01.19-19.37.34:036][127]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.19-19.37.34:036][127]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.19-19.37.34:036][127]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.01.19-19.37.34:038][127]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.01.19-19.37.34:038][127]PIE: Play in editor start time for /Game/Levels/LV4/UEDPIE_0_Level4_Walk 0.051
+[2020.01.19-19.37.34:039][127]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk' with GeneratedClass '/Game/Levels/LV4/Level4_Walk.Level4_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk'
+[2020.01.19-19.37.35:555][301]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk' with GeneratedClass '/Game/Levels/LV4/Level4_Walk.Level4_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk'
+[2020.01.19-19.37.35:647][301]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.19-19.37.35:647][301]LogWorld: BeginTearingDown for /Game/Levels/LV4/UEDPIE_0_Level4_Walk
+[2020.01.19-19.37.35:647][301]LogWorld: UWorld::CleanupWorld for Level4_Walk, bSessionEnded=true, bCleanupResources=true
+[2020.01.19-19.37.35:658][301]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.19-19.37.35:658][301]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk' with GeneratedClass '/Game/Levels/LV4/Level4_Walk.Level4_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk'
+[2020.01.19-19.37.35:700][301]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.19-19.37.35:714][301]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2020.01.19-19.37.35:739][302]LogPlayLevel: Display: Destroying online subsystem :Context_136
+[2020.01.19-19.37.44:181][138]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.19-19.37.44:788][144]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2020.01.19-19.37.50:517][772]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.19-19.37.55:145][305]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (S_Mountain_Generic_4)
+[2020.01.19-19.37.55:778][359]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.01.19-19.37.56:632][438]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (S_Mountain_Generic_4)
+[2020.01.19-19.37.57:207][483]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.01.19-19.37.58:396][588]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (S_Mountain_Generic_4)
+[2020.01.19-19.37.59:080][649]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.01.19-19.38.00:675][794]Cmd: TRANSACTION UNDO
+[2020.01.19-19.38.00:675][794]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.01.19-19.38.00:913][794]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2020.01.19-19.38.01:761][868]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (S_Mountain_Generic_4)
+[2020.01.19-19.38.02:117][892]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.01.19-19.38.02:441][915]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (S_Mountain_Generic_4)
+[2020.01.19-19.38.02:757][937]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.01.19-19.38.03:246][980]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (S_Mountain_Generic_4)
+[2020.01.19-19.38.03:905][ 44]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.01.19-19.38.04:628][116]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (S_Mountain_Generic_4)
+[2020.01.19-19.38.07:557][413]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.01.19-19.38.08:287][479]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (S_Mountain_Generic_4)
+[2020.01.19-19.38.09:949][661]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.19-19.38.10:019][669]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.19-19.38.10:041][669]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk' with GeneratedClass '/Game/Levels/LV4/Level4_Walk.Level4_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk'
+[2020.01.19-19.38.10:073][669]LogFMOD: Creating runtime Studio System
+[2020.01.19-19.38.10:074][669]LogFMOD: Default sample rate = 48000
+[2020.01.19-19.38.10:074][669]LogFMOD: System sample rate = 44100
+[2020.01.19-19.38.10:074][669]LogFMOD: Matching system sample rate 44100
+[2020.01.19-19.38.10:084][669]LogFMOD: Loading Banks
+[2020.01.19-19.38.10:125][669]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.19-19.38.10:125][669]PIE: New page: PIE session: Level4_Walk (Jan 19, 2020, 9:38:10 PM)
+[2020.01.19-19.38.10:126][669]LogPlayLevel: Creating play world package: /Game/Levels/LV4/UEDPIE_0_Level4_Walk
+[2020.01.19-19.38.10:235][669]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2020.01.19-19.38.10:239][669]LogPlayLevel: PIE: StaticDuplicateObject took: (0.112903s)
+[2020.01.19-19.38.10:240][669]LogAIModule: Creating AISystem for world Level4_Walk
+[2020.01.19-19.38.10:240][669]LogPlayLevel: PIE: World Init took: (0.001670s)
+[2020.01.19-19.38.10:240][669]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV4/Level4_Walk.Level4_Walk to /Game/Levels/LV4/UEDPIE_0_Level4_Walk.Level4_Walk (0.114922s)
+[2020.01.19-19.38.10:274][669]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2020.01.19-19.38.10:282][669]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.19-19.38.10:288][669]LogInit: FAudioDevice initialized.
+[2020.01.19-19.38.10:385][669]LogInit: Error: Failed to load cursor '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/None'
+[2020.01.19-19.38.10:394][669]LogLoad: Game class is 'GameMode'
+[2020.01.19-19.38.10:415][669]LogWorld: Bringing World /Game/Levels/LV4/UEDPIE_0_Level4_Walk.Level4_Walk up for play (max tick rate 0) at 2020.01.19-20.38.10
+[2020.01.19-19.38.10:417][669]LogWorld: Bringing up level for play took: 0.022192
+[2020.01.19-19.38.10:622][669]LogOnline: OSS: Creating online subsystem instance for: :Context_137
+[2020.01.19-19.38.10:624][669]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.19-19.38.10:624][669]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.19-19.38.10:624][669]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.01.19-19.38.10:626][669]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.01.19-19.38.10:626][669]PIE: Play in editor start time for /Game/Levels/LV4/UEDPIE_0_Level4_Walk 0.639
+[2020.01.19-19.38.10:626][669]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk' with GeneratedClass '/Game/Levels/LV4/Level4_Walk.Level4_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk'
+[2020.01.19-19.38.11:840][805]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk' with GeneratedClass '/Game/Levels/LV4/Level4_Walk.Level4_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk'
+[2020.01.19-19.38.11:953][805]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.19-19.38.11:953][805]LogWorld: BeginTearingDown for /Game/Levels/LV4/UEDPIE_0_Level4_Walk
+[2020.01.19-19.38.11:954][805]LogWorld: UWorld::CleanupWorld for Level4_Walk, bSessionEnded=true, bCleanupResources=true
+[2020.01.19-19.38.11:965][805]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.19-19.38.11:966][805]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk' with GeneratedClass '/Game/Levels/LV4/Level4_Walk.Level4_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk'
+[2020.01.19-19.38.12:012][805]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.19-19.38.12:020][805]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2020.01.19-19.38.12:050][806]LogPlayLevel: Display: Destroying online subsystem :Context_137
+[2020.01.19-19.38.14:126][ 24]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.19-19.38.21:111][787]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.19-19.38.21:188][796]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.19-19.38.21:208][796]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk' with GeneratedClass '/Game/Levels/LV4/Level4_Walk.Level4_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk'
+[2020.01.19-19.38.21:238][796]LogFMOD: Creating runtime Studio System
+[2020.01.19-19.38.21:240][796]LogFMOD: Default sample rate = 48000
+[2020.01.19-19.38.21:240][796]LogFMOD: System sample rate = 44100
+[2020.01.19-19.38.21:240][796]LogFMOD: Matching system sample rate 44100
+[2020.01.19-19.38.21:253][796]LogFMOD: Loading Banks
+[2020.01.19-19.38.21:300][796]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.19-19.38.21:300][796]PIE: New page: PIE session: Level4_Walk (Jan 19, 2020, 9:38:21 PM)
+[2020.01.19-19.38.21:301][796]LogPlayLevel: Creating play world package: /Game/Levels/LV4/UEDPIE_0_Level4_Walk
+[2020.01.19-19.38.21:418][796]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2020.01.19-19.38.21:422][796]LogPlayLevel: PIE: StaticDuplicateObject took: (0.121117s)
+[2020.01.19-19.38.21:423][796]LogAIModule: Creating AISystem for world Level4_Walk
+[2020.01.19-19.38.21:423][796]LogPlayLevel: PIE: World Init took: (0.001239s)
+[2020.01.19-19.38.21:423][796]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV4/Level4_Walk.Level4_Walk to /Game/Levels/LV4/UEDPIE_0_Level4_Walk.Level4_Walk (0.122571s)
+[2020.01.19-19.38.21:461][796]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2020.01.19-19.38.21:470][796]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.19-19.38.21:477][796]LogInit: FAudioDevice initialized.
+[2020.01.19-19.38.21:571][796]LogInit: Error: Failed to load cursor '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/None'
+[2020.01.19-19.38.21:580][796]LogLoad: Game class is 'GameMode'
+[2020.01.19-19.38.21:590][796]LogWorld: Bringing World /Game/Levels/LV4/UEDPIE_0_Level4_Walk.Level4_Walk up for play (max tick rate 0) at 2020.01.19-20.38.21
+[2020.01.19-19.38.21:591][796]LogWorld: Bringing up level for play took: 0.010776
+[2020.01.19-19.38.21:731][796]LogOnline: OSS: Creating online subsystem instance for: :Context_138
+[2020.01.19-19.38.21:733][796]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.19-19.38.21:733][796]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.19-19.38.21:733][796]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.01.19-19.38.21:735][796]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.01.19-19.38.21:735][796]PIE: Play in editor start time for /Game/Levels/LV4/UEDPIE_0_Level4_Walk -0.252
+[2020.01.19-19.38.21:736][796]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk' with GeneratedClass '/Game/Levels/LV4/Level4_Walk.Level4_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk'
+[2020.01.19-19.38.22:580][893]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk' with GeneratedClass '/Game/Levels/LV4/Level4_Walk.Level4_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk'
+[2020.01.19-19.38.22:693][893]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.19-19.38.22:693][893]LogWorld: BeginTearingDown for /Game/Levels/LV4/UEDPIE_0_Level4_Walk
+[2020.01.19-19.38.22:693][893]LogWorld: UWorld::CleanupWorld for Level4_Walk, bSessionEnded=true, bCleanupResources=true
+[2020.01.19-19.38.22:705][893]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.19-19.38.22:705][893]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk' with GeneratedClass '/Game/Levels/LV4/Level4_Walk.Level4_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk'
+[2020.01.19-19.38.22:748][893]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.19-19.38.22:757][893]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2020.01.19-19.38.22:782][894]LogPlayLevel: Display: Destroying online subsystem :Context_138
+[2020.01.19-19.38.23:023][919]Cmd: TRANSACTION UNDO
+[2020.01.19-19.38.23:023][919]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.01.19-19.38.28:171][434]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.19-19.38.35:376][202]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.19-19.38.35:696][238]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.19-19.38.35:725][238]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk' with GeneratedClass '/Game/Levels/LV4/Level4_Walk.Level4_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk'
+[2020.01.19-19.38.35:774][238]LogFMOD: Creating runtime Studio System
+[2020.01.19-19.38.35:775][238]LogFMOD: Default sample rate = 48000
+[2020.01.19-19.38.35:775][238]LogFMOD: System sample rate = 44100
+[2020.01.19-19.38.35:775][238]LogFMOD: Matching system sample rate 44100
+[2020.01.19-19.38.35:785][238]LogFMOD: Loading Banks
+[2020.01.19-19.38.35:826][238]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.19-19.38.35:826][238]PIE: New page: PIE session: Level4_Walk (Jan 19, 2020, 9:38:35 PM)
+[2020.01.19-19.38.35:826][238]LogPlayLevel: Creating play world package: /Game/Levels/LV4/UEDPIE_0_Level4_Walk
+[2020.01.19-19.38.35:929][238]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2020.01.19-19.38.35:932][238]LogPlayLevel: PIE: StaticDuplicateObject took: (0.106145s)
+[2020.01.19-19.38.35:934][238]LogAIModule: Creating AISystem for world Level4_Walk
+[2020.01.19-19.38.35:934][238]LogPlayLevel: PIE: World Init took: (0.001603s)
+[2020.01.19-19.38.35:934][238]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV4/Level4_Walk.Level4_Walk to /Game/Levels/LV4/UEDPIE_0_Level4_Walk.Level4_Walk (0.108037s)
+[2020.01.19-19.38.35:974][238]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2020.01.19-19.38.35:982][238]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.19-19.38.35:988][238]LogInit: FAudioDevice initialized.
+[2020.01.19-19.38.36:102][238]LogInit: Error: Failed to load cursor '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/None'
+[2020.01.19-19.38.36:112][238]LogLoad: Game class is 'GameMode'
+[2020.01.19-19.38.36:124][238]LogWorld: Bringing World /Game/Levels/LV4/UEDPIE_0_Level4_Walk.Level4_Walk up for play (max tick rate 0) at 2020.01.19-20.38.36
+[2020.01.19-19.38.36:126][238]LogWorld: Bringing up level for play took: 0.013075
+[2020.01.19-19.38.36:245][238]LogOnline: OSS: Creating online subsystem instance for: :Context_139
+[2020.01.19-19.38.36:247][238]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.19-19.38.36:247][238]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.19-19.38.36:247][238]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.01.19-19.38.36:250][238]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.01.19-19.38.36:250][238]PIE: Play in editor start time for /Game/Levels/LV4/UEDPIE_0_Level4_Walk 0.263
+[2020.01.19-19.38.36:250][238]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk' with GeneratedClass '/Game/Levels/LV4/Level4_Walk.Level4_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk'
+[2020.01.19-19.38.37:158][341]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk' with GeneratedClass '/Game/Levels/LV4/Level4_Walk.Level4_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk'
+[2020.01.19-19.38.37:249][341]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.19-19.38.37:249][341]LogWorld: BeginTearingDown for /Game/Levels/LV4/UEDPIE_0_Level4_Walk
+[2020.01.19-19.38.37:249][341]LogWorld: UWorld::CleanupWorld for Level4_Walk, bSessionEnded=true, bCleanupResources=true
+[2020.01.19-19.38.37:258][341]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.19-19.38.37:259][341]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk' with GeneratedClass '/Game/Levels/LV4/Level4_Walk.Level4_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk'
+[2020.01.19-19.38.37:305][341]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.19-19.38.37:313][341]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2020.01.19-19.38.37:344][342]LogPlayLevel: Display: Destroying online subsystem :Context_139
+[2020.01.19-19.38.45:018][  2]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.19-19.38.46:167][133]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.19-19.38.46:187][133]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk' with GeneratedClass '/Game/Levels/LV4/Level4_Walk.Level4_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk'
+[2020.01.19-19.38.46:228][133]LogFMOD: Creating runtime Studio System
+[2020.01.19-19.38.46:229][133]LogFMOD: Default sample rate = 48000
+[2020.01.19-19.38.46:230][133]LogFMOD: System sample rate = 44100
+[2020.01.19-19.38.46:230][133]LogFMOD: Matching system sample rate 44100
+[2020.01.19-19.38.46:244][133]LogFMOD: Loading Banks
+[2020.01.19-19.38.46:290][133]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.19-19.38.46:290][133]PIE: New page: PIE session: Level4_Walk (Jan 19, 2020, 9:38:46 PM)
+[2020.01.19-19.38.46:291][133]LogPlayLevel: Creating play world package: /Game/Levels/LV4/UEDPIE_0_Level4_Walk
+[2020.01.19-19.38.46:410][133]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2020.01.19-19.38.46:413][133]LogPlayLevel: PIE: StaticDuplicateObject took: (0.122670s)
+[2020.01.19-19.38.46:414][133]LogAIModule: Creating AISystem for world Level4_Walk
+[2020.01.19-19.38.46:415][133]LogPlayLevel: PIE: World Init took: (0.001272s)
+[2020.01.19-19.38.46:415][133]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV4/Level4_Walk.Level4_Walk to /Game/Levels/LV4/UEDPIE_0_Level4_Walk.Level4_Walk (0.124165s)
+[2020.01.19-19.38.46:453][133]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2020.01.19-19.38.46:461][133]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.19-19.38.46:467][133]LogInit: FAudioDevice initialized.
+[2020.01.19-19.38.46:559][133]LogInit: Error: Failed to load cursor '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/None'
+[2020.01.19-19.38.46:568][133]LogLoad: Game class is 'GameMode'
+[2020.01.19-19.38.46:579][133]LogWorld: Bringing World /Game/Levels/LV4/UEDPIE_0_Level4_Walk.Level4_Walk up for play (max tick rate 0) at 2020.01.19-20.38.46
+[2020.01.19-19.38.46:580][133]LogWorld: Bringing up level for play took: 0.010927
+[2020.01.19-19.38.46:697][133]LogOnline: OSS: Creating online subsystem instance for: :Context_140
+[2020.01.19-19.38.46:699][133]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.19-19.38.46:699][133]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.19-19.38.46:699][133]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.01.19-19.38.46:701][133]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.01.19-19.38.46:701][133]PIE: Play in editor start time for /Game/Levels/LV4/UEDPIE_0_Level4_Walk 0.714
+[2020.01.19-19.38.46:702][133]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk' with GeneratedClass '/Game/Levels/LV4/Level4_Walk.Level4_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk'
+[2020.01.19-19.38.51:721][720]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk' with GeneratedClass '/Game/Levels/LV4/Level4_Walk.Level4_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk'
+[2020.01.19-19.38.51:806][720]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.19-19.38.51:806][720]LogWorld: BeginTearingDown for /Game/Levels/LV4/UEDPIE_0_Level4_Walk
+[2020.01.19-19.38.51:806][720]LogWorld: UWorld::CleanupWorld for Level4_Walk, bSessionEnded=true, bCleanupResources=true
+[2020.01.19-19.38.51:820][720]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.19-19.38.51:820][720]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk' with GeneratedClass '/Game/Levels/LV4/Level4_Walk.Level4_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk'
+[2020.01.19-19.38.51:864][720]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.19-19.38.51:874][720]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2020.01.19-19.38.51:901][721]LogPlayLevel: Display: Destroying online subsystem :Context_140
+[2020.01.19-19.38.54:304][953]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.19-19.38.55:027][ 20]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.01.19-19.38.55:607][ 79]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.01.19-19.38.55:963][117]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Tree20)
+[2020.01.19-19.38.56:656][190]Cmd: DELETE
+[2020.01.19-19.38.56:656][190]Cmd: ACTOR DELETE
+[2020.01.19-19.38.56:666][190]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.01.19-19.38.56:704][190]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2020.01.19-19.38.56:705][190]LogEditorActor: Deleted 1 Actors (0.049 secs)
+[2020.01.19-19.38.57:243][253]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Tree_6)
+[2020.01.19-19.38.57:645][293]Cmd: DELETE
+[2020.01.19-19.38.57:645][293]Cmd: ACTOR DELETE
+[2020.01.19-19.38.57:655][293]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.01.19-19.38.57:687][293]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2020.01.19-19.38.57:687][293]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2020.01.19-19.38.58:776][420]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.19-19.38.58:851][429]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.19-19.38.58:870][429]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk' with GeneratedClass '/Game/Levels/LV4/Level4_Walk.Level4_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk'
+[2020.01.19-19.38.58:907][429]LogFMOD: Creating runtime Studio System
+[2020.01.19-19.38.58:909][429]LogFMOD: Default sample rate = 48000
+[2020.01.19-19.38.58:910][429]LogFMOD: System sample rate = 44100
+[2020.01.19-19.38.58:910][429]LogFMOD: Matching system sample rate 44100
+[2020.01.19-19.38.58:929][429]LogFMOD: Loading Banks
+[2020.01.19-19.38.58:969][429]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.19-19.38.58:969][429]PIE: New page: PIE session: Level4_Walk (Jan 19, 2020, 9:38:58 PM)
+[2020.01.19-19.38.58:970][429]LogPlayLevel: Creating play world package: /Game/Levels/LV4/UEDPIE_0_Level4_Walk
+[2020.01.19-19.38.59:077][429]LogPlayLevel: PIE: StaticDuplicateObject took: (0.107854s)
+[2020.01.19-19.38.59:078][429]LogAIModule: Creating AISystem for world Level4_Walk
+[2020.01.19-19.38.59:079][429]LogPlayLevel: PIE: World Init took: (0.001123s)
+[2020.01.19-19.38.59:079][429]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV4/Level4_Walk.Level4_Walk to /Game/Levels/LV4/UEDPIE_0_Level4_Walk.Level4_Walk (0.109193s)
+[2020.01.19-19.38.59:110][429]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2020.01.19-19.38.59:118][429]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.19-19.38.59:126][429]LogInit: FAudioDevice initialized.
+[2020.01.19-19.38.59:223][429]LogInit: Error: Failed to load cursor '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/None'
+[2020.01.19-19.38.59:230][429]LogLoad: Game class is 'GameMode'
+[2020.01.19-19.38.59:241][429]LogWorld: Bringing World /Game/Levels/LV4/UEDPIE_0_Level4_Walk.Level4_Walk up for play (max tick rate 0) at 2020.01.19-20.38.59
+[2020.01.19-19.38.59:242][429]LogWorld: Bringing up level for play took: 0.010960
+[2020.01.19-19.38.59:349][429]LogOnline: OSS: Creating online subsystem instance for: :Context_141
+[2020.01.19-19.38.59:351][429]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.19-19.38.59:351][429]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.19-19.38.59:351][429]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.01.19-19.38.59:353][429]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.01.19-19.38.59:353][429]PIE: Play in editor start time for /Game/Levels/LV4/UEDPIE_0_Level4_Walk 1.365
+[2020.01.19-19.38.59:353][429]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk' with GeneratedClass '/Game/Levels/LV4/Level4_Walk.Level4_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk'
+[2020.01.19-19.39.00:847][604]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk' with GeneratedClass '/Game/Levels/LV4/Level4_Walk.Level4_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk'
+[2020.01.19-19.39.00:949][604]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.19-19.39.00:949][604]LogWorld: BeginTearingDown for /Game/Levels/LV4/UEDPIE_0_Level4_Walk
+[2020.01.19-19.39.00:949][604]LogWorld: UWorld::CleanupWorld for Level4_Walk, bSessionEnded=true, bCleanupResources=true
+[2020.01.19-19.39.00:960][604]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.19-19.39.00:960][604]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk' with GeneratedClass '/Game/Levels/LV4/Level4_Walk.Level4_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk'
+[2020.01.19-19.39.01:002][604]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.19-19.39.01:013][604]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2020.01.19-19.39.01:042][605]LogPlayLevel: Display: Destroying online subsystem :Context_141
+[2020.01.19-19.39.05:220][ 13]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.19-19.39.10:429][561]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.19-19.39.17:440][280]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.19-19.39.19:391][501]Cmd: TRANSACTION UNDO
+[2020.01.19-19.39.19:391][501]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.01.19-19.39.19:447][501]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2020.01.19-19.39.25:756][ 46]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.19-19.39.26:193][ 98]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.19-19.39.26:216][ 98]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk' with GeneratedClass '/Game/Levels/LV4/Level4_Walk.Level4_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk'
+[2020.01.19-19.39.26:253][ 98]LogFMOD: Creating runtime Studio System
+[2020.01.19-19.39.26:254][ 98]LogFMOD: Default sample rate = 48000
+[2020.01.19-19.39.26:254][ 98]LogFMOD: System sample rate = 44100
+[2020.01.19-19.39.26:254][ 98]LogFMOD: Matching system sample rate 44100
+[2020.01.19-19.39.26:263][ 98]LogFMOD: Loading Banks
+[2020.01.19-19.39.26:304][ 98]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.19-19.39.26:304][ 98]PIE: New page: PIE session: Level4_Walk (Jan 19, 2020, 9:39:26 PM)
+[2020.01.19-19.39.26:304][ 98]LogPlayLevel: Creating play world package: /Game/Levels/LV4/UEDPIE_0_Level4_Walk
+[2020.01.19-19.39.26:453][ 98]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2020.01.19-19.39.26:456][ 98]LogPlayLevel: PIE: StaticDuplicateObject took: (0.151965s)
+[2020.01.19-19.39.26:457][ 98]LogAIModule: Creating AISystem for world Level4_Walk
+[2020.01.19-19.39.26:457][ 98]LogPlayLevel: PIE: World Init took: (0.001278s)
+[2020.01.19-19.39.26:458][ 98]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV4/Level4_Walk.Level4_Walk to /Game/Levels/LV4/UEDPIE_0_Level4_Walk.Level4_Walk (0.153455s)
+[2020.01.19-19.39.26:504][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2020.01.19-19.39.26:518][ 98]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.19-19.39.26:525][ 98]LogInit: FAudioDevice initialized.
+[2020.01.19-19.39.26:629][ 98]LogInit: Error: Failed to load cursor '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/None'
+[2020.01.19-19.39.26:639][ 98]LogLoad: Game class is 'GameMode'
+[2020.01.19-19.39.26:650][ 98]LogWorld: Bringing World /Game/Levels/LV4/UEDPIE_0_Level4_Walk.Level4_Walk up for play (max tick rate 0) at 2020.01.19-20.39.26
+[2020.01.19-19.39.26:652][ 98]LogWorld: Bringing up level for play took: 0.012321
+[2020.01.19-19.39.26:791][ 98]LogOnline: OSS: Creating online subsystem instance for: :Context_142
+[2020.01.19-19.39.26:793][ 98]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.19-19.39.26:793][ 98]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.19-19.39.26:793][ 98]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.01.19-19.39.26:795][ 98]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.01.19-19.39.26:795][ 98]PIE: Play in editor start time for /Game/Levels/LV4/UEDPIE_0_Level4_Walk 0.808
+[2020.01.19-19.39.26:795][ 98]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk' with GeneratedClass '/Game/Levels/LV4/Level4_Walk.Level4_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk'
+[2020.01.19-19.39.29:344][398]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk' with GeneratedClass '/Game/Levels/LV4/Level4_Walk.Level4_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk'
+[2020.01.19-19.39.29:455][398]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.19-19.39.29:456][398]LogWorld: BeginTearingDown for /Game/Levels/LV4/UEDPIE_0_Level4_Walk
+[2020.01.19-19.39.29:456][398]LogWorld: UWorld::CleanupWorld for Level4_Walk, bSessionEnded=true, bCleanupResources=true
+[2020.01.19-19.39.29:473][398]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.19-19.39.29:474][398]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk' with GeneratedClass '/Game/Levels/LV4/Level4_Walk.Level4_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk'
+[2020.01.19-19.39.29:525][398]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.19-19.39.29:532][398]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2020.01.19-19.39.29:557][399]LogPlayLevel: Display: Destroying online subsystem :Context_142
+[2020.01.19-19.39.34:855][894]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.19-19.39.34:929][903]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.19-19.39.34:951][903]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk' with GeneratedClass '/Game/Levels/LV4/Level4_Walk.Level4_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk'
+[2020.01.19-19.39.34:990][903]LogFMOD: Creating runtime Studio System
+[2020.01.19-19.39.34:991][903]LogFMOD: Default sample rate = 48000
+[2020.01.19-19.39.34:991][903]LogFMOD: System sample rate = 44100
+[2020.01.19-19.39.34:991][903]LogFMOD: Matching system sample rate 44100
+[2020.01.19-19.39.34:999][903]LogFMOD: Loading Banks
+[2020.01.19-19.39.35:041][903]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.19-19.39.35:041][903]PIE: New page: PIE session: Level4_Walk (Jan 19, 2020, 9:39:35 PM)
+[2020.01.19-19.39.35:041][903]LogPlayLevel: Creating play world package: /Game/Levels/LV4/UEDPIE_0_Level4_Walk
+[2020.01.19-19.39.35:134][903]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2020.01.19-19.39.35:137][903]LogPlayLevel: PIE: StaticDuplicateObject took: (0.095688s)
+[2020.01.19-19.39.35:138][903]LogAIModule: Creating AISystem for world Level4_Walk
+[2020.01.19-19.39.35:138][903]LogPlayLevel: PIE: World Init took: (0.001321s)
+[2020.01.19-19.39.35:138][903]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV4/Level4_Walk.Level4_Walk to /Game/Levels/LV4/UEDPIE_0_Level4_Walk.Level4_Walk (0.097174s)
+[2020.01.19-19.39.35:172][903]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2020.01.19-19.39.35:180][903]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.19-19.39.35:186][903]LogInit: FAudioDevice initialized.
+[2020.01.19-19.39.35:302][903]LogInit: Error: Failed to load cursor '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/None'
+[2020.01.19-19.39.35:311][903]LogLoad: Game class is 'GameMode'
+[2020.01.19-19.39.35:324][903]LogWorld: Bringing World /Game/Levels/LV4/UEDPIE_0_Level4_Walk.Level4_Walk up for play (max tick rate 0) at 2020.01.19-20.39.35
+[2020.01.19-19.39.35:325][903]LogWorld: Bringing up level for play took: 0.013960
+[2020.01.19-19.39.35:440][903]LogOnline: OSS: Creating online subsystem instance for: :Context_143
+[2020.01.19-19.39.35:442][903]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.19-19.39.35:442][903]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.19-19.39.35:442][903]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.01.19-19.39.35:445][903]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.01.19-19.39.35:445][903]PIE: Play in editor start time for /Game/Levels/LV4/UEDPIE_0_Level4_Walk 1.458
+[2020.01.19-19.39.35:446][903]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk' with GeneratedClass '/Game/Levels/LV4/Level4_Walk.Level4_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk'
+[2020.01.19-19.39.37:320][117]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk' with GeneratedClass '/Game/Levels/LV4/Level4_Walk.Level4_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk'
+[2020.01.19-19.39.37:428][117]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.19-19.39.37:428][117]LogWorld: BeginTearingDown for /Game/Levels/LV4/UEDPIE_0_Level4_Walk
+[2020.01.19-19.39.37:428][117]LogWorld: UWorld::CleanupWorld for Level4_Walk, bSessionEnded=true, bCleanupResources=true
+[2020.01.19-19.39.37:441][117]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.19-19.39.37:442][117]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk' with GeneratedClass '/Game/Levels/LV4/Level4_Walk.Level4_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk'
+[2020.01.19-19.39.37:485][117]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.19-19.39.37:494][117]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2020.01.19-19.39.37:522][118]LogPlayLevel: Display: Destroying online subsystem :Context_143
+[2020.01.19-19.39.45:662][891]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.19-19.39.45:745][901]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.19-19.39.45:768][901]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk' with GeneratedClass '/Game/Levels/LV4/Level4_Walk.Level4_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk'
+[2020.01.19-19.39.45:808][901]LogFMOD: Creating runtime Studio System
+[2020.01.19-19.39.45:809][901]LogFMOD: Default sample rate = 48000
+[2020.01.19-19.39.45:809][901]LogFMOD: System sample rate = 44100
+[2020.01.19-19.39.45:809][901]LogFMOD: Matching system sample rate 44100
+[2020.01.19-19.39.45:818][901]LogFMOD: Loading Banks
+[2020.01.19-19.39.45:859][901]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.19-19.39.45:859][901]PIE: New page: PIE session: Level4_Walk (Jan 19, 2020, 9:39:45 PM)
+[2020.01.19-19.39.45:859][901]LogPlayLevel: Creating play world package: /Game/Levels/LV4/UEDPIE_0_Level4_Walk
+[2020.01.19-19.39.45:954][901]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2020.01.19-19.39.45:957][901]LogPlayLevel: PIE: StaticDuplicateObject took: (0.097786s)
+[2020.01.19-19.39.45:958][901]LogAIModule: Creating AISystem for world Level4_Walk
+[2020.01.19-19.39.45:958][901]LogPlayLevel: PIE: World Init took: (0.001190s)
+[2020.01.19-19.39.45:958][901]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV4/Level4_Walk.Level4_Walk to /Game/Levels/LV4/UEDPIE_0_Level4_Walk.Level4_Walk (0.099143s)
+[2020.01.19-19.39.46:004][901]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2020.01.19-19.39.46:012][901]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.19-19.39.46:019][901]LogInit: FAudioDevice initialized.
+[2020.01.19-19.39.46:130][901]LogInit: Error: Failed to load cursor '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/None'
+[2020.01.19-19.39.46:139][901]LogLoad: Game class is 'GameMode'
+[2020.01.19-19.39.46:150][901]LogWorld: Bringing World /Game/Levels/LV4/UEDPIE_0_Level4_Walk.Level4_Walk up for play (max tick rate 0) at 2020.01.19-20.39.46
+[2020.01.19-19.39.46:151][901]LogWorld: Bringing up level for play took: 0.011823
+[2020.01.19-19.39.46:293][901]LogOnline: OSS: Creating online subsystem instance for: :Context_144
+[2020.01.19-19.39.46:296][901]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.19-19.39.46:296][901]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.19-19.39.46:296][901]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.01.19-19.39.46:299][901]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.01.19-19.39.46:299][901]PIE: Play in editor start time for /Game/Levels/LV4/UEDPIE_0_Level4_Walk 0.312
+[2020.01.19-19.39.46:299][901]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk' with GeneratedClass '/Game/Levels/LV4/Level4_Walk.Level4_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk'
+[2020.01.19-19.39.47:771][ 67]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk' with GeneratedClass '/Game/Levels/LV4/Level4_Walk.Level4_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk'
+[2020.01.19-19.39.47:872][ 67]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.19-19.39.47:872][ 67]LogWorld: BeginTearingDown for /Game/Levels/LV4/UEDPIE_0_Level4_Walk
+[2020.01.19-19.39.47:872][ 67]LogWorld: UWorld::CleanupWorld for Level4_Walk, bSessionEnded=true, bCleanupResources=true
+[2020.01.19-19.39.47:880][ 67]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.19-19.39.47:881][ 67]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk' with GeneratedClass '/Game/Levels/LV4/Level4_Walk.Level4_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk'
+[2020.01.19-19.39.47:925][ 67]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.19-19.39.47:933][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2020.01.19-19.39.47:962][ 68]LogPlayLevel: Display: Destroying online subsystem :Context_144
+[2020.01.19-19.39.50:316][331]Cmd: TRANSACTION UNDO
+[2020.01.19-19.39.50:316][331]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.01.19-19.40.11:021][219]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.19-19.40.11:099][228]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.19-19.40.11:122][228]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk' with GeneratedClass '/Game/Levels/LV4/Level4_Walk.Level4_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk'
+[2020.01.19-19.40.11:164][228]LogFMOD: Creating runtime Studio System
+[2020.01.19-19.40.11:165][228]LogFMOD: Default sample rate = 48000
+[2020.01.19-19.40.11:165][228]LogFMOD: System sample rate = 44100
+[2020.01.19-19.40.11:165][228]LogFMOD: Matching system sample rate 44100
+[2020.01.19-19.40.11:175][228]LogFMOD: Loading Banks
+[2020.01.19-19.40.11:216][228]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.19-19.40.11:216][228]PIE: New page: PIE session: Level4_Walk (Jan 19, 2020, 9:40:11 PM)
+[2020.01.19-19.40.11:216][228]LogPlayLevel: Creating play world package: /Game/Levels/LV4/UEDPIE_0_Level4_Walk
+[2020.01.19-19.40.11:309][228]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2020.01.19-19.40.11:312][228]LogPlayLevel: PIE: StaticDuplicateObject took: (0.096091s)
+[2020.01.19-19.40.11:313][228]LogAIModule: Creating AISystem for world Level4_Walk
+[2020.01.19-19.40.11:314][228]LogPlayLevel: PIE: World Init took: (0.001418s)
+[2020.01.19-19.40.11:314][228]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV4/Level4_Walk.Level4_Walk to /Game/Levels/LV4/UEDPIE_0_Level4_Walk.Level4_Walk (0.097693s)
+[2020.01.19-19.40.11:370][228]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2020.01.19-19.40.11:378][228]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.19-19.40.11:384][228]LogInit: FAudioDevice initialized.
+[2020.01.19-19.40.11:490][228]LogInit: Error: Failed to load cursor '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/None'
+[2020.01.19-19.40.11:497][228]LogLoad: Game class is 'GameMode'
+[2020.01.19-19.40.11:509][228]LogWorld: Bringing World /Game/Levels/LV4/UEDPIE_0_Level4_Walk.Level4_Walk up for play (max tick rate 0) at 2020.01.19-20.40.11
+[2020.01.19-19.40.11:510][228]LogWorld: Bringing up level for play took: 0.012477
+[2020.01.19-19.40.11:639][228]LogOnline: OSS: Creating online subsystem instance for: :Context_145
+[2020.01.19-19.40.11:641][228]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.19-19.40.11:641][228]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.19-19.40.11:641][228]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.01.19-19.40.11:644][228]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.01.19-19.40.11:644][228]PIE: Play in editor start time for /Game/Levels/LV4/UEDPIE_0_Level4_Walk -0.344
+[2020.01.19-19.40.11:644][228]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk' with GeneratedClass '/Game/Levels/LV4/Level4_Walk.Level4_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk'
+[2020.01.19-19.40.13:240][400]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk' with GeneratedClass '/Game/Levels/LV4/Level4_Walk.Level4_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk'
+[2020.01.19-19.40.13:339][400]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.19-19.40.13:339][400]LogWorld: BeginTearingDown for /Game/Levels/LV4/UEDPIE_0_Level4_Walk
+[2020.01.19-19.40.13:339][400]LogWorld: UWorld::CleanupWorld for Level4_Walk, bSessionEnded=true, bCleanupResources=true
+[2020.01.19-19.40.13:347][400]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.19-19.40.13:347][400]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk' with GeneratedClass '/Game/Levels/LV4/Level4_Walk.Level4_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk'
+[2020.01.19-19.40.13:394][400]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.19-19.40.13:402][400]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2020.01.19-19.40.13:430][401]LogPlayLevel: Display: Destroying online subsystem :Context_145
+[2020.01.19-19.40.26:962][652]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.19-19.40.40:323][957]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.19-19.40.40:634][993]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.19-19.40.40:656][993]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk' with GeneratedClass '/Game/Levels/LV4/Level4_Walk.Level4_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk'
+[2020.01.19-19.40.40:696][993]LogFMOD: Creating runtime Studio System
+[2020.01.19-19.40.40:697][993]LogFMOD: Default sample rate = 48000
+[2020.01.19-19.40.40:697][993]LogFMOD: System sample rate = 44100
+[2020.01.19-19.40.40:697][993]LogFMOD: Matching system sample rate 44100
+[2020.01.19-19.40.40:706][993]LogFMOD: Loading Banks
+[2020.01.19-19.40.40:748][993]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.19-19.40.40:748][993]PIE: New page: PIE session: Level4_Walk (Jan 19, 2020, 9:40:40 PM)
+[2020.01.19-19.40.40:748][993]LogPlayLevel: Creating play world package: /Game/Levels/LV4/UEDPIE_0_Level4_Walk
+[2020.01.19-19.40.40:846][993]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2020.01.19-19.40.40:849][993]LogPlayLevel: PIE: StaticDuplicateObject took: (0.100829s)
+[2020.01.19-19.40.40:850][993]LogAIModule: Creating AISystem for world Level4_Walk
+[2020.01.19-19.40.40:850][993]LogPlayLevel: PIE: World Init took: (0.001371s)
+[2020.01.19-19.40.40:851][993]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV4/Level4_Walk.Level4_Walk to /Game/Levels/LV4/UEDPIE_0_Level4_Walk.Level4_Walk (0.102373s)
+[2020.01.19-19.40.40:905][993]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2020.01.19-19.40.40:914][993]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.19-19.40.40:920][993]LogInit: FAudioDevice initialized.
+[2020.01.19-19.40.41:032][993]LogInit: Error: Failed to load cursor '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/None'
+[2020.01.19-19.40.41:044][993]LogLoad: Game class is 'GameMode'
+[2020.01.19-19.40.41:056][993]LogWorld: Bringing World /Game/Levels/LV4/UEDPIE_0_Level4_Walk.Level4_Walk up for play (max tick rate 0) at 2020.01.19-20.40.41
+[2020.01.19-19.40.41:058][993]LogWorld: Bringing up level for play took: 0.013165
+[2020.01.19-19.40.41:183][993]LogOnline: OSS: Creating online subsystem instance for: :Context_146
+[2020.01.19-19.40.41:185][993]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.19-19.40.41:185][993]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.19-19.40.41:185][993]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.01.19-19.40.41:188][993]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.01.19-19.40.41:188][993]PIE: Play in editor start time for /Game/Levels/LV4/UEDPIE_0_Level4_Walk 1.2
+[2020.01.19-19.40.41:188][993]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk' with GeneratedClass '/Game/Levels/LV4/Level4_Walk.Level4_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk'
+[2020.01.19-19.40.43:437][240]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk' with GeneratedClass '/Game/Levels/LV4/Level4_Walk.Level4_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk'
+[2020.01.19-19.40.43:520][240]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.19-19.40.43:520][240]LogWorld: BeginTearingDown for /Game/Levels/LV4/UEDPIE_0_Level4_Walk
+[2020.01.19-19.40.43:521][240]LogWorld: UWorld::CleanupWorld for Level4_Walk, bSessionEnded=true, bCleanupResources=true
+[2020.01.19-19.40.43:532][240]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.19-19.40.43:532][240]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk' with GeneratedClass '/Game/Levels/LV4/Level4_Walk.Level4_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk'
+[2020.01.19-19.40.43:579][240]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.19-19.40.43:589][240]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2020.01.19-19.40.43:616][241]LogPlayLevel: Display: Destroying online subsystem :Context_146
+[2020.01.19-19.40.44:418][325]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.19-19.40.45:219][412]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Tree2)
+[2020.01.19-19.40.49:325][811]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Tree10)
+[2020.01.19-19.40.53:266][167]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.01.19-19.40.53:555][175]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Tree_4)
+[2020.01.19-19.40.59:248][684]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_PoplarTree_3_v_1_2)
+[2020.01.19-19.41.01:409][903]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Tree_3)
+[2020.01.19-19.41.08:492][632]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.01.19-19.41.09:645][730]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.01.19-19.41.10:024][753]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Tree5)
+[2020.01.19-19.41.12:259][968]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Tree6)
+[2020.01.19-19.41.15:725][309]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Tree4)
+[2020.01.19-19.41.19:368][626]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Tree19)
+[2020.01.19-19.41.22:220][920]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Tree_2)
+[2020.01.19-19.41.25:590][185]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Tree3)
+[2020.01.19-19.41.29:341][513]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_PoplarTree_3_v_1_1)
+[2020.01.19-19.41.31:757][731]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Tree_5)
+[2020.01.19-19.41.35:646][ 83]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Tree7)
+[2020.01.19-19.41.39:077][443]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Tree5)
+[2020.01.19-19.41.42:555][784]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Tree_5)
+[2020.01.19-19.41.44:813][960]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Tree3)
+[2020.01.19-19.41.47:888][232]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Tree)
+[2020.01.19-19.41.50:185][442]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Tree2)
+[2020.01.19-19.41.54:858][872]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.19-19.41.54:947][882]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.19-19.41.54:967][882]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk' with GeneratedClass '/Game/Levels/LV4/Level4_Walk.Level4_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk'
+[2020.01.19-19.41.54:996][882]LogFMOD: Creating runtime Studio System
+[2020.01.19-19.41.54:997][882]LogFMOD: Default sample rate = 48000
+[2020.01.19-19.41.54:997][882]LogFMOD: System sample rate = 44100
+[2020.01.19-19.41.54:997][882]LogFMOD: Matching system sample rate 44100
+[2020.01.19-19.41.55:010][882]LogFMOD: Loading Banks
+[2020.01.19-19.41.55:048][882]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.19-19.41.55:048][882]PIE: New page: PIE session: Level4_Walk (Jan 19, 2020, 9:41:55 PM)
+[2020.01.19-19.41.55:049][882]LogPlayLevel: Creating play world package: /Game/Levels/LV4/UEDPIE_0_Level4_Walk
+[2020.01.19-19.41.55:154][882]LogPlayLevel: PIE: StaticDuplicateObject took: (0.105115s)
+[2020.01.19-19.41.55:155][882]LogAIModule: Creating AISystem for world Level4_Walk
+[2020.01.19-19.41.55:155][882]LogPlayLevel: PIE: World Init took: (0.001456s)
+[2020.01.19-19.41.55:155][882]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV4/Level4_Walk.Level4_Walk to /Game/Levels/LV4/UEDPIE_0_Level4_Walk.Level4_Walk (0.106815s)
+[2020.01.19-19.41.55:191][882]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2020.01.19-19.41.55:199][882]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.19-19.41.55:206][882]LogInit: FAudioDevice initialized.
+[2020.01.19-19.41.55:309][882]LogInit: Error: Failed to load cursor '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/None'
+[2020.01.19-19.41.55:314][882]LogLoad: Game class is 'GameMode'
+[2020.01.19-19.41.55:326][882]LogWorld: Bringing World /Game/Levels/LV4/UEDPIE_0_Level4_Walk.Level4_Walk up for play (max tick rate 0) at 2020.01.19-20.41.55
+[2020.01.19-19.41.55:327][882]LogWorld: Bringing up level for play took: 0.012295
+[2020.01.19-19.41.55:477][882]LogOnline: OSS: Creating online subsystem instance for: :Context_147
+[2020.01.19-19.41.55:479][882]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.19-19.41.55:479][882]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.19-19.41.55:479][882]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.01.19-19.41.55:493][882]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.01.19-19.41.55:493][882]PIE: Play in editor start time for /Game/Levels/LV4/UEDPIE_0_Level4_Walk 1.504
+[2020.01.19-19.41.55:493][882]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk' with GeneratedClass '/Game/Levels/LV4/Level4_Walk.Level4_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk'
+[2020.01.19-19.42.03:334][803]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk' with GeneratedClass '/Game/Levels/LV4/Level4_Walk.Level4_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk'
+[2020.01.19-19.42.03:419][803]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.19-19.42.03:419][803]LogWorld: BeginTearingDown for /Game/Levels/LV4/UEDPIE_0_Level4_Walk
+[2020.01.19-19.42.03:419][803]LogWorld: UWorld::CleanupWorld for Level4_Walk, bSessionEnded=true, bCleanupResources=true
+[2020.01.19-19.42.03:435][803]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.19-19.42.03:435][803]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk' with GeneratedClass '/Game/Levels/LV4/Level4_Walk.Level4_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk'
+[2020.01.19-19.42.03:495][803]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.19-19.42.03:504][803]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2020.01.19-19.42.03:528][804]LogPlayLevel: Display: Destroying online subsystem :Context_147
+[2020.01.19-19.42.06:161][ 68]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.01.19-19.42.06:769][132]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Tree9)
+[2020.01.19-19.42.10:413][505]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.19-19.42.15:519][952]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.19-19.42.18:439][247]Cmd: TRANSACTION UNDO
+[2020.01.19-19.42.18:439][247]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.01.19-19.42.18:521][247]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2020.01.19-19.42.23:935][681]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.19-19.42.24:003][689]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.19-19.42.24:029][689]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk' with GeneratedClass '/Game/Levels/LV4/Level4_Walk.Level4_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk'
+[2020.01.19-19.42.24:050][689]LogFMOD: Creating runtime Studio System
+[2020.01.19-19.42.24:051][689]LogFMOD: Default sample rate = 48000
+[2020.01.19-19.42.24:051][689]LogFMOD: System sample rate = 44100
+[2020.01.19-19.42.24:051][689]LogFMOD: Matching system sample rate 44100
+[2020.01.19-19.42.24:061][689]LogFMOD: Loading Banks
+[2020.01.19-19.42.24:102][689]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.19-19.42.24:102][689]PIE: New page: PIE session: Level4_Walk (Jan 19, 2020, 9:42:24 PM)
+[2020.01.19-19.42.24:102][689]LogPlayLevel: Creating play world package: /Game/Levels/LV4/UEDPIE_0_Level4_Walk
+[2020.01.19-19.42.24:200][689]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2020.01.19-19.42.24:203][689]LogPlayLevel: PIE: StaticDuplicateObject took: (0.101130s)
+[2020.01.19-19.42.24:204][689]LogAIModule: Creating AISystem for world Level4_Walk
+[2020.01.19-19.42.24:205][689]LogPlayLevel: PIE: World Init took: (0.001291s)
+[2020.01.19-19.42.24:205][689]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV4/Level4_Walk.Level4_Walk to /Game/Levels/LV4/UEDPIE_0_Level4_Walk.Level4_Walk (0.102616s)
+[2020.01.19-19.42.24:252][689]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2020.01.19-19.42.24:267][689]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.19-19.42.24:273][689]LogInit: FAudioDevice initialized.
+[2020.01.19-19.42.24:380][689]LogInit: Error: Failed to load cursor '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/None'
+[2020.01.19-19.42.24:386][689]LogLoad: Game class is 'GameMode'
+[2020.01.19-19.42.24:398][689]LogWorld: Bringing World /Game/Levels/LV4/UEDPIE_0_Level4_Walk.Level4_Walk up for play (max tick rate 0) at 2020.01.19-20.42.24
+[2020.01.19-19.42.24:399][689]LogWorld: Bringing up level for play took: 0.012040
+[2020.01.19-19.42.24:508][689]LogOnline: OSS: Creating online subsystem instance for: :Context_148
+[2020.01.19-19.42.24:509][689]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.19-19.42.24:509][689]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.19-19.42.24:510][689]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.01.19-19.42.24:512][689]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.01.19-19.42.24:512][689]PIE: Play in editor start time for /Game/Levels/LV4/UEDPIE_0_Level4_Walk 0.523
+[2020.01.19-19.42.24:512][689]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk' with GeneratedClass '/Game/Levels/LV4/Level4_Walk.Level4_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk'
+[2020.01.19-19.42.32:342][597]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk' with GeneratedClass '/Game/Levels/LV4/Level4_Walk.Level4_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk'
+[2020.01.19-19.42.32:453][597]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.19-19.42.32:453][597]LogWorld: BeginTearingDown for /Game/Levels/LV4/UEDPIE_0_Level4_Walk
+[2020.01.19-19.42.32:454][597]LogWorld: UWorld::CleanupWorld for Level4_Walk, bSessionEnded=true, bCleanupResources=true
+[2020.01.19-19.42.32:471][597]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.19-19.42.32:471][597]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk' with GeneratedClass '/Game/Levels/LV4/Level4_Walk.Level4_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk'
+[2020.01.19-19.42.32:516][597]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.19-19.42.32:525][597]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2020.01.19-19.42.32:551][598]LogPlayLevel: Display: Destroying online subsystem :Context_148
+[2020.01.19-19.42.35:907][948]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.19-19.42.36:618][ 24]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Tree7)
+[2020.01.19-19.42.40:236][350]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Tree_5)
+[2020.01.19-19.42.42:356][548]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Tree9)
+[2020.01.19-19.42.47:170][ 31]Cmd: DELETE
+[2020.01.19-19.42.47:170][ 31]Cmd: ACTOR DELETE
+[2020.01.19-19.42.47:184][ 31]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.01.19-19.42.47:227][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2020.01.19-19.42.47:228][ 31]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2020.01.19-19.42.50:191][367]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.19-19.42.51:191][476]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2020.01.19-19.42.51:254][476]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2020.01.19-19.42.52:380][476]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/Level4_Walk70D77B6141069603DAF092B3198C5D43.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LV4/Level4_Walk.umap'
+[2020.01.19-19.42.52:434][476]LogFileHelpers: Saving map 'Level4_Walk' took 1.227
+[2020.01.19-19.42.53:353][584]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.19-19.42.53:375][584]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk' with GeneratedClass '/Game/Levels/LV4/Level4_Walk.Level4_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk'
+[2020.01.19-19.42.53:398][584]LogFMOD: Creating runtime Studio System
+[2020.01.19-19.42.53:399][584]LogFMOD: Default sample rate = 48000
+[2020.01.19-19.42.53:399][584]LogFMOD: System sample rate = 44100
+[2020.01.19-19.42.53:399][584]LogFMOD: Matching system sample rate 44100
+[2020.01.19-19.42.53:408][584]LogFMOD: Loading Banks
+[2020.01.19-19.42.53:500][584]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.19-19.42.53:500][584]PIE: New page: PIE session: Level4_Walk (Jan 19, 2020, 9:42:53 PM)
+[2020.01.19-19.42.53:501][584]LogPlayLevel: Creating play world package: /Game/Levels/LV4/UEDPIE_0_Level4_Walk
+[2020.01.19-19.42.53:617][584]LogPlayLevel: PIE: StaticDuplicateObject took: (0.116578s)
+[2020.01.19-19.42.53:618][584]LogAIModule: Creating AISystem for world Level4_Walk
+[2020.01.19-19.42.53:619][584]LogPlayLevel: PIE: World Init took: (0.001319s)
+[2020.01.19-19.42.53:619][584]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV4/Level4_Walk.Level4_Walk to /Game/Levels/LV4/UEDPIE_0_Level4_Walk.Level4_Walk (0.118118s)
+[2020.01.19-19.42.53:677][584]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2020.01.19-19.42.53:691][584]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.19-19.42.53:698][584]LogInit: FAudioDevice initialized.
+[2020.01.19-19.42.55:588][584]LogInit: Error: Failed to load cursor '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/None'
+[2020.01.19-19.42.55:601][584]LogLoad: Game class is 'GameMode'
+[2020.01.19-19.42.55:620][584]LogWorld: Bringing World /Game/Levels/LV4/UEDPIE_0_Level4_Walk.Level4_Walk up for play (max tick rate 0) at 2020.01.19-20.42.55
+[2020.01.19-19.42.55:622][584]LogWorld: Bringing up level for play took: 0.019603
+[2020.01.19-19.42.55:720][584]LogOnline: OSS: Creating online subsystem instance for: :Context_149
+[2020.01.19-19.42.55:722][584]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.19-19.42.55:722][584]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.19-19.42.55:722][584]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.01.19-19.42.55:739][584]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.01.19-19.42.55:739][584]PIE: Play in editor start time for /Game/Levels/LV4/UEDPIE_0_Level4_Walk 1.751
+[2020.01.19-19.42.55:739][584]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk' with GeneratedClass '/Game/Levels/LV4/Level4_Walk.Level4_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk'
+[2020.01.19-19.43.02:808][426]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk' with GeneratedClass '/Game/Levels/LV4/Level4_Walk.Level4_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk'
+[2020.01.19-19.43.02:917][426]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.19-19.43.02:918][426]LogWorld: BeginTearingDown for /Game/Levels/LV4/UEDPIE_0_Level4_Walk
+[2020.01.19-19.43.02:918][426]LogWorld: UWorld::CleanupWorld for Level4_Walk, bSessionEnded=true, bCleanupResources=true
+[2020.01.19-19.43.02:929][426]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.19-19.43.02:930][426]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk' with GeneratedClass '/Game/Levels/LV4/Level4_Walk.Level4_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk'
+[2020.01.19-19.43.02:966][426]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.19-19.43.02:974][426]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2020.01.19-19.43.03:000][427]LogPlayLevel: Display: Destroying online subsystem :Context_149
+[2020.01.19-19.43.06:185][771]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.19-19.43.13:585][604]Cmd: TRANSACTION UNDO
+[2020.01.19-19.43.13:585][604]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.01.19-19.43.16:783][823]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.19-19.43.16:842][830]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.19-19.43.16:863][830]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk' with GeneratedClass '/Game/Levels/LV4/Level4_Walk.Level4_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk'
+[2020.01.19-19.43.16:896][830]LogFMOD: Creating runtime Studio System
+[2020.01.19-19.43.16:897][830]LogFMOD: Default sample rate = 48000
+[2020.01.19-19.43.16:897][830]LogFMOD: System sample rate = 44100
+[2020.01.19-19.43.16:897][830]LogFMOD: Matching system sample rate 44100
+[2020.01.19-19.43.16:907][830]LogFMOD: Loading Banks
+[2020.01.19-19.43.16:948][830]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.19-19.43.16:948][830]PIE: New page: PIE session: Level4_Walk (Jan 19, 2020, 9:43:16 PM)
+[2020.01.19-19.43.16:948][830]LogPlayLevel: Creating play world package: /Game/Levels/LV4/UEDPIE_0_Level4_Walk
+[2020.01.19-19.43.17:048][830]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2020.01.19-19.43.17:051][830]LogPlayLevel: PIE: StaticDuplicateObject took: (0.103159s)
+[2020.01.19-19.43.17:052][830]LogAIModule: Creating AISystem for world Level4_Walk
+[2020.01.19-19.43.17:053][830]LogPlayLevel: PIE: World Init took: (0.001194s)
+[2020.01.19-19.43.17:053][830]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV4/Level4_Walk.Level4_Walk to /Game/Levels/LV4/UEDPIE_0_Level4_Walk.Level4_Walk (0.104523s)
+[2020.01.19-19.43.17:088][830]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2020.01.19-19.43.17:104][830]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.19-19.43.17:111][830]LogInit: FAudioDevice initialized.
+[2020.01.19-19.43.17:213][830]LogInit: Error: Failed to load cursor '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/None'
+[2020.01.19-19.43.17:219][830]LogLoad: Game class is 'GameMode'
+[2020.01.19-19.43.17:230][830]LogWorld: Bringing World /Game/Levels/LV4/UEDPIE_0_Level4_Walk.Level4_Walk up for play (max tick rate 0) at 2020.01.19-20.43.17
+[2020.01.19-19.43.17:231][830]LogWorld: Bringing up level for play took: 0.011453
+[2020.01.19-19.43.17:337][830]LogOnline: OSS: Creating online subsystem instance for: :Context_150
+[2020.01.19-19.43.17:339][830]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.19-19.43.17:339][830]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.19-19.43.17:339][830]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.01.19-19.43.17:342][830]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.01.19-19.43.17:342][830]PIE: Play in editor start time for /Game/Levels/LV4/UEDPIE_0_Level4_Walk 1.353
+[2020.01.19-19.43.17:342][830]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk' with GeneratedClass '/Game/Levels/LV4/Level4_Walk.Level4_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk'
+[2020.01.19-19.43.18:305][940]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk' with GeneratedClass '/Game/Levels/LV4/Level4_Walk.Level4_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk'
+[2020.01.19-19.43.18:400][940]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.19-19.43.18:400][940]LogWorld: BeginTearingDown for /Game/Levels/LV4/UEDPIE_0_Level4_Walk
+[2020.01.19-19.43.18:400][940]LogWorld: UWorld::CleanupWorld for Level4_Walk, bSessionEnded=true, bCleanupResources=true
+[2020.01.19-19.43.18:407][940]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.19-19.43.18:408][940]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk' with GeneratedClass '/Game/Levels/LV4/Level4_Walk.Level4_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk'
+[2020.01.19-19.43.18:445][940]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.19-19.43.18:452][940]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2020.01.19-19.43.18:480][941]LogPlayLevel: Display: Destroying online subsystem :Context_150
+[2020.01.19-19.43.22:379][256]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.19-19.43.22:460][265]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.19-19.43.22:479][265]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk' with GeneratedClass '/Game/Levels/LV4/Level4_Walk.Level4_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk'
+[2020.01.19-19.43.22:513][265]LogFMOD: Creating runtime Studio System
+[2020.01.19-19.43.22:515][265]LogFMOD: Default sample rate = 48000
+[2020.01.19-19.43.22:515][265]LogFMOD: System sample rate = 44100
+[2020.01.19-19.43.22:515][265]LogFMOD: Matching system sample rate 44100
+[2020.01.19-19.43.22:533][265]LogFMOD: Loading Banks
+[2020.01.19-19.43.22:575][265]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.19-19.43.22:575][265]PIE: New page: PIE session: Level4_Walk (Jan 19, 2020, 9:43:22 PM)
+[2020.01.19-19.43.22:576][265]LogPlayLevel: Creating play world package: /Game/Levels/LV4/UEDPIE_0_Level4_Walk
+[2020.01.19-19.43.22:697][265]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2020.01.19-19.43.22:700][265]LogPlayLevel: PIE: StaticDuplicateObject took: (0.124258s)
+[2020.01.19-19.43.22:701][265]LogAIModule: Creating AISystem for world Level4_Walk
+[2020.01.19-19.43.22:701][265]LogPlayLevel: PIE: World Init took: (0.001103s)
+[2020.01.19-19.43.22:701][265]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV4/Level4_Walk.Level4_Walk to /Game/Levels/LV4/UEDPIE_0_Level4_Walk.Level4_Walk (0.125575s)
+[2020.01.19-19.43.22:738][265]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2020.01.19-19.43.22:746][265]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.19-19.43.22:753][265]LogInit: FAudioDevice initialized.
+[2020.01.19-19.43.22:844][265]LogInit: Error: Failed to load cursor '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/None'
+[2020.01.19-19.43.22:850][265]LogLoad: Game class is 'GameMode'
+[2020.01.19-19.43.22:860][265]LogWorld: Bringing World /Game/Levels/LV4/UEDPIE_0_Level4_Walk.Level4_Walk up for play (max tick rate 0) at 2020.01.19-20.43.22
+[2020.01.19-19.43.22:861][265]LogWorld: Bringing up level for play took: 0.010625
+[2020.01.19-19.43.22:961][265]LogOnline: OSS: Creating online subsystem instance for: :Context_151
+[2020.01.19-19.43.22:964][265]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.19-19.43.22:964][265]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.19-19.43.22:964][265]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.01.19-19.43.22:966][265]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.01.19-19.43.22:966][265]PIE: Play in editor start time for /Game/Levels/LV4/UEDPIE_0_Level4_Walk 0.978
+[2020.01.19-19.43.22:966][265]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk' with GeneratedClass '/Game/Levels/LV4/Level4_Walk.Level4_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk'
+[2020.01.19-19.43.28:490][901]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk' with GeneratedClass '/Game/Levels/LV4/Level4_Walk.Level4_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk'
+[2020.01.19-19.43.28:589][901]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.19-19.43.28:589][901]LogWorld: BeginTearingDown for /Game/Levels/LV4/UEDPIE_0_Level4_Walk
+[2020.01.19-19.43.28:589][901]LogWorld: UWorld::CleanupWorld for Level4_Walk, bSessionEnded=true, bCleanupResources=true
+[2020.01.19-19.43.28:697][901]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.19-19.43.28:698][901]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk' with GeneratedClass '/Game/Levels/LV4/Level4_Walk.Level4_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk'
+[2020.01.19-19.43.28:735][901]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.19-19.43.28:743][901]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2020.01.19-19.43.28:768][902]LogPlayLevel: Display: Destroying online subsystem :Context_151
+[2020.01.19-19.43.29:606][985]Cmd: TRANSACTION UNDO
+[2020.01.19-19.43.29:606][985]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.01.19-19.43.29:710][985]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2020.01.19-19.43.30:439][ 17]Cmd: TRANSACTION UNDO
+[2020.01.19-19.43.30:439][ 17]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.01.19-19.43.31:220][ 56]Cmd: TRANSACTION UNDO
+[2020.01.19-19.43.31:220][ 56]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.01.19-19.43.33:407][230]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.19-19.43.33:460][236]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.19-19.43.33:481][236]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk' with GeneratedClass '/Game/Levels/LV4/Level4_Walk.Level4_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk'
+[2020.01.19-19.43.33:525][236]LogFMOD: Creating runtime Studio System
+[2020.01.19-19.43.33:526][236]LogFMOD: Default sample rate = 48000
+[2020.01.19-19.43.33:526][236]LogFMOD: System sample rate = 44100
+[2020.01.19-19.43.33:526][236]LogFMOD: Matching system sample rate 44100
+[2020.01.19-19.43.33:534][236]LogFMOD: Loading Banks
+[2020.01.19-19.43.33:576][236]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.19-19.43.33:576][236]PIE: New page: PIE session: Level4_Walk (Jan 19, 2020, 9:43:33 PM)
+[2020.01.19-19.43.33:576][236]LogPlayLevel: Creating play world package: /Game/Levels/LV4/UEDPIE_0_Level4_Walk
+[2020.01.19-19.43.33:666][236]LogPlayLevel: PIE: StaticDuplicateObject took: (0.090318s)
+[2020.01.19-19.43.33:667][236]LogAIModule: Creating AISystem for world Level4_Walk
+[2020.01.19-19.43.33:668][236]LogPlayLevel: PIE: World Init took: (0.001149s)
+[2020.01.19-19.43.33:668][236]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV4/Level4_Walk.Level4_Walk to /Game/Levels/LV4/UEDPIE_0_Level4_Walk.Level4_Walk (0.091643s)
+[2020.01.19-19.43.33:705][236]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2020.01.19-19.43.33:712][236]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.19-19.43.33:718][236]LogInit: FAudioDevice initialized.
+[2020.01.19-19.43.33:814][236]LogInit: Error: Failed to load cursor '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/None'
+[2020.01.19-19.43.33:824][236]LogLoad: Game class is 'GameMode'
+[2020.01.19-19.43.33:835][236]LogWorld: Bringing World /Game/Levels/LV4/UEDPIE_0_Level4_Walk.Level4_Walk up for play (max tick rate 0) at 2020.01.19-20.43.33
+[2020.01.19-19.43.33:836][236]LogWorld: Bringing up level for play took: 0.011155
+[2020.01.19-19.43.33:946][236]LogOnline: OSS: Creating online subsystem instance for: :Context_152
+[2020.01.19-19.43.33:948][236]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.19-19.43.33:948][236]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.19-19.43.33:948][236]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.01.19-19.43.33:950][236]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.01.19-19.43.33:950][236]PIE: Play in editor start time for /Game/Levels/LV4/UEDPIE_0_Level4_Walk -0.039
+[2020.01.19-19.43.33:950][236]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk' with GeneratedClass '/Game/Levels/LV4/Level4_Walk.Level4_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk'
+[2020.01.19-19.43.35:376][382]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk' with GeneratedClass '/Game/Levels/LV4/Level4_Walk.Level4_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk'
+[2020.01.19-19.43.35:467][382]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.19-19.43.35:467][382]LogWorld: BeginTearingDown for /Game/Levels/LV4/UEDPIE_0_Level4_Walk
+[2020.01.19-19.43.35:467][382]LogWorld: UWorld::CleanupWorld for Level4_Walk, bSessionEnded=true, bCleanupResources=true
+[2020.01.19-19.43.35:478][382]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.19-19.43.35:478][382]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk' with GeneratedClass '/Game/Levels/LV4/Level4_Walk.Level4_Walk_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_Walk.Level4_Walk:PersistentLevel.Level4_Walk'
+[2020.01.19-19.43.35:516][382]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.19-19.43.35:524][382]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2020.01.19-19.43.35:552][383]LogPlayLevel: Display: Destroying online subsystem :Context_152
+[2020.01.19-19.43.36:153][448]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.19-19.43.36:750][508]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2020.01.19-19.43.36:756][508]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.19-19.43.36:812][508]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2020.01.19-19.43.37:510][508]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/Level4_WalkCB45179D4911FF4BDA1972BE2EC96DA6.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LV4/Level4_Walk.umap'
+[2020.01.19-19.43.37:551][508]LogFileHelpers: Saving map 'Level4_Walk' took 0.776
+[2020.01.19-19.46.33:459][ 98]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.19-19.46.34:288][184]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
