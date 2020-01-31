@@ -7273,3 +7273,1530 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.01.31-11.27.55:414][254]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.695
 [2020.01.31-11.27.55:437][254]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/EnemyShootingCh" FILE="../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Enemies/EnemyShootingCh.uasset" SILENT=true
 [2020.01.31-11.27.56:576][254]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/EnemyShootingChBE750EC9465E63D891FF4D82885AB4AC.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Enemies/EnemyShootingCh.uasset'
+[2020.01.31-11.32.14:336][503]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.31-11.32.14:373][503]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.31-11.32.14:420][503]LogFMOD: Creating runtime Studio System
+[2020.01.31-11.32.14:421][503]LogFMOD: Default sample rate = 48000
+[2020.01.31-11.32.14:421][503]LogFMOD: System sample rate = 44100
+[2020.01.31-11.32.14:421][503]LogFMOD: Matching system sample rate 44100
+[2020.01.31-11.32.14:430][503]LogFMOD: Loading Banks
+[2020.01.31-11.32.14:491][503]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.01.31-11.32.14:527][503]LogPlayLevel: [PlayLevel] Compiling Bullet_Trail before play...
+[2020.01.31-11.32.15:509][503]LogUObjectHash: Compacting FUObjectHashTables data took   8.87ms
+[2020.01.31-11.32.15:509][503]LogPlayLevel: PlayLevel: Blueprint regeneration took 1018 ms (1 blueprints)
+[2020.01.31-11.32.15:510][503]PIE: New page: PIE session: ThirdPersonExampleMap (Jan 31, 2020, 1:32:15 PM)
+[2020.01.31-11.32.15:510][503]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.01.31-11.32.15:552][503]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041537s)
+[2020.01.31-11.32.15:553][503]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.01.31-11.32.15:554][503]LogPlayLevel: PIE: World Init took: (0.001767s)
+[2020.01.31-11.32.15:554][503]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.043535s)
+[2020.01.31-11.32.15:613][503]LogUObjectHash: Compacting FUObjectHashTables data took   5.14ms
+[2020.01.31-11.32.15:629][503]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.31-11.32.15:636][503]LogInit: FAudioDevice initialized.
+[2020.01.31-11.32.15:753][503]LogInit: Error: Failed to load cursor '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/None'
+[2020.01.31-11.32.15:762][503]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.01.31-11.32.15:765][503]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.01.31-11.32.15:766][503]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.01.31-11.32.15:766][503]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.01.31-11.32.15:766][503]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.01.31-11.32.15:767][503]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.01.31-11.32.15:767][503]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.01.31-11.32.15:767][503]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.01.31-11.32.15:768][503]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.01.31-11.32.15:768][503]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.01.31-11.32.15:786][503]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.01.31-12.32.15
+[2020.01.31-11.32.15:798][503]LogWorld: Bringing up level for play took: 0.035094
+[2020.01.31-11.32.15:798][503]LogOnline: OSS: Creating online subsystem instance for: :Context_137
+[2020.01.31-11.32.15:822][503]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.837
+[2020.01.31-11.32.15:822][503]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.31-11.32.15:851][504]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.068973 > MaxSimulationTimeStep (0.050) for 'ThirdPersonCharacter_167', movement 'Walking'
+[2020.01.31-11.32.16:947][575]LogBlueprintUserMessages: [AttackAnimation_C_0] FAR
+[2020.01.31-11.32.18:995][709]LogCharacterMovement: EnemyShootingCh5_4 is stuck and failed to move! Velocity: X=-176.61 Y=-93.86 Z=0.00 Location: X=-1185.34 Y=523.36 Z=226.72 Normal: X=-0.85 Y=0.11 Z=-0.51 PenetrationDepth:19.327 Actor:EnemyShootingCh8 Component:ShotgunBarrelCover BoneName:None (0 other events since notify)
+[2020.01.31-11.32.20:132][805]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2020.01.31-11.32.20:218][812]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2020.01.31-11.32.20:328][821]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2020.01.31-11.32.20:438][830]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2020.01.31-11.32.23:537][ 87]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.32.23:605][ 94]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.31-11.32.23:706][ 94]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.31-11.32.23:706][ 94]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.01.31-11.32.23:708][ 94]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.31-11.32.23:756][ 94]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.31-11.32.23:756][ 94]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.31-11.32.23:813][ 94]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.31-11.32.23:821][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2020.01.31-11.32.23:847][ 95]LogPlayLevel: Display: Destroying online subsystem :Context_137
+[2020.01.31-11.32.29:516][435]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.31-11.32.29:553][435]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.31-11.32.29:587][435]LogFMOD: Creating runtime Studio System
+[2020.01.31-11.32.29:589][435]LogFMOD: Default sample rate = 48000
+[2020.01.31-11.32.29:589][435]LogFMOD: System sample rate = 44100
+[2020.01.31-11.32.29:589][435]LogFMOD: Matching system sample rate 44100
+[2020.01.31-11.32.29:611][435]LogFMOD: Loading Banks
+[2020.01.31-11.32.29:659][435]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.31-11.32.29:659][435]PIE: New page: PIE session: ThirdPersonExampleMap (Jan 31, 2020, 1:32:29 PM)
+[2020.01.31-11.32.29:659][435]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.01.31-11.32.29:721][435]LogPlayLevel: PIE: StaticDuplicateObject took: (0.061853s)
+[2020.01.31-11.32.29:723][435]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.01.31-11.32.29:723][435]LogPlayLevel: PIE: World Init took: (0.001385s)
+[2020.01.31-11.32.29:723][435]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.063431s)
+[2020.01.31-11.32.29:782][435]LogUObjectHash: Compacting FUObjectHashTables data took   5.56ms
+[2020.01.31-11.32.29:815][435]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.31-11.32.29:822][435]LogInit: FAudioDevice initialized.
+[2020.01.31-11.32.29:942][435]LogInit: Error: Failed to load cursor '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/None'
+[2020.01.31-11.32.29:948][435]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.01.31-11.32.29:952][435]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.01.31-11.32.29:952][435]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.01.31-11.32.29:953][435]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.01.31-11.32.29:953][435]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.01.31-11.32.29:953][435]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.01.31-11.32.29:954][435]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.01.31-11.32.29:954][435]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.01.31-11.32.29:954][435]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.01.31-11.32.29:954][435]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.01.31-11.32.29:971][435]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.01.31-12.32.29
+[2020.01.31-11.32.29:982][435]LogWorld: Bringing up level for play took: 0.033302
+[2020.01.31-11.32.29:982][435]LogOnline: OSS: Creating online subsystem instance for: :Context_138
+[2020.01.31-11.32.30:004][435]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.018
+[2020.01.31-11.32.30:004][435]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.31-11.32.30:027][436]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.068941 > MaxSimulationTimeStep (0.050) for 'ThirdPersonCharacter_167', movement 'Walking'
+[2020.01.31-11.32.31:124][511]LogBlueprintUserMessages: [AttackAnimation_C_0] FAR
+[2020.01.31-11.32.32:762][627]LogBlueprintUserMessages: [AISlaveController_C_0] 776.761719
+[2020.01.31-11.32.32:762][627]LogBlueprintUserMessages: [AISlaveController_C_0] FUKC
+[2020.01.31-11.32.32:762][627]LogBlueprintUserMessages: [AISlaveController_C_0] Down
+[2020.01.31-11.32.34:707][777]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.32.34:798][787]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.31-11.32.34:902][787]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.31-11.32.34:902][787]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.01.31-11.32.34:904][787]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.31-11.32.34:947][787]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.31-11.32.34:947][787]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.31-11.32.35:011][787]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.31-11.32.35:019][787]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2020.01.31-11.32.35:038][788]LogPlayLevel: Display: Destroying online subsystem :Context_138
+[2020.01.31-11.32.35:231][809]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.31-11.32.35:260][809]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.31-11.32.35:296][809]LogFMOD: Creating runtime Studio System
+[2020.01.31-11.32.35:297][809]LogFMOD: Default sample rate = 48000
+[2020.01.31-11.32.35:297][809]LogFMOD: System sample rate = 44100
+[2020.01.31-11.32.35:297][809]LogFMOD: Matching system sample rate 44100
+[2020.01.31-11.32.35:305][809]LogFMOD: Loading Banks
+[2020.01.31-11.32.35:348][809]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.31-11.32.35:348][809]PIE: New page: PIE session: ThirdPersonExampleMap (Jan 31, 2020, 1:32:35 PM)
+[2020.01.31-11.32.35:349][809]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.01.31-11.32.35:391][809]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041851s)
+[2020.01.31-11.32.35:392][809]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.01.31-11.32.35:392][809]LogPlayLevel: PIE: World Init took: (0.001161s)
+[2020.01.31-11.32.35:392][809]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.043239s)
+[2020.01.31-11.32.35:438][809]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2020.01.31-11.32.35:446][809]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.31-11.32.35:452][809]LogInit: FAudioDevice initialized.
+[2020.01.31-11.32.35:555][809]LogInit: Error: Failed to load cursor '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/None'
+[2020.01.31-11.32.35:566][809]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.01.31-11.32.35:572][809]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.01.31-11.32.35:573][809]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.01.31-11.32.35:574][809]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.01.31-11.32.35:574][809]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.01.31-11.32.35:575][809]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.01.31-11.32.35:576][809]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.01.31-11.32.35:576][809]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.01.31-11.32.35:577][809]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.01.31-11.32.35:577][809]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.01.31-11.32.35:606][809]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.01.31-12.32.35
+[2020.01.31-11.32.35:623][809]LogWorld: Bringing up level for play took: 0.055267
+[2020.01.31-11.32.35:624][809]LogOnline: OSS: Creating online subsystem instance for: :Context_139
+[2020.01.31-11.32.35:651][809]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.335
+[2020.01.31-11.32.35:651][809]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.31-11.32.35:684][810]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.068942 > MaxSimulationTimeStep (0.050) for 'ThirdPersonCharacter_167', movement 'Walking'
+[2020.01.31-11.32.36:776][898]LogBlueprintUserMessages: [AttackAnimation_C_0] FAR
+[2020.01.31-11.32.37:301][943]LogBlueprintUserMessages: [AISlaveController_C_0] 733.654907
+[2020.01.31-11.32.37:301][943]LogBlueprintUserMessages: [AISlaveController_C_0] FUKC
+[2020.01.31-11.32.37:301][943]LogBlueprintUserMessages: [AISlaveController_C_0] Down
+[2020.01.31-11.32.38:869][ 70]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.32.38:947][ 78]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.31-11.32.39:044][ 78]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.31-11.32.39:044][ 78]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.01.31-11.32.39:045][ 78]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.31-11.32.39:070][ 78]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.31-11.32.39:070][ 78]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.31-11.32.39:120][ 78]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.31-11.32.39:130][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2020.01.31-11.32.39:151][ 79]LogPlayLevel: Display: Destroying online subsystem :Context_139
+[2020.01.31-11.32.39:350][100]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.31-11.32.39:381][100]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.31-11.32.39:430][100]LogFMOD: Creating runtime Studio System
+[2020.01.31-11.32.39:432][100]LogFMOD: Default sample rate = 48000
+[2020.01.31-11.32.39:432][100]LogFMOD: System sample rate = 44100
+[2020.01.31-11.32.39:432][100]LogFMOD: Matching system sample rate 44100
+[2020.01.31-11.32.39:449][100]LogFMOD: Loading Banks
+[2020.01.31-11.32.39:492][100]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.31-11.32.39:492][100]PIE: New page: PIE session: ThirdPersonExampleMap (Jan 31, 2020, 1:32:39 PM)
+[2020.01.31-11.32.39:492][100]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.01.31-11.32.39:532][100]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039496s)
+[2020.01.31-11.32.39:533][100]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.01.31-11.32.39:533][100]LogPlayLevel: PIE: World Init took: (0.001327s)
+[2020.01.31-11.32.39:533][100]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.041022s)
+[2020.01.31-11.32.39:587][100]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2020.01.31-11.32.39:595][100]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.31-11.32.39:602][100]LogInit: FAudioDevice initialized.
+[2020.01.31-11.32.39:714][100]LogInit: Error: Failed to load cursor '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/None'
+[2020.01.31-11.32.39:719][100]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.01.31-11.32.39:722][100]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.01.31-11.32.39:722][100]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.01.31-11.32.39:723][100]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.01.31-11.32.39:723][100]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.01.31-11.32.39:724][100]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.01.31-11.32.39:724][100]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.01.31-11.32.39:724][100]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.01.31-11.32.39:725][100]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.01.31-11.32.39:725][100]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.01.31-11.32.39:742][100]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.01.31-12.32.39
+[2020.01.31-11.32.39:752][100]LogWorld: Bringing up level for play took: 0.032610
+[2020.01.31-11.32.39:753][100]LogOnline: OSS: Creating online subsystem instance for: :Context_140
+[2020.01.31-11.32.39:770][100]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.215
+[2020.01.31-11.32.39:770][100]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.31-11.32.39:793][101]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.068941 > MaxSimulationTimeStep (0.050) for 'ThirdPersonCharacter_167', movement 'Walking'
+[2020.01.31-11.32.40:873][181]LogBlueprintUserMessages: [AttackAnimation_C_0] FAR
+[2020.01.31-11.32.41:591][238]LogBlueprintUserMessages: [AISlaveController_C_0] 636.257263
+[2020.01.31-11.32.41:592][238]LogBlueprintUserMessages: [AISlaveController_C_0] FUKC
+[2020.01.31-11.32.41:592][238]LogBlueprintUserMessages: [AISlaveController_C_0] Down
+[2020.01.31-11.32.44:528][450]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Rifle
+[2020.01.31-11.32.46:052][559]LogBlueprintUserMessages: [AttackAnimation_C_0] FAR
+[2020.01.31-11.32.46:149][565]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2020.01.31-11.32.46:338][577]LogBlueprintUserMessages: [AttackAnimation_C_0] FAR
+[2020.01.31-11.32.46:511][588]LogBlueprintUserMessages: [AttackAnimation_C_0] Close
+[2020.01.31-11.32.47:033][618]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.01.31-11.32.47:033][618]LogBlueprintUserMessages: [AIShootingController_C_3] NOISE
+[2020.01.31-11.32.47:033][618]LogBlueprintUserMessages: [AIShootingController_C_3] NOTSEE
+[2020.01.31-11.32.47:033][618]LogBlueprintUserMessages: [AIShootingController_C_4] NOISE
+[2020.01.31-11.32.47:033][618]LogBlueprintUserMessages: [AIShootingController_C_4] NOTSEE
+[2020.01.31-11.32.47:033][618]LogBlueprintUserMessages: [AIShootingController_C_5] NOISE
+[2020.01.31-11.32.47:033][618]LogBlueprintUserMessages: [AIShootingController_C_5] NOTSEE
+[2020.01.31-11.32.47:146][624]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.01.31-11.32.47:146][624]LogBlueprintUserMessages: [AIShootingController_C_3] NOISE
+[2020.01.31-11.32.47:146][624]LogBlueprintUserMessages: [AIShootingController_C_3] NOTSEE
+[2020.01.31-11.32.47:146][624]LogBlueprintUserMessages: [AIShootingController_C_4] NOISE
+[2020.01.31-11.32.47:146][624]LogBlueprintUserMessages: [AIShootingController_C_4] NOTSEE
+[2020.01.31-11.32.47:146][624]LogBlueprintUserMessages: [AIShootingController_C_5] NOISE
+[2020.01.31-11.32.47:146][624]LogBlueprintUserMessages: [AIShootingController_C_5] NOTSEE
+[2020.01.31-11.32.47:223][628]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2020.01.31-11.32.47:242][629]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.01.31-11.32.47:242][629]LogBlueprintUserMessages: [AIShootingController_C_3] NOISE
+[2020.01.31-11.32.47:242][629]LogBlueprintUserMessages: [AIShootingController_C_3] NOTSEE
+[2020.01.31-11.32.47:242][629]LogBlueprintUserMessages: [AIShootingController_C_4] NOISE
+[2020.01.31-11.32.47:242][629]LogBlueprintUserMessages: [AIShootingController_C_4] NOTSEE
+[2020.01.31-11.32.47:242][629]LogBlueprintUserMessages: [AIShootingController_C_5] NOISE
+[2020.01.31-11.32.47:242][629]LogBlueprintUserMessages: [AIShootingController_C_5] NOTSEE
+[2020.01.31-11.32.47:322][634]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2020.01.31-11.32.47:342][635]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.01.31-11.32.47:342][635]LogBlueprintUserMessages: [AIShootingController_C_3] NOISE
+[2020.01.31-11.32.47:343][635]LogBlueprintUserMessages: [AIShootingController_C_3] NOTSEE
+[2020.01.31-11.32.47:343][635]LogBlueprintUserMessages: [AIShootingController_C_4] NOISE
+[2020.01.31-11.32.47:343][635]LogBlueprintUserMessages: [AIShootingController_C_4] NOTSEE
+[2020.01.31-11.32.47:343][635]LogBlueprintUserMessages: [AIShootingController_C_5] NOISE
+[2020.01.31-11.32.47:343][635]LogBlueprintUserMessages: [AIShootingController_C_5] NOTSEE
+[2020.01.31-11.32.47:432][640]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2020.01.31-11.32.47:432][640]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.01.31-11.32.47:432][640]LogBlueprintUserMessages: [AIShootingController_C_3] NOISE
+[2020.01.31-11.32.47:432][640]LogBlueprintUserMessages: [AIShootingController_C_3] NOTSEE
+[2020.01.31-11.32.47:432][640]LogBlueprintUserMessages: [AIShootingController_C_4] NOISE
+[2020.01.31-11.32.47:432][640]LogBlueprintUserMessages: [AIShootingController_C_4] NOTSEE
+[2020.01.31-11.32.47:432][640]LogBlueprintUserMessages: [AIShootingController_C_5] NOISE
+[2020.01.31-11.32.47:432][640]LogBlueprintUserMessages: [AIShootingController_C_5] NOTSEE
+[2020.01.31-11.32.47:521][645]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2020.01.31-11.32.47:540][646]LogBlueprintUserMessages: [Flee_C_1] FAILSEE
+[2020.01.31-11.32.47:541][646]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.01.31-11.32.47:541][646]LogBlueprintUserMessages: [AIShootingController_C_3] NOISE
+[2020.01.31-11.32.47:541][646]LogBlueprintUserMessages: [AIShootingController_C_3] NOTSEE
+[2020.01.31-11.32.47:541][646]LogBlueprintUserMessages: [AIShootingController_C_4] NOISE
+[2020.01.31-11.32.47:541][646]LogBlueprintUserMessages: [AIShootingController_C_4] NOTSEE
+[2020.01.31-11.32.47:541][646]LogBlueprintUserMessages: [AIShootingController_C_5] NOISE
+[2020.01.31-11.32.47:541][646]LogBlueprintUserMessages: [AIShootingController_C_5] NOTSEE
+[2020.01.31-11.32.47:639][651]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2020.01.31-11.32.48:156][679]LogBlueprintUserMessages: [AttackAnimation_C_0] FAR
+[2020.01.31-11.32.48:246][683]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2020.01.31-11.32.48:447][694]LogBlueprintUserMessages: [AttackAnimation_C_0] FAR
+[2020.01.31-11.32.48:517][697]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.01.31-11.32.48:518][697]LogBlueprintUserMessages: [AIShootingController_C_3] NOISE
+[2020.01.31-11.32.48:518][697]LogBlueprintUserMessages: [AIShootingController_C_4] NOISE
+[2020.01.31-11.32.48:518][697]LogBlueprintUserMessages: [AIShootingController_C_5] NOISE
+[2020.01.31-11.32.48:518][697]LogBlueprintUserMessages: [AIShootingController_C_5] NOTSEE
+[2020.01.31-11.32.48:628][702]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.01.31-11.32.48:629][702]LogBlueprintUserMessages: [AIShootingController_C_3] NOISE
+[2020.01.31-11.32.48:629][702]LogBlueprintUserMessages: [AIShootingController_C_4] NOISE
+[2020.01.31-11.32.48:629][702]LogBlueprintUserMessages: [AIShootingController_C_4] NOTSEE
+[2020.01.31-11.32.48:629][702]LogBlueprintUserMessages: [AIShootingController_C_5] NOISE
+[2020.01.31-11.32.48:711][706]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2020.01.31-11.32.48:712][706]LogBlueprintUserMessages: [AIShootingController_C_5] Up
+[2020.01.31-11.32.48:712][706]LogBlueprintUserMessages: [AIShootingController_C_5] POsessingAnotherAI
+[2020.01.31-11.32.48:738][707]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.01.31-11.32.48:738][707]LogBlueprintUserMessages: [AIShootingController_C_3] NOISE
+[2020.01.31-11.32.48:738][707]LogBlueprintUserMessages: [AIShootingController_C_3] NOTSEE
+[2020.01.31-11.32.48:738][707]LogBlueprintUserMessages: [AIShootingController_C_4] NOISE
+[2020.01.31-11.32.48:738][707]LogBlueprintUserMessages: [AIShootingController_C_5] NOISE
+[2020.01.31-11.32.48:738][707]LogBlueprintUserMessages: [AIShootingController_C_5] NOTSEE
+[2020.01.31-11.32.48:755][708]LogBlueprintUserMessages: [AttackAnimation_C_0] FAR
+[2020.01.31-11.32.48:813][711]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2020.01.31-11.32.48:813][711]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.01.31-11.32.48:813][711]LogBlueprintUserMessages: [AIShootingController_C_3] NOISE
+[2020.01.31-11.32.48:813][711]LogBlueprintUserMessages: [AIShootingController_C_3] NOTSEE
+[2020.01.31-11.32.48:813][711]LogBlueprintUserMessages: [AIShootingController_C_4] NOISE
+[2020.01.31-11.32.48:813][711]LogBlueprintUserMessages: [AIShootingController_C_5] NOISE
+[2020.01.31-11.32.48:813][711]LogBlueprintUserMessages: [AIShootingController_C_5] NOTSEE
+[2020.01.31-11.32.48:896][716]LogBlueprintUserMessages: [AttackAnimation_C_0] FAR
+[2020.01.31-11.32.48:897][716]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2020.01.31-11.32.48:914][717]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.01.31-11.32.48:914][717]LogBlueprintUserMessages: [AIShootingController_C_3] NOISE
+[2020.01.31-11.32.48:914][717]LogBlueprintUserMessages: [AIShootingController_C_3] NOTSEE
+[2020.01.31-11.32.48:914][717]LogBlueprintUserMessages: [AIShootingController_C_4] NOISE
+[2020.01.31-11.32.48:914][717]LogBlueprintUserMessages: [AIShootingController_C_4] NOTSEE
+[2020.01.31-11.32.48:914][717]LogBlueprintUserMessages: [AIShootingController_C_5] NOISE
+[2020.01.31-11.32.48:914][717]LogBlueprintUserMessages: [AIShootingController_C_5] NOTSEE
+[2020.01.31-11.32.49:016][723]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2020.01.31-11.32.49:016][723]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.01.31-11.32.49:016][723]LogBlueprintUserMessages: [AIShootingController_C_3] NOISE
+[2020.01.31-11.32.49:016][723]LogBlueprintUserMessages: [AIShootingController_C_3] NOTSEE
+[2020.01.31-11.32.49:016][723]LogBlueprintUserMessages: [AIShootingController_C_4] NOISE
+[2020.01.31-11.32.49:016][723]LogBlueprintUserMessages: [AIShootingController_C_4] NOTSEE
+[2020.01.31-11.32.49:016][723]LogBlueprintUserMessages: [AIShootingController_C_5] NOISE
+[2020.01.31-11.32.49:016][723]LogBlueprintUserMessages: [AIShootingController_C_5] NOTSEE
+[2020.01.31-11.32.49:034][724]LogBlueprintUserMessages: [AttackAnimation_C_0] FAR
+[2020.01.31-11.32.49:100][728]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2020.01.31-11.32.49:117][729]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2020.01.31-11.32.49:117][729]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.01.31-11.32.49:117][729]LogBlueprintUserMessages: [AIShootingController_C_3] NOISE
+[2020.01.31-11.32.49:118][729]LogBlueprintUserMessages: [AIShootingController_C_3] NOTSEE
+[2020.01.31-11.32.49:118][729]LogBlueprintUserMessages: [AIShootingController_C_4] NOISE
+[2020.01.31-11.32.49:118][729]LogBlueprintUserMessages: [AIShootingController_C_4] NOTSEE
+[2020.01.31-11.32.49:118][729]LogBlueprintUserMessages: [AIShootingController_C_5] NOISE
+[2020.01.31-11.32.49:118][729]LogBlueprintUserMessages: [AIShootingController_C_5] NOTSEE
+[2020.01.31-11.32.49:193][734]LogBlueprintUserMessages: [AIShootingController_C_5] Up
+[2020.01.31-11.32.49:194][734]LogBlueprintUserMessages: [AIShootingController_C_5] POsessingAnotherAI
+[2020.01.31-11.32.49:211][735]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2020.01.31-11.32.49:211][735]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.01.31-11.32.49:211][735]LogBlueprintUserMessages: [AIShootingController_C_3] NOISE
+[2020.01.31-11.32.49:211][735]LogBlueprintUserMessages: [AIShootingController_C_3] NOTSEE
+[2020.01.31-11.32.49:211][735]LogBlueprintUserMessages: [AIShootingController_C_4] NOISE
+[2020.01.31-11.32.49:211][735]LogBlueprintUserMessages: [AIShootingController_C_4] NOTSEE
+[2020.01.31-11.32.49:211][735]LogBlueprintUserMessages: [AIShootingController_C_5] NOISE
+[2020.01.31-11.32.49:293][741]LogBlueprintUserMessages: [AttackAnimation_C_0] FAR
+[2020.01.31-11.32.49:297][741]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2020.01.31-11.32.49:928][783]LogBlueprintUserMessages: [AttackAnimation_C_0] FAR
+[2020.01.31-11.32.50:800][851]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2020.01.31-11.32.51:511][903]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.31-11.32.51:602][903]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.31-11.32.51:602][903]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.01.31-11.32.51:603][903]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.31-11.32.51:629][903]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.31-11.32.51:629][903]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.31-11.32.51:678][903]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.31-11.32.51:689][903]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2020.01.31-11.32.51:708][904]LogPlayLevel: Display: Destroying online subsystem :Context_140
+[2020.01.31-11.33.07:910][696]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.31-11.33.08:621][760]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2020.01.31-11.33.08:627][760]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.31-11.33.08:692][760]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2020.01.31-11.33.09:649][760]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/ThirdPersonExampleMap4F3EF097465FDE9B8979D39220D18AE0.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.01.31-11.33.09:713][760]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 1.064
+[2020.01.31-11.33.09:747][760]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/BulletTracer/Bullet_Trail" FILE="../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Art/BulletTracer/Bullet_Trail.uasset" SILENT=true
+[2020.01.31-11.33.09:859][760]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/Bullet_Trail112F3D8648D7692C401BD1806C8FD59B.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Art/BulletTracer/Bullet_Trail.uasset'
+[2020.01.31-11.34.19:366][715]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.34.31:929][468]LogAIModule: Creating AISystem for world Overview
+[2020.01.31-11.34.32:094][468]LogAssetEditorManager: Opening Asset editor for World /Game/SurvivalAssetPack/Maps/Overview.Overview
+[2020.01.31-11.34.32:147][468]LogUObjectHash: Compacting FUObjectHashTables data took   5.76ms
+[2020.01.31-11.34.32:150][468]Cmd: MAP LOAD FILE="../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/SurvivalAssetPack/Maps/Overview.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.31-11.34.32:150][468]LightingResults: New page: Lighting Build
+[2020.01.31-11.34.32:151][468]LoadErrors: New page: Loading map: Overview.umap
+[2020.01.31-11.34.32:155][468]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.31-11.34.32:156][468]MapCheck: New page: Map Check
+[2020.01.31-11.34.32:156][468]LightingResults: New page: Lighting Build
+[2020.01.31-11.34.32:215][468]LogUObjectHash: Compacting FUObjectHashTables data took   5.72ms
+[2020.01.31-11.34.32:913][468]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.31-11.34.32:968][468]LogUObjectHash: Compacting FUObjectHashTables data took   5.15ms
+[2020.01.31-11.34.33:011][468]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.31-11.34.33:011][468]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.088ms to complete.
+[2020.01.31-11.34.33:012][468]LogFileHelpers: Loading map 'Overview' took 0.864
+[2020.01.31-11.34.44:494][ 64]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_SleepingBag-RolledUp-Brown)
+[2020.01.31-11.34.49:833][504]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Knife)
+[2020.01.31-11.35.00:500][541]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Tent-Open)
+[2020.01.31-11.35.00:816][557]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_FirstAidKit)
+[2020.01.31-11.35.01:713][620]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.35.04:730][883]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.35.06:158][  8]Cmd: TRANSACTION UNDO
+[2020.01.31-11.35.06:158][  8]LogEditorTransaction: Undo Move Actors
+[2020.01.31-11.35.06:558][ 34]Cmd: TRANSACTION UNDO
+[2020.01.31-11.35.06:558][ 34]LogEditorTransaction: Undo Rotate Actors
+[2020.01.31-11.38.27:013][272]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PrimativeShelter)
+[2020.01.31-11.38.34:083][914]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Binocular)
+[2020.01.31-11.38.37:326][217]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Shovel)
+[2020.01.31-11.38.39:833][419]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Binocular)
+[2020.01.31-11.38.41:339][528]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.38.48:861][ 55]LogAIModule: Creating AISystem for world Level1_Walk
+[2020.01.31-11.38.48:889][ 55]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/LV1/Level1_Walk.Level1_Walk
+[2020.01.31-11.38.48:935][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   6.37ms
+[2020.01.31-11.38.49:802][ 55]LogSlate: Window 'Save Content' being destroyed
+[2020.01.31-11.38.49:851][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2020.01.31-11.38.49:986][ 55]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/Overview08087D244D1F497FE1D320A9A212B672.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/SurvivalAssetPack/Maps/Overview.umap'
+[2020.01.31-11.38.50:049][ 55]LogFileHelpers: Saving map 'Overview' took 0.244
+[2020.01.31-11.38.50:051][ 55]Cmd: MAP LOAD FILE="../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LV1/Level1_Walk.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.31-11.38.50:051][ 55]LightingResults: New page: Lighting Build
+[2020.01.31-11.38.50:052][ 55]LoadErrors: New page: Loading map: Level1_Walk.umap
+[2020.01.31-11.38.50:054][ 55]LogWorld: UWorld::CleanupWorld for Overview, bSessionEnded=true, bCleanupResources=true
+[2020.01.31-11.38.50:055][ 55]MapCheck: New page: Map Check
+[2020.01.31-11.38.50:055][ 55]LightingResults: New page: Lighting Build
+[2020.01.31-11.38.50:129][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   4.86ms
+[2020.01.31-11.38.53:689][ 55]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.31-11.38.53:779][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2020.01.31-11.38.53:821][ 55]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.31-11.38.53:821][ 55]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.094ms to complete.
+[2020.01.31-11.38.53:821][ 55]LogFileHelpers: Loading map 'Level1_Walk' took 3.771
+[2020.01.31-11.38.53:936][ 55]LogAIModule: Creating AISystem for world Overview
+[2020.01.31-11.44.53:170][373]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.45.02:395][906]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.45.02:542][910]LogActorFactory: Actor Factory created SM_Axe-Blood
+[2020.01.31-11.45.03:028][929]LogActorFactory: Actor Factory created SM_Axe-Blood
+[2020.01.31-11.45.07:883][274]Cmd: DELETE
+[2020.01.31-11.45.07:883][274]Cmd: ACTOR DELETE
+[2020.01.31-11.45.07:943][274]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.01.31-11.45.07:991][274]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
+[2020.01.31-11.45.07:992][274]LogEditorActor: Deleted 1 Actors (0.073 secs)
+[2020.01.31-11.45.09:644][382]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.45.09:755][385]LogActorFactory: Actor Factory created SM_Binocular
+[2020.01.31-11.45.11:395][496]LogActorFactory: Actor Factory created SM_Binocular
+[2020.01.31-11.45.15:959][775]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.45.19:346][ 26]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.45.24:773][436]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.45.24:856][443]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.31-11.45.24:915][443]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/LV1/Level1_Walk.Level1_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV1/Level1_Walk.Level1_Walk:PersistentLevel.Level1_Walk' with GeneratedClass '/Game/Levels/LV1/Level1_Walk.Level1_Walk_C' with ClassGeneratedBy '/Game/Levels/LV1/Level1_Walk.Level1_Walk:PersistentLevel.Level1_Walk'
+[2020.01.31-11.45.24:936][443]LogFMOD: Creating runtime Studio System
+[2020.01.31-11.45.24:937][443]LogFMOD: Default sample rate = 48000
+[2020.01.31-11.45.24:937][443]LogFMOD: System sample rate = 44100
+[2020.01.31-11.45.24:937][443]LogFMOD: Matching system sample rate 44100
+[2020.01.31-11.45.24:946][443]LogFMOD: Loading Banks
+[2020.01.31-11.45.25:039][443]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.31-11.45.25:039][443]PIE: New page: PIE session: Level1_Walk (Jan 31, 2020, 1:45:25 PM)
+[2020.01.31-11.45.25:040][443]LogPlayLevel: Creating play world package: /Game/Levels/LV1/UEDPIE_0_Level1_Walk
+[2020.01.31-11.45.25:177][443]LogPlayLevel: PIE: StaticDuplicateObject took: (0.137005s)
+[2020.01.31-11.45.25:178][443]LogAIModule: Creating AISystem for world Level1_Walk
+[2020.01.31-11.45.25:178][443]LogPlayLevel: PIE: World Init took: (0.001343s)
+[2020.01.31-11.45.25:178][443]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV1/Level1_Walk.Level1_Walk to /Game/Levels/LV1/UEDPIE_0_Level1_Walk.Level1_Walk (0.138659s)
+[2020.01.31-11.45.25:224][443]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2020.01.31-11.45.25:241][443]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.31-11.45.25:247][443]LogInit: FAudioDevice initialized.
+[2020.01.31-11.45.27:357][443]LogInit: Error: Failed to load cursor '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/None'
+[2020.01.31-11.45.27:387][443]LogLoad: Game class is 'GameMode'
+[2020.01.31-11.45.27:404][443]LogWorld: Bringing World /Game/Levels/LV1/UEDPIE_0_Level1_Walk.Level1_Walk up for play (max tick rate 0) at 2020.01.31-12.45.27
+[2020.01.31-11.45.27:406][443]LogWorld: Bringing up level for play took: 0.018440
+[2020.01.31-11.45.27:461][443]LogOnline: OSS: Creating online subsystem instance for: :Context_141
+[2020.01.31-11.45.27:480][443]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.31-11.45.27:481][443]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.31-11.45.27:481][443]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.01.31-11.45.27:552][443]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.01.31-11.45.27:552][443]PIE: Play in editor start time for /Game/Levels/LV1/UEDPIE_0_Level1_Walk 3.555
+[2020.01.31-11.45.27:553][443]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/LV1/Level1_Walk.Level1_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV1/Level1_Walk.Level1_Walk:PersistentLevel.Level1_Walk' with GeneratedClass '/Game/Levels/LV1/Level1_Walk.Level1_Walk_C' with ClassGeneratedBy '/Game/Levels/LV1/Level1_Walk.Level1_Walk:PersistentLevel.Level1_Walk'
+[2020.01.31-11.45.31:281][767]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/LV1/Level1_Walk.Level1_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV1/Level1_Walk.Level1_Walk:PersistentLevel.Level1_Walk' with GeneratedClass '/Game/Levels/LV1/Level1_Walk.Level1_Walk_C' with ClassGeneratedBy '/Game/Levels/LV1/Level1_Walk.Level1_Walk:PersistentLevel.Level1_Walk'
+[2020.01.31-11.45.31:398][767]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.31-11.45.31:398][767]LogWorld: BeginTearingDown for /Game/Levels/LV1/UEDPIE_0_Level1_Walk
+[2020.01.31-11.45.31:398][767]LogWorld: UWorld::CleanupWorld for Level1_Walk, bSessionEnded=true, bCleanupResources=true
+[2020.01.31-11.45.31:407][767]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.31-11.45.31:407][767]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/LV1/Level1_Walk.Level1_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV1/Level1_Walk.Level1_Walk:PersistentLevel.Level1_Walk' with GeneratedClass '/Game/Levels/LV1/Level1_Walk.Level1_Walk_C' with ClassGeneratedBy '/Game/Levels/LV1/Level1_Walk.Level1_Walk:PersistentLevel.Level1_Walk'
+[2020.01.31-11.45.31:452][767]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.31-11.45.31:461][767]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2020.01.31-11.45.31:490][768]LogPlayLevel: Display: Destroying online subsystem :Context_141
+[2020.01.31-11.45.34:040][927]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Binocular)
+[2020.01.31-11.45.36:320][115]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.45.37:175][189]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.01.31-11.45.37:262][190]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2020.01.31-11.45.37:987][248]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Binocular)
+[2020.01.31-11.45.42:442][639]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.45.45:875][929]Cmd: TRANSACTION UNDO
+[2020.01.31-11.45.45:875][929]LogEditorTransaction: Undo Rotate Actors
+[2020.01.31-11.45.46:190][941]Cmd: TRANSACTION UNDO
+[2020.01.31-11.45.46:190][941]LogEditorTransaction: Undo Rotate Actors
+[2020.01.31-11.45.47:151][ 12]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.45.49:882][232]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.45.56:446][756]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.45.58:681][953]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.46.17:777][497]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bush_1)
+[2020.01.31-11.46.22:857][852]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.46.22:991][856]LogActorFactory: Actor Factory created SM_Shovel
+[2020.01.31-11.46.23:731][908]LogActorFactory: Actor Factory created SM_Shovel
+[2020.01.31-11.46.26:863][ 94]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.46.30:534][342]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.46.39:936][921]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.01.31-11.46.41:139][999]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Shovel)
+[2020.01.31-11.46.42:440][ 87]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.46.42:523][ 93]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.31-11.46.42:561][ 93]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/LV1/Level1_Walk.Level1_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV1/Level1_Walk.Level1_Walk:PersistentLevel.Level1_Walk' with GeneratedClass '/Game/Levels/LV1/Level1_Walk.Level1_Walk_C' with ClassGeneratedBy '/Game/Levels/LV1/Level1_Walk.Level1_Walk:PersistentLevel.Level1_Walk'
+[2020.01.31-11.46.42:609][ 93]LogFMOD: Creating runtime Studio System
+[2020.01.31-11.46.42:611][ 93]LogFMOD: Default sample rate = 48000
+[2020.01.31-11.46.42:611][ 93]LogFMOD: System sample rate = 44100
+[2020.01.31-11.46.42:611][ 93]LogFMOD: Matching system sample rate 44100
+[2020.01.31-11.46.42:629][ 93]LogFMOD: Loading Banks
+[2020.01.31-11.46.42:670][ 93]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.31-11.46.42:670][ 93]PIE: New page: PIE session: Level1_Walk (Jan 31, 2020, 1:46:42 PM)
+[2020.01.31-11.46.42:671][ 93]LogPlayLevel: Creating play world package: /Game/Levels/LV1/UEDPIE_0_Level1_Walk
+[2020.01.31-11.46.42:810][ 93]LogPlayLevel: PIE: StaticDuplicateObject took: (0.138980s)
+[2020.01.31-11.46.42:811][ 93]LogAIModule: Creating AISystem for world Level1_Walk
+[2020.01.31-11.46.42:811][ 93]LogPlayLevel: PIE: World Init took: (0.001348s)
+[2020.01.31-11.46.42:811][ 93]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV1/Level1_Walk.Level1_Walk to /Game/Levels/LV1/UEDPIE_0_Level1_Walk.Level1_Walk (0.140535s)
+[2020.01.31-11.46.42:851][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2020.01.31-11.46.42:859][ 93]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.31-11.46.42:865][ 93]LogInit: FAudioDevice initialized.
+[2020.01.31-11.46.42:967][ 93]LogInit: Error: Failed to load cursor '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/None'
+[2020.01.31-11.46.42:974][ 93]LogLoad: Game class is 'GameMode'
+[2020.01.31-11.46.42:984][ 93]LogWorld: Bringing World /Game/Levels/LV1/UEDPIE_0_Level1_Walk.Level1_Walk up for play (max tick rate 0) at 2020.01.31-12.46.42
+[2020.01.31-11.46.42:985][ 93]LogWorld: Bringing up level for play took: 0.010065
+[2020.01.31-11.46.42:996][ 93]LogOnline: OSS: Creating online subsystem instance for: :Context_142
+[2020.01.31-11.46.42:998][ 93]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.31-11.46.42:998][ 93]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.31-11.46.42:998][ 93]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.01.31-11.46.43:000][ 93]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.01.31-11.46.43:001][ 93]PIE: Play in editor start time for /Game/Levels/LV1/UEDPIE_0_Level1_Walk 1.002
+[2020.01.31-11.46.43:001][ 93]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/LV1/Level1_Walk.Level1_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV1/Level1_Walk.Level1_Walk:PersistentLevel.Level1_Walk' with GeneratedClass '/Game/Levels/LV1/Level1_Walk.Level1_Walk_C' with ClassGeneratedBy '/Game/Levels/LV1/Level1_Walk.Level1_Walk:PersistentLevel.Level1_Walk'
+[2020.01.31-11.46.47:449][486]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/LV1/Level1_Walk.Level1_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV1/Level1_Walk.Level1_Walk:PersistentLevel.Level1_Walk' with GeneratedClass '/Game/Levels/LV1/Level1_Walk.Level1_Walk_C' with ClassGeneratedBy '/Game/Levels/LV1/Level1_Walk.Level1_Walk:PersistentLevel.Level1_Walk'
+[2020.01.31-11.46.47:547][486]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.31-11.46.47:547][486]LogWorld: BeginTearingDown for /Game/Levels/LV1/UEDPIE_0_Level1_Walk
+[2020.01.31-11.46.47:548][486]LogWorld: UWorld::CleanupWorld for Level1_Walk, bSessionEnded=true, bCleanupResources=true
+[2020.01.31-11.46.47:556][486]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.31-11.46.47:557][486]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/LV1/Level1_Walk.Level1_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV1/Level1_Walk.Level1_Walk:PersistentLevel.Level1_Walk' with GeneratedClass '/Game/Levels/LV1/Level1_Walk.Level1_Walk_C' with ClassGeneratedBy '/Game/Levels/LV1/Level1_Walk.Level1_Walk:PersistentLevel.Level1_Walk'
+[2020.01.31-11.46.47:608][486]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.31-11.46.47:617][486]LogUObjectHash: Compacting FUObjectHashTables data took   5.29ms
+[2020.01.31-11.46.47:647][487]LogPlayLevel: Display: Destroying online subsystem :Context_142
+[2020.01.31-11.46.49:774][612]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Shovel)
+[2020.01.31-11.46.52:064][786]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.47.00:607][396]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.48.14:599][395]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.48.14:707][397]LogActorFactory: Actor Factory created SM_SleepingBag-RolledUp-Brown
+[2020.01.31-11.48.16:416][505]LogActorFactory: Actor Factory created SM_SleepingBag-RolledUp-Brown
+[2020.01.31-11.48.23:028][890]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.48.29:643][255]LogAIModule: Creating AISystem for world Level2_Walk
+[2020.01.31-11.48.29:710][255]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/LV2/Level2_Walk.Level2_Walk
+[2020.01.31-11.48.29:766][255]LogUObjectHash: Compacting FUObjectHashTables data took   6.08ms
+[2020.01.31-11.48.30:369][255]LogSlate: Window 'Save Content' being destroyed
+[2020.01.31-11.48.30:418][255]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2020.01.31-11.48.31:442][255]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/Level1_Walk83F8F8E44D61EF6FBD669C9FD21D4093.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LV1/Level1_Walk.umap'
+[2020.01.31-11.48.31:495][255]LogFileHelpers: Saving map 'Level1_Walk' took 1.121
+[2020.01.31-11.48.31:496][255]Cmd: MAP LOAD FILE="../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LV2/Level2_Walk.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.31-11.48.31:496][255]LightingResults: New page: Lighting Build
+[2020.01.31-11.48.31:497][255]LoadErrors: New page: Loading map: Level2_Walk.umap
+[2020.01.31-11.48.31:501][255]LogWorld: UWorld::CleanupWorld for Level1_Walk, bSessionEnded=true, bCleanupResources=true
+[2020.01.31-11.48.31:502][255]MapCheck: New page: Map Check
+[2020.01.31-11.48.31:502][255]LightingResults: New page: Lighting Build
+[2020.01.31-11.48.31:558][255]LogUObjectHash: Compacting FUObjectHashTables data took   7.90ms
+[2020.01.31-11.48.31:607][255]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2020.01.31-11.48.31:657][255]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2020.01.31-11.48.35:263][255]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.31-11.48.35:339][255]LogUObjectHash: Compacting FUObjectHashTables data took   6.63ms
+[2020.01.31-11.48.35:391][255]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.31-11.48.35:391][255]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.101ms to complete.
+[2020.01.31-11.48.35:391][255]LogFileHelpers: Loading map 'Level2_Walk' took 3.896
+[2020.01.31-11.48.35:649][255]LogAIModule: Creating AISystem for world Level1_Walk
+[2020.01.31-11.48.41:308][549]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.48.46:258][813]LogActorFactory: Actor Factory created SM_Binocular
+[2020.01.31-11.48.47:579][887]LogActorFactory: Actor Factory created SM_Binocular
+[2020.01.31-11.48.58:208][621]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.49.02:287][836]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.49.17:943][875]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.49.18:070][877]LogActorFactory: Actor Factory created SM_DrinkingBottle
+[2020.01.31-11.49.18:735][913]LogActorFactory: Actor Factory created SM_DrinkingBottle
+[2020.01.31-11.49.21:517][ 57]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.49.32:121][588]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.49.34:349][722]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.49.37:109][885]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.49.40:344][ 80]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.49.42:701][220]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.49.46:407][442]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.49.52:632][796]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.49.54:577][913]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.49.57:538][ 72]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.50.00:529][254]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.50.03:027][404]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.50.06:185][598]Cmd: DELETE
+[2020.01.31-11.50.06:185][598]Cmd: ACTOR DELETE
+[2020.01.31-11.50.06:193][598]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.01.31-11.50.06:243][598]LogUObjectHash: Compacting FUObjectHashTables data took   6.17ms
+[2020.01.31-11.50.06:243][598]LogEditorActor: Deleted 1 Actors (0.059 secs)
+[2020.01.31-11.50.06:462][610]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DrinkingBottle)
+[2020.01.31-11.50.08:043][704]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.50.10:595][856]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.50.15:035][127]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.50.19:994][427]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.50.23:149][610]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.50.29:674][991]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.50.33:270][210]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.50.39:339][569]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.50.39:718][592]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.31-11.50.39:764][592]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/LV2/Level2_Walk.Level2_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV2/Level2_Walk.Level2_Walk:PersistentLevel.Level2_Walk' with GeneratedClass '/Game/Levels/LV2/Level2_Walk.Level2_Walk_C' with ClassGeneratedBy '/Game/Levels/LV2/Level2_Walk.Level2_Walk:PersistentLevel.Level2_Walk'
+[2020.01.31-11.50.39:794][592]LogFMOD: Creating runtime Studio System
+[2020.01.31-11.50.39:795][592]LogFMOD: Default sample rate = 48000
+[2020.01.31-11.50.39:795][592]LogFMOD: System sample rate = 44100
+[2020.01.31-11.50.39:795][592]LogFMOD: Matching system sample rate 44100
+[2020.01.31-11.50.39:805][592]LogFMOD: Loading Banks
+[2020.01.31-11.50.39:845][592]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.31-11.50.39:845][592]PIE: New page: PIE session: Level2_Walk (Jan 31, 2020, 1:50:39 PM)
+[2020.01.31-11.50.39:845][592]LogPlayLevel: Creating play world package: /Game/Levels/LV2/UEDPIE_0_Level2_Walk
+[2020.01.31-11.50.39:942][592]LogPlayLevel: PIE: StaticDuplicateObject took: (0.096933s)
+[2020.01.31-11.50.39:943][592]LogAIModule: Creating AISystem for world Level2_Walk
+[2020.01.31-11.50.39:944][592]LogPlayLevel: PIE: World Init took: (0.001354s)
+[2020.01.31-11.50.39:944][592]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV2/Level2_Walk.Level2_Walk to /Game/Levels/LV2/UEDPIE_0_Level2_Walk.Level2_Walk (0.098615s)
+[2020.01.31-11.50.39:999][592]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2020.01.31-11.50.40:009][592]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.31-11.50.40:016][592]LogInit: FAudioDevice initialized.
+[2020.01.31-11.50.40:129][592]LogInit: Error: Failed to load cursor '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/None'
+[2020.01.31-11.50.40:139][592]LogLoad: Game class is 'GameMode'
+[2020.01.31-11.50.40:150][592]LogWorld: Bringing World /Game/Levels/LV2/UEDPIE_0_Level2_Walk.Level2_Walk up for play (max tick rate 0) at 2020.01.31-12.50.40
+[2020.01.31-11.50.40:151][592]LogWorld: Bringing up level for play took: 0.011887
+[2020.01.31-11.50.40:163][592]LogOnline: OSS: Creating online subsystem instance for: :Context_143
+[2020.01.31-11.50.40:165][592]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.31-11.50.40:165][592]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.31-11.50.40:165][592]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.01.31-11.50.40:171][592]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.01.31-11.50.40:171][592]PIE: Play in editor start time for /Game/Levels/LV2/UEDPIE_0_Level2_Walk 0.168
+[2020.01.31-11.50.40:171][592]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/LV2/Level2_Walk.Level2_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV2/Level2_Walk.Level2_Walk:PersistentLevel.Level2_Walk' with GeneratedClass '/Game/Levels/LV2/Level2_Walk.Level2_Walk_C' with ClassGeneratedBy '/Game/Levels/LV2/Level2_Walk.Level2_Walk:PersistentLevel.Level2_Walk'
+[2020.01.31-11.50.45:349][ 59]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/LV2/Level2_Walk.Level2_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV2/Level2_Walk.Level2_Walk:PersistentLevel.Level2_Walk' with GeneratedClass '/Game/Levels/LV2/Level2_Walk.Level2_Walk_C' with ClassGeneratedBy '/Game/Levels/LV2/Level2_Walk.Level2_Walk:PersistentLevel.Level2_Walk'
+[2020.01.31-11.50.45:443][ 59]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.31-11.50.45:444][ 59]LogWorld: BeginTearingDown for /Game/Levels/LV2/UEDPIE_0_Level2_Walk
+[2020.01.31-11.50.45:444][ 59]LogWorld: UWorld::CleanupWorld for Level2_Walk, bSessionEnded=true, bCleanupResources=true
+[2020.01.31-11.50.45:457][ 59]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.31-11.50.45:457][ 59]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/LV2/Level2_Walk.Level2_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV2/Level2_Walk.Level2_Walk:PersistentLevel.Level2_Walk' with GeneratedClass '/Game/Levels/LV2/Level2_Walk.Level2_Walk_C' with ClassGeneratedBy '/Game/Levels/LV2/Level2_Walk.Level2_Walk:PersistentLevel.Level2_Walk'
+[2020.01.31-11.50.45:519][ 59]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.31-11.50.45:527][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2020.01.31-11.50.45:555][ 60]LogPlayLevel: Display: Destroying online subsystem :Context_143
+[2020.01.31-11.50.47:437][150]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DrinkingBottle2)
+[2020.01.31-11.50.50:935][336]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.50.52:994][452]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.50.55:874][616]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.50.59:744][842]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.51.06:759][227]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.51.10:699][437]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.51.15:206][705]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.51.17:471][839]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.51.17:535][843]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.31-11.51.17:582][843]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/LV2/Level2_Walk.Level2_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV2/Level2_Walk.Level2_Walk:PersistentLevel.Level2_Walk' with GeneratedClass '/Game/Levels/LV2/Level2_Walk.Level2_Walk_C' with ClassGeneratedBy '/Game/Levels/LV2/Level2_Walk.Level2_Walk:PersistentLevel.Level2_Walk'
+[2020.01.31-11.51.17:624][843]LogFMOD: Creating runtime Studio System
+[2020.01.31-11.51.17:625][843]LogFMOD: Default sample rate = 48000
+[2020.01.31-11.51.17:625][843]LogFMOD: System sample rate = 44100
+[2020.01.31-11.51.17:625][843]LogFMOD: Matching system sample rate 44100
+[2020.01.31-11.51.17:635][843]LogFMOD: Loading Banks
+[2020.01.31-11.51.17:676][843]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.31-11.51.17:676][843]PIE: New page: PIE session: Level2_Walk (Jan 31, 2020, 1:51:17 PM)
+[2020.01.31-11.51.17:676][843]LogPlayLevel: Creating play world package: /Game/Levels/LV2/UEDPIE_0_Level2_Walk
+[2020.01.31-11.51.17:778][843]LogPlayLevel: PIE: StaticDuplicateObject took: (0.101647s)
+[2020.01.31-11.51.17:780][843]LogAIModule: Creating AISystem for world Level2_Walk
+[2020.01.31-11.51.17:780][843]LogPlayLevel: PIE: World Init took: (0.002010s)
+[2020.01.31-11.51.17:780][843]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV2/Level2_Walk.Level2_Walk to /Game/Levels/LV2/UEDPIE_0_Level2_Walk.Level2_Walk (0.103835s)
+[2020.01.31-11.51.17:828][843]LogUObjectHash: Compacting FUObjectHashTables data took   4.95ms
+[2020.01.31-11.51.17:837][843]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.31-11.51.17:844][843]LogInit: FAudioDevice initialized.
+[2020.01.31-11.51.17:963][843]LogInit: Error: Failed to load cursor '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/None'
+[2020.01.31-11.51.17:969][843]LogLoad: Game class is 'GameMode'
+[2020.01.31-11.51.17:981][843]LogWorld: Bringing World /Game/Levels/LV2/UEDPIE_0_Level2_Walk.Level2_Walk up for play (max tick rate 0) at 2020.01.31-12.51.17
+[2020.01.31-11.51.17:982][843]LogWorld: Bringing up level for play took: 0.012188
+[2020.01.31-11.51.17:994][843]LogOnline: OSS: Creating online subsystem instance for: :Context_144
+[2020.01.31-11.51.17:998][843]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.31-11.51.17:998][843]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.31-11.51.17:998][843]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.01.31-11.51.18:001][843]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.01.31-11.51.18:001][843]PIE: Play in editor start time for /Game/Levels/LV2/UEDPIE_0_Level2_Walk -0.002
+[2020.01.31-11.51.18:001][843]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/LV2/Level2_Walk.Level2_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV2/Level2_Walk.Level2_Walk:PersistentLevel.Level2_Walk' with GeneratedClass '/Game/Levels/LV2/Level2_Walk.Level2_Walk_C' with ClassGeneratedBy '/Game/Levels/LV2/Level2_Walk.Level2_Walk:PersistentLevel.Level2_Walk'
+[2020.01.31-11.51.23:493][354]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/LV2/Level2_Walk.Level2_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV2/Level2_Walk.Level2_Walk:PersistentLevel.Level2_Walk' with GeneratedClass '/Game/Levels/LV2/Level2_Walk.Level2_Walk_C' with ClassGeneratedBy '/Game/Levels/LV2/Level2_Walk.Level2_Walk:PersistentLevel.Level2_Walk'
+[2020.01.31-11.51.23:599][354]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.31-11.51.23:599][354]LogWorld: BeginTearingDown for /Game/Levels/LV2/UEDPIE_0_Level2_Walk
+[2020.01.31-11.51.23:600][354]LogWorld: UWorld::CleanupWorld for Level2_Walk, bSessionEnded=true, bCleanupResources=true
+[2020.01.31-11.51.23:613][354]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.31-11.51.23:613][354]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/LV2/Level2_Walk.Level2_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV2/Level2_Walk.Level2_Walk:PersistentLevel.Level2_Walk' with GeneratedClass '/Game/Levels/LV2/Level2_Walk.Level2_Walk_C' with ClassGeneratedBy '/Game/Levels/LV2/Level2_Walk.Level2_Walk:PersistentLevel.Level2_Walk'
+[2020.01.31-11.51.23:679][354]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.31-11.51.23:687][354]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2020.01.31-11.51.23:716][355]LogPlayLevel: Display: Destroying online subsystem :Context_144
+[2020.01.31-11.51.31:202][689]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.51.31:298][690]LogActorFactory: Actor Factory created SM_GasLamp
+[2020.01.31-11.51.31:794][714]LogActorFactory: Actor Factory created SM_GasLamp
+[2020.01.31-11.51.32:597][755]Cmd: DELETE
+[2020.01.31-11.51.32:597][755]Cmd: ACTOR DELETE
+[2020.01.31-11.51.32:608][755]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.01.31-11.51.32:659][755]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2020.01.31-11.51.32:659][755]LogEditorActor: Deleted 1 Actors (0.062 secs)
+[2020.01.31-11.51.35:977][880]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.51.38:670][  2]MapCheck: New page: Map Check
+[2020.01.31-11.51.38:749][  2]LightingResults: New page: Lighting Build - Jan 31, 2020, 1:51:38 PM
+[2020.01.31-11.51.43:408][  2]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.01.31-11.51.43:715][  2]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.01.31-11.51.43:855][  2]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.01.31-11.51.45:471][  2]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.01.31-11.51.45:472][  2]LogSwarmInterface: [TryOpenConnection] Local Process ID is 7624
+[2020.01.31-11.51.52:775][  2]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.01.31-11.51.52:775][  2]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.01.31-11.51.52:775][  2]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.01.31-11.51.52:775][  2]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.01.31-11.51.52:775][  2]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.01.31-11.51.53:201][  2]LogEditorBuildUtils: Build time 0:14
+[2020.01.31-11.51.53:254][  3]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Binoculars, compiling. 
+[2020.01.31-11.51.53:275][  3]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.01.31-11.51.53:275][  3]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.01.31-11.51.53:275][  3]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Binoculars, compiling. 
+[2020.01.31-11.51.53:317][  4]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.01.31-11.51.53:318][  4]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.01.31-11.51.53:318][  4]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_DrinkingBottle, compiling. 
+[2020.01.31-11.51.53:335][  4]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_DrinkingBottle, compiling. 
+[2020.01.31-11.51.56:700][  5]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.01.31-11.51.56:701][  5]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.01.31-11.51.57:254][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2020.01.31-11.52.22:975][ 78]LightingResults: Warning: SM_Backpack Object has overlapping UVs.
+[2020.01.31-11.52.22:975][ 78]LightingResults: SM_Backpack Lightmap UV are overlapping by 1.9%. Please adjust content - Enable Error Coloring to visualize.
+[2020.01.31-11.52.23:648][ 80]LightingResults: Warning: SM_Backpack Object has overlapping UVs.
+[2020.01.31-11.52.23:648][ 80]LightingResults: SM_Backpack Lightmap UV are overlapping by 1.9%. Please adjust content - Enable Error Coloring to visualize.
+[2020.01.31-11.52.29:674][ 98]Job is a success!
+[2020.01.31-11.52.30:361][ 99]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.022s
+[2020.01.31-11.52.30:361][ 99]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.01.31-11.52.30:361][ 99]LogVolumetricLightmapImport:      BrickData 220x5x5 = 0.2Mb
+[2020.01.31-11.52.30:361][ 99]LogVolumetricLightmapImport:      Bricks at Level
+[2020.01.31-11.52.30:361][ 99]LogVolumetricLightmapImport:          0: 2.3% covering 100.0% of volume
+[2020.01.31-11.52.30:361][ 99]LogVolumetricLightmapImport:          1: 9.1% covering 6.3% of volume
+[2020.01.31-11.52.30:361][ 99]LogVolumetricLightmapImport:          2: 88.6% covering 1.0% of volume
+[2020.01.31-11.52.32:105][ 99]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 256X128)
+[2020.01.31-11.52.32:105][ 99]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2020.01.31-11.52.32:105][ 99]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2020.01.31-11.52.32:105][ 99]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 256X256)
+[2020.01.31-11.52.32:105][ 99]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2020.01.31-11.52.32:105][ 99]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 256X256)
+[2020.01.31-11.52.32:105][ 99]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 256X128)
+[2020.01.31-11.52.32:105][ 99]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 256X256)
+[2020.01.31-11.52.32:105][ 99]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 256X256)
+[2020.01.31-11.52.32:105][ 99]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 256X128)
+[2020.01.31-11.52.32:105][ 99]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 256X256)
+[2020.01.31-11.52.32:105][ 99]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 256X256)
+[2020.01.31-11.52.32:105][ 99]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 256X128)
+[2020.01.31-11.52.32:105][ 99]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 256X256)
+[2020.01.31-11.52.32:105][ 99]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 256X256)
+[2020.01.31-11.52.32:105][ 99]LogTexture: Display: Building textures: SkyOcclusion0_6 (AutoDXT, 256X128)
+[2020.01.31-11.52.32:105][ 99]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 256X256)
+[2020.01.31-11.52.32:105][ 99]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 256X256)
+[2020.01.31-11.52.32:105][ 99]LogTexture: Display: Building textures: SkyOcclusion0_7 (AutoDXT, 256X128)
+[2020.01.31-11.52.32:105][ 99]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 256X256)
+[2020.01.31-11.52.32:105][ 99]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 256X256)
+[2020.01.31-11.52.32:105][ 99]LogTexture: Display: Building textures: SkyOcclusion1_8 (AutoDXT, 256X128)
+[2020.01.31-11.52.32:105][ 99]LogTexture: Display: Building textures: HQ_Lightmap1_8 (AutoDXT, 256X256)
+[2020.01.31-11.52.32:105][ 99]LogTexture: Display: Building textures: LQ_Lightmap_1_8 (DXT1, 256X256)
+[2020.01.31-11.52.32:105][ 99]LogTexture: Display: Building textures: SkyOcclusion1_9 (AutoDXT, 256X128)
+[2020.01.31-11.52.32:105][ 99]LogTexture: Display: Building textures: HQ_Lightmap1_9 (AutoDXT, 256X256)
+[2020.01.31-11.52.32:105][ 99]LogTexture: Display: Building textures: LQ_Lightmap_1_9 (DXT1, 256X256)
+[2020.01.31-11.52.32:105][ 99]LogTexture: Display: Building textures: SkyOcclusion1_10 (AutoDXT, 256X128)
+[2020.01.31-11.52.32:105][ 99]LogTexture: Display: Building textures: HQ_Lightmap1_10 (AutoDXT, 256X256)
+[2020.01.31-11.52.32:105][ 99]LogTexture: Display: Building textures: SkyOcclusion1_11 (AutoDXT, 128X64)
+[2020.01.31-11.52.32:105][ 99]LogTexture: Display: Building textures: HQ_Lightmap1_11 (AutoDXT, 128X128)
+[2020.01.31-11.52.32:105][ 99]LogTexture: Display: Building textures: LQ_Lightmap_1_11 (DXT1, 128X128)
+[2020.01.31-11.52.32:106][ 99]LogTexture: Display: Building textures: LQ_Lightmap_1_10 (DXT1, 256X256)
+[2020.01.31-11.52.32:106][ 99]LogTexture: Display: Building textures: SkyOcclusion1_12 (AutoDXT, 256X128)
+[2020.01.31-11.52.32:106][ 99]LogTexture: Display: Building textures: HQ_Lightmap1_12 (AutoDXT, 256X256)
+[2020.01.31-11.52.32:106][ 99]LogTexture: Display: Building textures: LQ_Lightmap_1_12 (DXT1, 256X256)
+[2020.01.31-11.52.32:106][ 99]LogTexture: Display: Building textures: SkyOcclusion1_13 (AutoDXT, 256X128)
+[2020.01.31-11.52.32:106][ 99]LogTexture: Display: Building textures: HQ_Lightmap1_13 (AutoDXT, 256X256)
+[2020.01.31-11.52.32:106][ 99]LogTexture: Display: Building textures: LQ_Lightmap_1_13 (DXT1, 256X256)
+[2020.01.31-11.52.32:106][ 99]LogTexture: Display: Building textures: SkyOcclusion1_14 (AutoDXT, 256X128)
+[2020.01.31-11.52.32:106][ 99]LogTexture: Display: Building textures: HQ_Lightmap1_14 (AutoDXT, 256X256)
+[2020.01.31-11.52.32:106][ 99]LogTexture: Display: Building textures: LQ_Lightmap_1_14 (DXT1, 256X256)
+[2020.01.31-11.52.32:106][ 99]LogTexture: Display: Building textures: SkyOcclusion1_15 (AutoDXT, 256X128)
+[2020.01.31-11.52.32:106][ 99]LogTexture: Display: Building textures: HQ_Lightmap1_15 (AutoDXT, 256X256)
+[2020.01.31-11.52.32:106][ 99]LogTexture: Display: Building textures: LQ_Lightmap_1_15 (DXT1, 256X256)
+[2020.01.31-11.52.32:106][ 99]LogTexture: Display: Building textures: SkyOcclusion1_16 (AutoDXT, 256X128)
+[2020.01.31-11.52.32:106][ 99]LogTexture: Display: Building textures: HQ_Lightmap1_16 (AutoDXT, 256X256)
+[2020.01.31-11.52.32:106][ 99]LogTexture: Display: Building textures: LQ_Lightmap_1_16 (DXT1, 256X256)
+[2020.01.31-11.52.32:106][ 99]LogTexture: Display: Building textures: SkyOcclusion1_17 (AutoDXT, 256X128)
+[2020.01.31-11.52.32:106][ 99]LogTexture: Display: Building textures: HQ_Lightmap1_17 (AutoDXT, 256X256)
+[2020.01.31-11.52.32:106][ 99]LogTexture: Display: Building textures: LQ_Lightmap_1_17 (DXT1, 256X256)
+[2020.01.31-11.52.32:106][ 99]LogTexture: Display: Building textures: SkyOcclusion1_18 (AutoDXT, 256X128)
+[2020.01.31-11.52.32:106][ 99]LogTexture: Display: Building textures: HQ_Lightmap1_18 (AutoDXT, 256X256)
+[2020.01.31-11.52.32:106][ 99]LogTexture: Display: Building textures: LQ_Lightmap_1_18 (DXT1, 256X256)
+[2020.01.31-11.52.32:106][ 99]LogTexture: Display: Building textures: SkyOcclusion1_19 (AutoDXT, 256X128)
+[2020.01.31-11.52.32:106][ 99]LogTexture: Display: Building textures: HQ_Lightmap1_19 (AutoDXT, 256X256)
+[2020.01.31-11.52.32:106][ 99]LogTexture: Display: Building textures: LQ_Lightmap_1_19 (DXT1, 256X256)
+[2020.01.31-11.52.32:106][ 99]LogTexture: Display: Building textures: SkyOcclusion1_20 (AutoDXT, 256X128)
+[2020.01.31-11.52.32:106][ 99]LogTexture: Display: Building textures: HQ_Lightmap1_20 (AutoDXT, 256X256)
+[2020.01.31-11.52.32:106][ 99]LogTexture: Display: Building textures: LQ_Lightmap_1_20 (DXT1, 256X256)
+[2020.01.31-11.52.32:106][ 99]LogTexture: Display: Building textures: SkyOcclusion1_21 (AutoDXT, 128X64)
+[2020.01.31-11.52.32:106][ 99]LogTexture: Display: Building textures: HQ_Lightmap1_21 (AutoDXT, 128X128)
+[2020.01.31-11.52.32:106][ 99]LogTexture: Display: Building textures: LQ_Lightmap_1_21 (DXT1, 128X128)
+[2020.01.31-11.52.32:106][ 99]LogTexture: Display: Building textures: SkyOcclusion0_22 (AutoDXT, 128X64)
+[2020.01.31-11.52.32:106][ 99]LogTexture: Display: Building textures: HQ_Lightmap0_22 (AutoDXT, 128X128)
+[2020.01.31-11.52.32:106][ 99]LogTexture: Display: Building textures: LQ_Lightmap_0_22 (DXT1, 128X128)
+[2020.01.31-11.52.32:191][ 99]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 1024X256)
+[2020.01.31-11.52.32:393][ 99]Lightmass on ADRIAN-PC: 33.6 sec total, 6.51 sec importing, 1.32 sec setup, 9.06 sec photons, 16.6 sec processing, 0 ms extra exporting [176/176 mappings]. Threads: 1:56 min total, 1:13 min processing.
+[2020.01.31-11.52.32:444][ 99]LogStaticLightingSystem: Level2_Walk_BuiltData storing lightmap data for 176 meshes in 24 LightmapResourceClusters (7.3 Meshes per cluster).
+[2020.01.31-11.52.32:605][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   9.43ms
+[2020.01.31-11.52.32:614][ 99]LogStaticLightingSystem: Illumination: 53.5 sec (1.54 sec encoding lightmaps, 78 ms encoding shadowmaps)
+[2020.01.31-11.52.32:614][ 99]LogStaticLightingSystem: Lightmap texture memory:  5.6 MB (5.6 MB streaming, 0.0 MB non-streaming), 44 textures
+[2020.01.31-11.52.32:614][ 99]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (1.3 MB streaming, 0.0 MB non-streaming), 1 textures
+[2020.01.31-11.52.40:845][ 99]DumpUnbuiltLightIteractions
+[2020.01.31-11.52.40:845][ 99]Lights with unbuilt interactions: 0
+[2020.01.31-11.52.40:845][ 99]
+[2020.01.31-11.52.40:845][ 99]Primitives with unbuilt interactions: 0
+[2020.01.31-11.52.40:989][100]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.01.31-11.52.40:990][100]MapCheck: New page: Level2_Walk - Jan 31, 2020, 1:52:40 PM
+[2020.01.31-11.52.41:069][100]MapCheck: Warning: BP_GoodSky_2 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2020.01.31-11.52.41:079][100]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 89.1ms to complete.
+[2020.01.31-11.54.01:545][729]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.54.06:282][983]LogAIModule: Creating AISystem for world Level3_Walk
+[2020.01.31-11.54.06:318][983]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/LV3/Level3_Walk.Level3_Walk
+[2020.01.31-11.54.06:390][983]LogUObjectHash: Compacting FUObjectHashTables data took   6.15ms
+[2020.01.31-11.54.07:720][983]LogSlate: Window 'Save Content' being destroyed
+[2020.01.31-11.54.07:774][983]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2020.01.31-11.54.08:723][983]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/Level2_Walk17C84A3E4224C67AEE1D0C8FFFF00339.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LV2/Level2_Walk.umap'
+[2020.01.31-11.54.08:765][983]LogFileHelpers: Saving map 'Level2_Walk' took 1.037
+[2020.01.31-11.54.08:765][983]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LV2/Level2_Walk_BuiltData" FILE="../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LV2/Level2_Walk_BuiltData.uasset" SILENT=true
+[2020.01.31-11.54.09:172][983]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/Level2_Walk_BuiltData18547C404B721550BA71979AF2A44C92.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LV2/Level2_Walk_BuiltData.uasset'
+[2020.01.31-11.54.09:175][983]Cmd: MAP LOAD FILE="../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LV3/Level3_Walk.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.31-11.54.09:175][983]LightingResults: New page: Lighting Build
+[2020.01.31-11.54.09:176][983]LoadErrors: New page: Loading map: Level3_Walk.umap
+[2020.01.31-11.54.09:180][983]LogWorld: UWorld::CleanupWorld for Level2_Walk, bSessionEnded=true, bCleanupResources=true
+[2020.01.31-11.54.09:181][983]MapCheck: New page: Map Check
+[2020.01.31-11.54.09:181][983]LightingResults: New page: Lighting Build
+[2020.01.31-11.54.09:250][983]LogUObjectHash: Compacting FUObjectHashTables data took   6.00ms
+[2020.01.31-11.54.09:294][983]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2020.01.31-11.54.09:481][983]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2020.01.31-11.54.09:520][983]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2020.01.31-11.54.12:772][983]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.31-11.54.12:840][983]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2020.01.31-11.54.12:886][983]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.31-11.54.12:886][983]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.085ms to complete.
+[2020.01.31-11.54.12:886][983]LogFileHelpers: Loading map 'Level3_Walk' took 3.712
+[2020.01.31-11.54.13:097][983]LogAIModule: Creating AISystem for world Level2_Walk
+[2020.01.31-11.54.18:268][525]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.54.32:473][988]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.54.32:610][994]LogActorFactory: Actor Factory created SM_FirstAidKit
+[2020.01.31-11.54.33:471][ 73]LogActorFactory: Actor Factory created SM_FirstAidKit
+[2020.01.31-11.54.34:193][125]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.54.38:802][463]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.54.58:082][ 44]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.55.01:895][408]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.55.07:891][857]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.55.08:046][862]LogActorFactory: Actor Factory created SM_Binocular
+[2020.01.31-11.55.09:689][985]LogActorFactory: Actor Factory created SM_Binocular
+[2020.01.31-11.55.22:726][ 14]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.55.30:648][766]LogAIModule: Creating AISystem for world Level4_Walk
+[2020.01.31-11.55.30:686][766]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/LV4/Level4_Walk.Level4_Walk
+[2020.01.31-11.55.30:741][766]LogUObjectHash: Compacting FUObjectHashTables data took   5.98ms
+[2020.01.31-11.55.31:592][766]LogSlate: Window 'Save Content' being destroyed
+[2020.01.31-11.55.31:657][766]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2020.01.31-11.55.32:514][766]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/Level3_WalkA6E5559640AC57C0C3AA05AAC79B00C3.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LV3/Level3_Walk.umap'
+[2020.01.31-11.55.32:564][766]LogFileHelpers: Saving map 'Level3_Walk' took 0.964
+[2020.01.31-11.55.32:565][766]Cmd: MAP LOAD FILE="../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LV4/Level4_Walk.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.31-11.55.32:565][766]LightingResults: New page: Lighting Build
+[2020.01.31-11.55.32:566][766]LoadErrors: New page: Loading map: Level4_Walk.umap
+[2020.01.31-11.55.32:569][766]LogWorld: UWorld::CleanupWorld for Level3_Walk, bSessionEnded=true, bCleanupResources=true
+[2020.01.31-11.55.32:571][766]MapCheck: New page: Map Check
+[2020.01.31-11.55.32:571][766]LightingResults: New page: Lighting Build
+[2020.01.31-11.55.32:641][766]LogUObjectHash: Compacting FUObjectHashTables data took   9.47ms
+[2020.01.31-11.55.32:685][766]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2020.01.31-11.55.32:747][766]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2020.01.31-11.55.32:799][766]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2020.01.31-11.55.32:842][766]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2020.01.31-11.55.36:859][766]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.31-11.55.37:631][766]LogUObjectHash: Compacting FUObjectHashTables data took   5.16ms
+[2020.01.31-11.55.37:683][766]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.31-11.55.37:683][766]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.097ms to complete.
+[2020.01.31-11.55.37:683][766]LogFileHelpers: Loading map 'Level4_Walk' took 5.119
+[2020.01.31-11.55.38:022][766]LogAIModule: Creating AISystem for world Level3_Walk
+[2020.01.31-11.56.15:931][459]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.56.27:473][615]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.56.27:589][621]LogActorFactory: Actor Factory created SM_FoodCan-Beans
+[2020.01.31-11.56.28:239][686]LogActorFactory: Actor Factory created SM_FoodCan-Beans
+[2020.01.31-11.56.31:661][969]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_FoodCan-Spinach)
+[2020.01.31-11.56.35:615][323]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_FoodCan-Beans2)
+[2020.01.31-11.56.36:427][381]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.56.41:336][705]LogActorFactory: Actor Factory created SM_FoodCan-TomatoSoup
+[2020.01.31-11.56.42:389][789]LogActorFactory: Actor Factory created SM_FoodCan-TomatoSoup
+[2020.01.31-11.56.43:555][879]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.56.49:617][325]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.56.49:748][332]LogActorFactory: Actor Factory created SM_FoodCan-Spinach
+[2020.01.31-11.56.51:214][459]LogActorFactory: Actor Factory created SM_FoodCan-Spinach
+[2020.01.31-11.56.52:102][518]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.57.00:299][178]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.57.01:067][221]LogActorFactory: Actor Factory created SM_Binocular
+[2020.01.31-11.57.02:088][304]LogActorFactory: Actor Factory created SM_Binocular
+[2020.01.31-11.57.03:836][467]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.57.10:747][134]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.57.22:481][181]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.31-11.57.23:237][244]LogUObjectHash: Compacting FUObjectHashTables data took   6.62ms
+[2020.01.31-11.57.23:242][244]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.31-11.57.23:308][244]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2020.01.31-11.57.24:279][244]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/Level4_WalkD8115FFB483096E5510DFAADF02EB5FB.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LV4/Level4_Walk.umap'
+[2020.01.31-11.57.24:330][244]LogFileHelpers: Saving map 'Level4_Walk' took 1.068
+[2020.01.31-11.57.42:859][ 38]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.57.43:002][ 45]LogActorFactory: Actor Factory created SM_Shovel
+[2020.01.31-11.57.43:861][119]LogActorFactory: Actor Factory created SM_Shovel
+[2020.01.31-11.57.46:361][318]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.57.48:550][506]Cmd: TRANSACTION UNDO
+[2020.01.31-11.57.48:550][506]LogEditorTransaction: Undo Rotate Actors
+[2020.01.31-11.57.54:290][ 33]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.58.12:155][667]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.31-11.58.12:840][720]LogUObjectHash: Compacting FUObjectHashTables data took   5.90ms
+[2020.01.31-11.58.12:846][720]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.31-11.58.12:920][720]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2020.01.31-11.58.13:742][720]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/Level4_WalkEFB3360845D5C91751337EBABC738C55.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LV4/Level4_Walk.umap'
+[2020.01.31-11.58.13:792][720]LogFileHelpers: Saving map 'Level4_Walk' took 0.927
+[2020.01.31-11.58.14:587][766]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.58.19:207][189]LogAIModule: Creating AISystem for world Level5_Walk_2
+[2020.01.31-11.58.19:236][189]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/LV5/Level5_Walk_2.Level5_Walk_2
+[2020.01.31-11.58.19:284][189]LogUObjectHash: Compacting FUObjectHashTables data took   5.75ms
+[2020.01.31-11.58.19:286][189]Cmd: MAP LOAD FILE="../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LV5/Level5_Walk_2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.31-11.58.19:286][189]LightingResults: New page: Lighting Build
+[2020.01.31-11.58.19:287][189]LoadErrors: New page: Loading map: Level5_Walk_2.umap
+[2020.01.31-11.58.19:290][189]LogWorld: UWorld::CleanupWorld for Level4_Walk, bSessionEnded=true, bCleanupResources=true
+[2020.01.31-11.58.19:291][189]MapCheck: New page: Map Check
+[2020.01.31-11.58.19:291][189]LightingResults: New page: Lighting Build
+[2020.01.31-11.58.19:348][189]LogUObjectHash: Compacting FUObjectHashTables data took   6.36ms
+[2020.01.31-11.58.19:390][189]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2020.01.31-11.58.19:440][189]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2020.01.31-11.58.19:484][189]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2020.01.31-11.58.19:548][189]LogUObjectHash: Compacting FUObjectHashTables data took   4.78ms
+[2020.01.31-11.58.19:601][189]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2020.01.31-11.58.23:275][189]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.31-11.58.24:298][189]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2020.01.31-11.58.24:343][189]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.31-11.58.24:343][189]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.089ms to complete.
+[2020.01.31-11.58.24:343][189]LogFileHelpers: Loading map 'Level5_Walk_2' took 5.059
+[2020.01.31-11.58.29:203][586]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.58.38:681][521]LogAIModule: Creating AISystem for world Level8_1_Walk
+[2020.01.31-11.58.38:740][521]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/LV8/Level8_1_Walk.Level8_1_Walk
+[2020.01.31-11.58.38:807][521]LogUObjectHash: Compacting FUObjectHashTables data took   6.32ms
+[2020.01.31-11.58.38:808][521]Cmd: MAP LOAD FILE="../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LV8/Level8_1_Walk.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.31-11.58.38:808][521]LightingResults: New page: Lighting Build
+[2020.01.31-11.58.38:809][521]LoadErrors: New page: Loading map: Level8_1_Walk.umap
+[2020.01.31-11.58.38:813][521]LogWorld: UWorld::CleanupWorld for Level5_Walk_2, bSessionEnded=true, bCleanupResources=true
+[2020.01.31-11.58.38:815][521]MapCheck: New page: Map Check
+[2020.01.31-11.58.38:820][521]LightingResults: New page: Lighting Build
+[2020.01.31-11.58.38:879][521]LogUObjectHash: Compacting FUObjectHashTables data took   6.64ms
+[2020.01.31-11.58.38:927][521]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2020.01.31-11.58.38:975][521]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2020.01.31-11.58.39:032][521]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2020.01.31-11.58.39:076][521]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2020.01.31-11.58.45:082][521]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.31-11.58.47:765][521]LogUObjectHash: Compacting FUObjectHashTables data took   5.10ms
+[2020.01.31-11.58.47:810][521]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.31-11.58.47:811][521]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.097ms to complete.
+[2020.01.31-11.58.47:811][521]LogFileHelpers: Loading map 'Level8_1_Walk' took 9.003
+[2020.01.31-11.58.55:526][870]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bucket_2)
+[2020.01.31-11.58.59:177][ 48]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.59.09:873][572]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.59.09:991][574]LogActorFactory: Actor Factory created SM_Binocular
+[2020.01.31-11.59.10:965][607]LogActorFactory: Actor Factory created SM_Binocular
+[2020.01.31-11.59.17:970][995]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.59.23:777][463]Cmd: TRANSACTION UNDO
+[2020.01.31-11.59.23:777][463]LogEditorTransaction: Undo Rotate Actors
+[2020.01.31-11.59.31:056][ 92]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.59.40:345][909]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.31-11.59.41:751][995]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2020.01.31-11.59.41:756][995]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.31-11.59.41:859][995]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2020.01.31-11.59.43:065][995]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/Level8_1_Walk94CDFC71470C9BB61973699B21DCA11D.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LV8/Level8_1_Walk.umap'
+[2020.01.31-11.59.43:166][995]LogFileHelpers: Saving map 'Level8_1_Walk' took 1.397
+[2020.01.31-11.59.43:746][ 18]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-11.59.50:580][254]LogAIModule: Creating AISystem for world Level7_Walk
+[2020.01.31-11.59.50:711][254]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/LV7/Level7_Walk.Level7_Walk
+[2020.01.31-11.59.50:870][254]LogUObjectHash: Compacting FUObjectHashTables data took   9.94ms
+[2020.01.31-11.59.50:872][254]Cmd: MAP LOAD FILE="../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LV7/Level7_Walk.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.31-11.59.50:872][254]LightingResults: New page: Lighting Build
+[2020.01.31-11.59.50:873][254]LoadErrors: New page: Loading map: Level7_Walk.umap
+[2020.01.31-11.59.50:880][254]LogWorld: UWorld::CleanupWorld for Level8_1_Walk, bSessionEnded=true, bCleanupResources=true
+[2020.01.31-11.59.50:885][254]MapCheck: New page: Map Check
+[2020.01.31-11.59.50:886][254]LightingResults: New page: Lighting Build
+[2020.01.31-11.59.50:958][254]LogUObjectHash: Compacting FUObjectHashTables data took   7.02ms
+[2020.01.31-11.59.51:010][254]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2020.01.31-11.59.51:055][254]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2020.01.31-11.59.51:103][254]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2020.01.31-11.59.51:156][254]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2020.01.31-11.59.56:027][254]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.31-11.59.56:224][254]LogUObjectHash: Compacting FUObjectHashTables data took   4.93ms
+[2020.01.31-11.59.56:268][254]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.31-11.59.56:269][254]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.229ms to complete.
+[2020.01.31-11.59.56:269][254]LogFileHelpers: Loading map 'Level7_Walk' took 5.398
+[2020.01.31-12.00.04:292][830]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-12.00.13:472][642]LogActorFactory: Actor Factory created SM_Backpack
+[2020.01.31-12.00.14:227][723]LogActorFactory: Actor Factory created SM_Backpack
+[2020.01.31-12.00.17:248][ 19]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-12.00.17:355][ 23]LogActorFactory: Actor Factory created SM_Flashlight
+[2020.01.31-12.00.17:834][ 65]LogActorFactory: Actor Factory created SM_Flashlight
+[2020.01.31-12.00.21:460][397]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-12.00.24:729][704]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-12.00.42:925][302]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-12.00.43:059][307]LogActorFactory: Actor Factory created SM_Binocular
+[2020.01.31-12.00.44:293][406]LogActorFactory: Actor Factory created SM_Binocular
+[2020.01.31-12.00.45:189][487]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-12.00.49:593][930]Cmd: TRANSACTION UNDO
+[2020.01.31-12.00.49:593][930]LogEditorTransaction: Undo Rotate Actors
+[2020.01.31-12.00.53:169][251]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-12.01.02:245][ 68]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-12.01.20:614][674]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-12.01.23:912][966]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.31-12.01.24:734][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   4.81ms
+[2020.01.31-12.01.24:740][ 31]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.31-12.01.24:803][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2020.01.31-12.01.26:317][ 31]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/Level7_WalkCC8D526A478327D171706DB4C82B5CD7.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LV7/Level7_Walk.umap'
+[2020.01.31-12.01.26:371][ 31]LogFileHelpers: Saving map 'Level7_Walk' took 1.614
+[2020.01.31-12.05.59:864][ 35]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.01.31-12.06.03:225][335]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.31-12.06.04:162][411]LogUObjectHash: Compacting FUObjectHashTables data took   5.39ms
+[2020.01.31-12.06.05:565][550]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_OilbarrelPlain2)
+[2020.01.31-12.06.12:369][185]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.01.31-12.06.20:716][943]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_OilbarrelPlain1)
+[2020.01.31-12.06.28:606][647]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-12.06.28:679][654]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.31-12.06.28:738][654]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/LV7/Level7_Walk.Level7_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV7/Level7_Walk.Level7_Walk:PersistentLevel.Level7_Walk' with GeneratedClass '/Game/Levels/LV7/Level7_Walk.Level7_Walk_C' with ClassGeneratedBy '/Game/Levels/LV7/Level7_Walk.Level7_Walk:PersistentLevel.Level7_Walk'
+[2020.01.31-12.06.28:765][654]LogFMOD: Creating runtime Studio System
+[2020.01.31-12.06.28:766][654]LogFMOD: Default sample rate = 48000
+[2020.01.31-12.06.28:766][654]LogFMOD: System sample rate = 44100
+[2020.01.31-12.06.28:766][654]LogFMOD: Matching system sample rate 44100
+[2020.01.31-12.06.28:776][654]LogFMOD: Loading Banks
+[2020.01.31-12.06.28:867][654]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.31-12.06.28:867][654]PIE: New page: PIE session: Level7_Walk (Jan 31, 2020, 2:06:28 PM)
+[2020.01.31-12.06.28:867][654]LogPlayLevel: Creating play world package: /Game/Levels/LV7/UEDPIE_0_Level7_Walk
+[2020.01.31-12.06.29:130][654]LogPlayLevel: PIE: StaticDuplicateObject took: (0.262639s)
+[2020.01.31-12.06.29:131][654]LogAIModule: Creating AISystem for world Level7_Walk
+[2020.01.31-12.06.29:131][654]LogPlayLevel: PIE: World Init took: (0.001168s)
+[2020.01.31-12.06.29:131][654]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV7/Level7_Walk.Level7_Walk to /Game/Levels/LV7/UEDPIE_0_Level7_Walk.Level7_Walk (0.264180s)
+[2020.01.31-12.06.29:194][654]LogUObjectHash: Compacting FUObjectHashTables data took   4.92ms
+[2020.01.31-12.06.29:205][654]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.31-12.06.29:212][654]LogInit: FAudioDevice initialized.
+[2020.01.31-12.06.31:311][654]LogInit: Error: Failed to load cursor '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/None'
+[2020.01.31-12.06.31:334][654]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.01.31-12.06.31:415][654]LogWorld: Bringing World /Game/Levels/LV7/UEDPIE_0_Level7_Walk.Level7_Walk up for play (max tick rate 0) at 2020.01.31-13.06.31
+[2020.01.31-12.06.31:417][654]LogWorld: Bringing up level for play took: 0.081668
+[2020.01.31-12.06.31:467][654]LogOnline: OSS: Creating online subsystem instance for: :Context_145
+[2020.01.31-12.06.31:496][654]PIE: Play in editor start time for /Game/Levels/LV7/UEDPIE_0_Level7_Walk 3.478
+[2020.01.31-12.06.31:496][654]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/LV7/Level7_Walk.Level7_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV7/Level7_Walk.Level7_Walk:PersistentLevel.Level7_Walk' with GeneratedClass '/Game/Levels/LV7/Level7_Walk.Level7_Walk_C' with ClassGeneratedBy '/Game/Levels/LV7/Level7_Walk.Level7_Walk:PersistentLevel.Level7_Walk'
+[2020.01.31-12.06.59:022][751]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/LV7/Level7_Walk.Level7_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV7/Level7_Walk.Level7_Walk:PersistentLevel.Level7_Walk' with GeneratedClass '/Game/Levels/LV7/Level7_Walk.Level7_Walk_C' with ClassGeneratedBy '/Game/Levels/LV7/Level7_Walk.Level7_Walk:PersistentLevel.Level7_Walk'
+[2020.01.31-12.06.59:110][751]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.31-12.06.59:110][751]LogWorld: BeginTearingDown for /Game/Levels/LV7/UEDPIE_0_Level7_Walk
+[2020.01.31-12.06.59:111][751]LogWorld: UWorld::CleanupWorld for Level7_Walk, bSessionEnded=true, bCleanupResources=true
+[2020.01.31-12.06.59:133][751]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.31-12.06.59:134][751]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/LV7/Level7_Walk.Level7_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV7/Level7_Walk.Level7_Walk:PersistentLevel.Level7_Walk' with GeneratedClass '/Game/Levels/LV7/Level7_Walk.Level7_Walk_C' with ClassGeneratedBy '/Game/Levels/LV7/Level7_Walk.Level7_Walk:PersistentLevel.Level7_Walk'
+[2020.01.31-12.06.59:200][751]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.31-12.06.59:252][751]LogUObjectHash: Compacting FUObjectHashTables data took   5.04ms
+[2020.01.31-12.06.59:284][752]LogPlayLevel: Display: Destroying online subsystem :Context_145
+[2020.01.31-12.07.00:463][880]LogEditorViewport: Clicking on Actor (LMB): PlayerWalkMap_Character_C (PlayerWalkMap_Character)
+[2020.01.31-12.07.02:614][ 32]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-12.07.02:705][ 39]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.31-12.07.02:748][ 39]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/LV7/Level7_Walk.Level7_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV7/Level7_Walk.Level7_Walk:PersistentLevel.Level7_Walk' with GeneratedClass '/Game/Levels/LV7/Level7_Walk.Level7_Walk_C' with ClassGeneratedBy '/Game/Levels/LV7/Level7_Walk.Level7_Walk:PersistentLevel.Level7_Walk'
+[2020.01.31-12.07.02:786][ 39]LogFMOD: Creating runtime Studio System
+[2020.01.31-12.07.02:787][ 39]LogFMOD: Default sample rate = 48000
+[2020.01.31-12.07.02:787][ 39]LogFMOD: System sample rate = 44100
+[2020.01.31-12.07.02:787][ 39]LogFMOD: Matching system sample rate 44100
+[2020.01.31-12.07.02:795][ 39]LogFMOD: Loading Banks
+[2020.01.31-12.07.02:838][ 39]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.31-12.07.02:838][ 39]PIE: New page: PIE session: Level7_Walk (Jan 31, 2020, 2:07:02 PM)
+[2020.01.31-12.07.02:838][ 39]LogPlayLevel: Creating play world package: /Game/Levels/LV7/UEDPIE_0_Level7_Walk
+[2020.01.31-12.07.03:068][ 39]LogPlayLevel: PIE: StaticDuplicateObject took: (0.229920s)
+[2020.01.31-12.07.03:069][ 39]LogAIModule: Creating AISystem for world Level7_Walk
+[2020.01.31-12.07.03:069][ 39]LogPlayLevel: PIE: World Init took: (0.001095s)
+[2020.01.31-12.07.03:069][ 39]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV7/Level7_Walk.Level7_Walk to /Game/Levels/LV7/UEDPIE_0_Level7_Walk.Level7_Walk (0.231302s)
+[2020.01.31-12.07.03:119][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   5.05ms
+[2020.01.31-12.07.03:127][ 39]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.31-12.07.03:135][ 39]LogInit: FAudioDevice initialized.
+[2020.01.31-12.07.03:252][ 39]LogInit: Error: Failed to load cursor '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/None'
+[2020.01.31-12.07.03:260][ 39]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.01.31-12.07.03:304][ 39]LogWorld: Bringing World /Game/Levels/LV7/UEDPIE_0_Level7_Walk.Level7_Walk up for play (max tick rate 0) at 2020.01.31-13.07.03
+[2020.01.31-12.07.03:305][ 39]LogWorld: Bringing up level for play took: 0.044788
+[2020.01.31-12.07.03:362][ 39]LogOnline: OSS: Creating online subsystem instance for: :Context_146
+[2020.01.31-12.07.03:368][ 39]PIE: Play in editor start time for /Game/Levels/LV7/UEDPIE_0_Level7_Walk 1.35
+[2020.01.31-12.07.03:369][ 39]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/LV7/Level7_Walk.Level7_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV7/Level7_Walk.Level7_Walk:PersistentLevel.Level7_Walk' with GeneratedClass '/Game/Levels/LV7/Level7_Walk.Level7_Walk_C' with ClassGeneratedBy '/Game/Levels/LV7/Level7_Walk.Level7_Walk:PersistentLevel.Level7_Walk'
+[2020.01.31-12.07.14:733][299]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/LV7/Level7_Walk.Level7_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV7/Level7_Walk.Level7_Walk:PersistentLevel.Level7_Walk' with GeneratedClass '/Game/Levels/LV7/Level7_Walk.Level7_Walk_C' with ClassGeneratedBy '/Game/Levels/LV7/Level7_Walk.Level7_Walk:PersistentLevel.Level7_Walk'
+[2020.01.31-12.07.14:835][299]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.31-12.07.14:835][299]LogWorld: BeginTearingDown for /Game/Levels/LV7/UEDPIE_0_Level7_Walk
+[2020.01.31-12.07.14:836][299]LogWorld: UWorld::CleanupWorld for Level7_Walk, bSessionEnded=true, bCleanupResources=true
+[2020.01.31-12.07.14:849][299]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.31-12.07.14:849][299]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/LV7/Level7_Walk.Level7_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV7/Level7_Walk.Level7_Walk:PersistentLevel.Level7_Walk' with GeneratedClass '/Game/Levels/LV7/Level7_Walk.Level7_Walk_C' with ClassGeneratedBy '/Game/Levels/LV7/Level7_Walk.Level7_Walk:PersistentLevel.Level7_Walk'
+[2020.01.31-12.07.14:908][299]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.31-12.07.14:924][299]LogUObjectHash: Compacting FUObjectHashTables data took   6.43ms
+[2020.01.31-12.07.14:956][300]LogPlayLevel: Display: Destroying online subsystem :Context_146
+[2020.01.31-12.07.15:791][387]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.31-12.07.16:556][453]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2020.01.31-12.07.16:561][453]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.31-12.07.16:621][453]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2020.01.31-12.07.18:294][453]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/Level7_WalkC800A9304A974C6E642CFD86A13CB700.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LV7/Level7_Walk.umap'
+[2020.01.31-12.07.18:358][453]LogFileHelpers: Saving map 'Level7_Walk' took 1.786
+[2020.01.31-12.07.18:622][467]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-12.07.23:898][978]LogAIModule: Creating AISystem for world Level6_Walk
+[2020.01.31-12.07.23:946][978]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/LV6/Level6_Walk.Level6_Walk
+[2020.01.31-12.07.24:002][978]LogUObjectHash: Compacting FUObjectHashTables data took   5.93ms
+[2020.01.31-12.07.24:004][978]Cmd: MAP LOAD FILE="../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LV6/Level6_Walk.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.31-12.07.24:004][978]LightingResults: New page: Lighting Build
+[2020.01.31-12.07.24:004][978]LoadErrors: New page: Loading map: Level6_Walk.umap
+[2020.01.31-12.07.24:017][978]LogWorld: UWorld::CleanupWorld for Level7_Walk, bSessionEnded=true, bCleanupResources=true
+[2020.01.31-12.07.24:020][978]MapCheck: New page: Map Check
+[2020.01.31-12.07.24:023][978]LightingResults: New page: Lighting Build
+[2020.01.31-12.07.24:085][978]LogUObjectHash: Compacting FUObjectHashTables data took   5.97ms
+[2020.01.31-12.07.24:130][978]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2020.01.31-12.07.24:170][978]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2020.01.31-12.07.24:211][978]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2020.01.31-12.07.24:254][978]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2020.01.31-12.07.28:870][978]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.31-12.07.29:037][978]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2020.01.31-12.07.29:079][978]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.31-12.07.29:081][978]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.479ms to complete.
+[2020.01.31-12.07.29:081][978]LogFileHelpers: Loading map 'Level6_Walk' took 5.077
+[2020.01.31-12.11.54:286][366]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-12.12.06:716][415]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-12.12.06:881][421]LogActorFactory: Actor Factory created SM_Backpack
+[2020.01.31-12.12.07:888][501]LogActorFactory: Actor Factory created SM_Backpack
+[2020.01.31-12.12.08:946][581]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-12.12.14:097][975]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-12.12.14:213][978]LogActorFactory: Actor Factory created SM_Binocular
+[2020.01.31-12.12.15:948][127]LogActorFactory: Actor Factory created SM_Binocular
+[2020.01.31-12.12.22:980][785]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-12.12.23:088][788]LogActorFactory: Actor Factory created SM_Backpack
+[2020.01.31-12.12.24:104][867]LogActorFactory: Actor Factory created SM_Backpack
+[2020.01.31-12.12.31:237][459]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-12.12.33:096][624]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.31-12.12.33:389][651]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.31-12.12.33:427][651]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/LV6/Level6_Walk.Level6_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV6/Level6_Walk.Level6_Walk:PersistentLevel.Level6_Walk' with GeneratedClass '/Game/Levels/LV6/Level6_Walk.Level6_Walk_C' with ClassGeneratedBy '/Game/Levels/LV6/Level6_Walk.Level6_Walk:PersistentLevel.Level6_Walk'
+[2020.01.31-12.12.33:460][651]LogFMOD: Creating runtime Studio System
+[2020.01.31-12.12.33:461][651]LogFMOD: Default sample rate = 48000
+[2020.01.31-12.12.33:461][651]LogFMOD: System sample rate = 44100
+[2020.01.31-12.12.33:461][651]LogFMOD: Matching system sample rate 44100
+[2020.01.31-12.12.33:471][651]LogFMOD: Loading Banks
+[2020.01.31-12.12.33:532][651]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.31-12.12.33:532][651]PIE: New page: PIE session: Level6_Walk (Jan 31, 2020, 2:12:33 PM)
+[2020.01.31-12.12.33:533][651]LogPlayLevel: Creating play world package: /Game/Levels/LV6/UEDPIE_0_Level6_Walk
+[2020.01.31-12.12.33:684][651]LogPlayLevel: PIE: StaticDuplicateObject took: (0.151087s)
+[2020.01.31-12.12.33:685][651]LogAIModule: Creating AISystem for world Level6_Walk
+[2020.01.31-12.12.33:685][651]LogPlayLevel: PIE: World Init took: (0.001251s)
+[2020.01.31-12.12.33:685][651]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV6/Level6_Walk.Level6_Walk to /Game/Levels/LV6/UEDPIE_0_Level6_Walk.Level6_Walk (0.152647s)
+[2020.01.31-12.12.33:737][651]LogUObjectHash: Compacting FUObjectHashTables data took   5.29ms
+[2020.01.31-12.12.33:752][651]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.31-12.12.33:758][651]LogInit: FAudioDevice initialized.
+[2020.01.31-12.12.35:832][651]LogInit: Error: Failed to load cursor '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/None'
+[2020.01.31-12.12.35:841][651]LogLoad: Game class is 'GameMode'
+[2020.01.31-12.12.35:850][651]LogWorld: Bringing World /Game/Levels/LV6/UEDPIE_0_Level6_Walk.Level6_Walk up for play (max tick rate 0) at 2020.01.31-13.12.35
+[2020.01.31-12.12.35:851][651]LogWorld: Bringing up level for play took: 0.009468
+[2020.01.31-12.12.35:990][651]LogOnline: OSS: Creating online subsystem instance for: :Context_147
+[2020.01.31-12.12.35:993][651]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.31-12.12.35:993][651]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.31-12.12.35:993][651]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.01.31-12.12.36:012][651]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.01.31-12.12.36:012][651]PIE: Play in editor start time for /Game/Levels/LV6/UEDPIE_0_Level6_Walk 1.989
+[2020.01.31-12.12.36:012][651]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/LV6/Level6_Walk.Level6_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV6/Level6_Walk.Level6_Walk:PersistentLevel.Level6_Walk' with GeneratedClass '/Game/Levels/LV6/Level6_Walk.Level6_Walk_C' with ClassGeneratedBy '/Game/Levels/LV6/Level6_Walk.Level6_Walk:PersistentLevel.Level6_Walk'
+[2020.01.31-12.12.41:729][222]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.31-12.12.41:729][222]LogBlueprintUserMessages: [Conversation_Actor5] IM TALKING
+[2020.01.31-12.12.41:834][222]LogScript: Warning: Accessed None trying to read property InDialogue
+	MyDialogueWidget_C /Engine/Transient.UnrealEdEngine_0:MyGameInstance_C_121.MyDialogueWidget_C_0
+	Function /Game/Conversations/MyDialogueWidget.MyDialogueWidget_C:ExecuteUbergraph_MyDialogueWidget:0725
+[2020.01.31-12.12.41:835][222]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InDialogue". Blueprint:  MyDialogueWidget Function:  Execute Ubergraph My Dialogue Widget Graph:  EventGraph Node:  Assign Persistent Outer
+[2020.01.31-12.12.41:835][222]LogScript: Warning: Accessed None trying to read property InDialogue
+	MyDialogueWidget_C /Engine/Transient.UnrealEdEngine_0:MyGameInstance_C_121.MyDialogueWidget_C_0
+	Function /Game/Conversations/MyDialogueWidget.MyDialogueWidget_C:ExecuteUbergraph_MyDialogueWidget:076E
+[2020.01.31-12.12.41:835][222]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InDialogue". Blueprint:  MyDialogueWidget Function:  Execute Ubergraph My Dialogue Widget Graph:  EventGraph Node:  To Npc Reply
+[2020.01.31-12.12.41:837][222]LogScript: Warning: Accessed None
+	MyDialogueWidget_C /Engine/Transient.UnrealEdEngine_0:MyGameInstance_C_121.MyDialogueWidget_C_0
+	Function /Game/Conversations/MyDialogueWidget.MyDialogueWidget_C:ExecuteUbergraph_MyDialogueWidget:074F
+[2020.01.31-12.12.41:837][222]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyDialogueWidget Function:  Execute Ubergraph My Dialogue Widget Graph:  EventGraph Node:  To Npc Reply
+[2020.01.31-12.12.41:837][222]LogScript: Warning: Accessed None trying to read property InDialogue
+	MyDialogueWidget_C /Engine/Transient.UnrealEdEngine_0:MyGameInstance_C_121.MyDialogueWidget_C_0
+	Function /Game/Conversations/MyDialogueWidget.MyDialogueWidget_C:ToNpcReply:005B
+[2020.01.31-12.12.41:837][222]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InDialogue". Blueprint:  MyDialogueWidget Function:  To Npc Reply Graph:  ToNpcReply Node:  Get Next Nodes
+[2020.01.31-12.12.41:838][222]LogScript: Warning: Accessed None trying to read property InDialogue
+	MyDialogueWidget_C /Engine/Transient.UnrealEdEngine_0:MyGameInstance_C_121.MyDialogueWidget_C_0
+	Function /Game/Conversations/MyDialogueWidget.MyDialogueWidget_C:ExecuteUbergraph_MyDialogueWidget:07DA
+[2020.01.31-12.12.41:838][222]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InDialogue". Blueprint:  MyDialogueWidget Function:  Execute Ubergraph My Dialogue Widget Graph:  EventGraph Node:  SetText (Text)
+[2020.01.31-12.12.43:389][376]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/LV6/Level6_Walk.Level6_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV6/Level6_Walk.Level6_Walk:PersistentLevel.Level6_Walk' with GeneratedClass '/Game/Levels/LV6/Level6_Walk.Level6_Walk_C' with ClassGeneratedBy '/Game/Levels/LV6/Level6_Walk.Level6_Walk:PersistentLevel.Level6_Walk'
+[2020.01.31-12.12.43:500][376]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.31-12.12.43:500][376]LogWorld: BeginTearingDown for /Game/Levels/LV6/UEDPIE_0_Level6_Walk
+[2020.01.31-12.12.43:500][376]LogWorld: UWorld::CleanupWorld for Level6_Walk, bSessionEnded=true, bCleanupResources=true
+[2020.01.31-12.12.43:512][376]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.31-12.12.43:512][376]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/LV6/Level6_Walk.Level6_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV6/Level6_Walk.Level6_Walk:PersistentLevel.Level6_Walk' with GeneratedClass '/Game/Levels/LV6/Level6_Walk.Level6_Walk_C' with ClassGeneratedBy '/Game/Levels/LV6/Level6_Walk.Level6_Walk:PersistentLevel.Level6_Walk'
+[2020.01.31-12.12.43:581][376]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.31-12.12.43:621][376]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2020.01.31-12.12.43:661][377]LogPlayLevel: Display: Destroying online subsystem :Context_147
+[2020.01.31-12.12.44:327][437]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-12.12.45:616][520]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2020.01.31-12.12.45:690][520]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2020.01.31-12.12.46:571][520]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/Level6_WalkD78D31E6430E8A817176CEB359A9AAAF.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LV6/Level6_Walk.umap'
+[2020.01.31-12.12.46:638][520]LogFileHelpers: Saving map 'Level6_Walk' took 1.001
+[2020.01.31-12.13.08:951][640]LogUObjectHash: Compacting FUObjectHashTables data took   5.21ms
+[2020.01.31-12.13.09:274][640]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.01.31-12.13.09:431][640]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.01.31-12.13.09:431][640]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2020.01.31-12.13.09:517][640]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.01.31-12.13.09:517][640]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2020.01.31-12.13.09:602][640]LogSlate: Window 'DieAgain - Unreal Editor' being destroyed
+[2020.01.31-12.13.12:968][641]Cmd: QUIT_EDITOR
+[2020.01.31-12.13.13:479][641]LogExit: Preparing to exit.
+[2020.01.31-12.13.14:131][641]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.01.31-12.13.14:136][641]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.01.31-12.13.14:140][641]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.01.31-12.13.14:143][641]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.01.31-12.13.14:146][641]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.01.31-12.13.14:149][641]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.01.31-12.13.14:152][641]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.01.31-12.13.14:155][641]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.01.31-12.13.14:158][641]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.01.31-12.13.14:161][641]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2020.01.31-12.13.14:164][641]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2020.01.31-12.13.14:167][641]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2020.01.31-12.13.14:169][641]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.01.31-12.13.14:172][641]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.01.31-12.13.14:175][641]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.01.31-12.13.14:177][641]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.01.31-12.13.14:180][641]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.01.31-12.13.14:183][641]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2020.01.31-12.13.14:185][641]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.01.31-12.13.14:188][641]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2020.01.31-12.13.14:191][641]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.01.31-12.13.15:122][641]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.01.31-12.13.15:456][641]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.01.31-12.13.15:463][641]LogExit: Editor shut down
+[2020.01.31-12.13.15:732][641]LogExit: Transaction tracking system shut down
+[2020.01.31-12.13.22:918][641]LogExit: Object subsystem successfully closed.
+[2020.01.31-12.13.23:428][641]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.01.31-12.13.25:705][641]LogModuleManager: Shutting down and abandoning module BlueprintGraph (688)
+[2020.01.31-12.13.25:706][641]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (686)
+[2020.01.31-12.13.25:719][641]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (684)
+[2020.01.31-12.13.25:719][641]LogModuleManager: Shutting down and abandoning module Voice (682)
+[2020.01.31-12.13.25:727][641]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (680)
+[2020.01.31-12.13.25:728][641]LogModuleManager: Shutting down and abandoning module SceneOutliner (678)
+[2020.01.31-12.13.25:728][641]LogModuleManager: Shutting down and abandoning module AddContentDialog (676)
+[2020.01.31-12.13.25:794][641]LogModuleManager: Shutting down and abandoning module WidgetCarousel (675)
+[2020.01.31-12.13.25:795][641]LogModuleManager: Shutting down and abandoning module EditorWidgets (672)
+[2020.01.31-12.13.25:795][641]LogModuleManager: Shutting down and abandoning module CollectionManager (670)
+[2020.01.31-12.13.25:825][641]LogModuleManager: Shutting down and abandoning module StatsViewer (668)
+[2020.01.31-12.13.25:838][641]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (666)
+[2020.01.31-12.13.25:838][641]LogModuleManager: Shutting down and abandoning module FoliageEdit (664)
+[2020.01.31-12.13.25:854][641]LogModuleManager: Shutting down and abandoning module LandscapeEditor (662)
+[2020.01.31-12.13.25:886][641]LogModuleManager: Shutting down and abandoning module MeshPaintMode (660)
+[2020.01.31-12.13.25:890][641]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (658)
+[2020.01.31-12.13.25:894][641]LogModuleManager: Shutting down and abandoning module ActorPickerMode (656)
+[2020.01.31-12.13.25:894][641]LogModuleManager: Shutting down and abandoning module GeometryMode (654)
+[2020.01.31-12.13.25:907][641]LogModuleManager: Shutting down and abandoning module TextureAlignMode (652)
+[2020.01.31-12.13.25:907][641]LogModuleManager: Shutting down and abandoning module BspMode (650)
+[2020.01.31-12.13.25:907][641]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (648)
+[2020.01.31-12.13.25:918][641]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (646)
+[2020.01.31-12.13.25:918][641]LogModuleManager: Shutting down and abandoning module AutomationWorker (644)
+[2020.01.31-12.13.25:931][641]LogModuleManager: Shutting down and abandoning module OculusMR (642)
+[2020.01.31-12.13.25:931][641]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (640)
+[2020.01.31-12.13.25:946][641]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (638)
+[2020.01.31-12.13.25:972][641]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (636)
+[2020.01.31-12.13.26:099][641]LogModuleManager: Shutting down and abandoning module PlacementMode (635)
+[2020.01.31-12.13.26:102][641]LogModuleManager: Shutting down and abandoning module MaterialEditor (634)
+[2020.01.31-12.13.26:120][641]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (630)
+[2020.01.31-12.13.26:134][641]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (628)
+[2020.01.31-12.13.26:134][641]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (626)
+[2020.01.31-12.13.26:134][641]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (624)
+[2020.01.31-12.13.26:141][641]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (622)
+[2020.01.31-12.13.26:141][641]LogModuleManager: Shutting down and abandoning module WebMMedia (620)
+[2020.01.31-12.13.26:144][641]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (618)
+[2020.01.31-12.13.26:152][641]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (616)
+[2020.01.31-12.13.26:267][641]LogModuleManager: Shutting down and abandoning module SequenceRecorder (615)
+[2020.01.31-12.13.26:268][641]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (612)
+[2020.01.31-12.13.26:268][641]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (610)
+[2020.01.31-12.13.26:268][641]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (608)
+[2020.01.31-12.13.26:268][641]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (606)
+[2020.01.31-12.13.26:268][641]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (604)
+[2020.01.31-12.13.26:268][641]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (602)
+[2020.01.31-12.13.26:268][641]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (600)
+[2020.01.31-12.13.26:268][641]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (598)
+[2020.01.31-12.13.26:268][641]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (596)
+[2020.01.31-12.13.26:279][641]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (594)
+[2020.01.31-12.13.26:280][641]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (592)
+[2020.01.31-12.13.26:280][641]LogModuleManager: Shutting down and abandoning module CharacterAI (590)
+[2020.01.31-12.13.26:280][641]LogModuleManager: Shutting down and abandoning module SmartSnapping (588)
+[2020.01.31-12.13.26:287][641]LogModuleManager: Shutting down and abandoning module SessionServices (586)
+[2020.01.31-12.13.26:287][641]LogModuleManager: Shutting down and abandoning module MeshPaint (584)
+[2020.01.31-12.13.26:341][641]LogModuleManager: Shutting down and abandoning module ViewportSnapping (582)
+[2020.01.31-12.13.26:341][641]LogModuleManager: Shutting down and abandoning module ViewportInteraction (580)
+[2020.01.31-12.13.26:342][641]LogModuleManager: Shutting down and abandoning module ClothPainter (578)
+[2020.01.31-12.13.26:383][641]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (577)
+[2020.01.31-12.13.26:402][641]LogModuleManager: Shutting down and abandoning module LogVisualizer (574)
+[2020.01.31-12.13.26:425][641]LogModuleManager: Shutting down and abandoning module IntroTutorials (572)
+[2020.01.31-12.13.26:454][641]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (571)
+[2020.01.31-12.13.26:467][641]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (568)
+[2020.01.31-12.13.26:467][641]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (566)
+[2020.01.31-12.13.26:479][641]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (564)
+[2020.01.31-12.13.26:479][641]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (562)
+[2020.01.31-12.13.26:480][641]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (561)
+[2020.01.31-12.13.27:153][641]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (558)
+[2020.01.31-12.13.27:153][641]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (556)
+[2020.01.31-12.13.27:153][641]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (554)
+[2020.01.31-12.13.27:153][641]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (552)
+[2020.01.31-12.13.27:153][641]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (550)
+[2020.01.31-12.13.27:167][641]LogModuleManager: Shutting down and abandoning module InputBindingEditor (548)
+[2020.01.31-12.13.27:175][641]LogModuleManager: Shutting down and abandoning module MergeActors (546)
+[2020.01.31-12.13.27:192][641]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (544)
+[2020.01.31-12.13.27:209][641]LogModuleManager: Shutting down and abandoning module LocalizationService (543)
+[2020.01.31-12.13.27:214][641]LogModuleManager: Shutting down and abandoning module HardwareTargeting (540)
+[2020.01.31-12.13.27:214][641]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (538)
+[2020.01.31-12.13.27:273][641]LogModuleManager: Shutting down and abandoning module UndoHistory (536)
+[2020.01.31-12.13.27:295][641]LogModuleManager: Shutting down and abandoning module XmlParser (534)
+[2020.01.31-12.13.27:301][641]LogModuleManager: Shutting down and abandoning module Blutility (532)
+[2020.01.31-12.13.27:302][641]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (530)
+[2020.01.31-12.13.27:311][641]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (529)
+[2020.01.31-12.13.27:321][641]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (526)
+[2020.01.31-12.13.27:330][641]LogModuleManager: Shutting down and abandoning module SettingsEditor (524)
+[2020.01.31-12.13.27:342][641]LogModuleManager: Shutting down and abandoning module ProjectLauncher (522)
+[2020.01.31-12.13.27:356][641]LogModuleManager: Shutting down and abandoning module SessionFrontend (520)
+[2020.01.31-12.13.27:361][641]LogModuleManager: Shutting down and abandoning module ProfilerClient (518)
+[2020.01.31-12.13.27:367][641]LogModuleManager: Shutting down and abandoning module DeviceManager (516)
+[2020.01.31-12.13.27:380][641]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (515)
+[2020.01.31-12.13.27:439][641]LogModuleManager: Shutting down and abandoning module AutomationController (512)
+[2020.01.31-12.13.27:451][641]LogModuleManager: Shutting down and abandoning module AutomationWindow (510)
+[2020.01.31-12.13.27:460][641]LogModuleManager: Shutting down and abandoning module Layers (508)
+[2020.01.31-12.13.27:472][641]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (506)
+[2020.01.31-12.13.27:472][641]LogModuleManager: Shutting down and abandoning module DetailCustomizations (504)
+[2020.01.31-12.13.27:472][641]LogModuleManager: Shutting down and abandoning module PackagesDialog (502)
+[2020.01.31-12.13.27:473][641]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (500)
+[2020.01.31-12.13.27:485][641]LogModuleManager: Shutting down and abandoning module Persona (498)
+[2020.01.31-12.13.27:563][641]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (497)
+[2020.01.31-12.13.27:563][641]LogModuleManager: Shutting down and abandoning module AnimGraph (495)
+[2020.01.31-12.13.27:569][641]LogModuleManager: Shutting down and abandoning module Kismet (492)
+[2020.01.31-12.13.27:642][641]LogModuleManager: Shutting down and abandoning module KismetWidgets (491)
+[2020.01.31-12.13.27:651][641]LogModuleManager: Shutting down and abandoning module GraphEditor (488)
+[2020.01.31-12.13.27:651][641]LogModuleManager: Shutting down and abandoning module StructViewer (486)
+[2020.01.31-12.13.27:659][641]LogModuleManager: Shutting down and abandoning module ClassViewer (484)
+[2020.01.31-12.13.27:683][641]LogModuleManager: Shutting down and abandoning module Toolbox (482)
+[2020.01.31-12.13.27:684][641]LogModuleManager: Shutting down and abandoning module ModuleUI (480)
+[2020.01.31-12.13.27:695][641]LogModuleManager: Shutting down and abandoning module MovieSceneTools (478)
+[2020.01.31-12.13.27:713][641]LogModuleManager: Shutting down and abandoning module OutputLog (476)
+[2020.01.31-12.13.27:870][641]LogModuleManager: Shutting down and abandoning module GammaUI (474)
+[2020.01.31-12.13.27:882][641]LogModuleManager: Shutting down and abandoning module Documentation (472)
+[2020.01.31-12.13.27:882][641]LogModuleManager: Shutting down and abandoning module LiveCoding (470)
+[2020.01.31-12.13.27:889][641]LogModuleManager: Shutting down and abandoning module LevelSequence (468)
+[2020.01.31-12.13.27:889][641]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (466)
+[2020.01.31-12.13.27:889][641]LogModuleManager: Shutting down and abandoning module MovieScene (464)
+[2020.01.31-12.13.27:889][641]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (462)
+[2020.01.31-12.13.27:894][641]LogModuleManager: Shutting down and abandoning module LauncherPlatform (460)
+[2020.01.31-12.13.27:894][641]LogModuleManager: Shutting down and abandoning module AnalyticsET (458)
+[2020.01.31-12.13.27:894][641]LogModuleManager: Shutting down and abandoning module PortalServices (456)
+[2020.01.31-12.13.27:894][641]LogModuleManager: Shutting down and abandoning module PortalRpc (454)
+[2020.01.31-12.13.27:894][641]LogModuleManager: Shutting down and abandoning module MessagingRpc (452)
+[2020.01.31-12.13.27:894][641]LogModuleManager: Shutting down and abandoning module AIModule (450)
+[2020.01.31-12.13.27:894][641]LogModuleManager: Shutting down and abandoning module GameplayDebugger (449)
+[2020.01.31-12.13.27:894][641]LogModuleManager: Shutting down and abandoning module AITestSuite (447)
+[2020.01.31-12.13.27:903][641]LogModuleManager: Shutting down and abandoning module NavigationSystem (445)
+[2020.01.31-12.13.27:903][641]LogModuleManager: Shutting down and abandoning module DesktopPlatform (442)
+[2020.01.31-12.13.27:911][641]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (440)
+[2020.01.31-12.13.27:923][641]LogModuleManager: Shutting down and abandoning module ProfilerService (438)
+[2020.01.31-12.13.28:181][641]LogModuleManager: Shutting down and abandoning module TaskGraph (436)
+[2020.01.31-12.13.28:226][641]LogModuleManager: Shutting down and abandoning module ScreenshotTools (434)
+[2020.01.31-12.13.28:226][641]LogModuleManager: Shutting down and abandoning module SteamVRController (432)
+[2020.01.31-12.13.28:226][641]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (430)
+[2020.01.31-12.13.28:234][641]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (428)
+[2020.01.31-12.13.28:241][641]LogModuleManager: Shutting down and abandoning module OculusEditor (426)
+[2020.01.31-12.13.28:241][641]LogModuleManager: Shutting down and abandoning module OculusInput (424)
+[2020.01.31-12.13.28:244][641]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (422)
+[2020.01.31-12.13.28:244][641]LogModuleManager: Shutting down and abandoning module EditableMesh (420)
+[2020.01.31-12.13.28:257][641]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (418)
+[2020.01.31-12.13.28:257][641]LogModuleManager: Shutting down and abandoning module CableComponent (416)
+[2020.01.31-12.13.28:257][641]LogModuleManager: Shutting down and abandoning module AudioCapture (414)
+[2020.01.31-12.13.28:257][641]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (412)
+[2020.01.31-12.13.28:258][641]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (410)
+[2020.01.31-12.13.28:258][641]LogModuleManager: Shutting down and abandoning module AppleImageUtils (408)
+[2020.01.31-12.13.28:258][641]LogModuleManager: Shutting down and abandoning module AndroidPermission (406)
+[2020.01.31-12.13.28:258][641]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (404)
+[2020.01.31-12.13.28:265][641]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (402)
+[2020.01.31-12.13.28:361][641]LogModuleManager: Shutting down and abandoning module MediaCompositing (400)
+[2020.01.31-12.13.28:361][641]LogModuleManager: Shutting down and abandoning module ImgMedia (398)
+[2020.01.31-12.13.28:363][641]LogModuleManager: Shutting down and abandoning module DialoguePluginEditor (396)
+[2020.01.31-12.13.28:363][641]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (394)
+[2020.01.31-12.13.28:363][641]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (392)
+[2020.01.31-12.13.28:363][641]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (390)
+[2020.01.31-12.13.28:363][641]LogModuleManager: Shutting down and abandoning module FMODStudioEditor (388)
+[2020.01.31-12.13.28:383][641]LogModuleManager: Shutting down and abandoning module HTML5Networking (386)
+[2020.01.31-12.13.28:383][641]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (384)
+[2020.01.31-12.13.28:383][641]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (382)
+[2020.01.31-12.13.28:383][641]LogModuleManager: Shutting down and abandoning module BackChannel (380)
+[2020.01.31-12.13.28:398][641]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (378)
+[2020.01.31-12.13.28:398][641]LogModuleManager: Shutting down and abandoning module AutomationUtils (376)
+[2020.01.31-12.13.28:398][641]LogModuleManager: Shutting down and abandoning module AlembicImporter (374)
+[2020.01.31-12.13.28:404][641]LogModuleManager: Shutting down and abandoning module AlembicLibrary (373)
+[2020.01.31-12.13.28:408][641]LogModuleManager: Shutting down and abandoning module GeometryCache (372)
+[2020.01.31-12.13.28:408][641]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (371)
+[2020.01.31-12.13.28:408][641]LogModuleManager: Shutting down and abandoning module VariantManagerContent (366)
+[2020.01.31-12.13.28:408][641]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (364)
+[2020.01.31-12.13.28:412][641]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (362)
+[2020.01.31-12.13.28:412][641]LogModuleManager: Shutting down and abandoning module PluginBrowser (360)
+[2020.01.31-12.13.28:429][641]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (358)
+[2020.01.31-12.13.28:432][641]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (356)
+[2020.01.31-12.13.28:436][641]LogModuleManager: Shutting down and abandoning module CurveEditorTools (354)
+[2020.01.31-12.13.28:445][641]LogModuleManager: Shutting down and abandoning module CurveEditor (353)
+[2020.01.31-12.13.28:447][641]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (350)
+[2020.01.31-12.13.28:447][641]LogModuleManager: Shutting down and abandoning module CryptoKeys (348)
+[2020.01.31-12.13.28:447][641]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (346)
+[2020.01.31-12.13.28:453][641]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (344)
+[2020.01.31-12.13.28:454][641]LogModuleManager: Shutting down and abandoning module UObjectPlugin (342)
+[2020.01.31-12.13.28:454][641]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (340)
+[2020.01.31-12.13.28:458][641]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (338)
+[2020.01.31-12.13.28:469][641]LogModuleManager: Shutting down and abandoning module GitSourceControl (336)
+[2020.01.31-12.13.28:477][641]LogModuleManager: Shutting down and abandoning module SourceControl (335)
+[2020.01.31-12.13.28:478][641]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (332)
+[2020.01.31-12.13.28:478][641]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (330)
+[2020.01.31-12.13.28:478][641]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (328)
+[2020.01.31-12.13.28:486][641]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (326)
+[2020.01.31-12.13.28:486][641]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (324)
+[2020.01.31-12.13.28:495][641]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (322)
+[2020.01.31-12.13.28:495][641]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (320)
+[2020.01.31-12.13.28:495][641]LogModuleManager: Shutting down and abandoning module Paper2DEditor (318)
+[2020.01.31-12.13.28:518][641]LogModuleManager: Shutting down and abandoning module SignificanceManager (316)
+[2020.01.31-12.13.28:518][641]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (314)
+[2020.01.31-12.13.28:518][641]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (312)
+[2020.01.31-12.13.28:518][641]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (308)
+[2020.01.31-12.13.28:518][641]LogModuleManager: Shutting down and abandoning module ApexDestructionEditor (306)
+[2020.01.31-12.13.28:540][641]LogModuleManager: Shutting down and abandoning module ApexDestruction (304)
+[2020.01.31-12.13.28:540][641]LogModuleManager: Shutting down and abandoning module ActorSequence (302)
+[2020.01.31-12.13.28:541][641]LogModuleManager: Shutting down and abandoning module UdpMessaging (300)
+[2020.01.31-12.13.28:641][641]LogModuleManager: Shutting down and abandoning module TcpMessaging (298)
+[2020.01.31-12.13.28:757][641]LogModuleManager: Shutting down and abandoning module DialoguePlugin (296)
+[2020.01.31-12.13.28:757][641]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (294)
+[2020.01.31-12.13.28:757][641]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (292)
+[2020.01.31-12.13.28:757][641]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (290)
+[2020.01.31-12.13.28:768][641]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (288)
+[2020.01.31-12.13.28:768][641]LogModuleManager: Shutting down and abandoning module MagicLeapController (286)
+[2020.01.31-12.13.28:788][641]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.01.31-12.13.28:789][641]LogModuleManager: Shutting down and abandoning module MagicLeapAR (284)
+[2020.01.31-12.13.28:789][641]LogModuleManager: Shutting down and abandoning module AugmentedReality (283)
+[2020.01.31-12.13.28:789][641]LogModuleManager: Shutting down and abandoning module FMODStudio (280)
+[2020.01.31-12.13.29:068][641]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (278)
+[2020.01.31-12.13.29:085][641]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (276)
+[2020.01.31-12.13.29:085][641]LogModuleManager: Shutting down and abandoning module FacialAnimation (274)
+[2020.01.31-12.13.29:085][641]LogModuleManager: Shutting down and abandoning module DataValidation (272)
+[2020.01.31-12.13.29:093][641]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (270)
+[2020.01.31-12.13.29:101][641]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2020.01.31-12.13.29:126][641]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2020.01.31-12.13.29:136][641]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (266)
+[2020.01.31-12.13.29:145][641]LogModuleManager: Shutting down and abandoning module MainFrame (264)
+[2020.01.31-12.13.29:152][641]LogModuleManager: Shutting down and abandoning module HotReload (263)
+[2020.01.31-12.13.29:231][641]LogModuleManager: Shutting down and abandoning module ContentBrowser (259)
+[2020.01.31-12.13.29:248][641]LogModuleManager: Shutting down and abandoning module TreeMap (257)
+[2020.01.31-12.13.29:262][641]LogModuleManager: Shutting down and abandoning module AnimationSharing (254)
+[2020.01.31-12.13.29:262][641]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2020.01.31-12.13.29:262][641]LogModuleManager: Shutting down and abandoning module Paper2D (250)
+[2020.01.31-12.13.29:324][641]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (248)
+[2020.01.31-12.13.29:410][641]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (246)
+[2020.01.31-12.13.29:411][641]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (244)
+[2020.01.31-12.13.29:422][641]LogModuleManager: Shutting down and abandoning module PacketHandler (242)
+[2020.01.31-12.13.29:423][641]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (240)
+[2020.01.31-12.13.29:423][641]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (238)
+[2020.01.31-12.13.29:460][641]LogModuleManager: Shutting down and abandoning module MediaAssets (236)
+[2020.01.31-12.13.29:460][641]LogModuleManager: Shutting down and abandoning module Overlay (234)
+[2020.01.31-12.13.29:460][641]LogModuleManager: Shutting down and abandoning module OverlayEditor (233)
+[2020.01.31-12.13.29:460][641]LogModuleManager: Shutting down and abandoning module VREditor (230)
+[2020.01.31-12.13.29:467][641]LogModuleManager: Shutting down and abandoning module StringTableEditor (228)
+[2020.01.31-12.13.29:471][641]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (226)
+[2020.01.31-12.13.29:471][641]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (224)
+[2020.01.31-12.13.29:498][641]LogModuleManager: Shutting down and abandoning module FunctionalTesting (222)
+[2020.01.31-12.13.29:501][641]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (220)
+[2020.01.31-12.13.29:518][641]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (219)
+[2020.01.31-12.13.29:609][641]LogModuleManager: Shutting down and abandoning module UMG (216)
+[2020.01.31-12.13.29:609][641]LogModuleManager: Shutting down and abandoning module UMGEditor (215)
+[2020.01.31-12.13.29:619][641]LogModuleManager: Shutting down and abandoning module Sequencer (214)
+[2020.01.31-12.13.29:662][641]LogModuleManager: Shutting down and abandoning module MessageLog (211)
+[2020.01.31-12.13.29:662][641]LogModuleManager: Shutting down and abandoning module SlateReflector (206)
+[2020.01.31-12.13.29:679][641]LogModuleManager: Shutting down and abandoning module Slate (204)
+[2020.01.31-12.13.29:679][641]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (202)
+[2020.01.31-12.13.29:679][641]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2020.01.31-12.13.29:757][641]LogModuleManager: Shutting down and abandoning module UnrealEd (198)
+[2020.01.31-12.13.29:757][641]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2020.01.31-12.13.29:757][641]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2020.01.31-12.13.29:757][641]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2020.01.31-12.13.29:766][641]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2020.01.31-12.13.29:767][641]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2020.01.31-12.13.29:767][641]LogModuleManager: Shutting down and abandoning module Core (186)
+[2020.01.31-12.13.29:767][641]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2020.01.31-12.13.29:767][641]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2020.01.31-12.13.29:781][641]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2020.01.31-12.13.29:794][641]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2020.01.31-12.13.29:794][641]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (179)
+[2020.01.31-12.13.29:803][641]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2020.01.31-12.13.29:877][641]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (175)
+[2020.01.31-12.13.29:887][641]LogModuleManager: Shutting down and abandoning module MaterialBaking (171)
+[2020.01.31-12.13.29:890][641]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (166)
+[2020.01.31-12.13.29:890][641]LogModuleManager: Shutting down and abandoning module DerivedDataCache (164)
+[2020.01.31-12.13.29:890][641]LogDerivedDataCache: Shutdown
+[2020.01.31-12.13.29:890][641]LogModuleManager: Shutting down and abandoning module XGEController (162)
+[2020.01.31-12.13.29:897][641]LogXGEController: Cleaning working directory: C:/Users/Adrian/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.01.31-12.13.29:899][641]LogModuleManager: Shutting down and abandoning module TargetPlatform (160)
+[2020.01.31-12.13.29:904][641]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (159)
+[2020.01.31-12.13.29:910][641]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (157)
+[2020.01.31-12.13.29:917][641]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (155)
+[2020.01.31-12.13.29:927][641]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (153)
+[2020.01.31-12.13.29:935][641]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (151)
+[2020.01.31-12.13.29:941][641]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (149)
+[2020.01.31-12.13.29:941][641]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (147)
+[2020.01.31-12.13.29:947][641]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (145)
+[2020.01.31-12.13.29:947][641]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (143)
+[2020.01.31-12.13.29:961][641]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (141)
+[2020.01.31-12.13.29:961][641]LogModuleManager: Shutting down and abandoning module ImageWrapper (140)
+[2020.01.31-12.13.29:961][641]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (137)
+[2020.01.31-12.13.29:961][641]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (135)
+[2020.01.31-12.13.29:961][641]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (133)
+[2020.01.31-12.13.29:973][641]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (131)
+[2020.01.31-12.13.29:974][641]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2020.01.31-12.13.30:102][641]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (127)
+[2020.01.31-12.13.30:103][641]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (125)
+[2020.01.31-12.13.30:104][641]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (123)
+[2020.01.31-12.13.30:122][641]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (121)
+[2020.01.31-12.13.30:122][641]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (119)
+[2020.01.31-12.13.30:165][641]LogModuleManager: Shutting down and abandoning module Messaging (117)
+[2020.01.31-12.13.30:165][641]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
+[2020.01.31-12.13.30:207][641]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (113)
+[2020.01.31-12.13.30:225][641]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2020.01.31-12.13.30:474][641]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (109)
+[2020.01.31-12.13.30:474][641]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (107)
+[2020.01.31-12.13.30:486][641]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (105)
+[2020.01.31-12.13.30:493][641]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (103)
+[2020.01.31-12.13.30:500][641]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (101)
+[2020.01.31-12.13.30:501][641]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (99)
+[2020.01.31-12.13.30:511][641]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (97)
+[2020.01.31-12.13.30:514][641]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (95)
+[2020.01.31-12.13.30:521][641]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (93)
+[2020.01.31-12.13.30:530][641]LogModuleManager: Shutting down and abandoning module InputCore (90)
+[2020.01.31-12.13.30:530][641]LogModuleManager: Shutting down and abandoning module Settings (88)
+[2020.01.31-12.13.30:530][641]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (86)
+[2020.01.31-12.13.30:553][641]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2020.01.31-12.13.30:553][641]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (82)
+[2020.01.31-12.13.30:553][641]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (81)
+[2020.01.31-12.13.30:578][641]LogModuleManager: Shutting down and abandoning module SteamVR (78)
+[2020.01.31-12.13.30:579][641]LogHMD: Freeing OpenVRDLLHandle.
+[2020.01.31-12.13.30:579][641]LogModuleManager: Shutting down and abandoning module OculusHMD (76)
+[2020.01.31-12.13.30:587][641]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
+[2020.01.31-12.13.30:588][641]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
+[2020.01.31-12.13.30:588][641]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (70)
+[2020.01.31-12.13.30:588][641]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (66)
+[2020.01.31-12.13.30:600][641]LogModuleManager: Shutting down and abandoning module XMPP (61)
+[2020.01.31-12.13.30:611][641]LogModuleManager: Shutting down and abandoning module WebSockets (60)
+[2020.01.31-12.13.30:665][641]LogModuleManager: Shutting down and abandoning module HTTP (57)
+[2020.01.31-12.13.30:665][641]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.01.31-12.13.30:665][641]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B00D5B98B-4204-3DAE-5C56-6690EEFB18F1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=ccd468f74bb4201230191aa65e43c548%7C9838cf404cf94690918c4422a709b2b6%7C99dd8298-945b-4a52-82ea-adcce7b9c875&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.01.31-12.13.30:687][641]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2020.01.31-12.13.30:729][641]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2020.01.31-12.13.30:748][641]LogModuleManager: Shutting down and abandoning module Media (51)
+[2020.01.31-12.13.30:751][641]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2020.01.31-12.13.30:759][641]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2020.01.31-12.13.30:760][641]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2020.01.31-12.13.30:760][641]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2020.01.31-12.13.30:769][641]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.01.31-12.13.30:769][641]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.01.31-12.13.30:783][641]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.01.31-12.13.30:899][641]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.01.31-12.13.30:959][641]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.01.31-12.13.30:959][641]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.01.31-12.13.30:959][641]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.01.31-12.13.30:959][641]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.01.31-12.13.31:068][641]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.01.31-12.13.31:081][641]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.01.31-12.13.31:081][641]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.01.31-12.13.31:081][641]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.01.31-12.13.31:094][641]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.01.31-12.13.31:099][641]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.01.31-12.13.31:099][641]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.01.31-12.13.31:104][641]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.01.31-12.13.31:104][641]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.01.31-12.13.31:108][641]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.01.31-12.13.31:116][641]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.01.31-12.13.31:197][641]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.01.31-12.13.31:222][641]LogD3D11RHI: Shutdown
+[2020.01.31-12.13.31:254][641]LogD3D11RHI: CleanupD3DDevice
+[2020.01.31-12.13.31:622][641]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.01.31-12.13.31:628][641]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.01.31-12.13.31:628][641]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.01.31-12.13.33:885][641]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.01.31-12.13.33:931][641]LogExit: Exiting.
+[2020.01.31-12.13.34:078][641]Log file closed, 01/31/20 13:13:34
