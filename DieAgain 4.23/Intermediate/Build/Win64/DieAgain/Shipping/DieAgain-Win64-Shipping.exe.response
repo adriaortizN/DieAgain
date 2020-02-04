@@ -99,6 +99,8 @@
 "E:\UE_4.23\Engine\Intermediate\Build\Win64\UE4\Shipping\Engine\SharedPCH.Engine.h.obj"
 "E:\UE_4.23\Engine\Intermediate\Build\Win64\UE4\Shipping\Launch\Module.Launch.cpp.obj"
 "E:\UE_4.23\Engine\Intermediate\Build\Win64\UE4\Shipping\Launch\PCLaunch.rc.res"
+"E:\UE_4.23\Engine\Plugins\Marketplace\DialoguePlugin\Intermediate\Build\Win64\UE4\Shipping\DialoguePlugin\Module.DialoguePlugin.cpp.obj"
+"E:\UE_4.23\Engine\Plugins\Marketplace\DialoguePlugin\Intermediate\Build\Win64\UE4\Shipping\DialoguePlugin\Module.DialoguePlugin.gen.cpp.obj"
 "E:\UE_4.23\Engine\Plugins\Runtime\ApexDestruction\Intermediate\Build\Win64\UE4\Shipping\ApexDestruction\Module.ApexDestruction.cpp.obj"
 "E:\UE_4.23\Engine\Plugins\Runtime\ApexDestruction\Intermediate\Build\Win64\UE4\Shipping\ApexDestruction\Module.ApexDestruction.gen.cpp.obj"
 "E:\UE_4.23\Engine\Plugins\FMODStudio\Intermediate\Build\Win64\UE4\Shipping\FMODStudio\PCH.FMODStudio.h.obj"
@@ -735,6 +737,7 @@
 /OUT:"E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\Binaries\Win64\DieAgain-Win64-Shipping.exe"
 /PDB:"E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\Binaries\Win64\DieAgain-Win64-Shipping.pdb"
 /ignore:4078
+/INCLUDE:IMPLEMENT_MODULE_DialoguePlugin
 /INCLUDE:IMPLEMENT_MODULE_ApexDestruction
 /INCLUDE:IMPLEMENT_MODULE_FMODStudio
 /INCLUDE:IMPLEMENT_MODULE_Paper2D
