@@ -2794,3 +2794,425 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.05-19.36.55:069][557]LogUObjectHash: Compacting FUObjectHashTables data took   8.86ms
 [2020.02.05-19.36.55:088][557]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/GameOverHUD/HUD" FILE="../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/HUD/GameOverHUD/HUD.uasset" SILENT=true
 [2020.02.05-19.36.55:152][557]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/HUD8A55D4A149970BDE9E2C66974F75246D.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/HUD/GameOverHUD/HUD.uasset'
+[2020.02.05-19.39.26:190][672]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.05-19.39.54:517][448]LogUObjectHash: Compacting FUObjectHashTables data took   7.40ms
+[2020.02.05-19.39.56:077][593]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Art/Enemies/DogAnimation/PlayerRPGWeaponAnimBP.PlayerRPGWeaponAnimBP
+[2020.02.05-19.39.56:536][593]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0014 seconds. Added 1 classes and 2 folders.
+[2020.02.05-19.39.57:558][593]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.05-19.39.57:588][593]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0008 seconds. Added 1 classes and 0 folders.
+[2020.02.05-19.39.58:241][593]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.02.05-19.39.59:826][593]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.02.05-19.40.13:329][874]LogUObjectHash: Compacting FUObjectHashTables data took  10.65ms
+[2020.02.05-19.40.13:365][874]LogMetaData: Removing '/Game/Art/Enemies/DogAnimation/Dog_AnimBP.SKEL_Dog_AnimBP_C' ref from Metadata '/Game/Art/Enemies/DogAnimation/PlayerRPGWeaponAnimBP.PackageMetaData'
+[2020.02.05-19.40.13:365][874]LogMetaData: Removing '/Game/Art/Enemies/DogAnimation/Dog_AnimBP.Dog_AnimBP_C' ref from Metadata '/Game/Art/Enemies/DogAnimation/PlayerRPGWeaponAnimBP.PackageMetaData'
+[2020.02.05-19.40.13:559][874]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/Dog_AnimBP495BD75E4DC6F1EF1FFF86B72C815F5A.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Art/Enemies/DogAnimation/Dog_AnimBP.uasset'
+[2020.02.05-19.40.13:966][874]LogUObjectHash: Compacting FUObjectHashTables data took   8.77ms
+[2020.02.05-19.40.14:031][874]LogUObjectHash: Compacting FUObjectHashTables data took   5.80ms
+[2020.02.05-19.40.14:084][874]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2020.02.05-19.40.45:059][ 65]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2020.02.05-19.40.45:069][ 65]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2020.02.05-19.40.45:680][ 65]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2020.02.05-19.40.47:904][283]LogUObjectHash: Compacting FUObjectHashTables data took  13.39ms
+[2020.02.05-19.40.56:869][283]LogSlate: Window 'Delete Assets' being destroyed
+[2020.02.05-19.41.01:343][283]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Art/Enemies/DogAnimation/Dog_AnimBP.Dog_AnimBP
+[2020.02.05-19.42.14:290][283]LogUObjectHash: Compacting FUObjectHashTables data took  14.02ms
+[2020.02.05-19.42.14:529][283]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
+[2020.02.05-19.42.14:579][283]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2020.02.05-19.43.45:391][409]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.05-19.43.45:800][409]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/LV2/Level2_2.Level2_2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV2/Level2_2.Level2_2:PersistentLevel.Level2_2' with GeneratedClass '/Game/Levels/LV2/Level2_2.Level2_2_C' with ClassGeneratedBy '/Game/Levels/LV2/Level2_2.Level2_2:PersistentLevel.Level2_2'
+[2020.02.05-19.43.45:844][409]LogFMOD: Creating runtime Studio System
+[2020.02.05-19.43.45:850][409]LogFMOD: Default sample rate = 48000
+[2020.02.05-19.43.45:850][409]LogFMOD: System sample rate = 44100
+[2020.02.05-19.43.45:850][409]LogFMOD: Matching system sample rate 44100
+[2020.02.05-19.43.45:901][409]LogFMOD: Loading Banks
+[2020.02.05-19.43.45:959][409]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.02.05-19.43.46:048][409]LogPlayLevel: [PlayLevel] Compiling HUD before play...
+[2020.02.05-19.43.46:815][409]LogUObjectHash: Compacting FUObjectHashTables data took   9.45ms
+[2020.02.05-19.43.46:839][409]LogPlayLevel: PlayLevel: Blueprint regeneration took 881 ms (1 blueprints)
+[2020.02.05-19.43.46:937][409]PIE: New page: PIE session: Level2_2 (Feb 5, 2020, 9:43:46 PM)
+[2020.02.05-19.44.00:589][409]LogPlayLevel: Creating play world package: /Game/Levels/LV2/UEDPIE_0_Level2_2
+[2020.02.05-19.44.01:422][409]LogPlayLevel: PIE: StaticDuplicateObject took: (0.831717s)
+[2020.02.05-19.44.01:430][409]LogAIModule: Creating AISystem for world Level2_2
+[2020.02.05-19.44.01:463][409]LogPlayLevel: PIE: World Init took: (0.041139s)
+[2020.02.05-19.44.01:464][409]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV2/Level2_2.Level2_2 to /Game/Levels/LV2/UEDPIE_0_Level2_2.Level2_2 (0.877972s)
+[2020.02.05-19.44.01:539][409]LogUObjectHash: Compacting FUObjectHashTables data took   5.17ms
+[2020.02.05-19.44.01:672][409]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.05-19.44.01:692][409]LogInit: FAudioDevice initialized.
+[2020.02.05-19.44.05:865][409]LogInit: Error: Failed to load cursor '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/None'
+[2020.02.05-19.44.05:903][409]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.05-19.44.06:014][409]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.05-19.44.06:239][409]LogWorld: Bringing World /Game/Levels/LV2/UEDPIE_0_Level2_2.Level2_2 up for play (max tick rate 0) at 2020.02.05-20.44.06
+[2020.02.05-19.44.06:403][409]LogWorld: Bringing up level for play took: 0.385465
+[2020.02.05-19.44.06:449][409]LogOnline: OSS: Creating online subsystem instance for: :Context_66
+[2020.02.05-19.44.06:646][409]PIE: Play in editor start time for /Game/Levels/LV2/UEDPIE_0_Level2_2 21.235
+[2020.02.05-19.44.06:648][409]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/LV2/Level2_2.Level2_2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV2/Level2_2.Level2_2:PersistentLevel.Level2_2' with GeneratedClass '/Game/Levels/LV2/Level2_2.Level2_2_C' with ClassGeneratedBy '/Game/Levels/LV2/Level2_2.Level2_2:PersistentLevel.Level2_2'
+[2020.02.05-19.44.18:810][736]Cmd: r.Streaming.PoolSize = "2048"
+[2020.02.05-19.44.19:085][736]Warning: Processing the console input parameters the leading '=' is ignored (only needed for ini files).
+[2020.02.05-19.44.19:085][736]r.Streaming.PoolSize = "0"
+[2020.02.05-19.44.19:094][736]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.05-19.44.19:113][738]LogContentStreaming: Texture pool size now 0 MB
+[2020.02.05-19.44.20:762][933]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/LV2/Level2_2.Level2_2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV2/Level2_2.Level2_2:PersistentLevel.Level2_2' with GeneratedClass '/Game/Levels/LV2/Level2_2.Level2_2_C' with ClassGeneratedBy '/Game/Levels/LV2/Level2_2.Level2_2:PersistentLevel.Level2_2'
+[2020.02.05-19.44.20:885][933]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.05-19.44.20:885][933]LogWorld: BeginTearingDown for /Game/Levels/LV2/UEDPIE_0_Level2_2
+[2020.02.05-19.44.20:886][933]LogWorld: UWorld::CleanupWorld for Level2_2, bSessionEnded=true, bCleanupResources=true
+[2020.02.05-19.44.21:017][933]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.05-19.44.21:029][933]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/LV2/Level2_2.Level2_2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV2/Level2_2.Level2_2:PersistentLevel.Level2_2' with GeneratedClass '/Game/Levels/LV2/Level2_2.Level2_2_C' with ClassGeneratedBy '/Game/Levels/LV2/Level2_2.Level2_2:PersistentLevel.Level2_2'
+[2020.02.05-19.44.21:091][933]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.05-19.44.21:174][933]LogUObjectHash: Compacting FUObjectHashTables data took   5.78ms
+[2020.02.05-19.44.21:202][934]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2020.02.05-19.44.24:064][257]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.05-19.44.28:808][779]LogEditorViewport: Clicking on Actor (LMB): EnemyDogCh_C (EnemyDogCh)
+[2020.02.05-19.44.33:412][176]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.05-19.44.37:186][492]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/AnimalVarietyPack/Wolf/Meshes/SK_Wolf.SK_Wolf
+[2020.02.05-19.44.37:230][492]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_38:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.05-19.44.37:433][492]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_38:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.02.05-19.44.38:074][493]LogRenderer: Reallocating scene render targets to support 1196x884 Format 10 NumSamples 1 (Frame:1).
+[2020.02.05-19.45.06:616][582]LogMetaData: Removing '/Game/Art/Dog_AnimBP.Dog_AnimBP:AnimGraph.AnimGraphNode_Root_0' ref from Metadata '/Game/AnimalVarietyPack/Wolf/Meshes/Dog_AnimBP.PackageMetaData'
+[2020.02.05-19.45.06:617][582]LogMetaData: Removing '/Game/Art/Dog_AnimBP.SKEL_Dog_AnimBP_C:AnimGraph' ref from Metadata '/Game/AnimalVarietyPack/Wolf/Meshes/Dog_AnimBP.PackageMetaData'
+[2020.02.05-19.45.06:617][582]LogMetaData: Removing '/Game/Art/Dog_AnimBP.SKEL_Dog_AnimBP_C' ref from Metadata '/Game/AnimalVarietyPack/Wolf/Meshes/Dog_AnimBP.PackageMetaData'
+[2020.02.05-19.45.06:617][582]LogMetaData: Removing '/Game/Art/Dog_AnimBP.Dog_AnimBP_C:AnimGraph' ref from Metadata '/Game/AnimalVarietyPack/Wolf/Meshes/Dog_AnimBP.PackageMetaData'
+[2020.02.05-19.45.06:617][582]LogMetaData: Removing '/Game/Art/Dog_AnimBP.Dog_AnimBP_C' ref from Metadata '/Game/AnimalVarietyPack/Wolf/Meshes/Dog_AnimBP.PackageMetaData'
+[2020.02.05-19.45.06:617][582]LogMetaData: Removing '/Game/Art/Dog_AnimBP.Dog_AnimBP:EventGraph.K2Node_Event_0' ref from Metadata '/Game/AnimalVarietyPack/Wolf/Meshes/Dog_AnimBP.PackageMetaData'
+[2020.02.05-19.45.06:618][582]LogMetaData: Removing '/Game/Art/Dog_AnimBP.Dog_AnimBP:EventGraph.K2Node_CallFunction_0' ref from Metadata '/Game/AnimalVarietyPack/Wolf/Meshes/Dog_AnimBP.PackageMetaData'
+[2020.02.05-19.45.06:654][582]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Dog_AnimBP" FILE="../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Art/Dog_AnimBP.uasset" SILENT=true
+[2020.02.05-19.45.06:707][582]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/Dog_AnimBP61C3AF2C438DB15F5A558883FA9600F9.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Art/Dog_AnimBP.uasset'
+[2020.02.05-19.45.07:080][582]LogUObjectHash: Compacting FUObjectHashTables data took   7.34ms
+[2020.02.05-19.45.07:151][582]LogUObjectHash: Compacting FUObjectHashTables data took   7.80ms
+[2020.02.05-19.45.07:200][582]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2020.02.05-19.45.16:759][440]LogMetaData: Removing '/Game/Art/Enemies/DogAnimation/Dog_AnimBP.Dog_AnimBP_C' ref from Metadata '/Game/Art/Dog_AnimBP.PackageMetaData'
+[2020.02.05-19.45.16:759][440]LogMetaData: Removing '/Game/Art/Enemies/DogAnimation/Dog_AnimBP.Dog_AnimBP_C:AnimGraph' ref from Metadata '/Game/Art/Dog_AnimBP.PackageMetaData'
+[2020.02.05-19.45.16:759][440]LogMetaData: Removing '/Game/Art/Enemies/DogAnimation/Dog_AnimBP.SKEL_Dog_AnimBP_C' ref from Metadata '/Game/Art/Dog_AnimBP.PackageMetaData'
+[2020.02.05-19.45.16:760][440]LogMetaData: Removing '/Game/Art/Enemies/DogAnimation/Dog_AnimBP.SKEL_Dog_AnimBP_C:AnimGraph' ref from Metadata '/Game/Art/Dog_AnimBP.PackageMetaData'
+[2020.02.05-19.45.16:760][440]LogMetaData: Removing '/Game/Art/Enemies/DogAnimation/Dog_AnimBP.Dog_AnimBP:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Art/Dog_AnimBP.PackageMetaData'
+[2020.02.05-19.45.16:760][440]LogMetaData: Removing '/Game/Art/Enemies/DogAnimation/Dog_AnimBP.Dog_AnimBP:EventGraph.K2Node_CallFunction_0' ref from Metadata '/Game/Art/Dog_AnimBP.PackageMetaData'
+[2020.02.05-19.45.16:760][440]LogMetaData: Removing '/Game/Art/Enemies/DogAnimation/Dog_AnimBP.Dog_AnimBP:AnimGraph.AnimGraphNode_Root_0' ref from Metadata '/Game/Art/Dog_AnimBP.PackageMetaData'
+[2020.02.05-19.45.16:835][440]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/Dog_AnimBP4C81428142DAAE4A516B78B878741730.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Art/Enemies/DogAnimation/Dog_AnimBP.uasset'
+[2020.02.05-19.45.17:181][440]LogUObjectHash: Compacting FUObjectHashTables data took   7.27ms
+[2020.02.05-19.45.17:236][440]LogUObjectHash: Compacting FUObjectHashTables data took   5.37ms
+[2020.02.05-19.45.17:285][440]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2020.02.05-19.45.18:449][532]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Art/Enemies/DogAnimation/Dog_AnimBP.Dog_AnimBP
+[2020.02.05-19.45.18:473][532]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_40:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.05-19.45.19:055][532]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_40:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.02.05-19.45.19:625][532]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.02.05-19.45.28:098][401]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.05-19.46.09:402][618]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/Dog_BlendSpaceA2CF6A6C4B3440F3B6F93A9C81600C64.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Art/Enemies/DogAnimation/Dog_BlendSpace.uasset'
+[2020.02.05-19.46.09:859][618]LogUObjectHash: Compacting FUObjectHashTables data took   7.72ms
+[2020.02.05-19.46.09:920][618]LogUObjectHash: Compacting FUObjectHashTables data took   4.91ms
+[2020.02.05-19.46.09:982][618]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2020.02.05-19.46.13:406][860]LogAssetEditorManager: Opening Asset editor for BlendSpace1D /Game/Art/Enemies/DogAnimation/Dog_BlendSpace.Dog_BlendSpace
+[2020.02.05-19.46.13:671][860]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_42:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.05-19.46.13:722][860]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_42:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.02.05-19.46.29:655][860]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.02.05-19.47.03:342][909]LogUObjectHash: Compacting FUObjectHashTables data took   9.41ms
+[2020.02.05-19.47.41:833][589]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/AnimalVarietyPack/Wolf/Animations/ANIM_Wolf_IdleBreathe.ANIM_Wolf_IdleBreathe
+[2020.02.05-19.47.46:392][913]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2020.02.05-19.47.49:144][127]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2020.02.05-19.47.51:801][353]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2020.02.05-19.47.57:030][847]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.05-19.47.57:290][853]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2020.02.05-19.47.59:847][ 73]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2020.02.05-19.47.59:925][ 73]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2020.02.05-19.48.00:221][ 73]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2020.02.05-19.48.17:988][924]LogAssetEditorManager: Opening Asset editor for BlendSpace1D /Game/Art/Enemies/DogAnimation/Dog_BlendSpace.Dog_BlendSpace
+[2020.02.05-19.48.18:004][924]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_49:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.05-19.48.18:034][924]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_49:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.02.05-19.48.18:481][924]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.02.05-19.48.36:352][758]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/Dog_BlendSpace411C9EE14866938E466D6786F3A18811.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Art/Enemies/DogAnimation/Dog_BlendSpace.uasset'
+[2020.02.05-19.48.49:539][114]LogUObjectHash: Compacting FUObjectHashTables data took   9.34ms
+[2020.02.05-19.49.51:127][224]LogUObjectHash: Compacting FUObjectHashTables data took   8.47ms
+[2020.02.05-19.49.51:128][224]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/LV2/Level2_2' took 0.066
+[2020.02.05-19.49.51:172][224]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Enemies/DogAnimation/Dog_AnimBP] ([1] browsable assets)...
+[2020.02.05-19.49.51:208][224]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Art/Enemies/DogAnimation/Dog_AnimBP.Dog_AnimBP]
+[2020.02.05-19.49.51:208][224]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Enemies/DogAnimation/Dog_AnimBP]
+[2020.02.05-19.49.51:380][224]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/Dog_AnimBP_Auto1E50BE8D44BBDCCAA5591D5946F197861.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/Autosaves/Game/Art/Enemies/DogAnimation/Dog_AnimBP_Auto1.uasset'
+[2020.02.05-19.49.51:381][224]LogFileHelpers: Auto-saving content packages took 0.252
+[2020.02.05-19.50.35:812][960]LogSlate: Took 0.056211 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.02.05-19.50.43:023][733]BlueprintLog: New page: Compile Dog_AnimBP
+[2020.02.05-19.50.43:673][733]LogUObjectHash: Compacting FUObjectHashTables data took   9.16ms
+[2020.02.05-19.50.43:783][733]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/Dog_AnimBP428D24F04D44FA2B7BD796976C9F7C33.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Art/Enemies/DogAnimation/Dog_AnimBP.uasset'
+[2020.02.05-19.50.45:661][933]LogContentBrowser: Verbose: The majority of assets in the view are of type: None
+[2020.02.05-19.50.47:895][200]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.02.05-19.51.13:574][849]LogUObjectHash: Compacting FUObjectHashTables data took   9.64ms
+[2020.02.05-19.51.13:666][849]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/Dog_BlendSpaceF02242884415E640800C3394ADF2D783.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Art/Enemies/DogAnimation/Dog_BlendSpace.uasset'
+[2020.02.05-19.51.27:430][368]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2020.02.05-19.51.27:622][368]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2020.02.05-19.51.29:957][547]LogUObjectHash: Compacting FUObjectHashTables data took   8.80ms
+[2020.02.05-19.51.30:020][547]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/Dog_AnimBPA0F5DDAE4BB69FE3A45AF3B81C528D4B.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Art/Enemies/DogAnimation/Dog_AnimBP.uasset'
+[2020.02.05-19.51.34:148][873]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Art/Enemies/PlayerAnimations/PlayerRPGWeaponAnimBP.PlayerRPGWeaponAnimBP
+[2020.02.05-19.51.34:183][873]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.05-19.51.34:726][873]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.02.05-19.51.35:126][873]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.02.05-19.52.03:326][727]BlueprintLog: New page: Compile Dog_AnimBP
+[2020.02.05-19.52.04:007][727]LogUObjectHash: Compacting FUObjectHashTables data took  10.58ms
+[2020.02.05-19.52.05:132][836]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/Dog_AnimBP1EFCA30141B7C4E5C8A2E4B583C5A2B9.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Art/Enemies/DogAnimation/Dog_AnimBP.uasset'
+[2020.02.05-19.52.12:495][615]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2020.02.05-19.52.30:096][170]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.05-19.52.30:133][170]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/LV2/Level2_2.Level2_2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV2/Level2_2.Level2_2:PersistentLevel.Level2_2' with GeneratedClass '/Game/Levels/LV2/Level2_2.Level2_2_C' with ClassGeneratedBy '/Game/Levels/LV2/Level2_2.Level2_2:PersistentLevel.Level2_2'
+[2020.02.05-19.52.30:174][170]LogFMOD: Creating runtime Studio System
+[2020.02.05-19.52.30:184][170]LogFMOD: Default sample rate = 48000
+[2020.02.05-19.52.30:184][170]LogFMOD: System sample rate = 44100
+[2020.02.05-19.52.30:184][170]LogFMOD: Matching system sample rate 44100
+[2020.02.05-19.52.30:204][170]LogFMOD: Loading Banks
+[2020.02.05-19.52.30:296][170]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.02.05-19.52.30:500][170]LogPlayLevel: [PlayLevel] Compiling EnemyDogCh before play...
+[2020.02.05-19.52.31:872][170]LogUObjectHash: Compacting FUObjectHashTables data took  16.27ms
+[2020.02.05-19.52.31:873][170]LogPlayLevel: PlayLevel: Blueprint regeneration took 1577 ms (1 blueprints)
+[2020.02.05-19.52.31:873][170]PIE: New page: PIE session: Level2_2 (Feb 5, 2020, 9:52:31 PM)
+[2020.02.05-19.52.32:698][170]LogPlayLevel: Creating play world package: /Game/Levels/LV2/UEDPIE_0_Level2_2
+[2020.02.05-19.52.32:892][170]LogPlayLevel: PIE: StaticDuplicateObject took: (0.193897s)
+[2020.02.05-19.52.32:895][170]LogAIModule: Creating AISystem for world Level2_2
+[2020.02.05-19.52.32:896][170]LogPlayLevel: PIE: World Init took: (0.002201s)
+[2020.02.05-19.52.32:897][170]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV2/Level2_2.Level2_2 to /Game/Levels/LV2/UEDPIE_0_Level2_2.Level2_2 (0.199146s)
+[2020.02.05-19.52.32:965][170]LogUObjectHash: Compacting FUObjectHashTables data took   6.27ms
+[2020.02.05-19.52.32:985][170]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.05-19.52.32:993][170]LogInit: FAudioDevice initialized.
+[2020.02.05-19.52.38:570][170]LogInit: Error: Failed to load cursor '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/None'
+[2020.02.05-19.52.38:594][170]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.05-19.52.38:625][170]LogWorld: Bringing World /Game/Levels/LV2/UEDPIE_0_Level2_2.Level2_2 up for play (max tick rate 0) at 2020.02.05-20.52.38
+[2020.02.05-19.52.38:631][170]LogWorld: Bringing up level for play took: 0.035409
+[2020.02.05-19.52.38:632][170]LogOnline: OSS: Creating online subsystem instance for: :Context_83
+[2020.02.05-19.52.38:637][170]PIE: Play in editor start time for /Game/Levels/LV2/UEDPIE_0_Level2_2 9.219
+[2020.02.05-19.52.38:637][170]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/LV2/Level2_2.Level2_2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV2/Level2_2.Level2_2:PersistentLevel.Level2_2' with GeneratedClass '/Game/Levels/LV2/Level2_2.Level2_2_C' with ClassGeneratedBy '/Game/Levels/LV2/Level2_2.Level2_2:PersistentLevel.Level2_2'
+[2020.02.05-19.52.43:807][488]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.05-19.52.46:540][768]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/LV2/Level2_2.Level2_2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV2/Level2_2.Level2_2:PersistentLevel.Level2_2' with GeneratedClass '/Game/Levels/LV2/Level2_2.Level2_2_C' with ClassGeneratedBy '/Game/Levels/LV2/Level2_2.Level2_2:PersistentLevel.Level2_2'
+[2020.02.05-19.52.46:632][768]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.05-19.52.46:632][768]LogWorld: BeginTearingDown for /Game/Levels/LV2/UEDPIE_0_Level2_2
+[2020.02.05-19.52.46:635][768]LogWorld: UWorld::CleanupWorld for Level2_2, bSessionEnded=true, bCleanupResources=true
+[2020.02.05-19.52.46:686][768]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.05-19.52.46:687][768]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/LV2/Level2_2.Level2_2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV2/Level2_2.Level2_2:PersistentLevel.Level2_2' with GeneratedClass '/Game/Levels/LV2/Level2_2.Level2_2_C' with ClassGeneratedBy '/Game/Levels/LV2/Level2_2.Level2_2:PersistentLevel.Level2_2'
+[2020.02.05-19.52.46:801][768]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.05-19.52.46:890][768]LogUObjectHash: Compacting FUObjectHashTables data took  15.50ms
+[2020.02.05-19.52.46:916][769]LogPlayLevel: Display: Destroying online subsystem :Context_83
+[2020.02.05-19.52.48:160][894]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2020.02.05-19.52.48:312][894]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2020.02.05-19.52.50:165][894]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/Level2_203F2F7B949B9EEFA6F09F49F8CD47A88.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LV2/Level2_2.umap'
+[2020.02.05-19.52.50:329][894]LogFileHelpers: Saving map 'Level2_2' took 2.119
+[2020.02.05-19.52.52:052][894]LogUObjectHash: Compacting FUObjectHashTables data took   9.17ms
+[2020.02.05-19.52.53:272][894]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/ThirdPersonExampleMapFC102E924A05686988B6959EF5F4EB6F.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.02.05-19.52.53:428][894]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 1.818
+[2020.02.05-19.52.53:884][894]LogUObjectHash: Compacting FUObjectHashTables data took   7.51ms
+[2020.02.05-19.52.55:477][894]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/Level2_1ECA33F114313B03CD27A7E95539756A3.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LV2/Level2_1.umap'
+[2020.02.05-19.52.55:562][894]LogFileHelpers: Saving map 'Level2_1' took 2.117
+[2020.02.05-19.52.55:643][894]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/EnemyDogCh" FILE="../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Enemies/EnemyDogCh.uasset" SILENT=true
+[2020.02.05-19.52.55:857][894]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/EnemyDogCh31BCF1074AEBE3B7C5357FA66F970238.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Enemies/EnemyDogCh.uasset'
+[2020.02.05-19.52.59:400][177]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.05-19.53.08:117][ 71]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/AnimalVarietyPack/Wolf/Animations/ANIM_Wolf_Walk.ANIM_Wolf_Walk
+[2020.02.05-19.53.08:134][ 71]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.05-19.53.08:184][ 71]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.02.05-19.53.08:852][ 71]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.02.05-19.53.14:311][616]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.05-19.53.14:344][616]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/LV2/Level2_2.Level2_2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV2/Level2_2.Level2_2:PersistentLevel.Level2_2' with GeneratedClass '/Game/Levels/LV2/Level2_2.Level2_2_C' with ClassGeneratedBy '/Game/Levels/LV2/Level2_2.Level2_2:PersistentLevel.Level2_2'
+[2020.02.05-19.53.14:384][616]LogFMOD: Creating runtime Studio System
+[2020.02.05-19.53.14:385][616]LogFMOD: Default sample rate = 48000
+[2020.02.05-19.53.14:385][616]LogFMOD: System sample rate = 44100
+[2020.02.05-19.53.14:385][616]LogFMOD: Matching system sample rate 44100
+[2020.02.05-19.53.14:395][616]LogFMOD: Loading Banks
+[2020.02.05-19.53.14:454][616]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.05-19.53.14:454][616]PIE: New page: PIE session: Level2_2 (Feb 5, 2020, 9:53:14 PM)
+[2020.02.05-19.53.14:457][616]LogPlayLevel: Creating play world package: /Game/Levels/LV2/UEDPIE_0_Level2_2
+[2020.02.05-19.53.14:620][616]LogPlayLevel: PIE: StaticDuplicateObject took: (0.163693s)
+[2020.02.05-19.53.14:622][616]LogAIModule: Creating AISystem for world Level2_2
+[2020.02.05-19.53.14:622][616]LogPlayLevel: PIE: World Init took: (0.001287s)
+[2020.02.05-19.53.14:622][616]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV2/Level2_2.Level2_2 to /Game/Levels/LV2/UEDPIE_0_Level2_2.Level2_2 (0.165544s)
+[2020.02.05-19.53.14:721][616]LogUObjectHash: Compacting FUObjectHashTables data took  10.13ms
+[2020.02.05-19.53.14:736][616]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.05-19.53.14:743][616]LogInit: FAudioDevice initialized.
+[2020.02.05-19.53.17:469][616]LogInit: Error: Failed to load cursor '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/None'
+[2020.02.05-19.53.17:479][616]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.05-19.53.17:513][616]LogWorld: Bringing World /Game/Levels/LV2/UEDPIE_0_Level2_2.Level2_2 up for play (max tick rate 0) at 2020.02.05-20.53.17
+[2020.02.05-19.53.17:519][616]LogWorld: Bringing up level for play took: 0.039796
+[2020.02.05-19.53.17:521][616]LogOnline: OSS: Creating online subsystem instance for: :Context_87
+[2020.02.05-19.53.17:526][616]PIE: Play in editor start time for /Game/Levels/LV2/UEDPIE_0_Level2_2 4.107
+[2020.02.05-19.53.17:526][616]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/LV2/Level2_2.Level2_2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV2/Level2_2.Level2_2:PersistentLevel.Level2_2' with GeneratedClass '/Game/Levels/LV2/Level2_2.Level2_2_C' with ClassGeneratedBy '/Game/Levels/LV2/Level2_2.Level2_2:PersistentLevel.Level2_2'
+[2020.02.05-19.53.20:288][874]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.05-19.53.22:576][ 96]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.05-19.53.22:645][103]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/LV2/Level2_2.Level2_2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV2/Level2_2.Level2_2:PersistentLevel.Level2_2' with GeneratedClass '/Game/Levels/LV2/Level2_2.Level2_2_C' with ClassGeneratedBy '/Game/Levels/LV2/Level2_2.Level2_2:PersistentLevel.Level2_2'
+[2020.02.05-19.53.22:747][103]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.05-19.53.22:747][103]LogWorld: BeginTearingDown for /Game/Levels/LV2/UEDPIE_0_Level2_2
+[2020.02.05-19.53.22:751][103]LogWorld: UWorld::CleanupWorld for Level2_2, bSessionEnded=true, bCleanupResources=true
+[2020.02.05-19.53.22:783][103]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.05-19.53.22:784][103]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/LV2/Level2_2.Level2_2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV2/Level2_2.Level2_2:PersistentLevel.Level2_2' with GeneratedClass '/Game/Levels/LV2/Level2_2.Level2_2_C' with ClassGeneratedBy '/Game/Levels/LV2/Level2_2.Level2_2:PersistentLevel.Level2_2'
+[2020.02.05-19.53.22:865][103]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.05-19.53.22:884][103]LogUObjectHash: Compacting FUObjectHashTables data took   7.46ms
+[2020.02.05-19.53.22:902][104]LogPlayLevel: Display: Destroying online subsystem :Context_87
+[2020.02.05-19.53.26:769][453]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/ANIM_Wolf_Walk9C96AA244785622A1BB5728D5478174B.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/AnimalVarietyPack/Wolf/Animations/ANIM_Wolf_Walk.uasset'
+[2020.02.05-19.53.37:849][488]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2020.02.05-19.53.37:924][488]LogWorld: UWorld::CleanupWorld for World_56, bSessionEnded=true, bCleanupResources=true
+[2020.02.05-19.53.38:054][488]LogWorld: UWorld::CleanupWorld for World_55, bSessionEnded=true, bCleanupResources=true
+[2020.02.05-19.53.47:946][565]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/AnimalVarietyPack/Wolf/Animations/ANIM_Wolf_Walk_RM.ANIM_Wolf_Walk_RM
+[2020.02.05-19.53.47:970][565]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_57:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.05-19.53.48:002][565]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_57:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.02.05-19.53.48:481][565]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.02.05-19.53.51:291][847]LogWorld: UWorld::CleanupWorld for World_57, bSessionEnded=true, bCleanupResources=true
+[2020.02.05-19.53.51:352][847]LogWorld: UWorld::CleanupWorld for World_59, bSessionEnded=true, bCleanupResources=true
+[2020.02.05-19.53.51:439][847]LogWorld: UWorld::CleanupWorld for World_58, bSessionEnded=true, bCleanupResources=true
+[2020.02.05-19.53.58:441][574]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/PlayerRPGWeaponAnimBP98D7FA06470A98941720DA8E25A2D801.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Art/Enemies/PlayerAnimations/PlayerRPGWeaponAnimBP.uasset'
+[2020.02.05-19.54.53:303][570]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/AnimalVarietyPack/Wolf/Animations/ANIM_Wolf_Walk.ANIM_Wolf_Walk
+[2020.02.05-19.54.53:325][570]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_60:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.05-19.54.53:381][570]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_60:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.02.05-19.54.53:933][570]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.02.05-19.54.55:679][717]LogWorld: UWorld::CleanupWorld for World_60, bSessionEnded=true, bCleanupResources=true
+[2020.02.05-19.54.55:744][717]LogWorld: UWorld::CleanupWorld for World_62, bSessionEnded=true, bCleanupResources=true
+[2020.02.05-19.54.55:866][717]LogWorld: UWorld::CleanupWorld for World_61, bSessionEnded=true, bCleanupResources=true
+[2020.02.05-19.54.58:807][978]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/AnimalVarietyPack/Wolf/Animations/ANIM_Wolf_Walk.ANIM_Wolf_Walk
+[2020.02.05-19.54.58:825][978]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_63:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.05-19.54.58:864][978]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_63:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.02.05-19.54.59:436][978]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.02.05-19.55.05:755][561]LogAssetEditorManager: Opening Asset editor for BlendSpace1D /Game/Art/Enemies/DogAnimation/Dog_BlendSpace.Dog_BlendSpace
+[2020.02.05-19.55.05:903][561]LogWorld: UWorld::CleanupWorld for World_65, bSessionEnded=true, bCleanupResources=true
+[2020.02.05-19.55.26:146][642]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.05-19.55.26:176][642]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/LV2/Level2_2.Level2_2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV2/Level2_2.Level2_2:PersistentLevel.Level2_2' with GeneratedClass '/Game/Levels/LV2/Level2_2.Level2_2_C' with ClassGeneratedBy '/Game/Levels/LV2/Level2_2.Level2_2:PersistentLevel.Level2_2'
+[2020.02.05-19.55.26:203][642]LogFMOD: Creating runtime Studio System
+[2020.02.05-19.55.26:204][642]LogFMOD: Default sample rate = 48000
+[2020.02.05-19.55.26:204][642]LogFMOD: System sample rate = 44100
+[2020.02.05-19.55.26:204][642]LogFMOD: Matching system sample rate 44100
+[2020.02.05-19.55.26:213][642]LogFMOD: Loading Banks
+[2020.02.05-19.55.26:274][642]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.05-19.55.26:274][642]PIE: New page: PIE session: Level2_2 (Feb 5, 2020, 9:55:26 PM)
+[2020.02.05-19.55.26:282][642]LogPlayLevel: Creating play world package: /Game/Levels/LV2/UEDPIE_0_Level2_2
+[2020.02.05-19.55.26:498][642]LogPlayLevel: PIE: StaticDuplicateObject took: (0.216417s)
+[2020.02.05-19.55.26:502][642]LogAIModule: Creating AISystem for world Level2_2
+[2020.02.05-19.55.26:503][642]LogPlayLevel: PIE: World Init took: (0.004177s)
+[2020.02.05-19.55.26:503][642]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV2/Level2_2.Level2_2 to /Game/Levels/LV2/UEDPIE_0_Level2_2.Level2_2 (0.221300s)
+[2020.02.05-19.55.26:618][642]LogUObjectHash: Compacting FUObjectHashTables data took   7.71ms
+[2020.02.05-19.55.26:634][642]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.05-19.55.26:641][642]LogInit: FAudioDevice initialized.
+[2020.02.05-19.55.29:529][642]LogInit: Error: Failed to load cursor '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/None'
+[2020.02.05-19.55.29:538][642]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.05-19.55.29:567][642]LogWorld: Bringing World /Game/Levels/LV2/UEDPIE_0_Level2_2.Level2_2 up for play (max tick rate 0) at 2020.02.05-20.55.29
+[2020.02.05-19.55.29:572][642]LogWorld: Bringing up level for play took: 0.033124
+[2020.02.05-19.55.29:574][642]LogOnline: OSS: Creating online subsystem instance for: :Context_97
+[2020.02.05-19.55.29:580][642]PIE: Play in editor start time for /Game/Levels/LV2/UEDPIE_0_Level2_2 4.159
+[2020.02.05-19.55.29:580][642]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/LV2/Level2_2.Level2_2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV2/Level2_2.Level2_2:PersistentLevel.Level2_2' with GeneratedClass '/Game/Levels/LV2/Level2_2.Level2_2_C' with ClassGeneratedBy '/Game/Levels/LV2/Level2_2.Level2_2:PersistentLevel.Level2_2'
+[2020.02.05-19.55.31:749][845]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.05-19.55.38:739][558]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.05-19.55.38:808][566]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/LV2/Level2_2.Level2_2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV2/Level2_2.Level2_2:PersistentLevel.Level2_2' with GeneratedClass '/Game/Levels/LV2/Level2_2.Level2_2_C' with ClassGeneratedBy '/Game/Levels/LV2/Level2_2.Level2_2:PersistentLevel.Level2_2'
+[2020.02.05-19.55.38:902][566]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.05-19.55.38:903][566]LogWorld: BeginTearingDown for /Game/Levels/LV2/UEDPIE_0_Level2_2
+[2020.02.05-19.55.38:910][566]LogWorld: UWorld::CleanupWorld for Level2_2, bSessionEnded=true, bCleanupResources=true
+[2020.02.05-19.55.38:942][566]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.05-19.55.38:942][566]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/LV2/Level2_2.Level2_2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV2/Level2_2.Level2_2:PersistentLevel.Level2_2' with GeneratedClass '/Game/Levels/LV2/Level2_2.Level2_2_C' with ClassGeneratedBy '/Game/Levels/LV2/Level2_2.Level2_2:PersistentLevel.Level2_2'
+[2020.02.05-19.55.39:016][566]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.05-19.55.39:029][566]LogUObjectHash: Compacting FUObjectHashTables data took   7.69ms
+[2020.02.05-19.55.39:047][567]LogPlayLevel: Display: Destroying online subsystem :Context_97
+[2020.02.05-19.55.40:914][736]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.02.05-19.55.41:007][736]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/Dog_BlendSpace2F3CD3C641E2C7991C03FAA28502D79D.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Art/Enemies/DogAnimation/Dog_BlendSpace.uasset'
+[2020.02.05-19.55.49:863][644]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.05-19.55.49:900][644]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/LV2/Level2_2.Level2_2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV2/Level2_2.Level2_2:PersistentLevel.Level2_2' with GeneratedClass '/Game/Levels/LV2/Level2_2.Level2_2_C' with ClassGeneratedBy '/Game/Levels/LV2/Level2_2.Level2_2:PersistentLevel.Level2_2'
+[2020.02.05-19.55.49:933][644]LogFMOD: Creating runtime Studio System
+[2020.02.05-19.55.49:934][644]LogFMOD: Default sample rate = 48000
+[2020.02.05-19.55.49:934][644]LogFMOD: System sample rate = 44100
+[2020.02.05-19.55.49:935][644]LogFMOD: Matching system sample rate 44100
+[2020.02.05-19.55.49:946][644]LogFMOD: Loading Banks
+[2020.02.05-19.55.49:985][644]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.05-19.55.49:985][644]PIE: New page: PIE session: Level2_2 (Feb 5, 2020, 9:55:49 PM)
+[2020.02.05-19.55.49:992][644]LogPlayLevel: Creating play world package: /Game/Levels/LV2/UEDPIE_0_Level2_2
+[2020.02.05-19.55.50:166][644]LogPlayLevel: PIE: StaticDuplicateObject took: (0.173600s)
+[2020.02.05-19.55.50:167][644]LogAIModule: Creating AISystem for world Level2_2
+[2020.02.05-19.55.50:167][644]LogPlayLevel: PIE: World Init took: (0.001407s)
+[2020.02.05-19.55.50:168][644]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV2/Level2_2.Level2_2 to /Game/Levels/LV2/UEDPIE_0_Level2_2.Level2_2 (0.175901s)
+[2020.02.05-19.55.50:229][644]LogUObjectHash: Compacting FUObjectHashTables data took   6.97ms
+[2020.02.05-19.55.50:237][644]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.05-19.55.50:244][644]LogInit: FAudioDevice initialized.
+[2020.02.05-19.55.50:352][644]LogInit: Error: Failed to load cursor '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/None'
+[2020.02.05-19.55.50:358][644]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.05-19.55.50:388][644]LogWorld: Bringing World /Game/Levels/LV2/UEDPIE_0_Level2_2.Level2_2 up for play (max tick rate 0) at 2020.02.05-20.55.50
+[2020.02.05-19.55.50:394][644]LogWorld: Bringing up level for play took: 0.035340
+[2020.02.05-19.55.50:395][644]LogOnline: OSS: Creating online subsystem instance for: :Context_98
+[2020.02.05-19.55.50:399][644]PIE: Play in editor start time for /Game/Levels/LV2/UEDPIE_0_Level2_2 0.979
+[2020.02.05-19.55.50:401][644]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/LV2/Level2_2.Level2_2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV2/Level2_2.Level2_2:PersistentLevel.Level2_2' with GeneratedClass '/Game/Levels/LV2/Level2_2.Level2_2_C' with ClassGeneratedBy '/Game/Levels/LV2/Level2_2.Level2_2:PersistentLevel.Level2_2'
+[2020.02.05-19.55.55:395][149]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.05-19.55.57:982][384]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/LV2/Level2_2.Level2_2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV2/Level2_2.Level2_2:PersistentLevel.Level2_2' with GeneratedClass '/Game/Levels/LV2/Level2_2.Level2_2_C' with ClassGeneratedBy '/Game/Levels/LV2/Level2_2.Level2_2:PersistentLevel.Level2_2'
+[2020.02.05-19.55.58:071][384]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.05-19.55.58:072][384]LogWorld: BeginTearingDown for /Game/Levels/LV2/UEDPIE_0_Level2_2
+[2020.02.05-19.55.58:074][384]LogWorld: UWorld::CleanupWorld for Level2_2, bSessionEnded=true, bCleanupResources=true
+[2020.02.05-19.55.58:099][384]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.05-19.55.58:099][384]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/LV2/Level2_2.Level2_2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV2/Level2_2.Level2_2:PersistentLevel.Level2_2' with GeneratedClass '/Game/Levels/LV2/Level2_2.Level2_2_C' with ClassGeneratedBy '/Game/Levels/LV2/Level2_2.Level2_2:PersistentLevel.Level2_2'
+[2020.02.05-19.55.58:179][384]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.05-19.55.58:196][384]LogUObjectHash: Compacting FUObjectHashTables data took   7.67ms
+[2020.02.05-19.55.58:214][385]LogPlayLevel: Display: Destroying online subsystem :Context_98
+[2020.02.05-19.56.04:043][950]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/Dog_BlendSpaceC4AAE4864075A90ACB4EDD91A293DF50.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Art/Enemies/DogAnimation/Dog_BlendSpace.uasset'
+[2020.02.05-19.56.05:000][ 48]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.05-19.56.05:033][ 48]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/LV2/Level2_2.Level2_2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV2/Level2_2.Level2_2:PersistentLevel.Level2_2' with GeneratedClass '/Game/Levels/LV2/Level2_2.Level2_2_C' with ClassGeneratedBy '/Game/Levels/LV2/Level2_2.Level2_2:PersistentLevel.Level2_2'
+[2020.02.05-19.56.05:069][ 48]LogFMOD: Creating runtime Studio System
+[2020.02.05-19.56.05:070][ 48]LogFMOD: Default sample rate = 48000
+[2020.02.05-19.56.05:070][ 48]LogFMOD: System sample rate = 44100
+[2020.02.05-19.56.05:070][ 48]LogFMOD: Matching system sample rate 44100
+[2020.02.05-19.56.05:078][ 48]LogFMOD: Loading Banks
+[2020.02.05-19.56.05:121][ 48]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.05-19.56.05:121][ 48]PIE: New page: PIE session: Level2_2 (Feb 5, 2020, 9:56:05 PM)
+[2020.02.05-19.56.05:123][ 48]LogPlayLevel: Creating play world package: /Game/Levels/LV2/UEDPIE_0_Level2_2
+[2020.02.05-19.56.05:290][ 48]LogPlayLevel: PIE: StaticDuplicateObject took: (0.166500s)
+[2020.02.05-19.56.05:291][ 48]LogAIModule: Creating AISystem for world Level2_2
+[2020.02.05-19.56.05:292][ 48]LogPlayLevel: PIE: World Init took: (0.001611s)
+[2020.02.05-19.56.05:292][ 48]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV2/Level2_2.Level2_2 to /Game/Levels/LV2/UEDPIE_0_Level2_2.Level2_2 (0.168782s)
+[2020.02.05-19.56.05:362][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   7.46ms
+[2020.02.05-19.56.05:369][ 48]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.05-19.56.05:375][ 48]LogInit: FAudioDevice initialized.
+[2020.02.05-19.56.05:491][ 48]LogInit: Error: Failed to load cursor '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/None'
+[2020.02.05-19.56.05:496][ 48]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.05-19.56.05:528][ 48]LogWorld: Bringing World /Game/Levels/LV2/UEDPIE_0_Level2_2.Level2_2 up for play (max tick rate 0) at 2020.02.05-20.56.05
+[2020.02.05-19.56.05:535][ 48]LogWorld: Bringing up level for play took: 0.037678
+[2020.02.05-19.56.05:536][ 48]LogOnline: OSS: Creating online subsystem instance for: :Context_99
+[2020.02.05-19.56.05:541][ 48]PIE: Play in editor start time for /Game/Levels/LV2/UEDPIE_0_Level2_2 0.12
+[2020.02.05-19.56.05:541][ 48]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/LV2/Level2_2.Level2_2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV2/Level2_2.Level2_2:PersistentLevel.Level2_2' with GeneratedClass '/Game/Levels/LV2/Level2_2.Level2_2_C' with ClassGeneratedBy '/Game/Levels/LV2/Level2_2.Level2_2:PersistentLevel.Level2_2'
+[2020.02.05-19.56.21:517][790]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.05-19.56.21:604][800]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/LV2/Level2_2.Level2_2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV2/Level2_2.Level2_2:PersistentLevel.Level2_2' with GeneratedClass '/Game/Levels/LV2/Level2_2.Level2_2_C' with ClassGeneratedBy '/Game/Levels/LV2/Level2_2.Level2_2:PersistentLevel.Level2_2'
+[2020.02.05-19.56.21:690][800]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.05-19.56.21:690][800]LogWorld: BeginTearingDown for /Game/Levels/LV2/UEDPIE_0_Level2_2
+[2020.02.05-19.56.21:693][800]LogWorld: UWorld::CleanupWorld for Level2_2, bSessionEnded=true, bCleanupResources=true
+[2020.02.05-19.56.21:710][800]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.05-19.56.21:711][800]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/LV2/Level2_2.Level2_2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV2/Level2_2.Level2_2:PersistentLevel.Level2_2' with GeneratedClass '/Game/Levels/LV2/Level2_2.Level2_2_C' with ClassGeneratedBy '/Game/Levels/LV2/Level2_2.Level2_2:PersistentLevel.Level2_2'
+[2020.02.05-19.56.21:806][800]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.05-19.56.21:820][800]LogUObjectHash: Compacting FUObjectHashTables data took   7.81ms
+[2020.02.05-19.56.21:840][801]LogPlayLevel: Display: Destroying online subsystem :Context_99
+[2020.02.05-19.56.23:408][970]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2020.02.05-19.56.25:726][214]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.05-19.56.25:759][214]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/LV2/Level2_2.Level2_2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV2/Level2_2.Level2_2:PersistentLevel.Level2_2' with GeneratedClass '/Game/Levels/LV2/Level2_2.Level2_2_C' with ClassGeneratedBy '/Game/Levels/LV2/Level2_2.Level2_2:PersistentLevel.Level2_2'
+[2020.02.05-19.56.25:783][214]LogFMOD: Creating runtime Studio System
+[2020.02.05-19.56.25:784][214]LogFMOD: Default sample rate = 48000
+[2020.02.05-19.56.25:784][214]LogFMOD: System sample rate = 44100
+[2020.02.05-19.56.25:784][214]LogFMOD: Matching system sample rate 44100
+[2020.02.05-19.56.25:793][214]LogFMOD: Loading Banks
+[2020.02.05-19.56.25:834][214]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.05-19.56.25:834][214]PIE: New page: PIE session: Level2_2 (Feb 5, 2020, 9:56:25 PM)
+[2020.02.05-19.56.25:836][214]LogPlayLevel: Creating play world package: /Game/Levels/LV2/UEDPIE_0_Level2_2
+[2020.02.05-19.56.26:007][214]LogPlayLevel: PIE: StaticDuplicateObject took: (0.171036s)
+[2020.02.05-19.56.26:009][214]LogAIModule: Creating AISystem for world Level2_2
+[2020.02.05-19.56.26:009][214]LogPlayLevel: PIE: World Init took: (0.001832s)
+[2020.02.05-19.56.26:009][214]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV2/Level2_2.Level2_2 to /Game/Levels/LV2/UEDPIE_0_Level2_2.Level2_2 (0.173593s)
+[2020.02.05-19.56.26:080][214]LogUObjectHash: Compacting FUObjectHashTables data took   7.77ms
+[2020.02.05-19.56.26:088][214]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.05-19.56.26:095][214]LogInit: FAudioDevice initialized.
+[2020.02.05-19.56.26:200][214]LogInit: Error: Failed to load cursor '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/None'
+[2020.02.05-19.56.26:208][214]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.05-19.56.26:236][214]LogWorld: Bringing World /Game/Levels/LV2/UEDPIE_0_Level2_2.Level2_2 up for play (max tick rate 0) at 2020.02.05-20.56.26
+[2020.02.05-19.56.26:241][214]LogWorld: Bringing up level for play took: 0.032617
+[2020.02.05-19.56.26:243][214]LogOnline: OSS: Creating online subsystem instance for: :Context_100
+[2020.02.05-19.56.26:247][214]PIE: Play in editor start time for /Game/Levels/LV2/UEDPIE_0_Level2_2 0.826
+[2020.02.05-19.56.26:247][214]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/LV2/Level2_2.Level2_2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV2/Level2_2.Level2_2:PersistentLevel.Level2_2' with GeneratedClass '/Game/Levels/LV2/Level2_2.Level2_2_C' with ClassGeneratedBy '/Game/Levels/LV2/Level2_2.Level2_2:PersistentLevel.Level2_2'
+[2020.02.05-19.56.28:441][380]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2020.02.05-19.56.29:469][478]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2020.02.05-19.56.31:010][652]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2020.02.05-19.56.31:502][707]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.05-19.56.31:581][716]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/LV2/Level2_2.Level2_2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV2/Level2_2.Level2_2:PersistentLevel.Level2_2' with GeneratedClass '/Game/Levels/LV2/Level2_2.Level2_2_C' with ClassGeneratedBy '/Game/Levels/LV2/Level2_2.Level2_2:PersistentLevel.Level2_2'
+[2020.02.05-19.56.31:676][716]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.05-19.56.31:676][716]LogWorld: BeginTearingDown for /Game/Levels/LV2/UEDPIE_0_Level2_2
+[2020.02.05-19.56.31:677][716]LogWorld: UWorld::CleanupWorld for Level2_2, bSessionEnded=true, bCleanupResources=true
+[2020.02.05-19.56.31:699][716]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.05-19.56.31:700][716]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/LV2/Level2_2.Level2_2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV2/Level2_2.Level2_2:PersistentLevel.Level2_2' with GeneratedClass '/Game/Levels/LV2/Level2_2.Level2_2_C' with ClassGeneratedBy '/Game/Levels/LV2/Level2_2.Level2_2:PersistentLevel.Level2_2'
+[2020.02.05-19.56.31:777][716]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.05-19.56.31:794][716]LogUObjectHash: Compacting FUObjectHashTables data took   8.88ms
+[2020.02.05-19.56.31:813][717]LogPlayLevel: Display: Destroying online subsystem :Context_100
+[2020.02.05-19.56.33:337][878]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2020.02.05-19.56.34:834][ 39]LogWorld: UWorld::CleanupWorld for World_63, bSessionEnded=true, bCleanupResources=true
+[2020.02.05-19.56.35:022][ 39]LogWorld: UWorld::CleanupWorld for World_64, bSessionEnded=true, bCleanupResources=true
+[2020.02.05-19.56.35:596][ 96]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2020.02.05-19.56.35:623][ 96]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2020.02.05-19.56.35:843][ 96]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2020.02.05-19.56.36:331][146]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2020.02.05-19.56.36:345][146]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2020.02.05-19.56.36:656][146]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2020.02.05-19.59.06:838][620]LogUObjectHash: Compacting FUObjectHashTables data took  11.94ms
+[2020.02.05-19.59.08:065][620]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
