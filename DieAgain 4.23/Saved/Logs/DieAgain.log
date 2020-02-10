@@ -11361,3 +11361,572 @@ Make sure 'CheckSaveFile_C' has been compiled for  Set LevelsUnlocked
 [2020.02.10-13.43.48:490][219]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
 [2020.02.10-13.43.48:992][219]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/CheckSaveFile358D9094426B50A559604B8EE797DD14.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/CheckSaveFile.umap'
 [2020.02.10-13.43.49:040][219]LogFileHelpers: Saving map 'CheckSaveFile' took 0.589
+[2020.02.10-14.19.43:751][103]LogLinker: Warning: While loading '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/PrototypeLevel/PrototypeTutorial8.umap' failed to load '/Game/Levels/PrototypeLevel/PrototypeTutorial8_BuiltData': Can't find file.
+[2020.02.10-14.19.43:752][103]LogLinker: Warning: While loading '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/PrototypeLevel/PrototypeTutorial8.umap' failed to load '/Game/Levels/PrototypeLevel/PrototypeTutorial8_BuiltData': Can't find file.
+[2020.02.10-14.19.43:756][103]LogLinker: Warning: While loading '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/PrototypeLevel/PrototypeTutorial8.umap' failed to load '/Game/Levels/PrototypeLevel/PrototypeTutorial8_BuiltData': Can't find file.
+[2020.02.10-14.19.43:756][103]LogLinker: Warning: While loading '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/PrototypeLevel/PrototypeTutorial8.umap' failed to load '/Game/Levels/PrototypeLevel/PrototypeTutorial8_BuiltData': Can't find file.
+[2020.02.10-14.19.43:790][103]LogLinker: Warning: Failed to load '/Game/Levels/PrototypeLevel/PrototypeTutorial8_BuiltData': Can't find file.
+[2020.02.10-14.19.43:790][103]LogLinker: Warning: Failed to load '/Game/Levels/PrototypeLevel/PrototypeTutorial8_BuiltData': Can't find file.
+[2020.02.10-14.19.43:790][103]LogLinker: Warning: Failed to load '/Game/Levels/PrototypeLevel/PrototypeTutorial8_BuiltData': Can't find file.
+[2020.02.10-14.19.43:790][103]LogLinker: Warning: Failed to load '/Game/Levels/PrototypeLevel/PrototypeTutorial8_BuiltData': Can't find file.
+[2020.02.10-14.19.43:810][103]LogLinker: Warning: While loading '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/PrototypeLevel/PrototypeTutorial8.umap' failed to load '/Game/Levels/PrototypeLevel/PrototypeTutorial8_BuiltData': Can't find file.
+[2020.02.10-14.19.43:824][103]LoadErrors: Failed to load /Game/Levels/PrototypeLevel/PrototypeTutorial8_BuiltData.PrototypeTutorial8_BuiltData Referenced by PersistentLevel
+[2020.02.10-14.19.43:824][103]LogLinker: Warning: While loading '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/PrototypeLevel/PrototypeTutorial8.umap' failed to load '/Game/Levels/PrototypeLevel/PrototypeTutorial8_BuiltData': Can't find file.
+[2020.02.10-14.19.43:909][103]LogAIModule: Creating AISystem for world PrototypeTutorial8
+[2020.02.10-14.19.43:930][103]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/PrototypeLevel/PrototypeTutorial8.PrototypeTutorial8
+[2020.02.10-14.19.43:982][103]LogUObjectHash: Compacting FUObjectHashTables data took   5.31ms
+[2020.02.10-14.19.43:985][103]Cmd: MAP LOAD FILE="../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/PrototypeLevel/PrototypeTutorial8.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.10-14.19.43:985][103]LightingResults: New page: Lighting Build
+[2020.02.10-14.19.43:986][103]LoadErrors: New page: Loading map: PrototypeTutorial8.umap
+[2020.02.10-14.19.44:012][103]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2020.02.10-14.19.44:077][103]LogWorld: UWorld::CleanupWorld for CheckSaveFile, bSessionEnded=true, bCleanupResources=true
+[2020.02.10-14.19.44:077][103]MapCheck: New page: Map Check
+[2020.02.10-14.19.44:077][103]LightingResults: New page: Lighting Build
+[2020.02.10-14.19.44:122][103]LogUObjectHash: Compacting FUObjectHashTables data took   5.54ms
+[2020.02.10-14.19.44:157][103]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2020.02.10-14.19.44:195][103]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2020.02.10-14.19.45:136][103]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.10-14.19.45:194][103]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2020.02.10-14.19.45:239][103]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.10-14.19.45:240][103]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.075ms to complete.
+[2020.02.10-14.19.45:240][103]LogFileHelpers: Loading map 'PrototypeTutorial8' took 1.257
+[2020.02.10-14.19.48:803][424]LogEditorViewport: Clicking on Actor (LMB): LevelCompleterBP_C (LevelCompleterBP)
+[2020.02.10-14.19.53:398][848]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.10-14.19.54:289][901]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.10-14.19.54:291][901]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Levels/PrototypeLevel/PrototypeTutorial8.PrototypeTutorial8:PersistentLevel.PrototypeTutorial8
+[2020.02.10-14.20.12:502][ 13]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2020.02.10-14.20.34:889][243]LogMaterial: Display: Missing cached shader map for material Material_4, compiling. 
+[2020.02.10-14.20.35:037][244]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.02.10-14.20.35:037][244]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.02.10-14.20.35:037][244]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.02.10-14.29.44:085][457]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2020.02.10-14.29.44:833][457]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/PrototypeTutorial8_Auto34411BA7B4EBA990EF231859B0BB62033.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/Autosaves/Game/Levels/PrototypeLevel/PrototypeTutorial8_Auto3.umap'
+[2020.02.10-14.29.44:878][457]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/PrototypeLevel/PrototypeTutorial8' took 0.833
+[2020.02.10-14.29.44:878][457]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.833
+[2020.02.10-15.32.56:808][774]LogUObjectHash: Compacting FUObjectHashTables data took   4.93ms
+[2020.02.10-15.32.56:857][774]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2020.02.10-15.32.57:509][774]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/PrototypeTutorial838C703A8454D9E731343EE90DA56CC31.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/PrototypeLevel/PrototypeTutorial8.umap'
+[2020.02.10-15.32.57:635][774]LogFileHelpers: Saving map 'PrototypeTutorial8' took 0.815
+[2020.02.10-15.32.57:691][774]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/PlaneConversationFD26476D4825F0F6E4A076907E1F18E7.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Conversations/LVTutorial/PlaneConversation.uasset'
+[2020.02.10-15.35.22:617][925]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.02.10-15.35.33:333][190]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2020.02.10-15.35.33:366][190]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/PlaneConversation74D7729B433F97A43EAD8792A4A0242D.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Conversations/LVTutorial/PlaneConversation.uasset'
+[2020.02.10-15.35.35:505][422]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.10-15.35.38:629][791]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2020.02.10-15.35.39:101][791]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2020.02.10-15.35.39:160][791]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2020.02.10-15.35.39:312][791]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2020.02.10-15.35.39:459][791]LogSlate: Window 'DieAgain - Unreal Editor' being destroyed
+[2020.02.10-15.35.41:930][792]Cmd: QUIT_EDITOR
+[2020.02.10-15.35.42:466][792]LogExit: Preparing to exit.
+[2020.02.10-15.35.44:293][792]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.02.10-15.35.44:297][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:297][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:297][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:297][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:297][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:297][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:297][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:297][792]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.02.10-15.35.44:300][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:300][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:300][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:300][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:300][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:300][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:300][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:300][792]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.02.10-15.35.44:303][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:303][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:303][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:303][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:303][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:303][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:303][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:303][792]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.02.10-15.35.44:313][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:313][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:313][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:313][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:313][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:313][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:314][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:314][792]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.02.10-15.35.44:316][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:316][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:316][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:316][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:316][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:316][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:316][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:316][792]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.02.10-15.35.44:320][792]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.02.10-15.35.44:322][792]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.02.10-15.35.44:329][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:329][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:329][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:329][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:329][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:329][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:329][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:329][792]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.02.10-15.35.44:334][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:334][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:334][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:334][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:334][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:334][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:334][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:334][792]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.02.10-15.35.44:337][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:337][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:337][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:337][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:337][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:337][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:337][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:337][792]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.02.10-15.35.44:340][792]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2020.02.10-15.35.44:343][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:343][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:343][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:343][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:343][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:343][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:343][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:343][792]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.02.10-15.35.44:346][792]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.02.10-15.35.44:348][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:348][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:348][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:348][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:348][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:348][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:349][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:349][792]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.02.10-15.35.44:351][792]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.02.10-15.35.44:353][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:353][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:353][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:353][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:353][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:353][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:353][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:353][792]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.02.10-15.35.44:356][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:356][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:356][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:356][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:356][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:356][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:356][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:356][792]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.02.10-15.35.44:358][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:358][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:359][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:359][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:359][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:359][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:359][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:359][792]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.02.10-15.35.44:361][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:361][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:361][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:361][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:361][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:361][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:361][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:361][792]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.02.10-15.35.44:364][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:364][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:364][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:364][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:364][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:364][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:364][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:364][792]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.02.10-15.35.44:367][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:367][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:367][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:367][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:367][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:367][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:367][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:367][792]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.02.10-15.35.44:369][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:369][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:369][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:369][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:369][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:369][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:369][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:369][792]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.02.10-15.35.44:380][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:380][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:380][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:380][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:380][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:380][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:380][792]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.10-15.35.44:380][792]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.02.10-15.35.45:909][792]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.02.10-15.35.46:842][792]LogExit: Editor shut down
+[2020.02.10-15.35.46:881][792]LogExit: Transaction tracking system shut down
+[2020.02.10-15.35.57:529][792]LogExit: Object subsystem successfully closed.
+[2020.02.10-15.35.58:548][792]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.02.10-15.36.06:968][792]LogModuleManager: Shutting down and abandoning module TextureEditor (694)
+[2020.02.10-15.36.06:971][792]LogModuleManager: Shutting down and abandoning module SequencerWidgets (692)
+[2020.02.10-15.36.06:971][792]LogModuleManager: Shutting down and abandoning module BlueprintGraph (690)
+[2020.02.10-15.36.06:972][792]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (688)
+[2020.02.10-15.36.06:972][792]LogModuleManager: Shutting down and abandoning module Voice (686)
+[2020.02.10-15.36.06:980][792]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (684)
+[2020.02.10-15.36.06:989][792]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (682)
+[2020.02.10-15.36.06:989][792]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (680)
+[2020.02.10-15.36.06:989][792]LogModuleManager: Shutting down and abandoning module SceneOutliner (678)
+[2020.02.10-15.36.06:989][792]LogModuleManager: Shutting down and abandoning module AddContentDialog (676)
+[2020.02.10-15.36.07:058][792]LogModuleManager: Shutting down and abandoning module WidgetCarousel (675)
+[2020.02.10-15.36.07:059][792]LogModuleManager: Shutting down and abandoning module EditorWidgets (672)
+[2020.02.10-15.36.07:059][792]LogModuleManager: Shutting down and abandoning module CollectionManager (670)
+[2020.02.10-15.36.07:061][792]LogModuleManager: Shutting down and abandoning module StatsViewer (668)
+[2020.02.10-15.36.07:062][792]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (666)
+[2020.02.10-15.36.07:062][792]LogModuleManager: Shutting down and abandoning module FoliageEdit (664)
+[2020.02.10-15.36.07:073][792]LogModuleManager: Shutting down and abandoning module LandscapeEditor (662)
+[2020.02.10-15.36.07:139][792]LogModuleManager: Shutting down and abandoning module MeshPaintMode (660)
+[2020.02.10-15.36.07:139][792]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (658)
+[2020.02.10-15.36.07:139][792]LogModuleManager: Shutting down and abandoning module ActorPickerMode (656)
+[2020.02.10-15.36.07:139][792]LogModuleManager: Shutting down and abandoning module GeometryMode (654)
+[2020.02.10-15.36.07:140][792]LogModuleManager: Shutting down and abandoning module TextureAlignMode (652)
+[2020.02.10-15.36.07:140][792]LogModuleManager: Shutting down and abandoning module BspMode (650)
+[2020.02.10-15.36.07:140][792]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (648)
+[2020.02.10-15.36.07:144][792]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (646)
+[2020.02.10-15.36.07:145][792]LogModuleManager: Shutting down and abandoning module AutomationWorker (644)
+[2020.02.10-15.36.07:158][792]LogModuleManager: Shutting down and abandoning module OculusMR (642)
+[2020.02.10-15.36.07:158][792]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (640)
+[2020.02.10-15.36.07:174][792]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (638)
+[2020.02.10-15.36.07:199][792]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (636)
+[2020.02.10-15.36.07:232][792]LogModuleManager: Shutting down and abandoning module PlacementMode (635)
+[2020.02.10-15.36.07:257][792]LogModuleManager: Shutting down and abandoning module MaterialEditor (634)
+[2020.02.10-15.36.07:273][792]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (630)
+[2020.02.10-15.36.07:286][792]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (628)
+[2020.02.10-15.36.07:286][792]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (626)
+[2020.02.10-15.36.07:286][792]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (624)
+[2020.02.10-15.36.07:293][792]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (622)
+[2020.02.10-15.36.07:293][792]LogModuleManager: Shutting down and abandoning module WebMMedia (620)
+[2020.02.10-15.36.07:297][792]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (618)
+[2020.02.10-15.36.07:301][792]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (616)
+[2020.02.10-15.36.07:326][792]LogModuleManager: Shutting down and abandoning module SequenceRecorder (615)
+[2020.02.10-15.36.07:326][792]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (612)
+[2020.02.10-15.36.07:326][792]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (610)
+[2020.02.10-15.36.07:327][792]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (608)
+[2020.02.10-15.36.07:327][792]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (606)
+[2020.02.10-15.36.07:327][792]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (604)
+[2020.02.10-15.36.07:327][792]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (602)
+[2020.02.10-15.36.07:327][792]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (600)
+[2020.02.10-15.36.07:327][792]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (598)
+[2020.02.10-15.36.07:327][792]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (596)
+[2020.02.10-15.36.07:407][792]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (594)
+[2020.02.10-15.36.07:408][792]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (592)
+[2020.02.10-15.36.07:408][792]LogModuleManager: Shutting down and abandoning module CharacterAI (590)
+[2020.02.10-15.36.07:408][792]LogModuleManager: Shutting down and abandoning module SmartSnapping (588)
+[2020.02.10-15.36.07:414][792]LogModuleManager: Shutting down and abandoning module SessionServices (586)
+[2020.02.10-15.36.07:414][792]LogModuleManager: Shutting down and abandoning module MeshPaint (584)
+[2020.02.10-15.36.07:426][792]LogModuleManager: Shutting down and abandoning module ViewportSnapping (582)
+[2020.02.10-15.36.07:426][792]LogModuleManager: Shutting down and abandoning module ViewportInteraction (580)
+[2020.02.10-15.36.07:434][792]LogModuleManager: Shutting down and abandoning module ClothPainter (578)
+[2020.02.10-15.36.07:463][792]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (577)
+[2020.02.10-15.36.07:471][792]LogModuleManager: Shutting down and abandoning module LogVisualizer (574)
+[2020.02.10-15.36.07:492][792]LogModuleManager: Shutting down and abandoning module IntroTutorials (572)
+[2020.02.10-15.36.07:506][792]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (571)
+[2020.02.10-15.36.07:519][792]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (568)
+[2020.02.10-15.36.07:519][792]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (566)
+[2020.02.10-15.36.07:519][792]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (564)
+[2020.02.10-15.36.07:519][792]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (562)
+[2020.02.10-15.36.07:519][792]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (561)
+[2020.02.10-15.36.07:795][792]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (558)
+[2020.02.10-15.36.07:795][792]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (556)
+[2020.02.10-15.36.07:795][792]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (554)
+[2020.02.10-15.36.07:795][792]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (552)
+[2020.02.10-15.36.07:795][792]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (550)
+[2020.02.10-15.36.07:812][792]LogModuleManager: Shutting down and abandoning module InputBindingEditor (548)
+[2020.02.10-15.36.07:819][792]LogModuleManager: Shutting down and abandoning module MergeActors (546)
+[2020.02.10-15.36.07:837][792]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (544)
+[2020.02.10-15.36.07:853][792]LogModuleManager: Shutting down and abandoning module LocalizationService (543)
+[2020.02.10-15.36.07:858][792]LogModuleManager: Shutting down and abandoning module HardwareTargeting (540)
+[2020.02.10-15.36.07:858][792]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (538)
+[2020.02.10-15.36.07:867][792]LogModuleManager: Shutting down and abandoning module UndoHistory (536)
+[2020.02.10-15.36.07:923][792]LogModuleManager: Shutting down and abandoning module XmlParser (534)
+[2020.02.10-15.36.07:929][792]LogModuleManager: Shutting down and abandoning module Blutility (532)
+[2020.02.10-15.36.07:929][792]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (530)
+[2020.02.10-15.36.07:929][792]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (529)
+[2020.02.10-15.36.07:941][792]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (526)
+[2020.02.10-15.36.07:942][792]LogModuleManager: Shutting down and abandoning module SettingsEditor (524)
+[2020.02.10-15.36.07:942][792]LogModuleManager: Shutting down and abandoning module ProjectLauncher (522)
+[2020.02.10-15.36.07:951][792]LogModuleManager: Shutting down and abandoning module SessionFrontend (520)
+[2020.02.10-15.36.07:956][792]LogModuleManager: Shutting down and abandoning module ProfilerClient (518)
+[2020.02.10-15.36.07:961][792]LogModuleManager: Shutting down and abandoning module DeviceManager (516)
+[2020.02.10-15.36.07:974][792]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (515)
+[2020.02.10-15.36.08:033][792]LogModuleManager: Shutting down and abandoning module AutomationController (512)
+[2020.02.10-15.36.08:045][792]LogModuleManager: Shutting down and abandoning module AutomationWindow (510)
+[2020.02.10-15.36.08:055][792]LogModuleManager: Shutting down and abandoning module Layers (508)
+[2020.02.10-15.36.08:066][792]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (506)
+[2020.02.10-15.36.08:066][792]LogModuleManager: Shutting down and abandoning module DetailCustomizations (504)
+[2020.02.10-15.36.08:070][792]LogModuleManager: Shutting down and abandoning module PackagesDialog (502)
+[2020.02.10-15.36.08:073][792]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (500)
+[2020.02.10-15.36.08:088][792]LogModuleManager: Shutting down and abandoning module Persona (498)
+[2020.02.10-15.36.08:116][792]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (497)
+[2020.02.10-15.36.08:116][792]LogModuleManager: Shutting down and abandoning module AnimGraph (495)
+[2020.02.10-15.36.08:122][792]LogModuleManager: Shutting down and abandoning module Kismet (492)
+[2020.02.10-15.36.08:285][792]LogModuleManager: Shutting down and abandoning module KismetWidgets (491)
+[2020.02.10-15.36.08:303][792]LogModuleManager: Shutting down and abandoning module GraphEditor (488)
+[2020.02.10-15.36.08:304][792]LogModuleManager: Shutting down and abandoning module StructViewer (486)
+[2020.02.10-15.36.08:312][792]LogModuleManager: Shutting down and abandoning module ClassViewer (484)
+[2020.02.10-15.36.08:315][792]LogModuleManager: Shutting down and abandoning module Toolbox (482)
+[2020.02.10-15.36.08:316][792]LogModuleManager: Shutting down and abandoning module ModuleUI (480)
+[2020.02.10-15.36.08:322][792]LogModuleManager: Shutting down and abandoning module MovieSceneTools (478)
+[2020.02.10-15.36.08:330][792]LogModuleManager: Shutting down and abandoning module OutputLog (476)
+[2020.02.10-15.36.08:839][792]LogModuleManager: Shutting down and abandoning module GammaUI (474)
+[2020.02.10-15.36.08:851][792]LogModuleManager: Shutting down and abandoning module Documentation (472)
+[2020.02.10-15.36.08:899][792]LogModuleManager: Shutting down and abandoning module LiveCoding (470)
+[2020.02.10-15.36.08:909][792]LogModuleManager: Shutting down and abandoning module LevelSequence (468)
+[2020.02.10-15.36.08:909][792]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (466)
+[2020.02.10-15.36.08:909][792]LogModuleManager: Shutting down and abandoning module MovieScene (464)
+[2020.02.10-15.36.08:909][792]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (462)
+[2020.02.10-15.36.08:912][792]LogModuleManager: Shutting down and abandoning module LauncherPlatform (460)
+[2020.02.10-15.36.08:912][792]LogModuleManager: Shutting down and abandoning module AnalyticsET (458)
+[2020.02.10-15.36.08:912][792]LogModuleManager: Shutting down and abandoning module PortalServices (456)
+[2020.02.10-15.36.08:912][792]LogModuleManager: Shutting down and abandoning module PortalRpc (454)
+[2020.02.10-15.36.08:912][792]LogModuleManager: Shutting down and abandoning module MessagingRpc (452)
+[2020.02.10-15.36.08:913][792]LogModuleManager: Shutting down and abandoning module AIModule (450)
+[2020.02.10-15.36.08:918][792]LogModuleManager: Shutting down and abandoning module GameplayDebugger (449)
+[2020.02.10-15.36.08:918][792]LogModuleManager: Shutting down and abandoning module AITestSuite (447)
+[2020.02.10-15.36.08:922][792]LogModuleManager: Shutting down and abandoning module NavigationSystem (445)
+[2020.02.10-15.36.08:922][792]LogModuleManager: Shutting down and abandoning module DesktopPlatform (442)
+[2020.02.10-15.36.08:931][792]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (440)
+[2020.02.10-15.36.08:942][792]LogModuleManager: Shutting down and abandoning module ProfilerService (438)
+[2020.02.10-15.36.09:067][792]LogModuleManager: Shutting down and abandoning module TaskGraph (436)
+[2020.02.10-15.36.09:078][792]LogModuleManager: Shutting down and abandoning module ScreenshotTools (434)
+[2020.02.10-15.36.09:078][792]LogModuleManager: Shutting down and abandoning module SteamVRController (432)
+[2020.02.10-15.36.09:078][792]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (430)
+[2020.02.10-15.36.09:087][792]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (428)
+[2020.02.10-15.36.09:087][792]LogModuleManager: Shutting down and abandoning module OculusEditor (426)
+[2020.02.10-15.36.09:099][792]LogModuleManager: Shutting down and abandoning module OculusInput (424)
+[2020.02.10-15.36.09:113][792]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (422)
+[2020.02.10-15.36.09:113][792]LogModuleManager: Shutting down and abandoning module EditableMesh (420)
+[2020.02.10-15.36.09:127][792]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (418)
+[2020.02.10-15.36.09:127][792]LogModuleManager: Shutting down and abandoning module CableComponent (416)
+[2020.02.10-15.36.09:127][792]LogModuleManager: Shutting down and abandoning module AudioCapture (414)
+[2020.02.10-15.36.09:127][792]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (412)
+[2020.02.10-15.36.09:127][792]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (410)
+[2020.02.10-15.36.09:127][792]LogModuleManager: Shutting down and abandoning module AppleImageUtils (408)
+[2020.02.10-15.36.09:127][792]LogModuleManager: Shutting down and abandoning module AndroidPermission (406)
+[2020.02.10-15.36.09:127][792]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (404)
+[2020.02.10-15.36.09:134][792]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (402)
+[2020.02.10-15.36.09:155][792]LogModuleManager: Shutting down and abandoning module MediaCompositing (400)
+[2020.02.10-15.36.09:155][792]LogModuleManager: Shutting down and abandoning module ImgMedia (398)
+[2020.02.10-15.36.09:157][792]LogModuleManager: Shutting down and abandoning module DialoguePluginEditor (396)
+[2020.02.10-15.36.09:157][792]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (394)
+[2020.02.10-15.36.09:157][792]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (392)
+[2020.02.10-15.36.09:157][792]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (390)
+[2020.02.10-15.36.09:157][792]LogModuleManager: Shutting down and abandoning module FMODStudioEditor (388)
+[2020.02.10-15.36.09:170][792]LogModuleManager: Shutting down and abandoning module HTML5Networking (386)
+[2020.02.10-15.36.09:170][792]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (384)
+[2020.02.10-15.36.09:170][792]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (382)
+[2020.02.10-15.36.09:170][792]LogModuleManager: Shutting down and abandoning module BackChannel (380)
+[2020.02.10-15.36.09:184][792]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (378)
+[2020.02.10-15.36.09:184][792]LogModuleManager: Shutting down and abandoning module AutomationUtils (376)
+[2020.02.10-15.36.09:184][792]LogModuleManager: Shutting down and abandoning module AlembicImporter (374)
+[2020.02.10-15.36.09:190][792]LogModuleManager: Shutting down and abandoning module AlembicLibrary (373)
+[2020.02.10-15.36.09:194][792]LogModuleManager: Shutting down and abandoning module GeometryCache (372)
+[2020.02.10-15.36.09:194][792]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (371)
+[2020.02.10-15.36.09:194][792]LogModuleManager: Shutting down and abandoning module VariantManagerContent (366)
+[2020.02.10-15.36.09:194][792]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (364)
+[2020.02.10-15.36.09:198][792]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (362)
+[2020.02.10-15.36.09:198][792]LogModuleManager: Shutting down and abandoning module PluginBrowser (360)
+[2020.02.10-15.36.09:215][792]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (358)
+[2020.02.10-15.36.09:219][792]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (356)
+[2020.02.10-15.36.09:229][792]LogModuleManager: Shutting down and abandoning module CurveEditorTools (354)
+[2020.02.10-15.36.09:229][792]LogModuleManager: Shutting down and abandoning module CurveEditor (353)
+[2020.02.10-15.36.09:229][792]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (350)
+[2020.02.10-15.36.09:229][792]LogModuleManager: Shutting down and abandoning module CryptoKeys (348)
+[2020.02.10-15.36.09:230][792]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (346)
+[2020.02.10-15.36.09:247][792]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (344)
+[2020.02.10-15.36.09:247][792]LogModuleManager: Shutting down and abandoning module UObjectPlugin (342)
+[2020.02.10-15.36.09:247][792]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (340)
+[2020.02.10-15.36.09:252][792]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (338)
+[2020.02.10-15.36.09:262][792]LogModuleManager: Shutting down and abandoning module GitSourceControl (336)
+[2020.02.10-15.36.09:318][792]LogModuleManager: Shutting down and abandoning module SourceControl (335)
+[2020.02.10-15.36.09:321][792]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (332)
+[2020.02.10-15.36.09:321][792]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (330)
+[2020.02.10-15.36.09:321][792]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (328)
+[2020.02.10-15.36.09:363][792]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (326)
+[2020.02.10-15.36.09:363][792]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (324)
+[2020.02.10-15.36.09:372][792]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (322)
+[2020.02.10-15.36.09:372][792]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (320)
+[2020.02.10-15.36.09:372][792]LogModuleManager: Shutting down and abandoning module Paper2DEditor (318)
+[2020.02.10-15.36.09:396][792]LogModuleManager: Shutting down and abandoning module SignificanceManager (316)
+[2020.02.10-15.36.09:396][792]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (314)
+[2020.02.10-15.36.09:396][792]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (312)
+[2020.02.10-15.36.09:396][792]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (308)
+[2020.02.10-15.36.09:396][792]LogModuleManager: Shutting down and abandoning module ApexDestructionEditor (306)
+[2020.02.10-15.36.09:418][792]LogModuleManager: Shutting down and abandoning module ApexDestruction (304)
+[2020.02.10-15.36.09:418][792]LogModuleManager: Shutting down and abandoning module ActorSequence (302)
+[2020.02.10-15.36.09:418][792]LogModuleManager: Shutting down and abandoning module UdpMessaging (300)
+[2020.02.10-15.36.09:519][792]LogModuleManager: Shutting down and abandoning module TcpMessaging (298)
+[2020.02.10-15.36.09:627][792]LogModuleManager: Shutting down and abandoning module DialoguePlugin (296)
+[2020.02.10-15.36.09:627][792]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (294)
+[2020.02.10-15.36.09:627][792]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (292)
+[2020.02.10-15.36.09:627][792]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (290)
+[2020.02.10-15.36.09:653][792]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (288)
+[2020.02.10-15.36.09:667][792]LogModuleManager: Shutting down and abandoning module MagicLeapController (286)
+[2020.02.10-15.36.09:682][792]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.02.10-15.36.09:684][792]LogModuleManager: Shutting down and abandoning module MagicLeapAR (284)
+[2020.02.10-15.36.09:685][792]LogModuleManager: Shutting down and abandoning module AugmentedReality (283)
+[2020.02.10-15.36.09:685][792]LogModuleManager: Shutting down and abandoning module FMODStudio (280)
+[2020.02.10-15.36.09:948][792]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (278)
+[2020.02.10-15.36.09:948][792]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (276)
+[2020.02.10-15.36.09:948][792]LogModuleManager: Shutting down and abandoning module FacialAnimation (274)
+[2020.02.10-15.36.09:948][792]LogModuleManager: Shutting down and abandoning module DataValidation (272)
+[2020.02.10-15.36.09:962][792]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (270)
+[2020.02.10-15.36.09:971][792]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2020.02.10-15.36.10:015][792]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2020.02.10-15.36.10:023][792]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (266)
+[2020.02.10-15.36.10:074][792]LogModuleManager: Shutting down and abandoning module MainFrame (264)
+[2020.02.10-15.36.10:080][792]LogModuleManager: Shutting down and abandoning module HotReload (263)
+[2020.02.10-15.36.10:168][792]LogModuleManager: Shutting down and abandoning module ContentBrowser (259)
+[2020.02.10-15.36.10:199][792]LogModuleManager: Shutting down and abandoning module TreeMap (257)
+[2020.02.10-15.36.10:214][792]LogModuleManager: Shutting down and abandoning module AnimationSharing (254)
+[2020.02.10-15.36.10:214][792]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2020.02.10-15.36.10:214][792]LogModuleManager: Shutting down and abandoning module Paper2D (250)
+[2020.02.10-15.36.10:226][792]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (248)
+[2020.02.10-15.36.10:303][792]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (246)
+[2020.02.10-15.36.10:303][792]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (244)
+[2020.02.10-15.36.10:303][792]LogModuleManager: Shutting down and abandoning module PacketHandler (242)
+[2020.02.10-15.36.10:303][792]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (240)
+[2020.02.10-15.36.10:304][792]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (238)
+[2020.02.10-15.36.10:329][792]LogModuleManager: Shutting down and abandoning module MediaAssets (236)
+[2020.02.10-15.36.10:330][792]LogModuleManager: Shutting down and abandoning module Overlay (234)
+[2020.02.10-15.36.10:330][792]LogModuleManager: Shutting down and abandoning module OverlayEditor (233)
+[2020.02.10-15.36.10:330][792]LogModuleManager: Shutting down and abandoning module VREditor (230)
+[2020.02.10-15.36.10:345][792]LogModuleManager: Shutting down and abandoning module StringTableEditor (228)
+[2020.02.10-15.36.10:348][792]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (226)
+[2020.02.10-15.36.10:349][792]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (224)
+[2020.02.10-15.36.10:377][792]LogModuleManager: Shutting down and abandoning module FunctionalTesting (222)
+[2020.02.10-15.36.10:386][792]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (220)
+[2020.02.10-15.36.10:406][792]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (219)
+[2020.02.10-15.36.10:471][792]LogModuleManager: Shutting down and abandoning module UMG (216)
+[2020.02.10-15.36.10:471][792]LogModuleManager: Shutting down and abandoning module UMGEditor (215)
+[2020.02.10-15.36.10:471][792]LogModuleManager: Shutting down and abandoning module Sequencer (214)
+[2020.02.10-15.36.10:477][792]LogModuleManager: Shutting down and abandoning module MessageLog (211)
+[2020.02.10-15.36.10:477][792]LogModuleManager: Shutting down and abandoning module SlateReflector (206)
+[2020.02.10-15.36.10:487][792]LogModuleManager: Shutting down and abandoning module Slate (204)
+[2020.02.10-15.36.10:487][792]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (202)
+[2020.02.10-15.36.10:487][792]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2020.02.10-15.36.10:535][792]LogModuleManager: Shutting down and abandoning module UnrealEd (198)
+[2020.02.10-15.36.10:535][792]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2020.02.10-15.36.10:535][792]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2020.02.10-15.36.10:535][792]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2020.02.10-15.36.10:537][792]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2020.02.10-15.36.10:537][792]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2020.02.10-15.36.10:537][792]LogModuleManager: Shutting down and abandoning module Core (186)
+[2020.02.10-15.36.10:537][792]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2020.02.10-15.36.10:537][792]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2020.02.10-15.36.10:551][792]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2020.02.10-15.36.10:589][792]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2020.02.10-15.36.10:590][792]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (179)
+[2020.02.10-15.36.10:631][792]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2020.02.10-15.36.10:662][792]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (175)
+[2020.02.10-15.36.10:674][792]LogModuleManager: Shutting down and abandoning module MaterialBaking (171)
+[2020.02.10-15.36.10:677][792]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (166)
+[2020.02.10-15.36.10:677][792]LogModuleManager: Shutting down and abandoning module DerivedDataCache (164)
+[2020.02.10-15.36.10:677][792]LogDerivedDataCache: Shutdown
+[2020.02.10-15.36.10:677][792]LogModuleManager: Shutting down and abandoning module XGEController (162)
+[2020.02.10-15.36.10:684][792]LogXGEController: Cleaning working directory: C:/Users/Adrian/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.02.10-15.36.10:684][792]LogModuleManager: Shutting down and abandoning module TargetPlatform (160)
+[2020.02.10-15.36.10:691][792]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (159)
+[2020.02.10-15.36.10:697][792]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (157)
+[2020.02.10-15.36.10:704][792]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (155)
+[2020.02.10-15.36.10:714][792]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (153)
+[2020.02.10-15.36.10:722][792]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (151)
+[2020.02.10-15.36.10:728][792]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (149)
+[2020.02.10-15.36.10:730][792]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (147)
+[2020.02.10-15.36.10:734][792]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (145)
+[2020.02.10-15.36.10:734][792]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (143)
+[2020.02.10-15.36.10:748][792]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (141)
+[2020.02.10-15.36.10:748][792]LogModuleManager: Shutting down and abandoning module ImageWrapper (140)
+[2020.02.10-15.36.10:748][792]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (137)
+[2020.02.10-15.36.10:748][792]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (135)
+[2020.02.10-15.36.10:748][792]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (133)
+[2020.02.10-15.36.10:749][792]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (131)
+[2020.02.10-15.36.10:749][792]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2020.02.10-15.36.10:864][792]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (127)
+[2020.02.10-15.36.10:865][792]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (125)
+[2020.02.10-15.36.10:865][792]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (123)
+[2020.02.10-15.36.10:891][792]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (121)
+[2020.02.10-15.36.10:891][792]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (119)
+[2020.02.10-15.36.10:926][792]LogModuleManager: Shutting down and abandoning module Messaging (117)
+[2020.02.10-15.36.10:926][792]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
+[2020.02.10-15.36.10:956][792]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (113)
+[2020.02.10-15.36.10:962][792]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2020.02.10-15.36.11:192][792]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (109)
+[2020.02.10-15.36.11:192][792]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (107)
+[2020.02.10-15.36.11:206][792]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (105)
+[2020.02.10-15.36.11:214][792]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (103)
+[2020.02.10-15.36.11:220][792]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (101)
+[2020.02.10-15.36.11:221][792]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (99)
+[2020.02.10-15.36.11:231][792]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (97)
+[2020.02.10-15.36.11:235][792]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (95)
+[2020.02.10-15.36.11:242][792]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (93)
+[2020.02.10-15.36.11:250][792]LogModuleManager: Shutting down and abandoning module InputCore (90)
+[2020.02.10-15.36.11:250][792]LogModuleManager: Shutting down and abandoning module Settings (88)
+[2020.02.10-15.36.11:250][792]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (86)
+[2020.02.10-15.36.11:279][792]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2020.02.10-15.36.11:279][792]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (82)
+[2020.02.10-15.36.11:296][792]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (81)
+[2020.02.10-15.36.11:307][792]LogModuleManager: Shutting down and abandoning module SteamVR (78)
+[2020.02.10-15.36.11:322][792]LogHMD: Freeing OpenVRDLLHandle.
+[2020.02.10-15.36.11:322][792]LogModuleManager: Shutting down and abandoning module OculusHMD (76)
+[2020.02.10-15.36.11:333][792]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
+[2020.02.10-15.36.11:333][792]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
+[2020.02.10-15.36.11:333][792]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (70)
+[2020.02.10-15.36.11:333][792]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (66)
+[2020.02.10-15.36.11:353][792]LogModuleManager: Shutting down and abandoning module XMPP (61)
+[2020.02.10-15.36.11:391][792]LogModuleManager: Shutting down and abandoning module WebSockets (60)
+[2020.02.10-15.36.11:467][792]LogModuleManager: Shutting down and abandoning module HTTP (57)
+[2020.02.10-15.36.11:467][792]LogHttp: Display: Http module shutting down, but needs to wait on 2 outstanding Http requests:
+[2020.02.10-15.36.11:467][792]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8CEC3599-4A6F-96F7-2F1C-AD97B6BA258D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=ccd468f74bb4201230191aa65e43c548%7C9838cf404cf94690918c4422a709b2b6%7C99dd8298-945b-4a52-82ea-adcce7b9c875&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.02.10-15.36.11:468][792]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8CEC3599-4A6F-96F7-2F1C-AD97B6BA258D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=ccd468f74bb4201230191aa65e43c548%7C9838cf404cf94690918c4422a709b2b6%7C99dd8298-945b-4a52-82ea-adcce7b9c875&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.02.10-15.36.11:499][792]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2020.02.10-15.36.11:549][792]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2020.02.10-15.36.11:565][792]LogModuleManager: Shutting down and abandoning module Media (51)
+[2020.02.10-15.36.11:567][792]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2020.02.10-15.36.11:571][792]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2020.02.10-15.36.11:572][792]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2020.02.10-15.36.11:572][792]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2020.02.10-15.36.11:581][792]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.02.10-15.36.11:581][792]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.02.10-15.36.11:595][792]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.02.10-15.36.11:711][792]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.02.10-15.36.11:762][792]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.02.10-15.36.11:769][792]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.02.10-15.36.11:769][792]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.02.10-15.36.11:769][792]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.02.10-15.36.11:876][792]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.02.10-15.36.11:901][792]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.02.10-15.36.11:901][792]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.02.10-15.36.11:901][792]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.02.10-15.36.11:923][792]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.02.10-15.36.11:927][792]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.02.10-15.36.11:927][792]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.02.10-15.36.11:933][792]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.02.10-15.36.11:933][792]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.02.10-15.36.11:937][792]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.02.10-15.36.11:945][792]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.02.10-15.36.11:976][792]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.02.10-15.36.12:101][792]LogD3D11RHI: Shutdown
+[2020.02.10-15.36.12:107][792]LogD3D11RHI: CleanupD3DDevice
+[2020.02.10-15.36.12:300][792]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.02.10-15.36.12:309][792]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.02.10-15.36.12:309][792]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.02.10-15.36.12:575][792]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.02.10-15.36.12:668][792]LogExit: Exiting.
+[2020.02.10-15.36.12:854][792]Log file closed, 02/10/20 16:36:12
