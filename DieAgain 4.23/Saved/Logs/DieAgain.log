@@ -10981,3 +10981,383 @@ Make sure 'PlaneCharacter_C' has been compiled for  Open Level
 [2020.02.10-13.06.28:138][534]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
 [2020.02.10-13.06.28:383][553]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
 [2020.02.10-13.06.28:383][553]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2020.02.10-13.08.07:018][179]LogUObjectHash: Compacting FUObjectHashTables data took   5.92ms
+[2020.02.10-13.08.07:205][179]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2020.02.10-13.08.07:704][179]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/PlaneLVC148C27C4A51A32AF2066D8328C9F9ED.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LVTutorial/PlaneLV.umap'
+[2020.02.10-13.08.07:754][179]LogFileHelpers: Saving map 'PlaneLV' took 0.711
+[2020.02.10-13.08.10:992][555]LogUObjectHash: Compacting FUObjectHashTables data took   5.32ms
+[2020.02.10-13.08.11:046][555]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2020.02.10-13.08.11:529][555]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/PlaneLV1BCB12174A416DA1D678BEAFF768339E.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LVTutorial/PlaneLV.umap'
+[2020.02.10-13.08.11:577][555]LogFileHelpers: Saving map 'PlaneLV' took 0.567
+[2020.02.10-13.08.19:445][481]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.10-13.08.32:639][ 11]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.10-13.08.34:133][178]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.10-13.08.44:788][362]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.10-13.08.45:940][468]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.10-13.08.50:912][  9]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.10-13.09.17:784][258]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/PlaneConversation4A8A2CB24BCDB4CAFE9D06941722DD8C.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Conversations/LVTutorial/PlaneConversation.uasset'
+[2020.02.10-13.09.29:664][758]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	WorldMapPlayerAnimBP_C /Engine/Transient.World_36:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.WorldMapPlayerAnimBP_C_0
+	Function /Game/Art/WorldMapAnim/WorldMapPlayerAnimBP.WorldMapPlayerAnimBP_C:ExecuteUbergraph_WorldMapPlayerAnimBP:011F
+[2020.02.10-13.09.56:402][891]LogAIModule: Creating AISystem for world WorldMapLevel
+[2020.02.10-13.09.56:565][891]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/WorldMap/WorldMapLevel.WorldMapLevel
+[2020.02.10-13.09.56:739][891]LogUObjectHash: Compacting FUObjectHashTables data took  37.80ms
+[2020.02.10-13.09.56:741][891]Cmd: MAP LOAD FILE="../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/WorldMap/WorldMapLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.10-13.09.56:742][891]LightingResults: New page: Lighting Build
+[2020.02.10-13.09.56:742][891]LoadErrors: New page: Loading map: WorldMapLevel.umap
+[2020.02.10-13.09.56:866][891]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2020.02.10-13.09.56:940][891]LogWorld: UWorld::CleanupWorld for PlaneLV, bSessionEnded=true, bCleanupResources=true
+[2020.02.10-13.09.56:940][891]MapCheck: New page: Map Check
+[2020.02.10-13.09.56:940][891]LightingResults: New page: Lighting Build
+[2020.02.10-13.09.56:981][891]LogUObjectHash: Compacting FUObjectHashTables data took   6.76ms
+[2020.02.10-13.09.57:023][891]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2020.02.10-13.09.57:064][891]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2020.02.10-13.09.58:306][891]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.10-13.09.58:605][891]LogUObjectHash: Compacting FUObjectHashTables data took   4.81ms
+[2020.02.10-13.09.58:660][891]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.10-13.09.58:660][891]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.088ms to complete.
+[2020.02.10-13.09.58:660][891]LogFileHelpers: Loading map 'WorldMapLevel' took 1.921
+[2020.02.10-13.10.25:360][107]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.10-13.10.26:059][150]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.10-13.10.26:062][150]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Levels/WorldMap/WorldMapLevel.WorldMapLevel:PersistentLevel.WorldMapLevel
+[2020.02.10-13.18.02:856][128]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MyGameInstance/MyGameInstance.MyGameInstance
+[2020.02.10-13.18.41:809][588]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/CheckSaveFile.CheckSaveFile
+[2020.02.10-13.18.41:856][588]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2020.02.10-13.18.42:955][588]LogSlate: Window 'Save Content' being destroyed
+[2020.02.10-13.18.42:996][588]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2020.02.10-13.18.43:003][588]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/CheckSaveFile446D044D4A971D629BAA13BF8296270C.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/CheckSaveFile.umap'
+[2020.02.10-13.18.43:004][588]LogFileHelpers: Saving map 'CheckSaveFile' took 0.045
+[2020.02.10-13.18.43:007][588]Cmd: MAP LOAD FILE="../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/CheckSaveFile.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.10-13.18.43:007][588]LightingResults: New page: Lighting Build
+[2020.02.10-13.18.43:008][588]LoadErrors: New page: Loading map: CheckSaveFile.umap
+[2020.02.10-13.18.43:056][588]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2020.02.10-13.18.43:129][588]LogWorld: UWorld::CleanupWorld for WorldMapLevel, bSessionEnded=true, bCleanupResources=true
+[2020.02.10-13.18.43:129][588]MapCheck: New page: Map Check
+[2020.02.10-13.18.43:129][588]LightingResults: New page: Lighting Build
+[2020.02.10-13.18.43:233][588]LogUObjectHash: Compacting FUObjectHashTables data took   5.33ms
+[2020.02.10-13.18.43:289][588]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2020.02.10-13.18.43:335][588]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2020.02.10-13.18.43:530][588]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.10-13.18.43:530][588]LogAIModule: Creating AISystem for world CheckSaveFile
+[2020.02.10-13.18.43:565][588]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2020.02.10-13.18.43:614][588]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.10-13.18.43:614][588]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.067ms to complete.
+[2020.02.10-13.18.43:616][588]LogFileHelpers: Loading map 'CheckSaveFile' took 0.610
+[2020.02.10-13.18.51:848][515]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Levels/CheckSaveFile.CheckSaveFile:PersistentLevel.CheckSaveFile
+[2020.02.10-13.20.33:124][710]LogEditorTransaction: Undo Change Node Comment
+[2020.02.10-13.20.33:132][710]LogTemp: post undo!
+[2020.02.10-13.20.33:608][750]LogEditorTransaction: Undo Delete current selection
+[2020.02.10-13.20.33:613][750]LogTemp: post undo!
+[2020.02.10-13.20.53:676][134]BlueprintLog: New page: Compile CheckSaveFile
+[2020.02.10-13.20.53:693][134]LogBlueprint: Warning: [Compiler PersistentLevel.CheckSaveFile] Could not find a variable named "LevelsUnlocked" in 'CheckSaveFile_C'.
+Make sure 'CheckSaveFile_C' has been compiled for  Set LevelsUnlocked
+[2020.02.10-13.20.53:693][134]LogBlueprint: Error: [Compiler PersistentLevel.CheckSaveFile] The property associated with  Levels Unlocked  could not be found in '/Game/Levels/CheckSaveFile.CheckSaveFile_C'
+[2020.02.10-13.20.54:319][134]LogUObjectHash: Compacting FUObjectHashTables data took   5.63ms
+[2020.02.10-13.20.54:386][134]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2020.02.10-13.20.54:435][134]LogBlueprint: Warning: [Compiler PersistentLevel.CheckSaveFile] Could not find a variable named "LevelsUnlocked" in 'CheckSaveFile_C'.
+Make sure 'CheckSaveFile_C' has been compiled for  Set LevelsUnlocked
+[2020.02.10-13.20.54:436][134]LogBlueprint: Error: [Compiler PersistentLevel.CheckSaveFile] The property associated with  Levels Unlocked  could not be found in '/Game/Levels/CheckSaveFile.CheckSaveFile_C'
+[2020.02.10-13.20.54:917][134]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/CheckSaveFile4521F6D84548DE1FF9B051B875E1CDE2.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/CheckSaveFile.umap'
+[2020.02.10-13.20.54:966][134]LogFileHelpers: Saving map 'CheckSaveFile' took 0.624
+[2020.02.10-13.21.34:023][ 22]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.02.10-13.21.50:645][963]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Levels/CharacterSelection/CharacterSelection_WB.CharacterSelection_WB
+[2020.02.10-13.22.31:586][689]BlueprintLog: New page: Compile CheckSaveFile
+[2020.02.10-13.22.32:106][689]LogUObjectHash: Compacting FUObjectHashTables data took   6.34ms
+[2020.02.10-13.22.32:526][728]LogUObjectHash: Compacting FUObjectHashTables data took   5.23ms
+[2020.02.10-13.22.33:028][728]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/CheckSaveFileA3BEF1E9490457FD1F3490B7F5531F1E.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/CheckSaveFile.umap'
+[2020.02.10-13.22.33:086][728]LogFileHelpers: Saving map 'CheckSaveFile' took 0.606
+[2020.02.10-13.23.55:220][702]LogUObjectHash: Compacting FUObjectHashTables data took   4.79ms
+[2020.02.10-13.23.55:685][702]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/CheckSaveFile04B1C7FE4B8A2940BEF7F381E284A772.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/CheckSaveFile.umap'
+[2020.02.10-13.23.55:735][702]LogFileHelpers: Saving map 'CheckSaveFile' took 0.568
+[2020.02.10-13.24.28:330][532]BlueprintLog: New page: Compile CheckSaveFile
+[2020.02.10-13.24.28:819][532]LogUObjectHash: Compacting FUObjectHashTables data took   5.30ms
+[2020.02.10-13.24.29:200][567]LogUObjectHash: Compacting FUObjectHashTables data took   4.95ms
+[2020.02.10-13.24.29:779][567]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/CheckSaveFile1E31391942DC0679CAC4C29C7F45115D.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/CheckSaveFile.umap'
+[2020.02.10-13.24.29:829][567]LogFileHelpers: Saving map 'CheckSaveFile' took 0.677
+[2020.02.10-13.24.53:811][155]BlueprintLog: New page: Compile CheckSaveFile
+[2020.02.10-13.24.54:308][155]LogUObjectHash: Compacting FUObjectHashTables data took   6.07ms
+[2020.02.10-13.24.54:686][189]LogUObjectHash: Compacting FUObjectHashTables data took   4.78ms
+[2020.02.10-13.24.55:159][189]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/CheckSaveFileDA1B797746BC9548F292E2B53AC6FA74.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/CheckSaveFile.umap'
+[2020.02.10-13.24.55:210][189]LogFileHelpers: Saving map 'CheckSaveFile' took 0.573
+[2020.02.10-13.25.13:207][172]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/SaveGame/Test_Save.Test_Save
+[2020.02.10-13.25.25:522][588]BlueprintLog: New page: Compile Test_Save
+[2020.02.10-13.25.25:690][588]LogUObjectHash: Compacting FUObjectHashTables data took   6.24ms
+[2020.02.10-13.25.26:222][633]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SaveGame/Test_Save" FILE="../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/SaveGame/Test_Save.uasset" SILENT=true
+[2020.02.10-13.25.26:228][633]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/Test_Save9D69A7B04B347CAD077ECCB8013EBC5A.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/SaveGame/Test_Save.uasset'
+[2020.02.10-13.25.29:114][960]LogUObjectHash: Compacting FUObjectHashTables data took   6.66ms
+[2020.02.10-13.25.29:181][960]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2020.02.10-13.25.29:676][960]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/CheckSaveFileCB830C794D889C14370EF2BE3A069B90.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/CheckSaveFile.umap'
+[2020.02.10-13.25.29:730][960]LogFileHelpers: Saving map 'CheckSaveFile' took 0.592
+[2020.02.10-13.25.30:109][  3]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2020.02.10-13.26.30:017][ 16]BlueprintLog: New page: Compile CheckSaveFile
+[2020.02.10-13.26.30:512][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   6.29ms
+[2020.02.10-13.26.30:886][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   4.94ms
+[2020.02.10-13.26.31:387][ 49]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/CheckSaveFile697E45774F3CB92315E81A8D484644CE.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/CheckSaveFile.umap'
+[2020.02.10-13.26.31:436][ 49]LogFileHelpers: Saving map 'CheckSaveFile' took 0.596
+[2020.02.10-13.26.55:552][886]BlueprintLog: New page: Compile CheckSaveFile
+[2020.02.10-13.26.56:060][886]LogUObjectHash: Compacting FUObjectHashTables data took   6.56ms
+[2020.02.10-13.26.56:419][919]LogUObjectHash: Compacting FUObjectHashTables data took   4.84ms
+[2020.02.10-13.26.56:896][919]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/CheckSaveFileEECEC7ED46414F28049B179C3FD2A119.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/CheckSaveFile.umap'
+[2020.02.10-13.26.56:944][919]LogFileHelpers: Saving map 'CheckSaveFile' took 0.569
+[2020.02.10-13.27.05:583][951]BlueprintLog: New page: Compile CheckSaveFile
+[2020.02.10-13.27.06:082][951]LogUObjectHash: Compacting FUObjectHashTables data took   5.53ms
+[2020.02.10-13.27.06:455][984]LogUObjectHash: Compacting FUObjectHashTables data took   5.00ms
+[2020.02.10-13.27.06:949][984]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/CheckSaveFile56DFDF1B47CB88968414A08D19AE58D6.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/CheckSaveFile.umap'
+[2020.02.10-13.27.06:999][984]LogFileHelpers: Saving map 'CheckSaveFile' took 0.590
+[2020.02.10-13.28.47:238][763]BlueprintLog: New page: Compile CharacterSelection_WB
+[2020.02.10-13.28.47:283][763]LogUObjectHash: Compacting FUObjectHashTables data took   5.17ms
+[2020.02.10-13.28.47:884][825]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/CharacterSelection_WBBA7712B443793F18CC9658BE4E8067BE.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/CharacterSelection/CharacterSelection_WB.uasset'
+[2020.02.10-13.28.50:835][171]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/CharacterSelection_WB313338804E9A3C9563A945A06A960B8F.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/CharacterSelection/CharacterSelection_WB.uasset'
+[2020.02.10-13.28.54:117][551]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/CharacterSelection_WBAF6876164FC78ABCB8A95894C09EFC87.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/CharacterSelection/CharacterSelection_WB.uasset'
+[2020.02.10-13.28.55:853][754]BlueprintLog: New page: Compile CharacterSelection_WB
+[2020.02.10-13.28.55:904][754]LogUObjectHash: Compacting FUObjectHashTables data took   6.07ms
+[2020.02.10-13.29.08:277][210]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/CharacterSelection_WB2A5AED164694CEF3E9A3399702312B82.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/CharacterSelection/CharacterSelection_WB.uasset'
+[2020.02.10-13.29.53:604][570]BlueprintLog: New page: Compile CharacterSelection_WB
+[2020.02.10-13.29.53:750][570]LogUObjectHash: Compacting FUObjectHashTables data took  25.52ms
+[2020.02.10-13.29.54:268][609]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/CharacterSelection_WB6695C6C74001F20DF688C0B5859200C3.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/CharacterSelection/CharacterSelection_WB.uasset'
+[2020.02.10-13.30.01:349][424]LogUObjectHash: Compacting FUObjectHashTables data took   5.92ms
+[2020.02.10-13.30.06:642][946]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UGameplayStatics::OpenLevel' [No se ha encontrado el elemento.]
+[2020.02.10-13.30.14:279][836]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2020.02.10-13.30.14:325][836]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/CharacterSelection_WB644925884799A56490EA0AA7E855C88D.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/CharacterSelection/CharacterSelection_WB.uasset'
+[2020.02.10-13.32.09:946][477]BlueprintLog: New page: Compile MyGameInstance
+[2020.02.10-13.32.12:721][477]LogUObjectHash: Compacting FUObjectHashTables data took   9.23ms
+[2020.02.10-13.32.12:839][477]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyGameInstance/MyGameInstance" FILE="../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/MyGameInstance/MyGameInstance.uasset" SILENT=true
+[2020.02.10-13.32.12:993][477]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/MyGameInstance58B7A271417F341D5B6135B97F2E22A9.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/MyGameInstance/MyGameInstance.uasset'
+[2020.02.10-13.35.31:248][287]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyGameInstance/MyGameInstance" FILE="../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/MyGameInstance/MyGameInstance.uasset" SILENT=true
+[2020.02.10-13.35.31:380][287]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/MyGameInstance8988FD4D4808EFAD16D415AA19DF24B9.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/MyGameInstance/MyGameInstance.uasset'
+[2020.02.10-13.35.58:013][378]BlueprintLog: New page: Compile MyGameInstance
+[2020.02.10-13.36.00:048][378]LogUObjectHash: Compacting FUObjectHashTables data took   8.34ms
+[2020.02.10-13.36.00:699][389]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyGameInstance/MyGameInstance" FILE="../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/MyGameInstance/MyGameInstance.uasset" SILENT=true
+[2020.02.10-13.36.00:826][389]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/MyGameInstance21FC769C4C522EA86FB2DD980C0357CA.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/MyGameInstance/MyGameInstance.uasset'
+[2020.02.10-13.36.24:894][ 38]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/CheckSaveFile.CheckSaveFile
+[2020.02.10-13.36.24:961][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   8.56ms
+[2020.02.10-13.36.26:135][ 38]LogSlate: Window 'Save Content' being destroyed
+[2020.02.10-13.36.28:285][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2020.02.10-13.36.29:292][ 38]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/ThirdPersonExampleMapD44F049F4D450251A34BD39B60791C64.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.02.10-13.36.29:521][ 38]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 1.697
+[2020.02.10-13.36.29:529][ 38]Cmd: MAP LOAD FILE="../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/CheckSaveFile.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.10-13.36.29:529][ 38]LightingResults: New page: Lighting Build
+[2020.02.10-13.36.29:530][ 38]LoadErrors: New page: Loading map: CheckSaveFile.umap
+[2020.02.10-13.36.29:582][ 38]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2020.02.10-13.36.29:655][ 38]LogWorld: UWorld::CleanupWorld for CheckSaveFile, bSessionEnded=true, bCleanupResources=true
+[2020.02.10-13.36.29:655][ 38]MapCheck: New page: Map Check
+[2020.02.10-13.36.29:655][ 38]LightingResults: New page: Lighting Build
+[2020.02.10-13.36.29:722][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   6.16ms
+[2020.02.10-13.36.29:773][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2020.02.10-13.36.29:818][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2020.02.10-13.36.29:858][ 38]LogAIModule: Creating AISystem for world CheckSaveFile
+[2020.02.10-13.36.30:075][ 38]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.10-13.36.30:122][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   6.57ms
+[2020.02.10-13.36.30:182][ 38]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.10-13.36.30:182][ 38]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.074ms to complete.
+[2020.02.10-13.36.30:184][ 38]LogFileHelpers: Loading map 'CheckSaveFile' took 0.657
+[2020.02.10-13.36.33:241][308]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Levels/CheckSaveFile.CheckSaveFile:PersistentLevel.CheckSaveFile
+[2020.02.10-13.36.36:843][672]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.10-13.36.36:879][672]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/CheckSaveFile.CheckSaveFile:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CheckSaveFile.CheckSaveFile:PersistentLevel.CheckSaveFile' with GeneratedClass '/Game/Levels/CheckSaveFile.CheckSaveFile_C' with ClassGeneratedBy '/Game/Levels/CheckSaveFile.CheckSaveFile:PersistentLevel.CheckSaveFile'
+[2020.02.10-13.36.36:914][672]LogFMOD: Creating runtime Studio System
+[2020.02.10-13.36.36:915][672]LogFMOD: Default sample rate = 48000
+[2020.02.10-13.36.36:915][672]LogFMOD: System sample rate = 44100
+[2020.02.10-13.36.36:915][672]LogFMOD: Matching system sample rate 44100
+[2020.02.10-13.36.36:926][672]LogFMOD: Loading Banks
+[2020.02.10-13.36.36:987][672]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.02.10-13.36.36:988][672]LogPlayLevel: [PlayLevel] Compiling CharacterSelection_WB before play...
+[2020.02.10-13.36.37:504][672]LogUObjectHash: Compacting FUObjectHashTables data took   6.00ms
+[2020.02.10-13.36.37:504][672]LogPlayLevel: PlayLevel: Blueprint regeneration took 517 ms (1 blueprints)
+[2020.02.10-13.36.37:505][672]PIE: New page: PIE session: CheckSaveFile (Feb 10, 2020, 3:36:37 PM)
+[2020.02.10-13.36.37:505][672]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_CheckSaveFile
+[2020.02.10-13.36.37:507][672]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001451s)
+[2020.02.10-13.36.37:507][672]LogAIModule: Creating AISystem for world CheckSaveFile
+[2020.02.10-13.36.37:508][672]LogPlayLevel: PIE: World Init took: (0.001061s)
+[2020.02.10-13.36.37:508][672]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/CheckSaveFile.CheckSaveFile to /Game/Levels/UEDPIE_0_CheckSaveFile.CheckSaveFile (0.002663s)
+[2020.02.10-13.36.37:551][672]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2020.02.10-13.36.37:566][672]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.10-13.36.37:574][672]LogInit: FAudioDevice initialized.
+[2020.02.10-13.36.40:194][672]LogInit: Error: Failed to load cursor '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/None'
+[2020.02.10-13.36.40:218][672]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.10-13.36.40:219][672]LogWorld: Bringing World /Game/Levels/UEDPIE_0_CheckSaveFile.CheckSaveFile up for play (max tick rate 0) at 2020.02.10-14.36.40
+[2020.02.10-13.36.40:219][672]LogWorld: Bringing up level for play took: 0.000340
+[2020.02.10-13.36.40:220][672]LogOnline: OSS: Creating online subsystem instance for: :Context_264
+[2020.02.10-13.36.40:305][672]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter'!
+[2020.02.10-13.36.40:354][672]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_CheckSaveFile 4.051
+[2020.02.10-13.36.40:354][672]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/CheckSaveFile.CheckSaveFile:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CheckSaveFile.CheckSaveFile:PersistentLevel.CheckSaveFile' with GeneratedClass '/Game/Levels/CheckSaveFile.CheckSaveFile_C' with ClassGeneratedBy '/Game/Levels/CheckSaveFile.CheckSaveFile:PersistentLevel.CheckSaveFile'
+[2020.02.10-13.36.40:354][672]LogNet: Browse: /Game/Levels/LVTutorial/WorldCutsceneLV
+[2020.02.10-13.36.40:354][672]LogLoad: LoadMap: /Game/Levels/LVTutorial/WorldCutsceneLV
+[2020.02.10-13.36.40:354][672]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_CheckSaveFile
+[2020.02.10-13.36.40:355][672]LogWorld: UWorld::CleanupWorld for CheckSaveFile, bSessionEnded=true, bCleanupResources=true
+[2020.02.10-13.36.40:400][672]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2020.02.10-13.36.40:539][672]LogAIModule: Creating AISystem for world WorldCutsceneLV
+[2020.02.10-13.36.40:539][672]LogLoad: Game class is 'GameMode'
+[2020.02.10-13.36.40:541][672]LogWorld: Bringing World /Game/Levels/LVTutorial/UEDPIE_0_WorldCutsceneLV.WorldCutsceneLV up for play (max tick rate 0) at 2020.02.10-14.36.40
+[2020.02.10-13.36.40:541][672]LogWorld: Bringing up level for play took: 0.000755
+[2020.02.10-13.36.40:541][672]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.02.10-13.36.40:542][672]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.10-13.36.40:542][672]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.10-13.36.40:542][672]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.02.10-13.36.40:544][672]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.02.10-13.36.40:544][672]LogLoad: Took 0.190229 seconds to LoadMap(/Game/Levels/LVTutorial/WorldCutsceneLV)
+[2020.02.10-13.36.44:727][ 65]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/CheckSaveFile.CheckSaveFile:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CheckSaveFile.CheckSaveFile:PersistentLevel.CheckSaveFile' with GeneratedClass '/Game/Levels/CheckSaveFile.CheckSaveFile_C' with ClassGeneratedBy '/Game/Levels/CheckSaveFile.CheckSaveFile:PersistentLevel.CheckSaveFile'
+[2020.02.10-13.36.44:859][ 65]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.10-13.36.44:859][ 65]LogWorld: BeginTearingDown for /Game/Levels/LVTutorial/UEDPIE_0_WorldCutsceneLV
+[2020.02.10-13.36.44:859][ 65]LogWorld: UWorld::CleanupWorld for WorldCutsceneLV, bSessionEnded=true, bCleanupResources=true
+[2020.02.10-13.36.44:864][ 65]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.10-13.36.44:865][ 65]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/CheckSaveFile.CheckSaveFile:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CheckSaveFile.CheckSaveFile:PersistentLevel.CheckSaveFile' with GeneratedClass '/Game/Levels/CheckSaveFile.CheckSaveFile_C' with ClassGeneratedBy '/Game/Levels/CheckSaveFile.CheckSaveFile:PersistentLevel.CheckSaveFile'
+[2020.02.10-13.36.44:914][ 65]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.10-13.36.44:920][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2020.02.10-13.36.44:937][ 66]LogPlayLevel: Display: Destroying online subsystem :Context_264
+[2020.02.10-13.36.49:489][597]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2020.02.10-13.37.55:966][162]LogEditorTransaction: Undo Move Node
+[2020.02.10-13.37.55:978][162]LogTemp: post undo!
+[2020.02.10-13.37.56:303][188]LogEditorTransaction: Undo Create Pin Link
+[2020.02.10-13.37.56:314][188]LogTemp: post undo!
+[2020.02.10-13.37.56:586][209]LogEditorTransaction: Undo Move Nodes
+[2020.02.10-13.37.56:599][209]LogTemp: post undo!
+[2020.02.10-13.37.56:920][243]LogEditorTransaction: Undo Break Pin Links
+[2020.02.10-13.37.56:933][243]LogTemp: post undo!
+[2020.02.10-13.37.57:228][273]LogEditorTransaction: Undo Move Nodes
+[2020.02.10-13.37.57:241][273]LogTemp: post undo!
+[2020.02.10-13.37.57:534][303]LogEditorTransaction: Undo Create Pin Link
+[2020.02.10-13.37.57:547][303]LogTemp: post undo!
+[2020.02.10-13.37.57:906][341]LogEditorTransaction: Undo Move Nodes
+[2020.02.10-13.37.57:918][341]LogTemp: post undo!
+[2020.02.10-13.37.58:232][373]LogEditorTransaction: Undo Move Nodes
+[2020.02.10-13.37.58:246][373]LogTemp: post undo!
+[2020.02.10-13.37.58:523][399]LogEditorTransaction: Undo Add Node
+[2020.02.10-13.37.58:538][399]LogTemp: post undo!
+[2020.02.10-13.37.58:907][438]LogEditorTransaction: Undo Move Node
+[2020.02.10-13.37.58:919][438]LogTemp: post undo!
+[2020.02.10-13.37.59:133][459]LogEditorTransaction: Undo Add Node
+[2020.02.10-13.37.59:145][459]LogTemp: post undo!
+[2020.02.10-13.37.59:408][486]LogEditorTransaction: Undo Move Node
+[2020.02.10-13.37.59:421][486]LogTemp: post undo!
+[2020.02.10-13.37.59:765][523]LogEditorTransaction: Undo Add Node
+[2020.02.10-13.37.59:778][523]LogTemp: post undo!
+[2020.02.10-13.38.00:081][555]LogEditorTransaction: Undo Move Nodes
+[2020.02.10-13.38.00:095][555]LogTemp: post undo!
+[2020.02.10-13.38.01:062][658]LogEditorTransaction: Undo Move Node
+[2020.02.10-13.38.01:075][658]LogTemp: post undo!
+[2020.02.10-13.38.01:571][710]LogEditorTransaction: Undo Add Node
+[2020.02.10-13.38.01:585][710]LogTemp: post undo!
+[2020.02.10-13.38.31:406][166]BlueprintLog: New page: Compile CheckSaveFile
+[2020.02.10-13.38.31:981][166]LogUObjectHash: Compacting FUObjectHashTables data took   6.89ms
+[2020.02.10-13.38.32:370][200]LogUObjectHash: Compacting FUObjectHashTables data took   4.95ms
+[2020.02.10-13.38.32:889][200]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/CheckSaveFileC1C86A9C43B9A31EDEA29986C0A20033.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/CheckSaveFile.umap'
+[2020.02.10-13.38.32:947][200]LogFileHelpers: Saving map 'CheckSaveFile' took 0.625
+[2020.02.10-13.39.42:281][936]BlueprintLog: New page: Compile CheckSaveFile
+[2020.02.10-13.39.42:795][936]LogUObjectHash: Compacting FUObjectHashTables data took   5.78ms
+[2020.02.10-13.39.43:168][969]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2020.02.10-13.39.43:656][969]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/CheckSaveFileF62BA1F34157421B1291988C6AFB4D32.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/CheckSaveFile.umap'
+[2020.02.10-13.39.43:709][969]LogFileHelpers: Saving map 'CheckSaveFile' took 0.584
+[2020.02.10-13.40.07:640][799]BlueprintLog: New page: Compile CheckSaveFile
+[2020.02.10-13.40.08:151][799]LogUObjectHash: Compacting FUObjectHashTables data took   5.28ms
+[2020.02.10-13.40.08:587][840]LogUObjectHash: Compacting FUObjectHashTables data took   4.63ms
+[2020.02.10-13.40.09:120][840]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/CheckSaveFile71E03E6E48D9E0518C4AE194072DD07E.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/CheckSaveFile.umap'
+[2020.02.10-13.40.09:174][840]LogFileHelpers: Saving map 'CheckSaveFile' took 0.632
+[2020.02.10-13.41.46:488][818]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.02.10-13.42.17:690][346]LogUObjectHash: Compacting FUObjectHashTables data took   4.76ms
+[2020.02.10-13.42.17:715][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyGameInstance/MyGameInstance" FILE="../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/MyGameInstance/MyGameInstance.uasset" SILENT=true
+[2020.02.10-13.42.17:913][346]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/MyGameInstance9BFD1A224ED520F6E9A500870C9BD4C7.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/MyGameInstance/MyGameInstance.uasset'
+[2020.02.10-13.42.21:620][783]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.10-13.42.21:668][783]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/CheckSaveFile.CheckSaveFile:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CheckSaveFile.CheckSaveFile:PersistentLevel.CheckSaveFile' with GeneratedClass '/Game/Levels/CheckSaveFile.CheckSaveFile_C' with ClassGeneratedBy '/Game/Levels/CheckSaveFile.CheckSaveFile:PersistentLevel.CheckSaveFile'
+[2020.02.10-13.42.21:699][783]LogFMOD: Creating runtime Studio System
+[2020.02.10-13.42.21:700][783]LogFMOD: Default sample rate = 48000
+[2020.02.10-13.42.21:700][783]LogFMOD: System sample rate = 44100
+[2020.02.10-13.42.21:700][783]LogFMOD: Matching system sample rate 44100
+[2020.02.10-13.42.21:708][783]LogFMOD: Loading Banks
+[2020.02.10-13.42.21:821][783]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.02.10-13.42.21:861][783]LogPlayLevel: [PlayLevel] Compiling MyGameInstance before play...
+[2020.02.10-13.42.22:505][783]LogUObjectHash: Compacting FUObjectHashTables data took   6.41ms
+[2020.02.10-13.42.22:505][783]LogPlayLevel: PlayLevel: Blueprint regeneration took 684 ms (1 blueprints)
+[2020.02.10-13.42.22:506][783]PIE: New page: PIE session: CheckSaveFile (Feb 10, 2020, 3:42:22 PM)
+[2020.02.10-13.42.22:667][783]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_CheckSaveFile
+[2020.02.10-13.42.22:669][783]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001584s)
+[2020.02.10-13.42.22:670][783]LogAIModule: Creating AISystem for world CheckSaveFile
+[2020.02.10-13.42.22:670][783]LogPlayLevel: PIE: World Init took: (0.001236s)
+[2020.02.10-13.42.22:670][783]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/CheckSaveFile.CheckSaveFile to /Game/Levels/UEDPIE_0_CheckSaveFile.CheckSaveFile (0.002962s)
+[2020.02.10-13.42.22:710][783]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2020.02.10-13.42.22:724][783]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.10-13.42.22:730][783]LogInit: FAudioDevice initialized.
+[2020.02.10-13.42.25:160][783]LogInit: Error: Failed to load cursor '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/None'
+[2020.02.10-13.42.25:183][783]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.10-13.42.25:185][783]LogWorld: Bringing World /Game/Levels/UEDPIE_0_CheckSaveFile.CheckSaveFile up for play (max tick rate 0) at 2020.02.10-14.42.25
+[2020.02.10-13.42.25:185][783]LogWorld: Bringing up level for play took: 0.000668
+[2020.02.10-13.42.25:185][783]LogOnline: OSS: Creating online subsystem instance for: :Context_265
+[2020.02.10-13.42.25:212][783]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter'!
+[2020.02.10-13.42.25:220][783]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_CheckSaveFile 2.911
+[2020.02.10-13.42.25:220][783]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/CheckSaveFile.CheckSaveFile:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CheckSaveFile.CheckSaveFile:PersistentLevel.CheckSaveFile' with GeneratedClass '/Game/Levels/CheckSaveFile.CheckSaveFile_C' with ClassGeneratedBy '/Game/Levels/CheckSaveFile.CheckSaveFile:PersistentLevel.CheckSaveFile'
+[2020.02.10-13.42.25:221][783]LogNet: Browse: /Game/Levels/LVTutorial/WorldCutsceneLV
+[2020.02.10-13.42.25:221][783]LogLoad: LoadMap: /Game/Levels/LVTutorial/WorldCutsceneLV
+[2020.02.10-13.42.25:221][783]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_CheckSaveFile
+[2020.02.10-13.42.25:224][783]LogWorld: UWorld::CleanupWorld for CheckSaveFile, bSessionEnded=true, bCleanupResources=true
+[2020.02.10-13.42.25:285][783]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2020.02.10-13.42.25:296][783]LogAIModule: Creating AISystem for world WorldCutsceneLV
+[2020.02.10-13.42.25:296][783]LogLoad: Game class is 'GameMode'
+[2020.02.10-13.42.25:297][783]LogWorld: Bringing World /Game/Levels/LVTutorial/UEDPIE_0_WorldCutsceneLV.WorldCutsceneLV up for play (max tick rate 0) at 2020.02.10-14.42.25
+[2020.02.10-13.42.25:297][783]LogWorld: Bringing up level for play took: 0.000873
+[2020.02.10-13.42.25:298][783]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.02.10-13.42.25:298][783]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.10-13.42.25:298][783]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.10-13.42.25:298][783]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.02.10-13.42.25:300][783]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.02.10-13.42.25:300][783]LogLoad: Took 0.079206 seconds to LoadMap(/Game/Levels/LVTutorial/WorldCutsceneLV)
+[2020.02.10-13.42.26:982][970]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/CheckSaveFile.CheckSaveFile:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CheckSaveFile.CheckSaveFile:PersistentLevel.CheckSaveFile' with GeneratedClass '/Game/Levels/CheckSaveFile.CheckSaveFile_C' with ClassGeneratedBy '/Game/Levels/CheckSaveFile.CheckSaveFile:PersistentLevel.CheckSaveFile'
+[2020.02.10-13.42.27:115][970]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.10-13.42.27:115][970]LogWorld: BeginTearingDown for /Game/Levels/LVTutorial/UEDPIE_0_WorldCutsceneLV
+[2020.02.10-13.42.27:116][970]LogWorld: UWorld::CleanupWorld for WorldCutsceneLV, bSessionEnded=true, bCleanupResources=true
+[2020.02.10-13.42.27:122][970]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.10-13.42.27:122][970]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/CheckSaveFile.CheckSaveFile:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CheckSaveFile.CheckSaveFile:PersistentLevel.CheckSaveFile' with GeneratedClass '/Game/Levels/CheckSaveFile.CheckSaveFile_C' with ClassGeneratedBy '/Game/Levels/CheckSaveFile.CheckSaveFile:PersistentLevel.CheckSaveFile'
+[2020.02.10-13.42.27:178][970]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.10-13.42.27:183][970]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2020.02.10-13.42.27:199][971]LogPlayLevel: Display: Destroying online subsystem :Context_265
+[2020.02.10-13.42.47:949][352]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyGameInstance/MyGameInstance" FILE="../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/MyGameInstance/MyGameInstance.uasset" SILENT=true
+[2020.02.10-13.42.48:068][352]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/MyGameInstance33A32EA14B7999DE37537B915153CD82.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/MyGameInstance/MyGameInstance.uasset'
+[2020.02.10-13.43.43:158][937]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.10-13.43.43:204][937]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/CheckSaveFile.CheckSaveFile:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CheckSaveFile.CheckSaveFile:PersistentLevel.CheckSaveFile' with GeneratedClass '/Game/Levels/CheckSaveFile.CheckSaveFile_C' with ClassGeneratedBy '/Game/Levels/CheckSaveFile.CheckSaveFile:PersistentLevel.CheckSaveFile'
+[2020.02.10-13.43.43:254][937]LogFMOD: Creating runtime Studio System
+[2020.02.10-13.43.43:256][937]LogFMOD: Default sample rate = 48000
+[2020.02.10-13.43.43:256][937]LogFMOD: System sample rate = 44100
+[2020.02.10-13.43.43:256][937]LogFMOD: Matching system sample rate 44100
+[2020.02.10-13.43.43:274][937]LogFMOD: Loading Banks
+[2020.02.10-13.43.43:315][937]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.02.10-13.43.43:315][937]LogPlayLevel: [PlayLevel] Compiling CheckSaveFile before play...
+[2020.02.10-13.43.43:809][937]LogUObjectHash: Compacting FUObjectHashTables data took   4.94ms
+[2020.02.10-13.43.43:809][937]LogPlayLevel: PlayLevel: Blueprint regeneration took 494 ms (1 blueprints)
+[2020.02.10-13.43.43:809][937]PIE: New page: PIE session: CheckSaveFile (Feb 10, 2020, 3:43:43 PM)
+[2020.02.10-13.43.43:816][937]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_CheckSaveFile
+[2020.02.10-13.43.43:817][937]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001494s)
+[2020.02.10-13.43.43:818][937]LogAIModule: Creating AISystem for world CheckSaveFile
+[2020.02.10-13.43.43:818][937]LogPlayLevel: PIE: World Init took: (0.001014s)
+[2020.02.10-13.43.43:818][937]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/CheckSaveFile.CheckSaveFile to /Game/Levels/UEDPIE_0_CheckSaveFile.CheckSaveFile (0.002609s)
+[2020.02.10-13.43.43:858][937]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2020.02.10-13.43.43:865][937]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.10-13.43.43:870][937]LogInit: FAudioDevice initialized.
+[2020.02.10-13.43.43:975][937]LogInit: Error: Failed to load cursor '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/None'
+[2020.02.10-13.43.43:984][937]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.10-13.43.43:985][937]LogWorld: Bringing World /Game/Levels/UEDPIE_0_CheckSaveFile.CheckSaveFile up for play (max tick rate 0) at 2020.02.10-14.43.43
+[2020.02.10-13.43.43:985][937]LogWorld: Bringing up level for play took: 0.000334
+[2020.02.10-13.43.43:985][937]LogOnline: OSS: Creating online subsystem instance for: :Context_266
+[2020.02.10-13.43.43:990][937]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter'!
+[2020.02.10-13.43.43:990][937]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_CheckSaveFile 1.68
+[2020.02.10-13.43.43:991][937]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/CheckSaveFile.CheckSaveFile:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CheckSaveFile.CheckSaveFile:PersistentLevel.CheckSaveFile' with GeneratedClass '/Game/Levels/CheckSaveFile.CheckSaveFile_C' with ClassGeneratedBy '/Game/Levels/CheckSaveFile.CheckSaveFile:PersistentLevel.CheckSaveFile'
+[2020.02.10-13.43.43:991][937]LogNet: Browse: /Game/Levels/WorldMap/WorldMapLevel
+[2020.02.10-13.43.43:991][937]LogLoad: LoadMap: /Game/Levels/WorldMap/WorldMapLevel
+[2020.02.10-13.43.43:991][937]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_CheckSaveFile
+[2020.02.10-13.43.43:991][937]LogWorld: UWorld::CleanupWorld for CheckSaveFile, bSessionEnded=true, bCleanupResources=true
+[2020.02.10-13.43.44:032][937]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2020.02.10-13.43.44:686][937]LogAIModule: Creating AISystem for world WorldMapLevel
+[2020.02.10-13.43.44:687][937]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.10-13.43.44:703][937]LogWorld: Bringing World /Game/Levels/WorldMap/UEDPIE_0_WorldMapLevel.WorldMapLevel up for play (max tick rate 0) at 2020.02.10-14.43.44
+[2020.02.10-13.43.44:780][937]LogWorld: Bringing up level for play took: 0.092688
+[2020.02.10-13.43.44:930][937]LogLoad: Took 0.939406 seconds to LoadMap(/Game/Levels/WorldMap/WorldMapLevel)
+[2020.02.10-13.43.46:580][ 26]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/CheckSaveFile.CheckSaveFile:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CheckSaveFile.CheckSaveFile:PersistentLevel.CheckSaveFile' with GeneratedClass '/Game/Levels/CheckSaveFile.CheckSaveFile_C' with ClassGeneratedBy '/Game/Levels/CheckSaveFile.CheckSaveFile:PersistentLevel.CheckSaveFile'
+[2020.02.10-13.43.46:668][ 26]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.10-13.43.46:668][ 26]LogWorld: BeginTearingDown for /Game/Levels/WorldMap/UEDPIE_0_WorldMapLevel
+[2020.02.10-13.43.46:668][ 26]LogWorld: UWorld::CleanupWorld for WorldMapLevel, bSessionEnded=true, bCleanupResources=true
+[2020.02.10-13.43.46:682][ 26]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.10-13.43.46:682][ 26]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/CheckSaveFile.CheckSaveFile:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CheckSaveFile.CheckSaveFile:PersistentLevel.CheckSaveFile' with GeneratedClass '/Game/Levels/CheckSaveFile.CheckSaveFile_C' with ClassGeneratedBy '/Game/Levels/CheckSaveFile.CheckSaveFile:PersistentLevel.CheckSaveFile'
+[2020.02.10-13.43.46:747][ 26]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.10-13.43.46:758][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2020.02.10-13.43.46:773][ 27]LogPlayLevel: Display: Destroying online subsystem :Context_266
+[2020.02.10-13.43.48:438][219]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2020.02.10-13.43.48:490][219]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2020.02.10-13.43.48:992][219]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/CheckSaveFile358D9094426B50A559604B8EE797DD14.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/CheckSaveFile.umap'
+[2020.02.10-13.43.49:040][219]LogFileHelpers: Saving map 'CheckSaveFile' took 0.589
