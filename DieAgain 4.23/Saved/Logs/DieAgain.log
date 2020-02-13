@@ -761,3 +761,624 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.13-20.30.47:792][710]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2020.02.13-20.30.48:690][791]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
 [2020.02.13-20.30.50:758][951]LogUObjectHash: Compacting FUObjectHashTables data took   4.86ms
+[2020.02.13-20.31.58:787][410]LogAIModule: Creating AISystem for world Tutorial_1
+[2020.02.13-20.31.58:928][410]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/LVTutorial/Tutorial_1.Tutorial_1
+[2020.02.13-20.31.59:004][410]LogUObjectHash: Compacting FUObjectHashTables data took   6.55ms
+[2020.02.13-20.31.59:005][410]Cmd: MAP LOAD FILE="../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LVTutorial/Tutorial_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.13-20.31.59:006][410]LightingResults: New page: Lighting Build
+[2020.02.13-20.31.59:007][410]LoadErrors: New page: Loading map: Tutorial_1.umap
+[2020.02.13-20.31.59:012][410]LogWorld: UWorld::CleanupWorld for WorldMapLevel, bSessionEnded=true, bCleanupResources=true
+[2020.02.13-20.31.59:016][410]MapCheck: New page: Map Check
+[2020.02.13-20.31.59:016][410]LightingResults: New page: Lighting Build
+[2020.02.13-20.31.59:100][410]LogUObjectHash: Compacting FUObjectHashTables data took   8.60ms
+[2020.02.13-20.31.59:138][410]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2020.02.13-20.31.59:183][410]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2020.02.13-20.32.00:129][410]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.13-20.32.00:218][410]LogUObjectHash: Compacting FUObjectHashTables data took   4.94ms
+[2020.02.13-20.32.00:271][410]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.13-20.32.00:271][410]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.207ms to complete.
+[2020.02.13-20.32.00:271][410]LogFileHelpers: Loading map 'Tutorial_1' took 1.267
+[2020.02.13-20.32.05:877][914]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.13-20.32.06:473][948]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.13-20.32.06:474][948]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Levels/LVTutorial/Tutorial_1.Tutorial_1:PersistentLevel.Tutorial_1
+[2020.02.13-20.32.16:960][841]LogSlate: Window 'Tutorial' being destroyed
+[2020.02.13-20.32.17:435][898]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.13-20.32.19:920][188]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2020.02.13-20.32.20:034][188]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2020.02.13-20.32.22:267][188]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/Tutorial_1EDAA6F46497098F25833348F5EE8CF0C.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LVTutorial/Tutorial_1.umap'
+[2020.02.13-20.32.22:426][188]LogFileHelpers: Saving map 'Tutorial_1' took 2.479
+[2020.02.13-20.32.34:421][402]LogAIModule: Creating AISystem for world WorldMapLevel
+[2020.02.13-20.32.34:500][402]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/WorldMap/WorldMapLevel.WorldMapLevel
+[2020.02.13-20.32.34:570][402]LogUObjectHash: Compacting FUObjectHashTables data took   6.41ms
+[2020.02.13-20.32.34:571][402]Cmd: MAP LOAD FILE="../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/WorldMap/WorldMapLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.13-20.32.34:571][402]LightingResults: New page: Lighting Build
+[2020.02.13-20.32.34:572][402]LoadErrors: New page: Loading map: WorldMapLevel.umap
+[2020.02.13-20.32.34:621][402]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.02.13-20.32.34:680][402]LogWorld: UWorld::CleanupWorld for Tutorial_1, bSessionEnded=true, bCleanupResources=true
+[2020.02.13-20.32.34:681][402]MapCheck: New page: Map Check
+[2020.02.13-20.32.34:681][402]LightingResults: New page: Lighting Build
+[2020.02.13-20.32.34:738][402]LogUObjectHash: Compacting FUObjectHashTables data took   5.74ms
+[2020.02.13-20.32.34:786][402]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2020.02.13-20.32.34:829][402]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2020.02.13-20.32.35:879][402]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.13-20.32.36:081][402]LogUObjectHash: Compacting FUObjectHashTables data took   4.79ms
+[2020.02.13-20.32.36:134][402]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.13-20.32.36:134][402]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.079ms to complete.
+[2020.02.13-20.32.36:134][402]LogFileHelpers: Loading map 'WorldMapLevel' took 1.564
+[2020.02.13-20.32.37:907][576]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Levels/WorldMap/WorldMapLevel.WorldMapLevel:PersistentLevel.WorldMapLevel
+[2020.02.13-20.32.43:295][945]LogSlate: Window 'WorldMapLevel' being destroyed
+[2020.02.13-20.32.49:100][552]LogAIModule: Creating AISystem for world Tutorial_2
+[2020.02.13-20.32.49:164][552]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/LVTutorial/Tutorial_2.Tutorial_2
+[2020.02.13-20.32.49:228][552]LogUObjectHash: Compacting FUObjectHashTables data took   7.35ms
+[2020.02.13-20.32.49:230][552]Cmd: MAP LOAD FILE="../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LVTutorial/Tutorial_2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.13-20.32.49:230][552]LightingResults: New page: Lighting Build
+[2020.02.13-20.32.49:230][552]LoadErrors: New page: Loading map: Tutorial_2.umap
+[2020.02.13-20.32.49:271][552]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.02.13-20.32.49:341][552]LogWorld: UWorld::CleanupWorld for WorldMapLevel, bSessionEnded=true, bCleanupResources=true
+[2020.02.13-20.32.49:341][552]MapCheck: New page: Map Check
+[2020.02.13-20.32.49:341][552]LightingResults: New page: Lighting Build
+[2020.02.13-20.32.49:400][552]LogUObjectHash: Compacting FUObjectHashTables data took   8.86ms
+[2020.02.13-20.32.49:454][552]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2020.02.13-20.32.49:499][552]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2020.02.13-20.32.50:717][552]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.13-20.32.50:790][552]LogUObjectHash: Compacting FUObjectHashTables data took   5.14ms
+[2020.02.13-20.32.50:848][552]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.13-20.32.50:848][552]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.157ms to complete.
+[2020.02.13-20.32.50:850][552]LogFileHelpers: Loading map 'Tutorial_2' took 1.621
+[2020.02.13-20.32.54:181][899]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Levels/LVTutorial/Tutorial_2.Tutorial_2:PersistentLevel.Tutorial_2
+[2020.02.13-20.33.02:784][804]LogAIModule: Creating AISystem for world Tutorial_3
+[2020.02.13-20.33.02:859][804]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/LVTutorial/Tutorial_3.Tutorial_3
+[2020.02.13-20.33.02:924][804]LogUObjectHash: Compacting FUObjectHashTables data took   6.79ms
+[2020.02.13-20.33.03:788][804]LogSlate: Window 'Save Content' being destroyed
+[2020.02.13-20.33.03:837][804]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2020.02.13-20.33.04:755][804]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/Tutorial_24CB704514B0DFAAD1E421FA7A54E6B26.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LVTutorial/Tutorial_2.umap'
+[2020.02.13-20.33.04:836][804]LogFileHelpers: Saving map 'Tutorial_2' took 1.045
+[2020.02.13-20.33.04:837][804]Cmd: MAP LOAD FILE="../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LVTutorial/Tutorial_3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.13-20.33.04:838][804]LightingResults: New page: Lighting Build
+[2020.02.13-20.33.04:838][804]LoadErrors: New page: Loading map: Tutorial_3.umap
+[2020.02.13-20.33.04:878][804]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2020.02.13-20.33.04:940][804]LogWorld: UWorld::CleanupWorld for Tutorial_2, bSessionEnded=true, bCleanupResources=true
+[2020.02.13-20.33.04:941][804]MapCheck: New page: Map Check
+[2020.02.13-20.33.04:941][804]LightingResults: New page: Lighting Build
+[2020.02.13-20.33.05:001][804]LogUObjectHash: Compacting FUObjectHashTables data took   6.92ms
+[2020.02.13-20.33.05:046][804]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2020.02.13-20.33.05:092][804]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2020.02.13-20.33.06:553][804]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.13-20.33.06:554][804]LogNavigation: Warning: Recreating dtNavMesh instance due to saved navmesh origin (X=-1653.700 Y=5167.275 Z=0.000, usually the RecastNavMesh location) not being aligned with tile size (988 uu) 
+[2020.02.13-20.33.06:635][804]LogUObjectHash: Compacting FUObjectHashTables data took   5.90ms
+[2020.02.13-20.33.06:696][804]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.13-20.33.06:697][804]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.219ms to complete.
+[2020.02.13-20.33.06:697][804]LogFileHelpers: Loading map 'Tutorial_3' took 1.860
+[2020.02.13-20.33.06:889][804]LogAIModule: Creating AISystem for world Tutorial_2
+[2020.02.13-20.33.09:531][ 57]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Levels/LVTutorial/Tutorial_3.Tutorial_3:PersistentLevel.Tutorial_3
+[2020.02.13-20.33.14:459][373]LogSlate: Window 'Tutorial' being destroyed
+[2020.02.13-20.33.14:463][373]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2020.02.13-20.33.16:921][454]LogAIModule: Creating AISystem for world Tutorial_4
+[2020.02.13-20.33.17:127][454]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/LVTutorial/Tutorial_4.Tutorial_4
+[2020.02.13-20.33.17:281][454]LogUObjectHash: Compacting FUObjectHashTables data took   7.25ms
+[2020.02.13-20.33.18:801][454]LogSlate: Window 'Save Content' being destroyed
+[2020.02.13-20.33.18:850][454]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2020.02.13-20.33.19:953][454]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/Tutorial_368B019B54230888104DF1EA9A4A9BE6D.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LVTutorial/Tutorial_3.umap'
+[2020.02.13-20.33.20:040][454]LogFileHelpers: Saving map 'Tutorial_3' took 1.235
+[2020.02.13-20.33.20:041][454]Cmd: MAP LOAD FILE="../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LVTutorial/Tutorial_4.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.13-20.33.20:041][454]LightingResults: New page: Lighting Build
+[2020.02.13-20.33.20:042][454]LoadErrors: New page: Loading map: Tutorial_4.umap
+[2020.02.13-20.33.20:055][454]LogWorld: UWorld::CleanupWorld for Tutorial_3, bSessionEnded=true, bCleanupResources=true
+[2020.02.13-20.33.20:056][454]MapCheck: New page: Map Check
+[2020.02.13-20.33.20:056][454]LightingResults: New page: Lighting Build
+[2020.02.13-20.33.20:111][454]LogUObjectHash: Compacting FUObjectHashTables data took   7.70ms
+[2020.02.13-20.33.20:158][454]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2020.02.13-20.33.20:206][454]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2020.02.13-20.33.20:251][454]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2020.02.13-20.33.21:989][454]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.13-20.33.22:079][454]LogUObjectHash: Compacting FUObjectHashTables data took   5.41ms
+[2020.02.13-20.33.22:133][454]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.13-20.33.22:133][454]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.196ms to complete.
+[2020.02.13-20.33.22:133][454]LogFileHelpers: Loading map 'Tutorial_4' took 2.093
+[2020.02.13-20.33.22:344][454]LogAIModule: Creating AISystem for world Tutorial_3
+[2020.02.13-20.33.28:871][741]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Levels/LVTutorial/Tutorial_4.Tutorial_4:PersistentLevel.Tutorial_4
+[2020.02.13-20.33.34:653][207]LogSlate: Window 'Tutorial' being destroyed
+[2020.02.13-20.33.35:421][296]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2020.02.13-20.33.37:748][553]LogUObjectHash: Compacting FUObjectHashTables data took   7.16ms
+[2020.02.13-20.33.38:454][637]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/LVTutorial/Tutorial_3.Tutorial_3
+[2020.02.13-20.33.38:500][637]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2020.02.13-20.33.38:501][637]Cmd: MAP LOAD FILE="../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LVTutorial/Tutorial_3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.13-20.33.38:502][637]LightingResults: New page: Lighting Build
+[2020.02.13-20.33.38:502][637]LoadErrors: New page: Loading map: Tutorial_3.umap
+[2020.02.13-20.33.38:517][637]LogWorld: UWorld::CleanupWorld for Tutorial_4, bSessionEnded=true, bCleanupResources=true
+[2020.02.13-20.33.38:518][637]MapCheck: New page: Map Check
+[2020.02.13-20.33.38:518][637]LightingResults: New page: Lighting Build
+[2020.02.13-20.33.38:579][637]LogUObjectHash: Compacting FUObjectHashTables data took   7.56ms
+[2020.02.13-20.33.38:624][637]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2020.02.13-20.33.38:669][637]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2020.02.13-20.33.38:714][637]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2020.02.13-20.33.40:726][637]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.13-20.33.40:727][637]LogNavigation: Warning: Recreating dtNavMesh instance due to saved navmesh origin (X=-1653.700 Y=5167.275 Z=0.000, usually the RecastNavMesh location) not being aligned with tile size (988 uu) 
+[2020.02.13-20.33.40:832][637]LogUObjectHash: Compacting FUObjectHashTables data took   6.50ms
+[2020.02.13-20.33.40:898][637]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.13-20.33.40:898][637]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.19ms to complete.
+[2020.02.13-20.33.40:901][637]LogFileHelpers: Loading map 'Tutorial_3' took 2.401
+[2020.02.13-20.34.10:002][892]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.13-20.34.10:164][892]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/LVTutorial/Tutorial_3.Tutorial_3:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LVTutorial/Tutorial_3.Tutorial_3:PersistentLevel.Tutorial_3' with GeneratedClass '/Game/Levels/LVTutorial/Tutorial_3.Tutorial_3_C' with ClassGeneratedBy '/Game/Levels/LVTutorial/Tutorial_3.Tutorial_3:PersistentLevel.Tutorial_3'
+[2020.02.13-20.34.10:314][892]LogFMOD: Creating runtime Studio System
+[2020.02.13-20.34.10:401][892]LogFMOD: Default sample rate = 48000
+[2020.02.13-20.34.10:401][892]LogFMOD: System sample rate = 44100
+[2020.02.13-20.34.10:401][892]LogFMOD: Matching system sample rate 44100
+[2020.02.13-20.34.10:533][892]LogFMOD: Loading Banks
+[2020.02.13-20.34.10:597][892]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.02.13-20.34.10:667][892]LogPlayLevel: [PlayLevel] Compiling PlayerWorldMap_Character before play...
+[2020.02.13-20.34.11:579][892]LogUObjectHash: Compacting FUObjectHashTables data took   8.98ms
+[2020.02.13-20.34.11:583][892]LogPlayLevel: PlayLevel: Blueprint regeneration took 987 ms (1 blueprints)
+[2020.02.13-20.34.11:675][892]PIE: New page: PIE session: Tutorial_3 (Feb 13, 2020, 10:34:11 PM)
+[2020.02.13-20.34.11:783][892]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.02.13-20.34.11:863][892]LogPlayLevel: Creating play world package: /Game/Levels/LVTutorial/UEDPIE_0_Tutorial_3
+[2020.02.13-20.34.12:189][892]LogPlayLevel: PIE: StaticDuplicateObject took: (0.269439s)
+[2020.02.13-20.34.12:202][892]LogAIModule: Creating AISystem for world Tutorial_3
+[2020.02.13-20.34.12:213][892]LogPlayLevel: PIE: World Init took: (0.023699s)
+[2020.02.13-20.34.12:220][892]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LVTutorial/Tutorial_3.Tutorial_3 to /Game/Levels/LVTutorial/UEDPIE_0_Tutorial_3.Tutorial_3 (0.356975s)
+[2020.02.13-20.34.12:276][892]LogUObjectHash: Compacting FUObjectHashTables data took   6.12ms
+[2020.02.13-20.34.12:355][892]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.13-20.34.12:383][892]LogInit: FAudioDevice initialized.
+[2020.02.13-20.34.14:483][892]LogInit: Error: Failed to load cursor '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/None'
+[2020.02.13-20.34.14:697][892]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.13-20.34.14:829][892]LogWorld: Bringing World /Game/Levels/LVTutorial/UEDPIE_0_Tutorial_3.Tutorial_3 up for play (max tick rate 0) at 2020.02.13-21.34.14
+[2020.02.13-20.34.15:051][892]LogWorld: Bringing up level for play took: 0.347784
+[2020.02.13-20.34.15:052][892]LogNavigation: Warning: Recreating dtNavMesh instance due to saved navmesh origin (X=-826.850 Y=2583.638 Z=0.000, usually the RecastNavMesh location) not being aligned with tile size (988 uu) 
+[2020.02.13-20.34.15:080][892]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2020.02.13-20.34.15:384][892]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0213 seconds. Added 20 classes and 0 folders.
+[2020.02.13-20.34.15:681][892]PIE: Play in editor start time for /Game/Levels/LVTutorial/UEDPIE_0_Tutorial_3 5.809
+[2020.02.13-20.34.15:682][892]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/LVTutorial/Tutorial_3.Tutorial_3:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LVTutorial/Tutorial_3.Tutorial_3:PersistentLevel.Tutorial_3' with GeneratedClass '/Game/Levels/LVTutorial/Tutorial_3.Tutorial_3_C' with ClassGeneratedBy '/Game/Levels/LVTutorial/Tutorial_3.Tutorial_3:PersistentLevel.Tutorial_3'
+[2020.02.13-20.34.31:741][ 51]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2020.02.13-20.34.33:137][180]LogNet: Browse: /Game/Levels/LVTutorial/Tutorial_3
+[2020.02.13-20.34.33:137][180]LogLoad: LoadMap: /Game/Levels/LVTutorial/Tutorial_3
+[2020.02.13-20.34.33:137][180]LogWorld: BeginTearingDown for /Game/Levels/LVTutorial/UEDPIE_0_Tutorial_3
+[2020.02.13-20.34.33:147][180]LogWorld: UWorld::CleanupWorld for Tutorial_3, bSessionEnded=true, bCleanupResources=true
+[2020.02.13-20.34.33:415][180]LogUObjectHash: Compacting FUObjectHashTables data took  12.64ms
+[2020.02.13-20.34.33:442][180]LogPlayLevel: Creating play world package: /Game/Levels/LVTutorial/UEDPIE_0_Tutorial_3
+[2020.02.13-20.34.33:546][180]LogPlayLevel: PIE: StaticDuplicateObject took: (0.100384s)
+[2020.02.13-20.34.33:548][180]LogAIModule: Creating AISystem for world Tutorial_3
+[2020.02.13-20.34.33:548][180]LogPlayLevel: PIE: World Init took: (0.001668s)
+[2020.02.13-20.34.33:548][180]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LVTutorial/Tutorial_3.Tutorial_3 to /Game/Levels/LVTutorial/UEDPIE_0_Tutorial_3.Tutorial_3 (0.106375s)
+[2020.02.13-20.34.33:548][180]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.13-20.34.33:590][180]LogWorld: Bringing World /Game/Levels/LVTutorial/UEDPIE_0_Tutorial_3.Tutorial_3 up for play (max tick rate 0) at 2020.02.13-21.34.33
+[2020.02.13-20.34.33:593][180]LogWorld: Bringing up level for play took: 0.043155
+[2020.02.13-20.34.33:593][180]LogNavigation: Warning: Recreating dtNavMesh instance due to saved navmesh origin (X=-826.850 Y=2583.638 Z=0.000, usually the RecastNavMesh location) not being aligned with tile size (988 uu) 
+[2020.02.13-20.34.33:611][180]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2020.02.13-20.34.33:612][180]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2020.02.13-20.34.33:612][180]LogLoad: Took 0.474214 seconds to LoadMap(/Game/Levels/LVTutorial/UEDPIE_0_Tutorial_3)
+[2020.02.13-20.34.34:583][292]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.13-20.34.40:837][  6]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.13-20.34.41:006][ 16]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/LVTutorial/Tutorial_3.Tutorial_3:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LVTutorial/Tutorial_3.Tutorial_3:PersistentLevel.Tutorial_3' with GeneratedClass '/Game/Levels/LVTutorial/Tutorial_3.Tutorial_3_C' with ClassGeneratedBy '/Game/Levels/LVTutorial/Tutorial_3.Tutorial_3:PersistentLevel.Tutorial_3'
+[2020.02.13-20.34.41:116][ 16]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-20.34.41:116][ 16]LogWorld: BeginTearingDown for /Game/Levels/LVTutorial/UEDPIE_0_Tutorial_3
+[2020.02.13-20.34.41:117][ 16]LogWorld: UWorld::CleanupWorld for Tutorial_3, bSessionEnded=true, bCleanupResources=true
+[2020.02.13-20.34.41:150][ 16]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.13-20.34.41:153][ 16]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/LVTutorial/Tutorial_3.Tutorial_3:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LVTutorial/Tutorial_3.Tutorial_3:PersistentLevel.Tutorial_3' with GeneratedClass '/Game/Levels/LVTutorial/Tutorial_3.Tutorial_3_C' with ClassGeneratedBy '/Game/Levels/LVTutorial/Tutorial_3.Tutorial_3:PersistentLevel.Tutorial_3'
+[2020.02.13-20.34.41:234][ 16]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-20.34.41:352][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   6.99ms
+[2020.02.13-20.34.41:378][ 17]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2020.02.13-20.34.52:116][ 89]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.13-20.34.52:835][167]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2020.02.13-20.34.52:840][167]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.13-20.34.52:906][167]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2020.02.13-20.34.54:048][167]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/Tutorial_3C40755354204362A3833738692476DAA.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LVTutorial/Tutorial_3.umap'
+[2020.02.13-20.34.54:108][167]LogFileHelpers: Saving map 'Tutorial_3' took 1.255
+[2020.02.13-20.35.02:088][979]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.13-20.35.04:573][259]LogUObjectHash: Compacting FUObjectHashTables data took   6.91ms
+[2020.02.13-20.35.04:635][259]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2020.02.13-20.35.05:680][259]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/Tutorial_3C0BDA79141A1513D9F0EBBABB38B2C3A.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LVTutorial/Tutorial_3.umap'
+[2020.02.13-20.35.05:741][259]LogFileHelpers: Saving map 'Tutorial_3' took 1.154
+[2020.02.13-20.35.10:591][739]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/HUD/GameOverHUD/HUD.HUD
+[2020.02.13-20.45.04:620][345]LogUObjectHash: Compacting FUObjectHashTables data took   7.40ms
+[2020.02.13-20.45.04:620][345]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/LVTutorial/Tutorial_3' took 0.114
+[2020.02.13-20.45.04:623][345]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/HUD/GameOverHUD/HUD] ([1] browsable assets)...
+[2020.02.13-20.45.04:623][345]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD/GameOverHUD/HUD]
+[2020.02.13-20.45.04:814][345]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/HUD_Auto19650D7E94425187FC65687AF17560DC0.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/Autosaves/Game/HUD/GameOverHUD/HUD_Auto1.uasset'
+[2020.02.13-20.45.04:815][345]LogFileHelpers: Auto-saving content packages took 0.193
+[2020.02.13-21.11.42:606][557]LogAIModule: Creating AISystem for world Level1_1
+[2020.02.13-21.11.42:667][557]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/LV1/Level1_1.Level1_1
+[2020.02.13-21.11.42:892][557]LogUObjectHash: Compacting FUObjectHashTables data took   6.94ms
+[2020.02.13-21.11.44:172][557]LogSlate: Window 'Save Content' being destroyed
+[2020.02.13-21.11.44:176][557]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/GameOverHUD/HUD" FILE="../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/HUD/GameOverHUD/HUD.uasset" SILENT=true
+[2020.02.13-21.11.44:297][557]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/HUD2911723646B8488EB52BF7A28A05CE5F.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/HUD/GameOverHUD/HUD.uasset'
+[2020.02.13-21.11.44:345][557]Cmd: MAP LOAD FILE="../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LV1/Level1_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.13-21.11.44:345][557]LightingResults: New page: Lighting Build
+[2020.02.13-21.11.44:346][557]LoadErrors: New page: Loading map: Level1_1.umap
+[2020.02.13-21.11.44:359][557]LogWorld: UWorld::CleanupWorld for Tutorial_3, bSessionEnded=true, bCleanupResources=true
+[2020.02.13-21.11.44:361][557]MapCheck: New page: Map Check
+[2020.02.13-21.11.44:361][557]LightingResults: New page: Lighting Build
+[2020.02.13-21.11.44:423][557]LogUObjectHash: Compacting FUObjectHashTables data took   7.29ms
+[2020.02.13-21.11.44:469][557]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2020.02.13-21.11.44:509][557]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2020.02.13-21.11.44:552][557]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2020.02.13-21.11.46:711][557]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.13-21.11.46:772][557]LogUObjectHash: Compacting FUObjectHashTables data took   5.01ms
+[2020.02.13-21.11.46:821][557]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.13-21.11.46:821][557]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.104ms to complete.
+[2020.02.13-21.11.46:822][557]LogFileHelpers: Loading map 'Level1_1' took 2.479
+[2020.02.13-21.11.47:408][603]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.13-21.11.47:453][603]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/LV1/Level1_1.Level1_1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV1/Level1_1.Level1_1:PersistentLevel.Level1_1' with GeneratedClass '/Game/Levels/LV1/Level1_1.Level1_1_C' with ClassGeneratedBy '/Game/Levels/LV1/Level1_1.Level1_1:PersistentLevel.Level1_1'
+[2020.02.13-21.11.47:486][603]LogFMOD: Creating runtime Studio System
+[2020.02.13-21.11.47:488][603]LogFMOD: Default sample rate = 48000
+[2020.02.13-21.11.47:488][603]LogFMOD: System sample rate = 44100
+[2020.02.13-21.11.47:488][603]LogFMOD: Matching system sample rate 44100
+[2020.02.13-21.11.47:508][603]LogFMOD: Loading Banks
+[2020.02.13-21.11.47:619][603]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.02.13-21.11.47:674][603]LogPlayLevel: [PlayLevel] Compiling Level1_1 before play...
+[2020.02.13-21.11.47:674][603]LogPlayLevel: [PlayLevel]   Compiling ThirdPersonExampleMap as a dependent...
+[2020.02.13-21.11.47:674][603]LogPlayLevel: [PlayLevel]   Compiling Tutorial_2 as a dependent...
+[2020.02.13-21.11.47:682][603]LogPlayLevel: [PlayLevel]   Compiling HUD as a dependent...
+[2020.02.13-21.11.47:743][603]LogPlayLevel: [PlayLevel]   Compiling PauseHUD as a dependent...
+[2020.02.13-21.11.47:745][603]LogPlayLevel: [PlayLevel]   Compiling WBLevelTut1_07 as a dependent...
+[2020.02.13-21.11.47:747][603]LogPlayLevel: [PlayLevel]   Compiling WBLevelTut2_03 as a dependent...
+[2020.02.13-21.11.47:749][603]LogPlayLevel: [PlayLevel]   Compiling WBLevelTut3_02 as a dependent...
+[2020.02.13-21.11.47:751][603]LogPlayLevel: [PlayLevel]   Compiling WBLevelTut4_03 as a dependent...
+[2020.02.13-21.11.48:542][603]LogUObjectHash: Compacting FUObjectHashTables data took   7.79ms
+[2020.02.13-21.11.48:544][603]LogPlayLevel: PlayLevel: Blueprint regeneration took 925 ms (9 blueprints)
+[2020.02.13-21.11.48:545][603]PIE: New page: PIE session: Level1_1 (Feb 13, 2020, 11:11:48 PM)
+[2020.02.13-21.11.48:545][603]LogPlayLevel: Creating play world package: /Game/Levels/LV1/UEDPIE_0_Level1_1
+[2020.02.13-21.11.48:710][603]LogPlayLevel: PIE: StaticDuplicateObject took: (0.164955s)
+[2020.02.13-21.11.48:751][603]LogAIModule: Creating AISystem for world Level1_1
+[2020.02.13-21.11.48:751][603]LogPlayLevel: PIE: World Init took: (0.040981s)
+[2020.02.13-21.11.48:751][603]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV1/Level1_1.Level1_1 to /Game/Levels/LV1/UEDPIE_0_Level1_1.Level1_1 (0.206207s)
+[2020.02.13-21.11.48:789][603]LogUObjectHash: Compacting FUObjectHashTables data took   4.63ms
+[2020.02.13-21.11.48:803][603]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.13-21.11.48:810][603]LogInit: FAudioDevice initialized.
+[2020.02.13-21.11.50:992][603]LogInit: Error: Failed to load cursor '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/None'
+[2020.02.13-21.11.51:019][603]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.13-21.11.51:218][603]LogWorld: Bringing World /Game/Levels/LV1/UEDPIE_0_Level1_1.Level1_1 up for play (max tick rate 0) at 2020.02.13-22.11.51
+[2020.02.13-21.11.51:233][603]LogWorld: Bringing up level for play took: 0.211923
+[2020.02.13-21.11.51:244][603]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2020.02.13-21.11.51:312][603]PIE: Play in editor start time for /Game/Levels/LV1/UEDPIE_0_Level1_1 3.424
+[2020.02.13-21.11.51:312][603]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/LV1/Level1_1.Level1_1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV1/Level1_1.Level1_1:PersistentLevel.Level1_1' with GeneratedClass '/Game/Levels/LV1/Level1_1.Level1_1_C' with ClassGeneratedBy '/Game/Levels/LV1/Level1_1.Level1_1:PersistentLevel.Level1_1'
+[2020.02.13-21.11.53:941][877]LogBlueprintUserMessages: [AIShootingController_C_2] NOISE
+[2020.02.13-21.11.53:962][877]LogBlueprintUserMessages: [AIShootingController_C_2] NOTSEE
+[2020.02.13-21.11.54:436][933]LogNet: Browse: /Game/Levels/LV1/Level1_1
+[2020.02.13-21.11.54:436][933]LogLoad: LoadMap: /Game/Levels/LV1/Level1_1
+[2020.02.13-21.11.54:436][933]LogWorld: BeginTearingDown for /Game/Levels/LV1/UEDPIE_0_Level1_1
+[2020.02.13-21.11.54:437][933]LogWorld: UWorld::CleanupWorld for Level1_1, bSessionEnded=true, bCleanupResources=true
+[2020.02.13-21.11.54:496][933]LogUObjectHash: Compacting FUObjectHashTables data took   5.22ms
+[2020.02.13-21.11.54:497][933]LogPlayLevel: Creating play world package: /Game/Levels/LV1/UEDPIE_0_Level1_1
+[2020.02.13-21.11.54:638][933]LogPlayLevel: PIE: StaticDuplicateObject took: (0.140835s)
+[2020.02.13-21.11.54:639][933]LogAIModule: Creating AISystem for world Level1_1
+[2020.02.13-21.11.54:639][933]LogPlayLevel: PIE: World Init took: (0.001460s)
+[2020.02.13-21.11.54:639][933]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV1/Level1_1.Level1_1 to /Game/Levels/LV1/UEDPIE_0_Level1_1.Level1_1 (0.142583s)
+[2020.02.13-21.11.54:640][933]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.13-21.11.54:665][933]LogWorld: Bringing World /Game/Levels/LV1/UEDPIE_0_Level1_1.Level1_1 up for play (max tick rate 0) at 2020.02.13-22.11.54
+[2020.02.13-21.11.54:669][933]LogWorld: Bringing up level for play took: 0.028574
+[2020.02.13-21.11.54:678][933]LogLoad: Took 0.242310 seconds to LoadMap(/Game/Levels/LV1/UEDPIE_0_Level1_1)
+[2020.02.13-21.11.56:076][ 90]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.13-21.11.56:148][ 98]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/LV1/Level1_1.Level1_1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV1/Level1_1.Level1_1:PersistentLevel.Level1_1' with GeneratedClass '/Game/Levels/LV1/Level1_1.Level1_1_C' with ClassGeneratedBy '/Game/Levels/LV1/Level1_1.Level1_1:PersistentLevel.Level1_1'
+[2020.02.13-21.11.56:273][ 98]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-21.11.56:273][ 98]LogWorld: BeginTearingDown for /Game/Levels/LV1/UEDPIE_0_Level1_1
+[2020.02.13-21.11.56:274][ 98]LogWorld: UWorld::CleanupWorld for Level1_1, bSessionEnded=true, bCleanupResources=true
+[2020.02.13-21.11.56:284][ 98]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.13-21.11.56:285][ 98]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/LV1/Level1_1.Level1_1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV1/Level1_1.Level1_1:PersistentLevel.Level1_1' with GeneratedClass '/Game/Levels/LV1/Level1_1.Level1_1_C' with ClassGeneratedBy '/Game/Levels/LV1/Level1_1.Level1_1:PersistentLevel.Level1_1'
+[2020.02.13-21.11.56:334][ 98]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-21.11.56:348][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   5.20ms
+[2020.02.13-21.11.56:364][ 99]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2020.02.13-21.11.59:719][454]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Levels/LV1/Level1_1.Level1_1:PersistentLevel.Level1_1
+[2020.02.13-21.12.04:338][829]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MyGameInstance/MyGameInstance.MyGameInstance
+[2020.02.13-21.12.08:114][165]LogSlate: Window 'Level1' being destroyed
+[2020.02.13-21.12.14:919][963]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2020.02.13-21.12.16:972][ 50]LogAIModule: Creating AISystem for world Level1_1
+[2020.02.13-21.12.17:013][ 50]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/PrototypeLevel/Level1_1.Level1_1
+[2020.02.13-21.12.17:066][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   6.17ms
+[2020.02.13-21.12.18:053][ 50]LogSlate: Window 'Save Content' being destroyed
+[2020.02.13-21.12.18:104][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2020.02.13-21.12.18:981][ 50]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/Level1_1E13DBCA440386C62A8B34498F05CC1E9.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LV1/Level1_1.umap'
+[2020.02.13-21.12.19:082][ 50]LogFileHelpers: Saving map 'Level1_1' took 1.024
+[2020.02.13-21.12.19:389][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   5.81ms
+[2020.02.13-21.12.20:428][ 50]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/Tutorial_2C7F7B6514F23D60B8CD9139FFBD65F12.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LVTutorial/Tutorial_2.umap'
+[2020.02.13-21.12.20:473][ 50]LogFileHelpers: Saving map 'Tutorial_2' took 1.207
+[2020.02.13-21.12.21:139][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   5.83ms
+[2020.02.13-21.12.22:002][ 50]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/ThirdPersonExampleMap934438474DE04B853210A3A3344E6097.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.02.13-21.12.22:157][ 50]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 1.501
+[2020.02.13-21.12.22:158][ 50]Cmd: MAP LOAD FILE="../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/PrototypeLevel/Level1_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.13-21.12.22:158][ 50]LightingResults: New page: Lighting Build
+[2020.02.13-21.12.22:159][ 50]LoadErrors: New page: Loading map: Level1_1.umap
+[2020.02.13-21.12.22:163][ 50]LogWorld: UWorld::CleanupWorld for Level1_1, bSessionEnded=true, bCleanupResources=true
+[2020.02.13-21.12.22:166][ 50]MapCheck: New page: Map Check
+[2020.02.13-21.12.22:166][ 50]LightingResults: New page: Lighting Build
+[2020.02.13-21.12.22:232][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   6.70ms
+[2020.02.13-21.12.22:285][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2020.02.13-21.12.22:335][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2020.02.13-21.12.22:378][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2020.02.13-21.12.24:513][ 50]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.13-21.12.24:574][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   5.03ms
+[2020.02.13-21.12.24:623][ 50]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.13-21.12.24:623][ 50]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.096ms to complete.
+[2020.02.13-21.12.24:623][ 50]LogFileHelpers: Loading map 'Level1_1' took 2.466
+[2020.02.13-21.12.24:877][ 50]LogAIModule: Creating AISystem for world Level1_1
+[2020.02.13-21.12.26:141][154]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Levels/PrototypeLevel/Level1_1.Level1_1:PersistentLevel.Level1_1
+[2020.02.13-21.12.29:704][432]LogSlate: Window 'Level1' being destroyed
+[2020.02.13-21.12.30:915][573]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2020.02.13-21.12.33:263][684]LogAIModule: Creating AISystem for world Level1_2
+[2020.02.13-21.12.33:327][684]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/LV1/Level1_2.Level1_2
+[2020.02.13-21.12.33:389][684]LogUObjectHash: Compacting FUObjectHashTables data took   7.27ms
+[2020.02.13-21.12.34:624][684]LogSlate: Window 'Save Content' being destroyed
+[2020.02.13-21.12.34:676][684]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2020.02.13-21.12.35:590][684]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/Level1_1AF11A8DE4EB2706CBF0F1B950687589D.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/PrototypeLevel/Level1_1.umap'
+[2020.02.13-21.12.35:654][684]LogFileHelpers: Saving map 'Level1_1' took 1.027
+[2020.02.13-21.12.35:655][684]Cmd: MAP LOAD FILE="../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LV1/Level1_2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.13-21.12.35:656][684]LightingResults: New page: Lighting Build
+[2020.02.13-21.12.35:656][684]LoadErrors: New page: Loading map: Level1_2.umap
+[2020.02.13-21.12.35:659][684]LogWorld: UWorld::CleanupWorld for Level1_1, bSessionEnded=true, bCleanupResources=true
+[2020.02.13-21.12.35:660][684]MapCheck: New page: Map Check
+[2020.02.13-21.12.35:660][684]LightingResults: New page: Lighting Build
+[2020.02.13-21.12.35:724][684]LogUObjectHash: Compacting FUObjectHashTables data took   7.23ms
+[2020.02.13-21.12.35:766][684]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2020.02.13-21.12.35:817][684]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2020.02.13-21.12.35:894][684]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2020.02.13-21.12.35:962][684]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2020.02.13-21.12.38:471][684]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.13-21.12.38:543][684]LogUObjectHash: Compacting FUObjectHashTables data took   5.34ms
+[2020.02.13-21.12.38:594][684]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.13-21.12.38:594][684]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.118ms to complete.
+[2020.02.13-21.12.38:594][684]LogFileHelpers: Loading map 'Level1_2' took 2.940
+[2020.02.13-21.12.38:811][684]LogAIModule: Creating AISystem for world Level1_1
+[2020.02.13-21.13.04:794][909]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.13-21.13.05:621][997]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.13-21.13.05:623][997]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Levels/LV1/Level1_2.Level1_2:PersistentLevel.Level1_2
+[2020.02.13-21.13.09:905][311]LogSlate: Window 'Level1' being destroyed
+[2020.02.13-21.13.10:097][334]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.13-21.13.10:593][388]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2020.02.13-21.13.12:605][475]LogAIModule: Creating AISystem for world Level1_3
+[2020.02.13-21.13.12:672][475]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/LV1/Level1_3.Level1_3
+[2020.02.13-21.13.12:726][475]LogUObjectHash: Compacting FUObjectHashTables data took   6.86ms
+[2020.02.13-21.13.13:649][475]LogSlate: Window 'Save Content' being destroyed
+[2020.02.13-21.13.13:712][475]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2020.02.13-21.13.14:689][475]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/Level1_222F11A014E23C68EBCF5CD99EC4EBCDC.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LV1/Level1_2.umap'
+[2020.02.13-21.13.14:817][475]LogFileHelpers: Saving map 'Level1_2' took 1.162
+[2020.02.13-21.13.14:819][475]Cmd: MAP LOAD FILE="../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LV1/Level1_3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.13-21.13.14:819][475]LightingResults: New page: Lighting Build
+[2020.02.13-21.13.14:819][475]LoadErrors: New page: Loading map: Level1_3.umap
+[2020.02.13-21.13.14:826][475]LogWorld: UWorld::CleanupWorld for Level1_2, bSessionEnded=true, bCleanupResources=true
+[2020.02.13-21.13.14:827][475]MapCheck: New page: Map Check
+[2020.02.13-21.13.14:827][475]LightingResults: New page: Lighting Build
+[2020.02.13-21.13.14:899][475]LogUObjectHash: Compacting FUObjectHashTables data took   7.39ms
+[2020.02.13-21.13.14:948][475]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2020.02.13-21.13.14:995][475]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2020.02.13-21.13.15:042][475]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2020.02.13-21.13.15:103][475]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2020.02.13-21.13.15:151][475]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2020.02.13-21.13.17:792][475]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.13-21.13.17:859][475]LogUObjectHash: Compacting FUObjectHashTables data took   5.86ms
+[2020.02.13-21.13.17:914][475]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.13-21.13.17:914][475]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.115ms to complete.
+[2020.02.13-21.13.17:914][475]LogFileHelpers: Loading map 'Level1_3' took 3.097
+[2020.02.13-21.13.18:184][475]LogAIModule: Creating AISystem for world Level1_2
+[2020.02.13-21.13.45:169][850]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.13-21.13.45:864][924]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.13-21.13.45:866][924]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Levels/LV1/Level1_3.Level1_3:PersistentLevel.Level1_3
+[2020.02.13-21.13.49:262][186]LogSlate: Window 'Level1' being destroyed
+[2020.02.13-21.13.49:291][186]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2020.02.13-21.13.49:689][225]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.13-21.14.00:368][307]LogAIModule: Creating AISystem for world Tutorial_1
+[2020.02.13-21.14.00:445][307]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/LVTutorial/Tutorial_1.Tutorial_1
+[2020.02.13-21.14.00:555][307]LogUObjectHash: Compacting FUObjectHashTables data took   7.31ms
+[2020.02.13-21.14.01:542][307]LogSlate: Window 'Save Content' being destroyed
+[2020.02.13-21.14.01:592][307]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2020.02.13-21.14.02:695][307]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/Level1_3E6E66A9B41D8D6070D64B2B005A82967.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LV1/Level1_3.umap'
+[2020.02.13-21.14.02:852][307]LogFileHelpers: Saving map 'Level1_3' took 1.307
+[2020.02.13-21.14.02:854][307]Cmd: MAP LOAD FILE="../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LVTutorial/Tutorial_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.13-21.14.02:854][307]LightingResults: New page: Lighting Build
+[2020.02.13-21.14.02:854][307]LoadErrors: New page: Loading map: Tutorial_1.umap
+[2020.02.13-21.14.02:859][307]LogWorld: UWorld::CleanupWorld for Level1_3, bSessionEnded=true, bCleanupResources=true
+[2020.02.13-21.14.02:861][307]MapCheck: New page: Map Check
+[2020.02.13-21.14.02:861][307]LightingResults: New page: Lighting Build
+[2020.02.13-21.14.02:927][307]LogUObjectHash: Compacting FUObjectHashTables data took  10.26ms
+[2020.02.13-21.14.02:979][307]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2020.02.13-21.14.03:036][307]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2020.02.13-21.14.03:093][307]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2020.02.13-21.14.03:142][307]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2020.02.13-21.14.03:212][307]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2020.02.13-21.14.03:260][307]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2020.02.13-21.14.06:267][307]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.13-21.14.06:357][307]LogUObjectHash: Compacting FUObjectHashTables data took   5.86ms
+[2020.02.13-21.14.06:441][307]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.13-21.14.06:441][307]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.222ms to complete.
+[2020.02.13-21.14.06:441][307]LogFileHelpers: Loading map 'Tutorial_1' took 3.589
+[2020.02.13-21.14.06:692][307]LogAIModule: Creating AISystem for world Level1_3
+[2020.02.13-21.14.11:561][518]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.13-21.14.12:290][596]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.13-21.14.12:293][596]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Levels/LVTutorial/Tutorial_1.Tutorial_1:PersistentLevel.Tutorial_1
+[2020.02.13-21.14.36:856][863]LogSlate: Window 'Tutorial' being destroyed
+[2020.02.13-21.14.36:923][863]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2020.02.13-21.14.37:996][949]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.13-21.14.38:148][964]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/LVTutorial/Tutorial_2.Tutorial_2
+[2020.02.13-21.14.38:227][964]LogUObjectHash: Compacting FUObjectHashTables data took   9.42ms
+[2020.02.13-21.14.39:123][964]LogSlate: Window 'Save Content' being destroyed
+[2020.02.13-21.14.39:180][964]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2020.02.13-21.14.40:637][964]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/Tutorial_16305912942E79670AB10CF9E6FDA76ED.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LVTutorial/Tutorial_1.umap'
+[2020.02.13-21.14.40:712][964]LogFileHelpers: Saving map 'Tutorial_1' took 1.585
+[2020.02.13-21.14.40:715][964]Cmd: MAP LOAD FILE="../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LVTutorial/Tutorial_2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.13-21.14.40:716][964]LightingResults: New page: Lighting Build
+[2020.02.13-21.14.40:717][964]LoadErrors: New page: Loading map: Tutorial_2.umap
+[2020.02.13-21.14.40:739][964]LogWorld: UWorld::CleanupWorld for Tutorial_1, bSessionEnded=true, bCleanupResources=true
+[2020.02.13-21.14.40:741][964]MapCheck: New page: Map Check
+[2020.02.13-21.14.40:741][964]LightingResults: New page: Lighting Build
+[2020.02.13-21.14.40:816][964]LogUObjectHash: Compacting FUObjectHashTables data took   8.22ms
+[2020.02.13-21.14.40:869][964]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2020.02.13-21.14.40:936][964]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2020.02.13-21.14.40:999][964]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2020.02.13-21.14.41:059][964]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2020.02.13-21.14.41:109][964]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2020.02.13-21.14.41:166][964]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2020.02.13-21.14.44:172][964]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.13-21.14.44:237][964]LogUObjectHash: Compacting FUObjectHashTables data took   5.23ms
+[2020.02.13-21.14.44:289][964]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.13-21.14.44:290][964]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.168ms to complete.
+[2020.02.13-21.14.44:292][964]LogFileHelpers: Loading map 'Tutorial_2' took 3.578
+[2020.02.13-21.14.44:524][964]LogAIModule: Creating AISystem for world Tutorial_1
+[2020.02.13-21.14.50:658][630]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Levels/LVTutorial/Tutorial_2.Tutorial_2:PersistentLevel.Tutorial_2
+[2020.02.13-21.15.06:519][405]LogAIModule: Creating AISystem for world Tutorial_3
+[2020.02.13-21.15.06:593][405]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/LVTutorial/Tutorial_3.Tutorial_3
+[2020.02.13-21.15.06:745][405]LogUObjectHash: Compacting FUObjectHashTables data took   7.60ms
+[2020.02.13-21.15.07:388][405]LogSlate: Window 'Save Content' being destroyed
+[2020.02.13-21.15.07:449][405]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2020.02.13-21.15.08:306][405]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/Tutorial_2DC581F8D45FF534979265AA29887DA56.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LVTutorial/Tutorial_2.umap'
+[2020.02.13-21.15.08:358][405]LogFileHelpers: Saving map 'Tutorial_2' took 0.963
+[2020.02.13-21.15.08:359][405]Cmd: MAP LOAD FILE="../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LVTutorial/Tutorial_3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.13-21.15.08:359][405]LightingResults: New page: Lighting Build
+[2020.02.13-21.15.08:360][405]LoadErrors: New page: Loading map: Tutorial_3.umap
+[2020.02.13-21.15.08:396][405]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2020.02.13-21.15.08:453][405]LogWorld: UWorld::CleanupWorld for Tutorial_2, bSessionEnded=true, bCleanupResources=true
+[2020.02.13-21.15.08:454][405]MapCheck: New page: Map Check
+[2020.02.13-21.15.08:454][405]LightingResults: New page: Lighting Build
+[2020.02.13-21.15.08:514][405]LogUObjectHash: Compacting FUObjectHashTables data took   7.02ms
+[2020.02.13-21.15.08:565][405]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2020.02.13-21.15.08:614][405]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2020.02.13-21.15.08:661][405]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2020.02.13-21.15.08:711][405]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2020.02.13-21.15.08:761][405]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2020.02.13-21.15.08:826][405]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2020.02.13-21.15.08:874][405]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2020.02.13-21.15.11:823][405]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.13-21.15.11:824][405]LogNavigation: Warning: Recreating dtNavMesh instance due to saved navmesh origin (X=-1653.700 Y=5167.275 Z=0.000, usually the RecastNavMesh location) not being aligned with tile size (988 uu) 
+[2020.02.13-21.15.11:901][405]LogUObjectHash: Compacting FUObjectHashTables data took   5.28ms
+[2020.02.13-21.15.11:952][405]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.13-21.15.11:952][405]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.169ms to complete.
+[2020.02.13-21.15.11:953][405]LogFileHelpers: Loading map 'Tutorial_3' took 3.595
+[2020.02.13-21.15.12:125][405]LogAIModule: Creating AISystem for world Tutorial_2
+[2020.02.13-21.15.14:461][637]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Levels/LVTutorial/Tutorial_3.Tutorial_3:PersistentLevel.Tutorial_3
+[2020.02.13-21.15.27:379][751]LogSlate: Window 'Tutorial' being destroyed
+[2020.02.13-21.15.27:382][751]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2020.02.13-21.15.29:197][893]LogAIModule: Creating AISystem for world Tutorial_4
+[2020.02.13-21.15.29:269][893]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/LVTutorial/Tutorial_4.Tutorial_4
+[2020.02.13-21.15.29:402][893]LogUObjectHash: Compacting FUObjectHashTables data took   7.44ms
+[2020.02.13-21.15.30:235][893]LogSlate: Window 'Save Content' being destroyed
+[2020.02.13-21.15.30:287][893]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2020.02.13-21.15.31:359][893]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/Tutorial_379FC27FE4C8DBA327596BF8012FB6631.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LVTutorial/Tutorial_3.umap'
+[2020.02.13-21.15.31:414][893]LogFileHelpers: Saving map 'Tutorial_3' took 1.176
+[2020.02.13-21.15.31:416][893]Cmd: MAP LOAD FILE="../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LVTutorial/Tutorial_4.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.13-21.15.31:416][893]LightingResults: New page: Lighting Build
+[2020.02.13-21.15.31:416][893]LoadErrors: New page: Loading map: Tutorial_4.umap
+[2020.02.13-21.15.31:430][893]LogWorld: UWorld::CleanupWorld for Tutorial_3, bSessionEnded=true, bCleanupResources=true
+[2020.02.13-21.15.31:432][893]MapCheck: New page: Map Check
+[2020.02.13-21.15.31:432][893]LightingResults: New page: Lighting Build
+[2020.02.13-21.15.31:498][893]LogUObjectHash: Compacting FUObjectHashTables data took   8.89ms
+[2020.02.13-21.15.31:546][893]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2020.02.13-21.15.31:609][893]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2020.02.13-21.15.31:661][893]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2020.02.13-21.15.31:710][893]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2020.02.13-21.15.31:765][893]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2020.02.13-21.15.31:831][893]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2020.02.13-21.15.31:891][893]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2020.02.13-21.15.31:946][893]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2020.02.13-21.15.35:213][893]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.13-21.15.35:294][893]LogUObjectHash: Compacting FUObjectHashTables data took   5.40ms
+[2020.02.13-21.15.35:347][893]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.13-21.15.35:347][893]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.184ms to complete.
+[2020.02.13-21.15.35:347][893]LogFileHelpers: Loading map 'Tutorial_4' took 3.932
+[2020.02.13-21.15.35:544][893]LogAIModule: Creating AISystem for world Tutorial_3
+[2020.02.13-21.15.36:895][  8]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Levels/LVTutorial/Tutorial_4.Tutorial_4:PersistentLevel.Tutorial_4
+[2020.02.13-21.15.49:324][390]LogUObjectHash: Compacting FUObjectHashTables data took   7.74ms
+[2020.02.13-21.19.56:994][861]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.13-21.20.06:059][573]LogAIModule: Creating AISystem for world Level7_1
+[2020.02.13-21.20.06:216][573]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/LV7/Level7_1.Level7_1
+[2020.02.13-21.20.06:284][573]LogUObjectHash: Compacting FUObjectHashTables data took   6.91ms
+[2020.02.13-21.20.06:286][573]Cmd: MAP LOAD FILE="../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LV7/Level7_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.13-21.20.06:286][573]LightingResults: New page: Lighting Build
+[2020.02.13-21.20.06:287][573]LoadErrors: New page: Loading map: Level7_1.umap
+[2020.02.13-21.20.06:356][573]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2020.02.13-21.20.06:417][573]LogWorld: UWorld::CleanupWorld for Tutorial_4, bSessionEnded=true, bCleanupResources=true
+[2020.02.13-21.20.06:418][573]MapCheck: New page: Map Check
+[2020.02.13-21.20.06:418][573]LightingResults: New page: Lighting Build
+[2020.02.13-21.20.06:485][573]LogUObjectHash: Compacting FUObjectHashTables data took   7.29ms
+[2020.02.13-21.20.06:532][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2020.02.13-21.20.06:578][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2020.02.13-21.20.06:628][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2020.02.13-21.20.06:792][573]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2020.02.13-21.20.06:902][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2020.02.13-21.20.06:952][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2020.02.13-21.20.07:002][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2020.02.13-21.20.07:171][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2020.02.13-21.20.07:219][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2020.02.13-21.20.11:229][573]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.13-21.20.11:330][573]LogUObjectHash: Compacting FUObjectHashTables data took   5.71ms
+[2020.02.13-21.20.11:384][573]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.13-21.20.11:384][573]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.118ms to complete.
+[2020.02.13-21.20.11:384][573]LogFileHelpers: Loading map 'Level7_1' took 5.100
+[2020.02.13-21.21.51:412][111]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.13-21.21.52:456][185]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.13-21.21.52:458][185]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Levels/LV7/Level7_1.Level7_1:PersistentLevel.Level7_1
+[2020.02.13-21.21.57:478][592]LogSlate: Window 'Level7' being destroyed
+[2020.02.13-21.21.57:906][643]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.13-21.21.59:465][812]LogUObjectHash: Compacting FUObjectHashTables data took   4.72ms
+[2020.02.13-21.21.59:542][812]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2020.02.13-21.22.00:710][812]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/Level7_1AE13E5924E6B80F6667F07B71D4B5F88.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LV7/Level7_1.umap'
+[2020.02.13-21.22.00:823][812]LogFileHelpers: Saving map 'Level7_1' took 1.332
+[2020.02.13-21.23.03:225][520]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.13-21.23.05:144][634]LogAIModule: Creating AISystem for world Level4_3
+[2020.02.13-21.23.05:326][634]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/LV4/Level4_3.Level4_3
+[2020.02.13-21.23.05:398][634]LogUObjectHash: Compacting FUObjectHashTables data took   8.21ms
+[2020.02.13-21.23.05:399][634]Cmd: MAP LOAD FILE="../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LV4/Level4_3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.13-21.23.05:399][634]LightingResults: New page: Lighting Build
+[2020.02.13-21.23.05:400][634]LoadErrors: New page: Loading map: Level4_3.umap
+[2020.02.13-21.23.05:447][634]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2020.02.13-21.23.05:521][634]LogWorld: UWorld::CleanupWorld for Level7_1, bSessionEnded=true, bCleanupResources=true
+[2020.02.13-21.23.05:521][634]MapCheck: New page: Map Check
+[2020.02.13-21.23.05:521][634]LightingResults: New page: Lighting Build
+[2020.02.13-21.23.05:620][634]LogUObjectHash: Compacting FUObjectHashTables data took   8.37ms
+[2020.02.13-21.23.05:674][634]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2020.02.13-21.23.05:727][634]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2020.02.13-21.23.06:140][634]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2020.02.13-21.23.06:203][634]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2020.02.13-21.23.06:265][634]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2020.02.13-21.23.06:356][634]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2020.02.13-21.23.06:462][634]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2020.02.13-21.23.06:550][634]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2020.02.13-21.23.06:624][634]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2020.02.13-21.23.11:608][634]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2020.02.13-21.23.11:713][634]LogUObjectHash: Compacting FUObjectHashTables data took   6.71ms
+[2020.02.13-21.23.11:774][634]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.13-21.23.11:774][634]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.12ms to complete.
+[2020.02.13-21.23.11:774][634]LogFileHelpers: Loading map 'Level4_3' took 6.376
+[2020.02.13-21.23.45:379][981]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.13-21.23.46:007][ 48]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.13-21.23.46:009][ 48]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Levels/LV4/Level4_3.Level4_3:PersistentLevel.Level4_3
+[2020.02.13-21.23.48:856][213]LogSlate: Window 'Level4' being destroyed
+[2020.02.13-21.23.48:892][213]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2020.02.13-21.23.49:474][254]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.13-21.23.50:476][354]LogUObjectHash: Compacting FUObjectHashTables data took   4.90ms
+[2020.02.13-21.23.50:546][354]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2020.02.13-21.23.51:744][354]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/Level4_3BD8B8386428A9D7A07D8DF819542D9B5.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LV4/Level4_3.umap'
+[2020.02.13-21.23.51:826][354]LogFileHelpers: Saving map 'Level4_3' took 1.329
+[2020.02.13-21.24.30:566][248]LogLinker: Warning: While loading '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/PrototypeLevel/Tutorial.umap' failed to load '/Game/Levels/PrototypeLevel/Tutorial_BuiltData': Can't find file.
+[2020.02.13-21.24.30:566][248]LogLinker: Warning: While loading '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/PrototypeLevel/Tutorial.umap' failed to load '/Game/Levels/PrototypeLevel/Tutorial_BuiltData': Can't find file.
+[2020.02.13-21.24.30:569][248]LogLinker: Warning: While loading '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/PrototypeLevel/Tutorial.umap' failed to load '/Game/Levels/PrototypeLevel/Tutorial_BuiltData': Can't find file.
+[2020.02.13-21.24.30:569][248]LogLinker: Warning: While loading '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/PrototypeLevel/Tutorial.umap' failed to load '/Game/Levels/PrototypeLevel/Tutorial_BuiltData': Can't find file.
+[2020.02.13-21.24.30:574][248]LogLinker: Warning: Failed to load '/Game/Levels/PrototypeLevel/Tutorial_BuiltData': Can't find file.
+[2020.02.13-21.24.30:574][248]LogLinker: Warning: Failed to load '/Game/Levels/PrototypeLevel/Tutorial_BuiltData': Can't find file.
+[2020.02.13-21.24.30:574][248]LogLinker: Warning: Failed to load '/Game/Levels/PrototypeLevel/Tutorial_BuiltData': Can't find file.
+[2020.02.13-21.24.30:574][248]LogLinker: Warning: Failed to load '/Game/Levels/PrototypeLevel/Tutorial_BuiltData': Can't find file.
+[2020.02.13-21.24.30:619][248]LogLinker: Warning: While loading '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/PrototypeLevel/Tutorial.umap' failed to load '/Game/Levels/PrototypeLevel/Tutorial_BuiltData': Can't find file.
+[2020.02.13-21.24.30:622][248]LoadErrors: Failed to load /Game/Levels/PrototypeLevel/Tutorial_BuiltData.Tutorial_BuiltData Referenced by PersistentLevel
+[2020.02.13-21.24.30:622][248]LogLinker: Warning: While loading '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/PrototypeLevel/Tutorial.umap' failed to load '/Game/Levels/PrototypeLevel/Tutorial_BuiltData': Can't find file.
+[2020.02.13-21.24.30:730][248]LogAIModule: Creating AISystem for world Tutorial
+[2020.02.13-21.24.30:861][248]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/PrototypeLevel/Tutorial.Tutorial
+[2020.02.13-21.24.30:923][248]LogUObjectHash: Compacting FUObjectHashTables data took   7.14ms
+[2020.02.13-21.24.30:925][248]Cmd: MAP LOAD FILE="../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/PrototypeLevel/Tutorial.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.13-21.24.30:925][248]LightingResults: New page: Lighting Build
+[2020.02.13-21.24.30:925][248]LoadErrors: New page: Loading map: Tutorial.umap
+[2020.02.13-21.24.30:936][248]LogWorld: UWorld::CleanupWorld for Level4_3, bSessionEnded=true, bCleanupResources=true
+[2020.02.13-21.24.30:939][248]MapCheck: New page: Map Check
+[2020.02.13-21.24.30:939][248]LightingResults: New page: Lighting Build
+[2020.02.13-21.24.31:019][248]LogUObjectHash: Compacting FUObjectHashTables data took   9.21ms
+[2020.02.13-21.24.31:075][248]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2020.02.13-21.24.31:134][248]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2020.02.13-21.24.31:177][248]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2020.02.13-21.24.31:227][248]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2020.02.13-21.24.31:271][248]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2020.02.13-21.24.31:317][248]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2020.02.13-21.24.31:368][248]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2020.02.13-21.24.31:421][248]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2020.02.13-21.24.31:468][248]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2020.02.13-21.24.35:536][248]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.13-21.24.35:625][248]LogUObjectHash: Compacting FUObjectHashTables data took   5.89ms
+[2020.02.13-21.24.35:686][248]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.13-21.24.35:687][248]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.102ms to complete.
+[2020.02.13-21.24.35:687][248]LogFileHelpers: Loading map 'Tutorial' took 4.763
+[2020.02.13-21.25.09:846][ 25]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.13-21.31.33:445][426]LogSlate: FSceneViewport::OnFocusLost() reason 0
