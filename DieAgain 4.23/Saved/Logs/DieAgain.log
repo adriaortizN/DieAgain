@@ -729,3 +729,35 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.13-20.26.04:865][463]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/WorldCutsceneWB806D6CE646A7A95F7E70E9968EDE3D70.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Art/Cutscenes/WorldCutscene/WorldCutsceneWB.uasset'
 [2020.02.13-20.26.08:078][827]LogUObjectHash: Compacting FUObjectHashTables data took   8.85ms
 [2020.02.13-20.26.33:219][837]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/WorldCutsceneWBCBC14E734B71115B98B806A6CF750166.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Art/Cutscenes/WorldCutscene/WorldCutsceneWB.uasset'
+[2020.02.13-20.28.06:946][608]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	WorldMapPlayerAnimBP_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.WorldMapPlayerAnimBP_C_0
+	Function /Game/Art/WorldMapAnim/WorldMapPlayerAnimBP.WorldMapPlayerAnimBP_C:ExecuteUbergraph_WorldMapPlayerAnimBP:011F
+[2020.02.13-20.28.46:834][773]LogAIModule: Creating AISystem for world WorldMapLevel
+[2020.02.13-20.28.49:072][773]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/WorldMap/WorldMapLevel.WorldMapLevel
+[2020.02.13-20.28.50:062][773]LogUObjectHash: Compacting FUObjectHashTables data took  38.41ms
+[2020.02.13-20.28.50:307][773]Cmd: MAP LOAD FILE="../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/WorldMap/WorldMapLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.13-20.28.50:323][773]LightingResults: New page: Lighting Build
+[2020.02.13-20.28.50:420][773]LoadErrors: New page: Loading map: WorldMapLevel.umap
+[2020.02.13-20.28.50:861][773]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.02.13-20.28.51:145][773]LogWorld: UWorld::CleanupWorld for PlaneLV, bSessionEnded=true, bCleanupResources=true
+[2020.02.13-20.28.51:146][773]MapCheck: New page: Map Check
+[2020.02.13-20.28.51:146][773]LightingResults: New page: Lighting Build
+[2020.02.13-20.28.51:331][773]LogUObjectHash: Compacting FUObjectHashTables data took   9.84ms
+[2020.02.13-20.28.51:646][773]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2020.02.13-20.28.51:715][773]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2020.02.13-20.28.53:758][773]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.13-20.28.54:181][773]LogUObjectHash: Compacting FUObjectHashTables data took   4.79ms
+[2020.02.13-20.28.54:237][773]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.13-20.28.54:244][773]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 6.525ms to complete.
+[2020.02.13-20.28.54:248][773]LogFileHelpers: Loading map 'WorldMapLevel' took 4.158
+[2020.02.13-20.29.12:919][925]LogEditorViewport: Clicking on Actor (LMB): PlayerWorldMap_Character_C (PlayerWorldMap_Character)
+[2020.02.13-20.29.14:761][ 10]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.13-20.29.15:338][ 71]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.13-20.29.15:339][ 71]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/PlayerWorldMap_Character.PlayerWorldMap_Character
+[2020.02.13-20.29.38:643][335]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2020.02.13-20.29.38:966][335]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/PlayerWorldMap_CharacterF9D813534B65C9D71A8121B40D946638.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/ThirdPersonBP/Blueprints/PlayerWorldMap_Character.uasset'
+[2020.02.13-20.30.45:782][583]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.13-20.30.47:609][688]LogSlate: Window 'PlayerWorldMap_Character' being destroyed
+[2020.02.13-20.30.47:792][710]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.13-20.30.48:690][791]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.02.13-20.30.50:758][951]LogUObjectHash: Compacting FUObjectHashTables data took   4.86ms
