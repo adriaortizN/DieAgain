@@ -5993,3 +5993,41 @@ Make sure 'EnemyShootingCh_C' has been compiled for  Get ControlledCharacter
 [2020.02.15-15.26.49:940][947]LogFileHelpers: Saving map 'Tutorial_2' took 0.932
 [2020.02.15-15.26.50:621][947]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/ThirdPersonCharacterBEE4757F4CB631599BB8A7B0B6721AA4.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
 [2020.02.15-15.27.43:990][365]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.15-15.29.57:726][844]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.15-15.30.19:237][205]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.02.15-15.30.20:363][301]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Conversations/Actors/Conversation_Actor.Conversation_Actor
+[2020.02.15-15.30.28:202][177]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/PlayerWalkMap_Character.PlayerWalkMap_Character
+[2020.02.15-15.30.45:001][128]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.02.15-15.30.46:902][347]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Objects/LevelCompleter/LevelCompleterBP.LevelCompleterBP
+[2020.02.15-15.31.06:060][578]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MyGameInstance/MyGameInstance.MyGameInstance
+[2020.02.15-15.32.29:647][845]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.02.15-15.32.32:721][204]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.02.15-15.32.34:445][382]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Art/Cutscenes/WorldCutscene/WorldCutsceneWB.WorldCutsceneWB
+[2020.02.15-15.33.11:913][404]LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update Curve_GoodSky_AllOverlayColor
+[2020.02.15-15.33.12:007][404]LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update Curve_GoodSky_horizon_Color
+[2020.02.15-15.33.12:007][404]LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update Curve_GoodSky_DomeColor
+[2020.02.15-15.33.12:007][404]LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update Curve_GoodSky_BaseCloudColor
+[2020.02.15-15.33.12:305][404]LogAIModule: Creating AISystem for world PlaneLV
+[2020.02.15-15.33.12:355][404]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Levels/LVTutorial/PlaneLV.PlaneLV:PersistentLevel.PlaneLV
+[2020.02.15-15.33.31:703][606]BlueprintLog: New page: Compile PlaneLV
+[2020.02.15-15.33.32:419][606]LogUObjectHash: Compacting FUObjectHashTables data took  14.18ms
+[2020.02.15-15.33.33:068][668]LogUObjectHash: Compacting FUObjectHashTables data took   9.12ms
+[2020.02.15-15.33.33:727][668]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/PlaneLV0FAC07A2492E3C874F4B27B105A20811.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LVTutorial/PlaneLV.umap'
+[2020.02.15-15.33.33:757][668]LogFileHelpers: Saving map 'PlaneLV' took 0.767
+[2020.02.15-15.33.35:108][824]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2020.02.15-15.33.37:367][ 36]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Levels/CharacterSelection/CharacterSelection_WB.CharacterSelection_WB
+[2020.02.15-15.33.51:421][638]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2020.02.15-15.33.51:467][638]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2020.02.15-15.33.52:826][786]LogAIModule: Creating AISystem for world CharacterSelection_Level
+[2020.02.15-15.33.52:831][786]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Levels/CharacterSelection/CharacterSelection_Level.CharacterSelection_Level:PersistentLevel.CharacterSelection_Level
+[2020.02.15-15.34.07:035][433]LogAIModule: Creating AISystem for world CheckSaveFile
+[2020.02.15-15.34.07:040][433]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Levels/CheckSaveFile.CheckSaveFile:PersistentLevel.CheckSaveFile
+[2020.02.15-15.34.17:765][662]LogSlate: Window 'CheckSaveFile' being destroyed
+[2020.02.15-15.34.18:519][749]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2020.02.15-15.34.23:184][246]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/HUD/WorldMapHUD.WorldMapHUD
+[2020.02.15-15.34.30:251][ 20]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Conversations/Events/LoadLVTutorialCompleted.LoadLVTutorialCompleted
+[2020.02.15-15.34.42:616][420]LogUObjectHash: Compacting FUObjectHashTables data took   8.10ms
+[2020.02.15-15.34.42:795][420]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/LevelCompleterBP7087CF2E479DE8C6B59DF1AAF5007742.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Objects/LevelCompleter/LevelCompleterBP.uasset'
+[2020.02.15-15.34.42:856][420]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/WorldCutsceneWB961441DC4F8BE6FF951FB9BA69A5EC5F.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Art/Cutscenes/WorldCutscene/WorldCutsceneWB.uasset'
+[2020.02.15-15.37.58:413][302]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.15-15.38.35:353][659]LogSlate: FSceneViewport::OnFocusLost() reason 0
