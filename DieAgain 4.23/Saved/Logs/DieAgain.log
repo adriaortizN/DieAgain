@@ -11148,3 +11148,105 @@ Script call stack:
 [2020.02.27-19.14.22:048][622]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/PowerUpCooldown980652014BC7AB8A22894FB9EDD9AA78.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Art/2D_Art/PowerUpCooldown.uasset'
 [2020.02.27-19.14.22:059][622]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/2D_Art/PowerUpReady" FILE="../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Art/2D_Art/PowerUpReady.uasset" SILENT=true
 [2020.02.27-19.14.22:079][622]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/PowerUpReadyF41DD3094B8CA2DD949CD28A65CEB0A7.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Art/2D_Art/PowerUpReady.uasset'
+[2020.02.27-19.18.31:367][921]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/EnemyShootingCh" FILE="../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Enemies/EnemyShootingCh.uasset" SILENT=true
+[2020.02.27-19.18.32:588][921]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/EnemyShootingCh9121CC924F8988DEA780F89FB1AEF382.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Enemies/EnemyShootingCh.uasset'
+[2020.02.27-19.18.34:997][ 29]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/ThirdPersonCharacter97A36EAD4975BE2F9D786C90DFA367DA.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.02.27-19.18.36:373][168]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2020.02.27-19.20.35:060][699]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MyGameInstance/MyGameInstance.MyGameInstance
+[2020.02.27-19.26.15:199][127]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.27-19.28.08:158][863]BlueprintLog: New page: Compile MyGameInstance
+[2020.02.27-19.28.09:581][863]LogUObjectHash: Compacting FUObjectHashTables data took  10.32ms
+[2020.02.27-19.28.10:658][901]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyGameInstance/MyGameInstance" FILE="../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/MyGameInstance/MyGameInstance.uasset" SILENT=true
+[2020.02.27-19.28.10:862][901]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/MyGameInstanceDC5E7D2945E9F3D57AAA7991E6D55DF3.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/MyGameInstance/MyGameInstance.uasset'
+[2020.02.27-19.28.17:311][599]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.27-19.28.17:366][599]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.27-19.28.17:409][599]LogFMOD: Creating runtime Studio System
+[2020.02.27-19.28.17:410][599]LogFMOD: Default sample rate = 48000
+[2020.02.27-19.28.17:411][599]LogFMOD: System sample rate = 44100
+[2020.02.27-19.28.17:411][599]LogFMOD: Matching system sample rate 44100
+[2020.02.27-19.28.17:420][599]LogFMOD: Loading Banks
+[2020.02.27-19.28.17:480][599]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.27-19.28.17:480][599]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 27, 2020, 9:28:17 PM)
+[2020.02.27-19.28.18:063][599]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.02.27-19.28.18:106][599]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042413s)
+[2020.02.27-19.28.18:107][599]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.02.27-19.28.18:108][599]LogPlayLevel: PIE: World Init took: (0.001831s)
+[2020.02.27-19.28.18:108][599]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.044880s)
+[2020.02.27-19.28.18:188][599]LogUObjectHash: Compacting FUObjectHashTables data took  10.61ms
+[2020.02.27-19.28.18:206][599]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.27-19.28.18:213][599]LogInit: FAudioDevice initialized.
+[2020.02.27-19.28.20:708][599]LogInit: Error: Failed to load cursor '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/None'
+[2020.02.27-19.28.20:717][599]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.27-19.28.20:720][599]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.02.27-19.28.20:721][599]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.02.27-19.28.20:722][599]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.02.27-19.28.20:722][599]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.02.27-19.28.20:723][599]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.02.27-19.28.20:724][599]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.02.27-19.28.20:725][599]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.02.27-19.28.20:725][599]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.02.27-19.28.20:726][599]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.02.27-19.28.20:749][599]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.02.27-20.28.20
+[2020.02.27-19.28.20:761][599]LogWorld: Bringing up level for play took: 0.043363
+[2020.02.27-19.28.20:762][599]LogOnline: OSS: Creating online subsystem instance for: :Context_47
+[2020.02.27-19.28.20:816][599]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 3.88
+[2020.02.27-19.28.20:816][599]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.27-19.28.20:840][600]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.071773 > MaxSimulationTimeStep (0.050) for 'ThirdPersonCharacter_167', movement 'Walking'
+[2020.02.27-19.28.20:843][600]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Enemies/BehaviorSuicide/AISuicideController.AISuicideController_C'!
+[2020.02.27-19.28.20:844][600]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Enemies/BehaviorSuicide/AISuicideController.AISuicideController_C'!
+[2020.02.27-19.28.20:844][600]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Enemies/BehaviorSuicide/AISuicideController.AISuicideController_C'!
+[2020.02.27-19.28.20:844][600]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Enemies/BehaviorShooting/AIShootingController.AIShootingController_C'!
+[2020.02.27-19.28.20:845][600]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Enemies/BehaviorShooting/AIShootingController.AIShootingController_C'!
+[2020.02.27-19.28.30:136][271]LogBlueprintUserMessages: [Flee_C_1] FAILSUICIDE
+[2020.02.27-19.28.30:366][287]LogBlueprintUserMessages: [Flee_C_1] FAILSUICIDE
+[2020.02.27-19.28.30:610][304]LogBlueprintUserMessages: [Flee_C_1] FAILSUICIDE
+[2020.02.27-19.28.30:846][321]LogBlueprintUserMessages: [Flee_C_1] FAILSUICIDE
+[2020.02.27-19.28.30:900][325]LogBlueprintUserMessages: [AISlaveController_C_0] 2601.80249
+[2020.02.27-19.28.30:900][325]LogBlueprintUserMessages: [AISlaveController_C_0] FUKC
+[2020.02.27-19.28.30:901][325]LogBlueprintUserMessages: [AISlaveController_C_0] Down
+[2020.02.27-19.28.31:002][331]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2020.02.27-19.28.31:002][331]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2020.02.27-19.28.31:002][331]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2020.02.27-19.28.31:090][336]LogBlueprintUserMessages: [Flee_C_1] FAILSUICIDE
+[2020.02.27-19.28.31:334][352]LogBlueprintUserMessages: [Flee_C_1] FAILSUICIDE
+[2020.02.27-19.28.31:580][369]LogBlueprintUserMessages: [Flee_C_1] FAILSUICIDE
+[2020.02.27-19.28.31:666][375]LogBlueprintUserMessages: [AIShootingController_C_7] Up
+[2020.02.27-19.28.31:667][375]LogBlueprintUserMessages: [AIShootingController_C_7] POsessingAnotherAI
+[2020.02.27-19.28.32:649][439]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Enemies/BehaviorSuicide/AISuicideController.AISuicideController_C'!
+[2020.02.27-19.28.32:686][442]LogBlueprintUserMessages: [AISniperController_C_0] 604.840088
+[2020.02.27-19.28.32:686][442]LogBlueprintUserMessages: [AISniperController_C_0] Down
+[2020.02.27-19.28.32:737][445]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Enemies/BehaviorShooting/AIShootingController.AIShootingController_C'!
+[2020.02.27-19.28.32:821][451]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Enemies/BehaviorSuicide/AISuicideController.AISuicideController_C'!
+[2020.02.27-19.28.32:996][464]LogBlueprintUserMessages: [AISuicideController_C_1] 2287.074707
+[2020.02.27-19.28.32:997][464]LogBlueprintUserMessages: [AISuicideController_C_1] Up
+[2020.02.27-19.28.32:997][464]LogBlueprintUserMessages: [AISuicideController_C_1] EnemyShootingCh18
+[2020.02.27-19.28.33:013][465]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Enemies/BehaviorSuicide/AISuicideController.AISuicideController_C'!
+[2020.02.27-19.28.33:100][471]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2020.02.27-19.28.33:282][483]LogBlueprintUserMessages: [AIShootingController_C_7] Up
+[2020.02.27-19.28.33:282][483]LogBlueprintUserMessages: [AIShootingController_C_7] POsessingAnotherAI
+[2020.02.27-19.28.33:373][489]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2020.02.27-19.28.33:710][512]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Enemies/BehaviorSuicide/AISuicideController.AISuicideController_C'!
+[2020.02.27-19.28.33:932][527]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Enemies/BehaviorSuicide/AISuicideController.AISuicideController_C'!
+[2020.02.27-19.28.35:439][637]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.27-19.28.35:533][637]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.27-19.28.35:533][637]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.02.27-19.28.35:534][637]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.02.27-19.28.35:570][637]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.27-19.28.35:571][637]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.27-19.28.35:647][637]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.27-19.28.35:693][637]LogUObjectHash: Compacting FUObjectHashTables data took   7.80ms
+[2020.02.27-19.28.35:718][638]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2020.02.27-19.28.36:510][718]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.27-19.28.37:266][784]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2020.02.27-19.28.37:272][784]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.27-19.28.37:362][784]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2020.02.27-19.28.38:478][784]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/ThirdPersonExampleMap05B98ADD4447762898233AA63A8B9C93.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.02.27-19.28.38:558][784]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 1.265
+[2020.02.27-19.32.58:953][865]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.27-19.33.06:204][396]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyGameInstance/MyGameInstance" FILE="../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/MyGameInstance/MyGameInstance.uasset" SILENT=true
+[2020.02.27-19.33.06:333][396]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/MyGameInstance6F6EE87E45267015757E29B5DC2CD557.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/MyGameInstance/MyGameInstance.uasset'
+[2020.02.27-19.33.14:129][292]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/HUD/PauseHUD.PauseHUD
+[2020.02.27-19.33.56:110][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   7.70ms
+[2020.02.27-19.33.56:122][ 38]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/PauseHUD" FILE="../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/HUD/PauseHUD.uasset" SILENT=true
+[2020.02.27-19.33.56:152][ 38]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/PauseHUD1DC79E734BFD44638012B4A42DCA7AFB.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/HUD/PauseHUD.uasset'
+[2020.02.27-19.34.05:508][281]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
