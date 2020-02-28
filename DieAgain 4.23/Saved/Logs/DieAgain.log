@@ -3673,3 +3673,803 @@ Make sure 'MouseUI_C' has been compiled for  Get Anim2
 [2020.02.28-12.04.53:625][634]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
 [2020.02.28-12.04.53:667][634]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
 [2020.02.28-12.04.53:979][641]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2020.02.28-12.07.38:441][150]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-12.08.26:056][777]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-12.08.37:718][ 11]LogAIModule: Creating AISystem for world Level4_2
+[2020.02.28-12.08.37:793][ 11]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/LV4/Level4_2.Level4_2
+[2020.02.28-12.08.38:025][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   9.99ms
+[2020.02.28-12.08.38:027][ 11]Cmd: MAP LOAD FILE="../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LV4/Level4_2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.28-12.08.38:029][ 11]LightingResults: New page: Lighting Build
+[2020.02.28-12.08.38:030][ 11]LoadErrors: New page: Loading map: Level4_2.umap
+[2020.02.28-12.08.38:035][ 11]LogWorld: UWorld::CleanupWorld for Level4_1, bSessionEnded=true, bCleanupResources=true
+[2020.02.28-12.08.38:046][ 11]MapCheck: New page: Map Check
+[2020.02.28-12.08.38:046][ 11]LightingResults: New page: Lighting Build
+[2020.02.28-12.08.38:246][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   9.29ms
+[2020.02.28-12.08.39:869][ 11]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.28-12.08.39:926][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   4.76ms
+[2020.02.28-12.08.39:987][ 11]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.28-12.08.39:987][ 11]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.109ms to complete.
+[2020.02.28-12.08.39:987][ 11]LogFileHelpers: Loading map 'Level4_2' took 1.962
+[2020.02.28-12.08.41:755][170]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.28-12.08.41:795][170]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/LV4/Level4_2.Level4_2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_2.Level4_2:PersistentLevel.Level4_2' with GeneratedClass '/Game/Levels/LV4/Level4_2.Level4_2_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_2.Level4_2:PersistentLevel.Level4_2'
+[2020.02.28-12.08.41:825][170]LogFMOD: Creating runtime Studio System
+[2020.02.28-12.08.41:826][170]LogFMOD: Default sample rate = 48000
+[2020.02.28-12.08.41:826][170]LogFMOD: System sample rate = 44100
+[2020.02.28-12.08.41:826][170]LogFMOD: Matching system sample rate 44100
+[2020.02.28-12.08.41:836][170]LogFMOD: Loading Banks
+[2020.02.28-12.08.41:877][170]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.28-12.08.41:877][170]PIE: New page: PIE session: Level4_2 (Feb 28, 2020, 2:08:41 PM)
+[2020.02.28-12.08.41:878][170]LogPlayLevel: Creating play world package: /Game/Levels/LV4/UEDPIE_0_Level4_2
+[2020.02.28-12.08.42:020][170]LogPlayLevel: PIE: StaticDuplicateObject took: (0.141793s)
+[2020.02.28-12.08.42:021][170]LogAIModule: Creating AISystem for world Level4_2
+[2020.02.28-12.08.42:021][170]LogPlayLevel: PIE: World Init took: (0.001110s)
+[2020.02.28-12.08.42:021][170]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV4/Level4_2.Level4_2 to /Game/Levels/LV4/UEDPIE_0_Level4_2.Level4_2 (0.143197s)
+[2020.02.28-12.08.42:053][170]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2020.02.28-12.08.42:062][170]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.28-12.08.42:069][170]LogInit: FAudioDevice initialized.
+[2020.02.28-12.08.42:077][170]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.28-12.08.42:082][170]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.02.28-12.08.42:083][170]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.02.28-12.08.42:083][170]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.02.28-12.08.42:087][170]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.02.28-12.08.42:087][170]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.02.28-12.08.42:101][170]LogWorld: Bringing World /Game/Levels/LV4/UEDPIE_0_Level4_2.Level4_2 up for play (max tick rate 0) at 2020.02.28-13.08.42
+[2020.02.28-12.08.42:107][170]LogWorld: Bringing up level for play took: 0.029847
+[2020.02.28-12.08.42:117][170]LogOnline: OSS: Creating online subsystem instance for: :Context_69
+[2020.02.28-12.08.42:135][170]PIE: Play in editor start time for /Game/Levels/LV4/UEDPIE_0_Level4_2 1.151
+[2020.02.28-12.08.42:136][170]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/LV4/Level4_2.Level4_2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_2.Level4_2:PersistentLevel.Level4_2' with GeneratedClass '/Game/Levels/LV4/Level4_2.Level4_2_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_2.Level4_2:PersistentLevel.Level4_2'
+[2020.02.28-12.08.43:121][258]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2020.02.28-12.08.55:096][405]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/LV4/Level4_2.Level4_2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_2.Level4_2:PersistentLevel.Level4_2' with GeneratedClass '/Game/Levels/LV4/Level4_2.Level4_2_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_2.Level4_2:PersistentLevel.Level4_2'
+[2020.02.28-12.08.55:204][405]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.28-12.08.55:204][405]LogWorld: BeginTearingDown for /Game/Levels/LV4/UEDPIE_0_Level4_2
+[2020.02.28-12.08.55:205][405]LogWorld: UWorld::CleanupWorld for Level4_2, bSessionEnded=true, bCleanupResources=true
+[2020.02.28-12.08.55:220][405]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.28-12.08.55:221][405]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/LV4/Level4_2.Level4_2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_2.Level4_2:PersistentLevel.Level4_2' with GeneratedClass '/Game/Levels/LV4/Level4_2.Level4_2_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_2.Level4_2:PersistentLevel.Level4_2'
+[2020.02.28-12.08.55:273][405]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.28-12.08.55:288][405]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2020.02.28-12.08.55:306][406]LogPlayLevel: Display: Destroying online subsystem :Context_69
+[2020.02.28-12.08.55:676][446]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-12.08.55:751][454]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.28-12.08.55:796][454]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/LV4/Level4_2.Level4_2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_2.Level4_2:PersistentLevel.Level4_2' with GeneratedClass '/Game/Levels/LV4/Level4_2.Level4_2_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_2.Level4_2:PersistentLevel.Level4_2'
+[2020.02.28-12.08.55:823][454]LogFMOD: Creating runtime Studio System
+[2020.02.28-12.08.55:824][454]LogFMOD: Default sample rate = 48000
+[2020.02.28-12.08.55:824][454]LogFMOD: System sample rate = 44100
+[2020.02.28-12.08.55:824][454]LogFMOD: Matching system sample rate 44100
+[2020.02.28-12.08.55:834][454]LogFMOD: Loading Banks
+[2020.02.28-12.08.55:875][454]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.28-12.08.55:875][454]PIE: New page: PIE session: Level4_2 (Feb 28, 2020, 2:08:55 PM)
+[2020.02.28-12.08.55:875][454]LogPlayLevel: Creating play world package: /Game/Levels/LV4/UEDPIE_0_Level4_2
+[2020.02.28-12.08.55:993][454]LogPlayLevel: PIE: StaticDuplicateObject took: (0.117703s)
+[2020.02.28-12.08.55:994][454]LogAIModule: Creating AISystem for world Level4_2
+[2020.02.28-12.08.55:994][454]LogPlayLevel: PIE: World Init took: (0.001127s)
+[2020.02.28-12.08.55:994][454]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV4/Level4_2.Level4_2 to /Game/Levels/LV4/UEDPIE_0_Level4_2.Level4_2 (0.119008s)
+[2020.02.28-12.08.56:033][454]LogUObjectHash: Compacting FUObjectHashTables data took   5.35ms
+[2020.02.28-12.08.56:042][454]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.28-12.08.56:048][454]LogInit: FAudioDevice initialized.
+[2020.02.28-12.08.56:057][454]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.28-12.08.56:062][454]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.02.28-12.08.56:063][454]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.02.28-12.08.56:063][454]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.02.28-12.08.56:067][454]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.02.28-12.08.56:067][454]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.02.28-12.08.56:082][454]LogWorld: Bringing World /Game/Levels/LV4/UEDPIE_0_Level4_2.Level4_2 up for play (max tick rate 0) at 2020.02.28-13.08.56
+[2020.02.28-12.08.56:089][454]LogWorld: Bringing up level for play took: 0.031184
+[2020.02.28-12.08.56:101][454]LogOnline: OSS: Creating online subsystem instance for: :Context_70
+[2020.02.28-12.08.56:124][454]PIE: Play in editor start time for /Game/Levels/LV4/UEDPIE_0_Level4_2 1.14
+[2020.02.28-12.08.56:125][454]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/LV4/Level4_2.Level4_2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_2.Level4_2:PersistentLevel.Level4_2' with GeneratedClass '/Game/Levels/LV4/Level4_2.Level4_2_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_2.Level4_2:PersistentLevel.Level4_2'
+[2020.02.28-12.09.06:722][376]LogBlueprintUserMessages: [AIShootingController_C_0] Up
+[2020.02.28-12.09.06:722][376]LogBlueprintUserMessages: [AIShootingController_C_0] POsessingAnotherAI
+[2020.02.28-12.09.06:745][377]LogBlueprintUserMessages: [AIShootingController_C_0] NOISE
+[2020.02.28-12.09.06:745][377]LogBlueprintUserMessages: [AIShootingController_C_0] NOTSEE
+[2020.02.28-12.09.06:745][377]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.02.28-12.09.06:745][377]LogBlueprintUserMessages: [AIShootingController_C_1] NOTSEE
+[2020.02.28-12.09.06:849][384]LogBlueprintUserMessages: [AIShootingController_C_0] NOISE
+[2020.02.28-12.09.06:849][384]LogBlueprintUserMessages: [AIShootingController_C_0] NOTSEE
+[2020.02.28-12.09.06:849][384]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.02.28-12.09.06:849][384]LogBlueprintUserMessages: [AIShootingController_C_1] NOTSEE
+[2020.02.28-12.09.06:953][391]LogBlueprintUserMessages: [AIShootingController_C_0] NOISE
+[2020.02.28-12.09.06:953][391]LogBlueprintUserMessages: [AIShootingController_C_0] NOTSEE
+[2020.02.28-12.09.06:953][391]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.02.28-12.09.06:953][391]LogBlueprintUserMessages: [AIShootingController_C_1] NOTSEE
+[2020.02.28-12.09.07:044][397]LogBlueprintUserMessages: [AIShootingController_C_0] NOISE
+[2020.02.28-12.09.07:045][397]LogBlueprintUserMessages: [AIShootingController_C_0] NOTSEE
+[2020.02.28-12.09.07:045][397]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.02.28-12.09.07:045][397]LogBlueprintUserMessages: [AIShootingController_C_1] NOTSEE
+[2020.02.28-12.09.07:141][403]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2020.02.28-12.09.07:162][404]LogBlueprintUserMessages: [AIShootingController_C_0] NOISE
+[2020.02.28-12.09.07:162][404]LogBlueprintUserMessages: [AIShootingController_C_0] NOTSEE
+[2020.02.28-12.09.07:162][404]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.02.28-12.09.07:162][404]LogBlueprintUserMessages: [AIShootingController_C_1] NOTSEE
+[2020.02.28-12.09.07:260][410]LogBlueprintUserMessages: [AIShootingController_C_0] NOISE
+[2020.02.28-12.09.07:260][410]LogBlueprintUserMessages: [AIShootingController_C_0] NOTSEE
+[2020.02.28-12.09.07:260][410]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.02.28-12.09.07:355][416]LogBlueprintUserMessages: [AIShootingController_C_0] NOISE
+[2020.02.28-12.09.07:355][416]LogBlueprintUserMessages: [AIShootingController_C_0] NOTSEE
+[2020.02.28-12.09.07:355][416]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.02.28-12.09.07:438][421]LogBlueprintUserMessages: [AIShootingController_C_0] Up
+[2020.02.28-12.09.07:438][421]LogBlueprintUserMessages: [AIShootingController_C_0] POsessingAnotherAI
+[2020.02.28-12.09.07:459][422]LogBlueprintUserMessages: [AIShootingController_C_0] NOISE
+[2020.02.28-12.09.07:459][422]LogBlueprintUserMessages: [AIShootingController_C_0] NOTSEE
+[2020.02.28-12.09.07:459][422]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.02.28-12.09.07:538][427]LogBlueprintUserMessages: [AIShootingController_C_0] Up
+[2020.02.28-12.09.07:539][427]LogBlueprintUserMessages: [AIShootingController_C_0] POsessingAnotherAI
+[2020.02.28-12.09.07:558][428]LogBlueprintUserMessages: [AIShootingController_C_0] NOISE
+[2020.02.28-12.09.07:558][428]LogBlueprintUserMessages: [AIShootingController_C_0] NOTSEE
+[2020.02.28-12.09.07:558][428]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.02.28-12.09.07:652][434]LogBlueprintUserMessages: [AIShootingController_C_0] NOISE
+[2020.02.28-12.09.07:652][434]LogBlueprintUserMessages: [AIShootingController_C_0] NOTSEE
+[2020.02.28-12.09.07:653][434]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.02.28-12.09.07:740][440]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2020.02.28-12.09.07:740][440]LogBlueprintUserMessages: [AIShootingController_C_0] NOISE
+[2020.02.28-12.09.07:740][440]LogBlueprintUserMessages: [AIShootingController_C_0] NOTSEE
+[2020.02.28-12.09.07:740][440]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.02.28-12.09.07:835][446]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2020.02.28-12.09.07:836][446]LogBlueprintUserMessages: [AISlaveController_C_2] 1311.752686
+[2020.02.28-12.09.07:836][446]LogBlueprintUserMessages: [AISlaveController_C_2] FUKC
+[2020.02.28-12.09.07:836][446]LogBlueprintUserMessages: [AISlaveController_C_2] Down
+[2020.02.28-12.09.07:852][447]LogBlueprintUserMessages: [AIShootingController_C_0] NOISE
+[2020.02.28-12.09.07:852][447]LogBlueprintUserMessages: [AIShootingController_C_0] NOTSEE
+[2020.02.28-12.09.07:852][447]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.02.28-12.09.07:946][453]LogBlueprintUserMessages: [AIShootingController_C_0] NOISE
+[2020.02.28-12.09.07:946][453]LogBlueprintUserMessages: [AIShootingController_C_0] NOTSEE
+[2020.02.28-12.09.07:946][453]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.02.28-12.09.08:051][460]LogBlueprintUserMessages: [AIShootingController_C_0] NOISE
+[2020.02.28-12.09.08:051][460]LogBlueprintUserMessages: [AIShootingController_C_0] NOTSEE
+[2020.02.28-12.09.08:051][460]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.02.28-12.09.08:143][466]LogBlueprintUserMessages: [AIShootingController_C_0] NOISE
+[2020.02.28-12.09.08:143][466]LogBlueprintUserMessages: [AIShootingController_C_0] NOTSEE
+[2020.02.28-12.09.08:143][466]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.02.28-12.09.08:243][473]LogBlueprintUserMessages: [AIShootingController_C_0] NOISE
+[2020.02.28-12.09.08:243][473]LogBlueprintUserMessages: [AIShootingController_C_0] NOTSEE
+[2020.02.28-12.09.08:243][473]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.02.28-12.09.08:330][479]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2020.02.28-12.09.08:347][480]LogBlueprintUserMessages: [AIShootingController_C_0] NOISE
+[2020.02.28-12.09.08:347][480]LogBlueprintUserMessages: [AIShootingController_C_0] NOTSEE
+[2020.02.28-12.09.08:347][480]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.02.28-12.09.08:448][487]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2020.02.28-12.09.08:449][487]LogBlueprintUserMessages: [AIShootingController_C_0] NOISE
+[2020.02.28-12.09.08:449][487]LogBlueprintUserMessages: [AIShootingController_C_0] NOTSEE
+[2020.02.28-12.09.08:449][487]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.02.28-12.09.08:535][493]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2020.02.28-12.09.08:552][494]LogBlueprintUserMessages: [AIShootingController_C_0] NOISE
+[2020.02.28-12.09.08:552][494]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.02.28-12.09.11:158][703]LogBlueprintUserMessages: [AIShootingController_C_0] NOISE
+[2020.02.28-12.09.11:158][703]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.02.28-12.09.15:825][172]LogNet: Browse: /Game/Levels/LV4/Level4_3
+[2020.02.28-12.09.15:825][172]LogLoad: LoadMap: /Game/Levels/LV4/Level4_3
+[2020.02.28-12.09.15:825][172]LogWorld: BeginTearingDown for /Game/Levels/LV4/UEDPIE_0_Level4_2
+[2020.02.28-12.09.15:827][172]LogWorld: UWorld::CleanupWorld for Level4_2, bSessionEnded=true, bCleanupResources=true
+[2020.02.28-12.09.15:898][172]LogUObjectHash: Compacting FUObjectHashTables data took   4.74ms
+[2020.02.28-12.09.16:712][172]LogAIModule: Creating AISystem for world Level4_3
+[2020.02.28-12.09.16:712][172]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.28-12.09.16:721][172]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.02.28-12.09.16:764][172]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.02.28-12.09.16:781][172]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.09.16:787][172]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.09.16:792][172]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.09.16:797][172]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.09.16:801][172]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.09.16:806][172]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.09.16:811][172]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.09.16:815][172]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.09.16:822][172]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.09.16:827][172]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.09.16:832][172]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.09.16:837][172]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.09.16:842][172]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.09.16:847][172]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.09.16:852][172]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.09.16:857][172]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.09.16:861][172]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.09.16:866][172]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.09.16:872][172]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.09.16:877][172]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.09.16:881][172]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.09.16:886][172]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.09.16:891][172]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.09.16:896][172]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.09.16:902][172]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.09.16:908][172]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.09.16:912][172]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.09.16:921][172]LogWorld: Bringing World /Game/Levels/LV4/UEDPIE_0_Level4_3.Level4_3 up for play (max tick rate 0) at 2020.02.28-13.09.16
+[2020.02.28-12.09.16:940][172]LogWorld: Bringing up level for play took: 0.226890
+[2020.02.28-12.09.16:999][172]LogLoad: Took 1.173876 seconds to LoadMap(/Game/Levels/LV4/Level4_3)
+[2020.02.28-12.09.18:109][240]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2020.02.28-12.09.18:291][253]LogBlueprintUserMessages: [AISlaveController_C_2] 2675.934814
+[2020.02.28-12.09.18:291][253]LogBlueprintUserMessages: [AISlaveController_C_2] FUKC
+[2020.02.28-12.09.18:291][253]LogBlueprintUserMessages: [AISlaveController_C_2] Down
+[2020.02.28-12.09.18:855][290]LogBlueprintUserMessages: [AISlaveController_C_1] 3330.767334
+[2020.02.28-12.09.18:855][290]LogBlueprintUserMessages: [AISlaveController_C_1] FUKC
+[2020.02.28-12.09.18:855][290]LogBlueprintUserMessages: [AISlaveController_C_1] Down
+[2020.02.28-12.09.19:804][349]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.02.28-12.09.19:804][349]LogBlueprintUserMessages: [AIShootingController_C_1] NOTSEE
+[2020.02.28-12.09.19:909][355]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.02.28-12.09.19:909][355]LogBlueprintUserMessages: [AIShootingController_C_1] NOTSEE
+[2020.02.28-12.09.19:990][359]LogBlueprintUserMessages: [AIShootingController_C_1] Down
+[2020.02.28-12.09.20:010][360]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2020.02.28-12.09.20:010][360]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.02.28-12.09.20:101][365]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.02.28-12.09.20:204][371]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.02.28-12.09.20:296][376]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2020.02.28-12.09.20:316][377]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.02.28-12.09.20:409][382]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2020.02.28-12.09.20:409][382]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.02.28-12.09.20:498][387]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2020.02.28-12.09.20:499][387]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.02.28-12.09.20:585][392]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2020.02.28-12.09.20:608][393]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.02.28-12.09.20:691][397]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2020.02.28-12.09.20:709][398]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.02.28-12.09.20:797][403]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2020.02.28-12.09.20:815][404]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.02.28-12.09.20:904][409]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2020.02.28-12.09.22:734][518]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.02.28-12.09.23:601][574]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/LV4/Level4_2.Level4_2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_2.Level4_2:PersistentLevel.Level4_2' with GeneratedClass '/Game/Levels/LV4/Level4_2.Level4_2_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_2.Level4_2:PersistentLevel.Level4_2'
+[2020.02.28-12.09.23:700][574]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.28-12.09.23:700][574]LogWorld: BeginTearingDown for /Game/Levels/LV4/UEDPIE_0_Level4_3
+[2020.02.28-12.09.23:702][574]LogWorld: UWorld::CleanupWorld for Level4_3, bSessionEnded=true, bCleanupResources=true
+[2020.02.28-12.09.23:718][574]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.28-12.09.23:719][574]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/LV4/Level4_2.Level4_2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_2.Level4_2:PersistentLevel.Level4_2' with GeneratedClass '/Game/Levels/LV4/Level4_2.Level4_2_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_2.Level4_2:PersistentLevel.Level4_2'
+[2020.02.28-12.09.23:771][574]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.28-12.09.23:795][574]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2020.02.28-12.09.23:858][575]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2020.02.28-12.09.27:406][976]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-12.09.29:155][172]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2020.02.28-12.09.29:213][172]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2020.02.28-12.09.30:104][172]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/Level4_2280007684853DC9A2D244780889F16C3.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LV4/Level4_2.umap'
+[2020.02.28-12.09.30:198][172]LogFileHelpers: Saving map 'Level4_2' took 1.027
+[2020.02.28-12.09.42:288][451]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Objects/LevelCompleter/LevelCompleterBP.LevelCompleterBP
+[2020.02.28-12.11.04:814][853]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.02.28-12.11.18:500][429]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MyGameInstance/MyGameInstance.MyGameInstance
+[2020.02.28-12.13.32:661][387]BlueprintLog: New page: Compile LevelCompleterBP
+[2020.02.28-12.13.33:217][387]LogBlueprint: Error: [Compiler LevelCompleterBP] Pin  Is Slave  named IsSlave doesn't match any parameters of function SavePlayerStats
+[2020.02.28-12.13.33:217][387]LogBlueprint: Error: [Compiler LevelCompleterBP] Pin  Is Slave  named IsSlave doesn't match any parameters of function SavePlayerStats
+[2020.02.28-12.13.33:217][387]LogBlueprint: Error: [Compiler LevelCompleterBP] Pin  Is Slave  named IsSlave doesn't match any parameters of function SavePlayerStats
+[2020.02.28-12.13.33:808][387]LogUObjectHash: Compacting FUObjectHashTables data took   8.30ms
+[2020.02.28-12.13.45:280][514]BlueprintLog: New page: Compile LevelCompleterBP
+[2020.02.28-12.13.45:357][514]LogBlueprint: Error: [Compiler LevelCompleterBP] Pin  Is Slave  named IsSlave doesn't match any parameters of function SavePlayerStats
+[2020.02.28-12.13.45:358][514]LogBlueprint: Error: [Compiler LevelCompleterBP] Pin  Is Slave  named IsSlave doesn't match any parameters of function SavePlayerStats
+[2020.02.28-12.13.45:358][514]LogBlueprint: Error: [Compiler LevelCompleterBP] Pin  Is Slave  named IsSlave doesn't match any parameters of function SavePlayerStats
+[2020.02.28-12.13.45:955][514]LogUObjectHash: Compacting FUObjectHashTables data took   6.33ms
+[2020.02.28-12.13.54:686][403]BlueprintLog: New page: Compile MyGameInstance
+[2020.02.28-12.13.58:069][403]LogUObjectHash: Compacting FUObjectHashTables data took  10.50ms
+[2020.02.28-12.14.02:179][495]BlueprintLog: New page: Compile LevelCompleterBP
+[2020.02.28-12.14.03:075][495]LogUObjectHash: Compacting FUObjectHashTables data took   7.81ms
+[2020.02.28-12.14.08:061][962]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/LevelCompleterBP0823273740CECDA44B7F8A890978FACC.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Objects/LevelCompleter/LevelCompleterBP.uasset'
+[2020.02.28-12.15.02:039][455]LogUObjectHash: Compacting FUObjectHashTables data took   7.19ms
+[2020.02.28-12.15.02:122][455]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2020.02.28-12.15.03:129][455]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/Level4_28D31212E470A7D1F0C73FFAAACE3117B.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LV4/Level4_2.umap'
+[2020.02.28-12.15.03:208][455]LogFileHelpers: Saving map 'Level4_2' took 1.139
+[2020.02.28-12.15.03:233][455]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyGameInstance/MyGameInstance" FILE="../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/MyGameInstance/MyGameInstance.uasset" SILENT=true
+[2020.02.28-12.15.03:466][455]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/MyGameInstanceBE4EBC824DAB08F8A8FF73BC78F65187.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/MyGameInstance/MyGameInstance.uasset'
+[2020.02.28-12.15.04:637][455]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/ThirdPersonCharacter83F910CD4983D9D5CDF59F8A91ADC9C6.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.02.28-12.15.24:154][442]BlueprintLog: New page: Compile MyGameInstance
+[2020.02.28-12.15.24:429][442]LogBlueprint: Error: [Compiler MyGameInstance] The property associated with  Is Slave  could not be found in '/Game/MyGameInstance/MyGameInstance.MyGameInstance_C'
+[2020.02.28-12.15.25:067][442]LogUObjectHash: Compacting FUObjectHashTables data took   7.14ms
+[2020.02.28-12.15.25:703][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyGameInstance/MyGameInstance" FILE="../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/MyGameInstance/MyGameInstance.uasset" SILENT=true
+[2020.02.28-12.15.25:856][472]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/MyGameInstanceF7B5E3924EA3622B20BF198F369C0555.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/MyGameInstance/MyGameInstance.uasset'
+[2020.02.28-12.15.29:569][756]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.02.28-12.15.30:661][756]LogUObjectHash: Compacting FUObjectHashTables data took   8.41ms
+[2020.02.28-12.15.32:548][818]BlueprintLog: New page: Compile MyGameInstance
+[2020.02.28-12.15.33:362][818]LogUObjectHash: Compacting FUObjectHashTables data took   6.77ms
+[2020.02.28-12.15.58:779][310]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.02.28-12.15.59:649][310]LogUObjectHash: Compacting FUObjectHashTables data took   7.30ms
+[2020.02.28-12.16.01:701][312]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/ThirdPersonCharacterF93588574D72096C6FA74B9DA7468FA8.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.02.28-12.16.14:628][ 70]LogSlate: Took 0.055101 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.02.28-12.16.19:214][394]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.02.28-12.16.20:143][394]LogUObjectHash: Compacting FUObjectHashTables data took   7.75ms
+[2020.02.28-12.16.22:207][397]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/ThirdPersonCharacter8B10B6084727132E860FB2A4F3696FE6.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.02.28-12.16.27:697][802]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.28-12.16.27:740][802]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/LV4/Level4_2.Level4_2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_2.Level4_2:PersistentLevel.Level4_2' with GeneratedClass '/Game/Levels/LV4/Level4_2.Level4_2_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_2.Level4_2:PersistentLevel.Level4_2'
+[2020.02.28-12.16.27:782][802]LogFMOD: Creating runtime Studio System
+[2020.02.28-12.16.27:783][802]LogFMOD: Default sample rate = 48000
+[2020.02.28-12.16.27:783][802]LogFMOD: System sample rate = 44100
+[2020.02.28-12.16.27:783][802]LogFMOD: Matching system sample rate 44100
+[2020.02.28-12.16.27:808][802]LogFMOD: Loading Banks
+[2020.02.28-12.16.27:853][802]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.02.28-12.16.27:928][802]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2020.02.28-12.16.29:235][802]LogUObjectHash: Compacting FUObjectHashTables data took   7.83ms
+[2020.02.28-12.16.29:235][802]LogPlayLevel: PlayLevel: Blueprint regeneration took 1382 ms (1 blueprints)
+[2020.02.28-12.16.29:235][802]PIE: New page: PIE session: Level4_2 (Feb 28, 2020, 2:16:29 PM)
+[2020.02.28-12.16.30:048][802]LogPlayLevel: Creating play world package: /Game/Levels/LV4/UEDPIE_0_Level4_2
+[2020.02.28-12.16.30:177][802]LogPlayLevel: PIE: StaticDuplicateObject took: (0.128617s)
+[2020.02.28-12.16.30:178][802]LogAIModule: Creating AISystem for world Level4_2
+[2020.02.28-12.16.30:178][802]LogPlayLevel: PIE: World Init took: (0.001159s)
+[2020.02.28-12.16.30:178][802]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV4/Level4_2.Level4_2 to /Game/Levels/LV4/UEDPIE_0_Level4_2.Level4_2 (0.129983s)
+[2020.02.28-12.16.30:237][802]LogUObjectHash: Compacting FUObjectHashTables data took   4.95ms
+[2020.02.28-12.16.30:282][802]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.28-12.16.30:292][802]LogInit: FAudioDevice initialized.
+[2020.02.28-12.16.30:304][802]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.28-12.16.30:309][802]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.02.28-12.16.30:309][802]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.02.28-12.16.30:310][802]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.02.28-12.16.30:312][802]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.02.28-12.16.30:313][802]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.02.28-12.16.30:325][802]LogWorld: Bringing World /Game/Levels/LV4/UEDPIE_0_Level4_2.Level4_2 up for play (max tick rate 0) at 2020.02.28-13.16.30
+[2020.02.28-12.16.30:334][802]LogWorld: Bringing up level for play took: 0.029156
+[2020.02.28-12.16.30:345][802]LogOnline: OSS: Creating online subsystem instance for: :Context_75
+[2020.02.28-12.16.30:369][802]PIE: Play in editor start time for /Game/Levels/LV4/UEDPIE_0_Level4_2 3.378
+[2020.02.28-12.16.30:369][802]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/LV4/Level4_2.Level4_2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_2.Level4_2:PersistentLevel.Level4_2' with GeneratedClass '/Game/Levels/LV4/Level4_2.Level4_2_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_2.Level4_2:PersistentLevel.Level4_2'
+[2020.02.28-12.16.31:051][818]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2020.02.28-12.16.39:070][415]LogBlueprintUserMessages: [AISlaveController_C_0] 779.318909
+[2020.02.28-12.16.39:070][415]LogBlueprintUserMessages: [AISlaveController_C_0] FUKC
+[2020.02.28-12.16.39:070][415]LogBlueprintUserMessages: [AISlaveController_C_0] Down
+[2020.02.28-12.16.39:093][416]LogBlueprintUserMessages: [AIShootingController_C_0] NOISE
+[2020.02.28-12.16.39:093][416]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.02.28-12.16.39:189][422]LogBlueprintUserMessages: [AIShootingController_C_1] Up
+[2020.02.28-12.16.39:189][422]LogBlueprintUserMessages: [AIShootingController_C_1] POsessingAnotherAI
+[2020.02.28-12.16.39:208][423]LogBlueprintUserMessages: [AIShootingController_C_0] NOISE
+[2020.02.28-12.16.39:208][423]LogBlueprintUserMessages: [AIShootingController_C_0] NOTSEE
+[2020.02.28-12.16.39:208][423]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.02.28-12.16.39:208][423]LogBlueprintUserMessages: [AIShootingController_C_1] NOTSEE
+[2020.02.28-12.16.39:294][428]LogBlueprintUserMessages: [AIShootingController_C_0] NOISE
+[2020.02.28-12.16.39:294][428]LogBlueprintUserMessages: [AIShootingController_C_0] NOTSEE
+[2020.02.28-12.16.39:294][428]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.02.28-12.16.39:294][428]LogBlueprintUserMessages: [AIShootingController_C_1] NOTSEE
+[2020.02.28-12.16.39:378][433]LogBlueprintUserMessages: [AIShootingController_C_1] Up
+[2020.02.28-12.16.39:378][433]LogBlueprintUserMessages: [AIShootingController_C_1] POsessingAnotherAI
+[2020.02.28-12.16.39:396][434]LogBlueprintUserMessages: [AIShootingController_C_0] NOISE
+[2020.02.28-12.16.39:396][434]LogBlueprintUserMessages: [AIShootingController_C_0] NOTSEE
+[2020.02.28-12.16.39:396][434]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.02.28-12.16.39:397][434]LogBlueprintUserMessages: [AIShootingController_C_1] NOTSEE
+[2020.02.28-12.16.39:502][441]LogBlueprintUserMessages: [AIShootingController_C_0] NOISE
+[2020.02.28-12.16.39:502][441]LogBlueprintUserMessages: [AIShootingController_C_0] NOTSEE
+[2020.02.28-12.16.39:502][441]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.02.28-12.16.39:502][441]LogBlueprintUserMessages: [AIShootingController_C_1] NOTSEE
+[2020.02.28-12.16.39:587][446]LogBlueprintUserMessages: [AISlaveController_C_1] 791.274292
+[2020.02.28-12.16.39:587][446]LogBlueprintUserMessages: [AISlaveController_C_1] FUKC
+[2020.02.28-12.16.39:587][446]LogBlueprintUserMessages: [AISlaveController_C_1] Down
+[2020.02.28-12.16.39:604][447]LogBlueprintUserMessages: [AIShootingController_C_0] NOISE
+[2020.02.28-12.16.39:604][447]LogBlueprintUserMessages: [AIShootingController_C_0] NOTSEE
+[2020.02.28-12.16.39:604][447]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.02.28-12.16.39:604][447]LogBlueprintUserMessages: [AIShootingController_C_1] NOTSEE
+[2020.02.28-12.16.39:702][453]LogBlueprintUserMessages: [AIShootingController_C_0] NOISE
+[2020.02.28-12.16.39:702][453]LogBlueprintUserMessages: [AIShootingController_C_0] NOTSEE
+[2020.02.28-12.16.39:702][453]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.02.28-12.16.39:702][453]LogBlueprintUserMessages: [AIShootingController_C_1] NOTSEE
+[2020.02.28-12.16.39:797][459]LogBlueprintUserMessages: [AIShootingController_C_0] NOISE
+[2020.02.28-12.16.39:797][459]LogBlueprintUserMessages: [AIShootingController_C_0] NOTSEE
+[2020.02.28-12.16.39:797][459]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.02.28-12.16.39:797][459]LogBlueprintUserMessages: [AIShootingController_C_1] NOTSEE
+[2020.02.28-12.16.39:897][465]LogBlueprintUserMessages: [AIShootingController_C_0] NOISE
+[2020.02.28-12.16.39:897][465]LogBlueprintUserMessages: [AIShootingController_C_0] NOTSEE
+[2020.02.28-12.16.39:897][465]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.02.28-12.16.39:897][465]LogBlueprintUserMessages: [AIShootingController_C_1] NOTSEE
+[2020.02.28-12.16.39:998][471]LogBlueprintUserMessages: [AIShootingController_C_0] NOISE
+[2020.02.28-12.16.39:998][471]LogBlueprintUserMessages: [AIShootingController_C_0] NOTSEE
+[2020.02.28-12.16.39:998][471]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.02.28-12.16.39:999][471]LogBlueprintUserMessages: [AIShootingController_C_1] NOTSEE
+[2020.02.28-12.16.40:097][476]LogBlueprintUserMessages: [AIShootingController_C_0] NOISE
+[2020.02.28-12.16.40:097][476]LogBlueprintUserMessages: [AIShootingController_C_0] NOTSEE
+[2020.02.28-12.16.40:097][476]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.02.28-12.16.40:097][476]LogBlueprintUserMessages: [AIShootingController_C_1] NOTSEE
+[2020.02.28-12.16.40:196][482]LogBlueprintUserMessages: [AIShootingController_C_0] NOISE
+[2020.02.28-12.16.40:196][482]LogBlueprintUserMessages: [AIShootingController_C_0] NOTSEE
+[2020.02.28-12.16.40:196][482]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.02.28-12.16.40:196][482]LogBlueprintUserMessages: [AIShootingController_C_1] NOTSEE
+[2020.02.28-12.16.40:295][488]LogBlueprintUserMessages: [AIShootingController_C_0] NOISE
+[2020.02.28-12.16.40:295][488]LogBlueprintUserMessages: [AIShootingController_C_0] NOTSEE
+[2020.02.28-12.16.40:295][488]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.02.28-12.16.40:295][488]LogBlueprintUserMessages: [AIShootingController_C_1] NOTSEE
+[2020.02.28-12.16.40:397][494]LogBlueprintUserMessages: [AIShootingController_C_0] NOISE
+[2020.02.28-12.16.40:397][494]LogBlueprintUserMessages: [AIShootingController_C_0] NOTSEE
+[2020.02.28-12.16.40:397][494]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.02.28-12.16.40:397][494]LogBlueprintUserMessages: [AIShootingController_C_1] NOTSEE
+[2020.02.28-12.16.40:496][500]LogBlueprintUserMessages: [AIShootingController_C_0] NOISE
+[2020.02.28-12.16.40:496][500]LogBlueprintUserMessages: [AIShootingController_C_0] NOTSEE
+[2020.02.28-12.16.40:496][500]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.02.28-12.16.40:496][500]LogBlueprintUserMessages: [AIShootingController_C_1] NOTSEE
+[2020.02.28-12.16.40:615][506]LogBlueprintUserMessages: [AIShootingController_C_0] NOISE
+[2020.02.28-12.16.40:615][506]LogBlueprintUserMessages: [AIShootingController_C_0] NOTSEE
+[2020.02.28-12.16.40:615][506]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.02.28-12.16.40:615][506]LogBlueprintUserMessages: [AIShootingController_C_1] NOTSEE
+[2020.02.28-12.16.42:492][627]LogBlueprintUserMessages: [AIShootingController_C_0] NOISE
+[2020.02.28-12.16.42:492][627]LogBlueprintUserMessages: [AIShootingController_C_0] NOTSEE
+[2020.02.28-12.16.42:492][627]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.02.28-12.16.48:527][135]LogNet: Browse: /Game/Levels/LV4/Level4_3
+[2020.02.28-12.16.48:527][135]LogLoad: LoadMap: /Game/Levels/LV4/Level4_3
+[2020.02.28-12.16.48:527][135]LogWorld: BeginTearingDown for /Game/Levels/LV4/UEDPIE_0_Level4_2
+[2020.02.28-12.16.48:529][135]LogWorld: UWorld::CleanupWorld for Level4_2, bSessionEnded=true, bCleanupResources=true
+[2020.02.28-12.16.48:629][135]LogUObjectHash: Compacting FUObjectHashTables data took   5.33ms
+[2020.02.28-12.16.48:865][135]LogAIModule: Creating AISystem for world Level4_3
+[2020.02.28-12.16.48:865][135]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.28-12.16.48:876][135]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.02.28-12.16.48:924][135]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.02.28-12.16.48:930][135]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.16.48:936][135]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.16.48:942][135]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.16.48:947][135]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.16.48:956][135]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.16.48:961][135]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.16.48:967][135]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.16.48:973][135]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.16.48:979][135]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.16.48:984][135]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.16.48:993][135]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.16.48:998][135]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.16.49:004][135]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.16.49:010][135]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.16.49:015][135]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.16.49:024][135]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.16.49:029][135]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.16.49:034][135]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.16.49:040][135]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.16.49:045][135]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.16.49:050][135]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.16.49:057][135]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.16.49:063][135]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.16.49:068][135]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.16.49:074][135]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.16.49:079][135]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.16.49:084][135]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.16.49:096][135]LogWorld: Bringing World /Game/Levels/LV4/UEDPIE_0_Level4_3.Level4_3 up for play (max tick rate 0) at 2020.02.28-13.16.49
+[2020.02.28-12.16.49:116][135]LogWorld: Bringing up level for play took: 0.250039
+[2020.02.28-12.16.49:197][135]LogLoad: Took 0.670046 seconds to LoadMap(/Game/Levels/LV4/Level4_3)
+[2020.02.28-12.16.50:496][211]LogBlueprintUserMessages: [AISlaveController_C_6] 2403.466797
+[2020.02.28-12.16.50:496][211]LogBlueprintUserMessages: [AISlaveController_C_6] FUKC
+[2020.02.28-12.16.50:496][211]LogBlueprintUserMessages: [AISlaveController_C_6] Down
+[2020.02.28-12.16.50:592][217]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2020.02.28-12.16.50:777][228]LogBlueprintUserMessages: [AISlaveController_C_0] 2261.031738
+[2020.02.28-12.16.50:777][228]LogBlueprintUserMessages: [AISlaveController_C_0] FUKC
+[2020.02.28-12.16.50:777][228]LogBlueprintUserMessages: [AISlaveController_C_0] Down
+[2020.02.28-12.16.51:339][259]LogBlueprintUserMessages: [AISlaveController_C_1] 3351.81543
+[2020.02.28-12.16.51:339][259]LogBlueprintUserMessages: [AISlaveController_C_1] FUKC
+[2020.02.28-12.16.51:339][259]LogBlueprintUserMessages: [AISlaveController_C_1] Down
+[2020.02.28-12.16.53:759][401]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/LV4/Level4_2.Level4_2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_2.Level4_2:PersistentLevel.Level4_2' with GeneratedClass '/Game/Levels/LV4/Level4_2.Level4_2_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_2.Level4_2:PersistentLevel.Level4_2'
+[2020.02.28-12.16.53:860][401]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.28-12.16.53:860][401]LogWorld: BeginTearingDown for /Game/Levels/LV4/UEDPIE_0_Level4_3
+[2020.02.28-12.16.53:862][401]LogWorld: UWorld::CleanupWorld for Level4_3, bSessionEnded=true, bCleanupResources=true
+[2020.02.28-12.16.53:881][401]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.28-12.16.53:882][401]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/LV4/Level4_2.Level4_2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_2.Level4_2:PersistentLevel.Level4_2' with GeneratedClass '/Game/Levels/LV4/Level4_2.Level4_2_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_2.Level4_2:PersistentLevel.Level4_2'
+[2020.02.28-12.16.53:966][401]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.28-12.16.53:987][401]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2020.02.28-12.16.54:043][402]LogPlayLevel: Display: Destroying online subsystem :Context_75
+[2020.02.28-12.16.54:639][435]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-12.16.55:753][532]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2020.02.28-12.16.55:832][532]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2020.02.28-12.16.56:806][532]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/Level4_274286B304391FF40F0805898F1668DAF.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LV4/Level4_2.umap'
+[2020.02.28-12.16.56:884][532]LogFileHelpers: Saving map 'Level4_2' took 1.110
+[2020.02.28-12.16.57:869][532]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/ThirdPersonCharacter70F69F1D432D6D9790543E8F5AA4E9B6.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.02.28-12.17.23:551][723]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/ThirdPersonCharacter1B4803CD4405CEDC03D1D28027B0C64E.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.02.28-12.17.29:418][216]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Enemies/EnemyShootingCh.EnemyShootingCh
+[2020.02.28-12.18.48:084][976]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.28-12.18.48:133][976]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/LV4/Level4_2.Level4_2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_2.Level4_2:PersistentLevel.Level4_2' with GeneratedClass '/Game/Levels/LV4/Level4_2.Level4_2_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_2.Level4_2:PersistentLevel.Level4_2'
+[2020.02.28-12.18.48:164][976]LogFMOD: Creating runtime Studio System
+[2020.02.28-12.18.48:166][976]LogFMOD: Default sample rate = 48000
+[2020.02.28-12.18.48:166][976]LogFMOD: System sample rate = 44100
+[2020.02.28-12.18.48:166][976]LogFMOD: Matching system sample rate 44100
+[2020.02.28-12.18.48:177][976]LogFMOD: Loading Banks
+[2020.02.28-12.18.48:215][976]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.02.28-12.18.48:641][976]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2020.02.28-12.18.50:311][976]LogUObjectHash: Compacting FUObjectHashTables data took  10.63ms
+[2020.02.28-12.18.50:312][976]LogPlayLevel: PlayLevel: Blueprint regeneration took 2097 ms (1 blueprints)
+[2020.02.28-12.18.50:312][976]PIE: New page: PIE session: Level4_2 (Feb 28, 2020, 2:18:50 PM)
+[2020.02.28-12.18.50:635][976]LogPlayLevel: Creating play world package: /Game/Levels/LV4/UEDPIE_0_Level4_2
+[2020.02.28-12.18.50:754][976]LogPlayLevel: PIE: StaticDuplicateObject took: (0.118322s)
+[2020.02.28-12.18.50:755][976]LogAIModule: Creating AISystem for world Level4_2
+[2020.02.28-12.18.50:755][976]LogPlayLevel: PIE: World Init took: (0.001120s)
+[2020.02.28-12.18.50:755][976]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV4/Level4_2.Level4_2 to /Game/Levels/LV4/UEDPIE_0_Level4_2.Level4_2 (0.119645s)
+[2020.02.28-12.18.50:806][976]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2020.02.28-12.18.50:814][976]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.28-12.18.50:821][976]LogInit: FAudioDevice initialized.
+[2020.02.28-12.18.50:835][976]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.28-12.18.50:840][976]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.02.28-12.18.50:840][976]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.02.28-12.18.50:840][976]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.02.28-12.18.50:843][976]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.02.28-12.18.50:844][976]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.02.28-12.18.50:856][976]LogWorld: Bringing World /Game/Levels/LV4/UEDPIE_0_Level4_2.Level4_2 up for play (max tick rate 0) at 2020.02.28-13.18.50
+[2020.02.28-12.18.50:863][976]LogWorld: Bringing up level for play took: 0.027578
+[2020.02.28-12.18.50:874][976]LogOnline: OSS: Creating online subsystem instance for: :Context_82
+[2020.02.28-12.18.50:901][976]PIE: Play in editor start time for /Game/Levels/LV4/UEDPIE_0_Level4_2 1.909
+[2020.02.28-12.18.50:901][976]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/LV4/Level4_2.Level4_2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_2.Level4_2:PersistentLevel.Level4_2' with GeneratedClass '/Game/Levels/LV4/Level4_2.Level4_2_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_2.Level4_2:PersistentLevel.Level4_2'
+[2020.02.28-12.18.51:811][ 15]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2020.02.28-12.18.59:854][591]LogBlueprintUserMessages: [AISlaveController_C_0] 826.102295
+[2020.02.28-12.18.59:854][591]LogBlueprintUserMessages: [AISlaveController_C_0] FUKC
+[2020.02.28-12.18.59:854][591]LogBlueprintUserMessages: [AISlaveController_C_0] Down
+[2020.02.28-12.18.59:896][594]LogBlueprintUserMessages: [AISlaveController_C_1] 850.343567
+[2020.02.28-12.18.59:896][594]LogBlueprintUserMessages: [AISlaveController_C_1] FUKC
+[2020.02.28-12.18.59:896][594]LogBlueprintUserMessages: [AISlaveController_C_1] Down
+[2020.02.28-12.19.00:154][612]LogBlueprintUserMessages: [AIShootingController_C_0] NOISE
+[2020.02.28-12.19.00:154][612]LogBlueprintUserMessages: [AIShootingController_C_0] NOTSEE
+[2020.02.28-12.19.00:154][612]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.02.28-12.19.00:258][619]LogBlueprintUserMessages: [AIShootingController_C_0] NOISE
+[2020.02.28-12.19.00:258][619]LogBlueprintUserMessages: [AIShootingController_C_0] NOTSEE
+[2020.02.28-12.19.00:259][619]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.02.28-12.19.00:259][619]LogBlueprintUserMessages: [AIShootingController_C_1] NOTSEE
+[2020.02.28-12.19.00:365][626]LogBlueprintUserMessages: [AIShootingController_C_0] NOISE
+[2020.02.28-12.19.00:365][626]LogBlueprintUserMessages: [AIShootingController_C_0] NOTSEE
+[2020.02.28-12.19.00:365][626]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.02.28-12.19.00:365][626]LogBlueprintUserMessages: [AIShootingController_C_1] NOTSEE
+[2020.02.28-12.19.00:460][632]LogBlueprintUserMessages: [AIShootingController_C_0] NOISE
+[2020.02.28-12.19.00:460][632]LogBlueprintUserMessages: [AIShootingController_C_0] NOTSEE
+[2020.02.28-12.19.00:460][632]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.02.28-12.19.00:460][632]LogBlueprintUserMessages: [AIShootingController_C_1] NOTSEE
+[2020.02.28-12.19.00:548][637]LogBlueprintUserMessages: [AIShootingController_C_0] Up
+[2020.02.28-12.19.00:548][637]LogBlueprintUserMessages: [AIShootingController_C_0] POsessingAnotherAI
+[2020.02.28-12.19.00:568][638]LogBlueprintUserMessages: [AIShootingController_C_0] NOISE
+[2020.02.28-12.19.00:568][638]LogBlueprintUserMessages: [AIShootingController_C_0] NOTSEE
+[2020.02.28-12.19.00:568][638]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.02.28-12.19.00:568][638]LogBlueprintUserMessages: [AIShootingController_C_1] NOTSEE
+[2020.02.28-12.19.00:662][644]LogBlueprintUserMessages: [AIShootingController_C_0] NOISE
+[2020.02.28-12.19.00:662][644]LogBlueprintUserMessages: [AIShootingController_C_0] NOTSEE
+[2020.02.28-12.19.00:662][644]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.02.28-12.19.00:662][644]LogBlueprintUserMessages: [AIShootingController_C_1] NOTSEE
+[2020.02.28-12.19.00:774][651]LogBlueprintUserMessages: [AIShootingController_C_0] NOISE
+[2020.02.28-12.19.00:774][651]LogBlueprintUserMessages: [AIShootingController_C_0] NOTSEE
+[2020.02.28-12.19.00:774][651]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.02.28-12.19.00:774][651]LogBlueprintUserMessages: [AIShootingController_C_1] NOTSEE
+[2020.02.28-12.19.00:865][657]LogBlueprintUserMessages: [AIShootingController_C_0] NOISE
+[2020.02.28-12.19.00:865][657]LogBlueprintUserMessages: [AIShootingController_C_0] NOTSEE
+[2020.02.28-12.19.00:865][657]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.02.28-12.19.00:865][657]LogBlueprintUserMessages: [AIShootingController_C_1] NOTSEE
+[2020.02.28-12.19.00:946][662]LogBlueprintUserMessages: [AIShootingController_C_0] Up
+[2020.02.28-12.19.00:946][662]LogBlueprintUserMessages: [AIShootingController_C_0] POsessingAnotherAI
+[2020.02.28-12.19.00:964][663]LogBlueprintUserMessages: [AIShootingController_C_0] NOISE
+[2020.02.28-12.19.00:964][663]LogBlueprintUserMessages: [AIShootingController_C_0] NOTSEE
+[2020.02.28-12.19.00:964][663]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.02.28-12.19.00:964][663]LogBlueprintUserMessages: [AIShootingController_C_1] NOTSEE
+[2020.02.28-12.19.01:064][668]LogBlueprintUserMessages: [AIShootingController_C_0] NOISE
+[2020.02.28-12.19.01:064][668]LogBlueprintUserMessages: [AIShootingController_C_0] NOTSEE
+[2020.02.28-12.19.01:064][668]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.02.28-12.19.01:064][668]LogBlueprintUserMessages: [AIShootingController_C_1] NOTSEE
+[2020.02.28-12.19.01:168][673]LogBlueprintUserMessages: [AIShootingController_C_0] NOISE
+[2020.02.28-12.19.01:168][673]LogBlueprintUserMessages: [AIShootingController_C_0] NOTSEE
+[2020.02.28-12.19.01:168][673]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.02.28-12.19.01:168][673]LogBlueprintUserMessages: [AIShootingController_C_1] NOTSEE
+[2020.02.28-12.19.01:280][679]LogBlueprintUserMessages: [AIShootingController_C_0] NOISE
+[2020.02.28-12.19.01:280][679]LogBlueprintUserMessages: [AIShootingController_C_0] NOTSEE
+[2020.02.28-12.19.01:280][679]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.02.28-12.19.01:280][679]LogBlueprintUserMessages: [AIShootingController_C_1] NOTSEE
+[2020.02.28-12.19.01:372][684]LogBlueprintUserMessages: [AIShootingController_C_0] NOISE
+[2020.02.28-12.19.01:372][684]LogBlueprintUserMessages: [AIShootingController_C_0] NOTSEE
+[2020.02.28-12.19.01:373][684]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.02.28-12.19.01:373][684]LogBlueprintUserMessages: [AIShootingController_C_1] NOTSEE
+[2020.02.28-12.19.02:955][781]LogBlueprintUserMessages: [AIShootingController_C_0] NOISE
+[2020.02.28-12.19.02:955][781]LogBlueprintUserMessages: [AIShootingController_C_0] NOTSEE
+[2020.02.28-12.19.02:955][781]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.02.28-12.19.02:955][781]LogBlueprintUserMessages: [AIShootingController_C_1] NOTSEE
+[2020.02.28-12.19.09:632][295]LogNet: Browse: /Game/Levels/LV4/Level4_3
+[2020.02.28-12.19.09:632][295]LogLoad: LoadMap: /Game/Levels/LV4/Level4_3
+[2020.02.28-12.19.09:632][295]LogWorld: BeginTearingDown for /Game/Levels/LV4/UEDPIE_0_Level4_2
+[2020.02.28-12.19.09:634][295]LogWorld: UWorld::CleanupWorld for Level4_2, bSessionEnded=true, bCleanupResources=true
+[2020.02.28-12.19.09:722][295]LogUObjectHash: Compacting FUObjectHashTables data took   4.89ms
+[2020.02.28-12.19.09:953][295]LogAIModule: Creating AISystem for world Level4_3
+[2020.02.28-12.19.09:954][295]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.28-12.19.09:965][295]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.02.28-12.19.10:017][295]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.02.28-12.19.10:023][295]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.19.10:035][295]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.19.10:040][295]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.19.10:047][295]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.19.10:052][295]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.19.10:057][295]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.19.10:072][295]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.19.10:084][295]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.19.10:090][295]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.19.10:099][295]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.19.10:104][295]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.19.10:111][295]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.19.10:117][295]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.19.10:122][295]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.19.10:127][295]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.19.10:133][295]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.19.10:138][295]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.19.10:143][295]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.19.10:149][295]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.19.10:154][295]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.19.10:159][295]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.19.10:168][295]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.19.10:173][295]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.19.10:179][295]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.19.10:184][295]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.19.10:188][295]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.19.10:198][295]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.19.10:206][295]LogWorld: Bringing World /Game/Levels/LV4/UEDPIE_0_Level4_3.Level4_3 up for play (max tick rate 0) at 2020.02.28-13.19.10
+[2020.02.28-12.19.10:225][295]LogWorld: Bringing up level for play took: 0.270165
+[2020.02.28-12.19.10:287][295]LogLoad: Took 0.654016 seconds to LoadMap(/Game/Levels/LV4/Level4_3)
+[2020.02.28-12.19.11:478][358]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2020.02.28-12.19.11:668][369]LogBlueprintUserMessages: [AISlaveController_C_1] 3352.513672
+[2020.02.28-12.19.11:668][369]LogBlueprintUserMessages: [AISlaveController_C_1] FUKC
+[2020.02.28-12.19.11:668][369]LogBlueprintUserMessages: [AISlaveController_C_1] Down
+[2020.02.28-12.19.12:140][397]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-12.19.25:896][610]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-12.19.28:991][837]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2020.02.28-12.19.29:296][852]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2020.02.28-12.19.29:751][877]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2020.02.28-12.19.30:953][945]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2020.02.28-12.19.30:965][946]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-12.19.31:023][951]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/LV4/Level4_2.Level4_2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_2.Level4_2:PersistentLevel.Level4_2' with GeneratedClass '/Game/Levels/LV4/Level4_2.Level4_2_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_2.Level4_2:PersistentLevel.Level4_2'
+[2020.02.28-12.19.31:116][951]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.28-12.19.31:116][951]LogWorld: BeginTearingDown for /Game/Levels/LV4/UEDPIE_0_Level4_3
+[2020.02.28-12.19.31:118][951]LogWorld: UWorld::CleanupWorld for Level4_3, bSessionEnded=true, bCleanupResources=true
+[2020.02.28-12.19.31:139][951]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.28-12.19.31:139][951]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/LV4/Level4_2.Level4_2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_2.Level4_2:PersistentLevel.Level4_2' with GeneratedClass '/Game/Levels/LV4/Level4_2.Level4_2_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_2.Level4_2:PersistentLevel.Level4_2'
+[2020.02.28-12.19.31:206][951]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.28-12.19.31:227][951]LogUObjectHash: Compacting FUObjectHashTables data took   5.49ms
+[2020.02.28-12.19.31:291][952]LogPlayLevel: Display: Destroying online subsystem :Context_82
+[2020.02.28-12.19.43:403][111]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.28-12.19.43:610][111]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/LV4/Level4_2.Level4_2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_2.Level4_2:PersistentLevel.Level4_2' with GeneratedClass '/Game/Levels/LV4/Level4_2.Level4_2_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_2.Level4_2:PersistentLevel.Level4_2'
+[2020.02.28-12.19.43:661][111]LogFMOD: Creating runtime Studio System
+[2020.02.28-12.19.43:677][111]LogFMOD: Default sample rate = 48000
+[2020.02.28-12.19.43:677][111]LogFMOD: System sample rate = 44100
+[2020.02.28-12.19.43:677][111]LogFMOD: Matching system sample rate 44100
+[2020.02.28-12.19.43:685][111]LogFMOD: Loading Banks
+[2020.02.28-12.19.43:732][111]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.02.28-12.19.43:807][111]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2020.02.28-12.19.45:206][111]LogUObjectHash: Compacting FUObjectHashTables data took   8.64ms
+[2020.02.28-12.19.45:207][111]LogPlayLevel: PlayLevel: Blueprint regeneration took 1474 ms (1 blueprints)
+[2020.02.28-12.19.45:207][111]PIE: New page: PIE session: Level4_2 (Feb 28, 2020, 2:19:45 PM)
+[2020.02.28-12.19.45:538][111]LogPlayLevel: Creating play world package: /Game/Levels/LV4/UEDPIE_0_Level4_2
+[2020.02.28-12.19.45:744][111]LogPlayLevel: PIE: StaticDuplicateObject took: (0.205446s)
+[2020.02.28-12.19.45:745][111]LogAIModule: Creating AISystem for world Level4_2
+[2020.02.28-12.19.45:746][111]LogPlayLevel: PIE: World Init took: (0.001776s)
+[2020.02.28-12.19.45:746][111]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV4/Level4_2.Level4_2 to /Game/Levels/LV4/UEDPIE_0_Level4_2.Level4_2 (0.207430s)
+[2020.02.28-12.19.45:793][111]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2020.02.28-12.19.45:817][111]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.28-12.19.45:824][111]LogInit: FAudioDevice initialized.
+[2020.02.28-12.19.45:838][111]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.28-12.19.45:843][111]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.02.28-12.19.45:844][111]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.02.28-12.19.45:844][111]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.02.28-12.19.45:847][111]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.02.28-12.19.45:848][111]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.02.28-12.19.45:860][111]LogWorld: Bringing World /Game/Levels/LV4/UEDPIE_0_Level4_2.Level4_2 up for play (max tick rate 0) at 2020.02.28-13.19.45
+[2020.02.28-12.19.45:867][111]LogWorld: Bringing up level for play took: 0.027901
+[2020.02.28-12.19.45:877][111]LogOnline: OSS: Creating online subsystem instance for: :Context_83
+[2020.02.28-12.19.45:898][111]PIE: Play in editor start time for /Game/Levels/LV4/UEDPIE_0_Level4_2 2.904
+[2020.02.28-12.19.45:898][111]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/LV4/Level4_2.Level4_2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_2.Level4_2:PersistentLevel.Level4_2' with GeneratedClass '/Game/Levels/LV4/Level4_2.Level4_2_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_2.Level4_2:PersistentLevel.Level4_2'
+[2020.02.28-12.19.46:642][136]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2020.02.28-12.19.46:768][145]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2020.02.28-12.19.55:326][719]LogBlueprintUserMessages: [AISlaveController_C_0] 1071.900024
+[2020.02.28-12.19.55:326][719]LogBlueprintUserMessages: [AISlaveController_C_0] FUKC
+[2020.02.28-12.19.55:326][719]LogBlueprintUserMessages: [AISlaveController_C_0] Down
+[2020.02.28-12.19.55:873][751]LogBlueprintUserMessages: [AIShootingController_C_0] NOISE
+[2020.02.28-12.19.55:873][751]LogBlueprintUserMessages: [AIShootingController_C_0] NOTSEE
+[2020.02.28-12.19.55:873][751]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.02.28-12.19.55:987][757]LogBlueprintUserMessages: [AIShootingController_C_0] NOISE
+[2020.02.28-12.19.55:987][757]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.02.28-12.19.56:068][762]LogBlueprintUserMessages: [AIShootingController_C_1] Up
+[2020.02.28-12.19.56:068][762]LogBlueprintUserMessages: [AIShootingController_C_1] POsessingAnotherAI
+[2020.02.28-12.19.56:088][763]LogBlueprintUserMessages: [AIShootingController_C_0] NOISE
+[2020.02.28-12.19.56:088][763]LogBlueprintUserMessages: [AIShootingController_C_0] NOTSEE
+[2020.02.28-12.19.56:088][763]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.02.28-12.19.56:088][763]LogBlueprintUserMessages: [AIShootingController_C_1] NOTSEE
+[2020.02.28-12.19.56:157][767]LogBlueprintUserMessages: [AISlaveController_C_1] 735.071594
+[2020.02.28-12.19.56:157][767]LogBlueprintUserMessages: [AISlaveController_C_1] FUKC
+[2020.02.28-12.19.56:157][767]LogBlueprintUserMessages: [AISlaveController_C_1] Down
+[2020.02.28-12.19.56:176][768]LogBlueprintUserMessages: [AIShootingController_C_0] NOISE
+[2020.02.28-12.19.56:176][768]LogBlueprintUserMessages: [AIShootingController_C_0] NOTSEE
+[2020.02.28-12.19.56:176][768]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.02.28-12.19.56:176][768]LogBlueprintUserMessages: [AIShootingController_C_1] NOTSEE
+[2020.02.28-12.19.56:264][773]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2020.02.28-12.19.56:265][773]LogBlueprintUserMessages: [AIShootingController_C_1] Up
+[2020.02.28-12.19.56:265][773]LogBlueprintUserMessages: [AIShootingController_C_1] POsessingAnotherAI
+[2020.02.28-12.19.56:285][774]LogBlueprintUserMessages: [AIShootingController_C_0] NOISE
+[2020.02.28-12.19.56:285][774]LogBlueprintUserMessages: [AIShootingController_C_0] NOTSEE
+[2020.02.28-12.19.56:285][774]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.02.28-12.19.56:285][774]LogBlueprintUserMessages: [AIShootingController_C_1] NOTSEE
+[2020.02.28-12.19.56:385][780]LogBlueprintUserMessages: [AIShootingController_C_0] NOISE
+[2020.02.28-12.19.56:385][780]LogBlueprintUserMessages: [AIShootingController_C_0] NOTSEE
+[2020.02.28-12.19.56:385][780]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.02.28-12.19.56:385][780]LogBlueprintUserMessages: [AIShootingController_C_1] NOTSEE
+[2020.02.28-12.19.56:481][785]LogBlueprintUserMessages: [AIShootingController_C_0] NOISE
+[2020.02.28-12.19.56:481][785]LogBlueprintUserMessages: [AIShootingController_C_0] NOTSEE
+[2020.02.28-12.19.56:481][785]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.02.28-12.19.56:481][785]LogBlueprintUserMessages: [AIShootingController_C_1] NOTSEE
+[2020.02.28-12.19.56:582][791]LogBlueprintUserMessages: [AIShootingController_C_0] NOISE
+[2020.02.28-12.19.56:583][791]LogBlueprintUserMessages: [AIShootingController_C_0] NOTSEE
+[2020.02.28-12.19.56:583][791]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.02.28-12.19.56:583][791]LogBlueprintUserMessages: [AIShootingController_C_1] NOTSEE
+[2020.02.28-12.19.56:664][796]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2020.02.28-12.19.56:684][797]LogBlueprintUserMessages: [AIShootingController_C_0] NOISE
+[2020.02.28-12.19.56:684][797]LogBlueprintUserMessages: [AIShootingController_C_0] NOTSEE
+[2020.02.28-12.19.56:684][797]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.02.28-12.19.56:684][797]LogBlueprintUserMessages: [AIShootingController_C_1] NOTSEE
+[2020.02.28-12.19.56:769][802]LogBlueprintUserMessages: [AIShootingController_C_0] NOISE
+[2020.02.28-12.19.56:769][802]LogBlueprintUserMessages: [AIShootingController_C_0] NOTSEE
+[2020.02.28-12.19.56:769][802]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.02.28-12.19.56:769][802]LogBlueprintUserMessages: [AIShootingController_C_1] NOTSEE
+[2020.02.28-12.19.56:872][808]LogBlueprintUserMessages: [AIShootingController_C_0] NOISE
+[2020.02.28-12.19.56:872][808]LogBlueprintUserMessages: [AIShootingController_C_0] NOTSEE
+[2020.02.28-12.19.56:872][808]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.02.28-12.19.56:872][808]LogBlueprintUserMessages: [AIShootingController_C_1] NOTSEE
+[2020.02.28-12.19.56:976][814]LogBlueprintUserMessages: [AIShootingController_C_0] NOISE
+[2020.02.28-12.19.56:976][814]LogBlueprintUserMessages: [AIShootingController_C_0] NOTSEE
+[2020.02.28-12.19.56:977][814]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.02.28-12.19.56:977][814]LogBlueprintUserMessages: [AIShootingController_C_1] NOTSEE
+[2020.02.28-12.19.57:081][820]LogBlueprintUserMessages: [AIShootingController_C_0] NOISE
+[2020.02.28-12.19.57:081][820]LogBlueprintUserMessages: [AIShootingController_C_0] NOTSEE
+[2020.02.28-12.19.57:081][820]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.02.28-12.19.57:081][820]LogBlueprintUserMessages: [AIShootingController_C_1] NOTSEE
+[2020.02.28-12.19.57:178][826]LogBlueprintUserMessages: [AIShootingController_C_0] NOISE
+[2020.02.28-12.19.57:178][826]LogBlueprintUserMessages: [AIShootingController_C_0] NOTSEE
+[2020.02.28-12.19.57:178][826]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.02.28-12.19.57:178][826]LogBlueprintUserMessages: [AIShootingController_C_1] NOTSEE
+[2020.02.28-12.19.57:280][832]LogBlueprintUserMessages: [AIShootingController_C_0] NOISE
+[2020.02.28-12.19.57:280][832]LogBlueprintUserMessages: [AIShootingController_C_0] NOTSEE
+[2020.02.28-12.19.57:281][832]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.02.28-12.19.57:281][832]LogBlueprintUserMessages: [AIShootingController_C_1] NOTSEE
+[2020.02.28-12.19.57:362][837]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2020.02.28-12.19.57:382][838]LogBlueprintUserMessages: [AIShootingController_C_0] NOISE
+[2020.02.28-12.19.57:382][838]LogBlueprintUserMessages: [AIShootingController_C_0] NOTSEE
+[2020.02.28-12.19.57:382][838]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.02.28-12.19.57:382][838]LogBlueprintUserMessages: [AIShootingController_C_1] NOTSEE
+[2020.02.28-12.19.57:467][843]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2020.02.28-12.19.57:486][844]LogBlueprintUserMessages: [AIShootingController_C_0] NOISE
+[2020.02.28-12.19.57:486][844]LogBlueprintUserMessages: [AIShootingController_C_0] NOTSEE
+[2020.02.28-12.19.57:486][844]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.02.28-12.19.57:486][844]LogBlueprintUserMessages: [AIShootingController_C_1] NOTSEE
+[2020.02.28-12.19.57:586][849]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2020.02.28-12.19.57:586][849]LogBlueprintUserMessages: [AIShootingController_C_0] NOISE
+[2020.02.28-12.19.57:586][849]LogBlueprintUserMessages: [AIShootingController_C_0] NOTSEE
+[2020.02.28-12.19.57:586][849]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.02.28-12.19.57:586][849]LogBlueprintUserMessages: [AIShootingController_C_1] NOTSEE
+[2020.02.28-12.19.57:675][854]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2020.02.28-12.19.57:675][854]LogBlueprintUserMessages: [AIShootingController_C_0] NOISE
+[2020.02.28-12.19.57:675][854]LogBlueprintUserMessages: [AIShootingController_C_0] NOTSEE
+[2020.02.28-12.19.57:675][854]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.02.28-12.19.57:675][854]LogBlueprintUserMessages: [AIShootingController_C_1] NOTSEE
+[2020.02.28-12.19.57:757][859]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2020.02.28-12.19.58:346][895]LogBlueprintUserMessages: [Flee_C_3] FAILSEE
+[2020.02.28-12.19.58:412][899]LogBlueprintUserMessages: [Flee_C_3] FAILSEE
+[2020.02.28-12.19.59:700][989]LogBlueprintUserMessages: [AIShootingController_C_0] NOISE
+[2020.02.28-12.19.59:700][989]LogBlueprintUserMessages: [AIShootingController_C_0] NOTSEE
+[2020.02.28-12.19.59:700][989]LogBlueprintUserMessages: [AIShootingController_C_1] NOISE
+[2020.02.28-12.20.04:699][394]LogNet: Browse: /Game/Levels/LV4/Level4_3
+[2020.02.28-12.20.04:699][394]LogLoad: LoadMap: /Game/Levels/LV4/Level4_3
+[2020.02.28-12.20.04:699][394]LogWorld: BeginTearingDown for /Game/Levels/LV4/UEDPIE_0_Level4_2
+[2020.02.28-12.20.04:701][394]LogWorld: UWorld::CleanupWorld for Level4_2, bSessionEnded=true, bCleanupResources=true
+[2020.02.28-12.20.04:796][394]LogUObjectHash: Compacting FUObjectHashTables data took   5.61ms
+[2020.02.28-12.20.05:086][394]LogAIModule: Creating AISystem for world Level4_3
+[2020.02.28-12.20.05:086][394]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.28-12.20.05:098][394]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.02.28-12.20.05:154][394]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.02.28-12.20.05:162][394]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.20.05:168][394]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.20.05:174][394]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.20.05:181][394]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.20.05:187][394]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.20.05:193][394]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.20.05:199][394]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.20.05:205][394]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.20.05:211][394]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.20.05:219][394]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.20.05:224][394]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.20.05:234][394]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.20.05:240][394]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.20.05:246][394]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.20.05:252][394]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.20.05:258][394]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.20.05:272][394]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.20.05:278][394]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.20.05:285][394]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.20.05:291][394]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.20.05:302][394]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.20.05:308][394]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.20.05:315][394]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.20.05:322][394]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.20.05:327][394]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.20.05:333][394]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.20.05:339][394]PIE: Error: Blueprint Runtime Error: "Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill". Blueprint:  AnimBP_Shooting Function:  Execute Ubergraph Anim BP Shooting Graph:  EventGraph Node:  Set HandWeaponLocation
+[2020.02.28-12.20.05:349][394]LogWorld: Bringing World /Game/Levels/LV4/UEDPIE_0_Level4_3.Level4_3 up for play (max tick rate 0) at 2020.02.28-13.20.05
+[2020.02.28-12.20.05:374][394]LogWorld: Bringing up level for play took: 0.287257
+[2020.02.28-12.20.05:449][394]LogLoad: Took 0.749876 seconds to LoadMap(/Game/Levels/LV4/Level4_3)
+[2020.02.28-12.20.06:990][469]LogBlueprintUserMessages: [AISlaveController_C_1] 3219.249512
+[2020.02.28-12.20.06:990][469]LogBlueprintUserMessages: [AISlaveController_C_1] FUKC
+[2020.02.28-12.20.06:990][469]LogBlueprintUserMessages: [AISlaveController_C_1] Down
+[2020.02.28-12.20.08:939][572]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-12.20.09:008][578]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/LV4/Level4_2.Level4_2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_2.Level4_2:PersistentLevel.Level4_2' with GeneratedClass '/Game/Levels/LV4/Level4_2.Level4_2_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_2.Level4_2:PersistentLevel.Level4_2'
+[2020.02.28-12.20.09:100][578]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.28-12.20.09:100][578]LogWorld: BeginTearingDown for /Game/Levels/LV4/UEDPIE_0_Level4_3
+[2020.02.28-12.20.09:102][578]LogWorld: UWorld::CleanupWorld for Level4_3, bSessionEnded=true, bCleanupResources=true
+[2020.02.28-12.20.09:122][578]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.28-12.20.09:122][578]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/LV4/Level4_2.Level4_2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV4/Level4_2.Level4_2:PersistentLevel.Level4_2' with GeneratedClass '/Game/Levels/LV4/Level4_2.Level4_2_C' with ClassGeneratedBy '/Game/Levels/LV4/Level4_2.Level4_2:PersistentLevel.Level4_2'
+[2020.02.28-12.20.09:189][578]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.28-12.20.09:208][578]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2020.02.28-12.20.09:269][579]LogPlayLevel: Display: Destroying online subsystem :Context_83
+[2020.02.28-12.20.12:109][859]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2020.02.28-12.20.12:179][859]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2020.02.28-12.20.13:077][859]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/Level4_2FE4FF61146FA3D71E954FC8EF21BA490.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LV4/Level4_2.umap'
+[2020.02.28-12.20.13:146][859]LogFileHelpers: Saving map 'Level4_2' took 1.015
+[2020.02.28-12.20.14:132][859]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/ThirdPersonCharacter8B07D1474EB4A895820A6B95A018C434.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
