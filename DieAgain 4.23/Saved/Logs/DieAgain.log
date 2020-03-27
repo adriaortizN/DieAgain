@@ -1323,3 +1323,1033 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.27-12.08.56:738][421]LogSlate: FSceneViewport::OnFocusLost() reason 5
 [2020.03.27-12.08.57:526][460]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
 [2020.03.27-12.08.58:033][487]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.27-12.13.25:296][402]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.27-12.13.33:492][362]LogWindows: LaunchURL http://docs.unrealengine.com/latest/INT/Engine/UI/LevelEditor/Details/Properties/Map/index.html?utm_source=editor&utm_medium=docs&utm_campaign=doc_anchors
+[2020.03.27-12.39.32:390][ 17]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Levels/LV09/Level9_3.Level9_3:PersistentLevel.Level9_3
+[2020.03.27-12.39.33:364][ 18]LogSlate: Took 0.013294 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.03.27-12.39.38:171][301]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MyGameInstance/MyGameInstance.MyGameInstance
+[2020.03.27-12.39.56:915][276]LogUObjectHash: Compacting FUObjectHashTables data took   5.19ms
+[2020.03.27-12.39.56:935][276]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyGameInstance/MyGameInstance" FILE="../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/MyGameInstance/MyGameInstance.uasset" SILENT=true
+[2020.03.27-12.39.57:266][276]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/MyGameInstance03179A2945F2DB9A9803C39F96E6AF55.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/MyGameInstance/MyGameInstance.uasset'
+[2020.03.27-12.46.01:980][687]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2020.03.27-12.46.18:343][687]UATHelper: Packaging (Windows (64-bit)): Running AutomationTool...
+[2020.03.27-12.46.18:343][687]UATHelper: Packaging (Windows (64-bit)): Parsing command line: -ScriptsForProject="E:/DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/DieAgain.uproject" BuildCookRun -nocompile -nocompileeditor -installed -nop4 -project="E:/DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/DieAgain.uproject" -cook -stage -archive -archivedirectory="E:/DieAgain Builds/03-27" -package -clientconfig=Shipping -ue4exe=E:\UE_4.23\Engine\Binaries\Win64\UE4Editor-Cmd.exe -compressed -pak -prereqs -nodebuginfo -manifests -targetplatform=Win64 -build -utf8output
+[2020.03.27-12.46.19:843][761]UATHelper: Packaging (Windows (64-bit)): Setting up ProjectParams for E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\DieAgain.uproject
+[2020.03.27-12.46.22:311][ 56]UATHelper: Packaging (Windows (64-bit)): DieAgain.uproject requires a temporary target.cs to be generated (FMODStudio plugin is enabled)
+[2020.03.27-12.46.25:804][396]UATHelper: Packaging (Windows (64-bit)): ********** BUILD COMMAND STARTED **********
+[2020.03.27-12.46.25:804][396]UATHelper: Packaging (Windows (64-bit)): Running: E:\UE_4.23\Engine\Binaries\DotNET\UnrealBuildTool.exe DieAgain Win64 Shipping -Project="E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\DieAgain.uproject"  "E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\DieAgain.uproject" -NoUBTMakefiles  -remoteini="E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23" -skipdeploy -Manifest="E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\Intermediate\Build\Manifest.xml" -NoHotReload -log="C:\Users\Adrian\AppData\Roaming\Unreal Engine\AutomationTool\Logs\E+UE_4.23\UBT-DieAgain-Win64-Shipping.txt"
+[2020.03.27-12.46.26:805][399]UATHelper: Packaging (Windows (64-bit)):   Using 'git status' to determine working set for adaptive non-unity build (E:\DieAgainProjects\DieAgain GitHub\DieAgain).
+[2020.03.27-12.46.42:894][447]UATHelper: Packaging (Windows (64-bit)):   Target Platform -- Win64
+[2020.03.27-12.46.43:561][449]UATHelper: Packaging (Windows (64-bit)):   Parsing headers for DieAgain
+[2020.03.27-12.46.43:900][450]UATHelper: Packaging (Windows (64-bit)):     Running UnrealHeaderTool "E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\DieAgain.uproject" "E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\Intermediate\Build\Win64\DieAgain\Shipping\DieAgain.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.03.27-12.47.04:760][599]UATHelper: Packaging (Windows (64-bit)):   Reflection code generated for DieAgain in 21,1303844 seconds
+[2020.03.27-12.47.07:069][606]UATHelper: Packaging (Windows (64-bit)):   Writing manifest to E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\Intermediate\Build\Manifest.xml
+[2020.03.27-12.47.07:739][608]UATHelper: Packaging (Windows (64-bit)):   Target is up to date
+[2020.03.27-12.47.07:739][608]UATHelper: Packaging (Windows (64-bit)):   Total execution time: 41,85 seconds
+[2020.03.27-12.47.07:739][608]UATHelper: Packaging (Windows (64-bit)): Took 41,9533996s to run UnrealBuildTool.exe, ExitCode=0
+[2020.03.27-12.47.07:739][608]UATHelper: Packaging (Windows (64-bit)): ********** BUILD COMMAND COMPLETED **********
+[2020.03.27-12.47.07:740][608]UATHelper: Packaging (Windows (64-bit)): ********** COOK COMMAND STARTED **********
+[2020.03.27-12.47.07:740][608]UATHelper: Packaging (Windows (64-bit)): Running UE4Editor Cook for project E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\DieAgain.uproject
+[2020.03.27-12.47.07:740][608]UATHelper: Packaging (Windows (64-bit)): Commandlet log file is E:\UE_4.23\Engine\Programs\AutomationTool\Saved\Cook-2020.03.27-13.47.07.txt
+[2020.03.27-12.47.07:740][608]UATHelper: Packaging (Windows (64-bit)): Running: E:\UE_4.23\Engine\Binaries\Win64\UE4Editor-Cmd.exe "E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\DieAgain.uproject" -run=Cook  -TargetPlatform=WindowsNoEditor -fileopenlog -unversioned -manifests -abslog=E:\UE_4.23\Engine\Programs\AutomationTool\Saved\Cook-2020.03.27-13.47.07.txt -stdout -CrashForUAT -unattended -NoLogTimes  -UTF8Output
+[2020.03.27-12.47.10:072][615]UATHelper: Packaging (Windows (64-bit)):   LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+[2020.03.27-12.47.10:073][615]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Running engine for game: DieAgain
+[2020.03.27-12.47.18:423][640]UATHelper: Packaging (Windows (64-bit)):   LogHAL: Display: Platform has ~ 8 GB [8548724736 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.03.27-12.47.20:781][647]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.03.27-12.47.20:781][647]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.03.27-12.47.20:781][647]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.03.27-12.47.20:782][647]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.03.27-12.47.20:782][647]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.03.27-12.47.20:782][647]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.03.27-12.47.20:782][647]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.03.27-12.47.20:783][647]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.03.27-12.47.20:784][647]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.03.27-12.47.20:784][647]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.03.27-12.47.20:784][647]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.03.27-12.47.20:784][647]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.03.27-12.47.20:784][647]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.03.27-12.47.20:785][647]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.03.27-12.47.20:785][647]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.03.27-12.47.20:785][647]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.03.27-12.47.20:786][647]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.03.27-12.47.20:786][647]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.03.27-12.47.20:786][647]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.03.27-12.47.20:786][647]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.03.27-12.47.20:786][647]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.03.27-12.47.20:787][647]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.03.27-12.47.20:787][647]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.03.27-12.47.20:787][647]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.03.27-12.47.20:787][647]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.03.27-12.47.20:787][647]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.03.27-12.47.20:788][647]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.03.27-12.47.20:788][647]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.03.27-12.47.21:118][648]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.03.27-12.47.21:118][648]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.03.27-12.47.21:119][648]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.03.27-12.47.21:119][648]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.03.27-12.47.21:119][648]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.03.27-12.47.21:119][648]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.03.27-12.47.21:120][648]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.03.27-12.47.21:120][648]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.03.27-12.47.21:120][648]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.03.27-12.47.21:120][648]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.03.27-12.47.21:120][648]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Building Assets For WindowsNoEditor
+[2020.03.27-12.47.21:120][648]UATHelper: Packaging (Windows (64-bit)):   LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.03.27-12.47.21:784][650]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.03.27-12.47.22:787][653]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.03.27-12.47.23:122][654]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Adrian/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2020.03.27-12.47.23:454][655]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.03.27-12.47.47:552][727]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.03.27-12.47.47:552][727]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Mobile HDR setting 1
+[2020.03.27-12.47.47:552][727]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Creating asset registry
+[2020.03.27-12.48.04:654][778]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Discovering localized assets
+[2020.03.27-12.48.04:654][778]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked content cleared for platform WindowsNoEditor
+[2020.03.27-12.48.27:465][846]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Unable to read previous cook inisettings for platform WindowsNoEditor invalidating cook
+[2020.03.27-12.48.27:797][847]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Sandbox cleanup took 23.159 seconds for platforms WindowsNoEditor  iterative false
+[2020.03.27-12.48.29:797][853]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 0 Packages Remain 278 Total 278
+[2020.03.27-12.48.30:474][855]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 50 Packages Remain 278 Total 328
+[2020.03.27-12.48.31:144][857]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 100 Packages Remain 277 Total 377
+[2020.03.27-12.48.56:574][933]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 150 Packages Remain 873 Total 1023
+[2020.03.27-12.48.57:239][935]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 200 Packages Remain 872 Total 1072
+[2020.03.27-12.48.57:239][935]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 201 Packages Remain 871 Total 1072
+[2020.03.27-12.48.58:242][938]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 251 Packages Remain 870 Total 1121
+[2020.03.27-12.48.59:243][941]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 301 Packages Remain 869 Total 1170
+[2020.03.27-12.49.06:616][963]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 351 Packages Remain 867 Total 1218
+[2020.03.27-12.49.07:613][965]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Warning: C:/Users/Adrian/AppData/Local/UnrealEngine/Common/DerivedDataCache is very slow (0.02MB/s) when accessing C:/Users/Adrian/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/9/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_DB913DFE44569788FEDF7A84CC244__02909E99D232E9280A052FB6F64168D443C274F7.udd, consider disabling it.
+[2020.03.27-12.49.07:613][965]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Warning: C:/Users/Adrian/AppData/Local/UnrealEngine/Common/DerivedDataCache is very slow (0.02MB/s) when accessing C:/Users/Adrian/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/2/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_4B9E72904490410C048B71A71C36F__17489E9184C5440ECAA9ED37F14AB95BD663C2FB.udd, consider disabling it.
+[2020.03.27-12.49.07:614][965]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Warning: C:/Users/Adrian/AppData/Local/UnrealEngine/Common/DerivedDataCache is very slow (0.33MB/s) when accessing C:/Users/Adrian/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/7/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_4B9E72904490410C048B71A71C36F__F5DF8B45B09FF2FAA07B5CB725D28312802FBE5E.udd, consider disabling it.
+[2020.03.27-12.49.07:614][965]PackagingResults: Warning: C:/Users/Adrian/AppData/Local/UnrealEngine/Common/DerivedDataCache is very slow (0.02MB/s) when accessing C:/Users/Adrian/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/9/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_DB913DFE44569788FEDF7A84CC244__02909E99D232E9280A052FB6F64168D443C274F7.udd, consider disabling it.
+[2020.03.27-12.49.07:615][965]PackagingResults: Warning: C:/Users/Adrian/AppData/Local/UnrealEngine/Common/DerivedDataCache is very slow (0.02MB/s) when accessing C:/Users/Adrian/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/2/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_4B9E72904490410C048B71A71C36F__17489E9184C5440ECAA9ED37F14AB95BD663C2FB.udd, consider disabling it.
+[2020.03.27-12.49.07:667][965]PackagingResults: Warning: C:/Users/Adrian/AppData/Local/UnrealEngine/Common/DerivedDataCache is very slow (0.33MB/s) when accessing C:/Users/Adrian/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/7/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_4B9E72904490410C048B71A71C36F__F5DF8B45B09FF2FAA07B5CB725D28312802FBE5E.udd, consider disabling it.
+[2020.03.27-12.49.09:282][970]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Warning: C:/Users/Adrian/AppData/Local/UnrealEngine/Common/DerivedDataCache is very slow (0.07MB/s) when accessing C:/Users/Adrian/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/4/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_4B9E72904490410C048B71A71C36F__AC777233D974D38E4F2C19D595C082C9A2B1FA47.udd, consider disabling it.
+[2020.03.27-12.49.09:282][970]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Warning: C:/Users/Adrian/AppData/Local/UnrealEngine/Common/DerivedDataCache is very slow (0.00MB/s) when accessing C:/Users/Adrian/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/6/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_4B9E72904490410C048B71A71C36F__463D2FB04FA6385C4430F0078E69D874843FB72A.udd, consider disabling it.
+[2020.03.27-12.49.09:283][970]PackagingResults: Warning: C:/Users/Adrian/AppData/Local/UnrealEngine/Common/DerivedDataCache is very slow (0.07MB/s) when accessing C:/Users/Adrian/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/4/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_4B9E72904490410C048B71A71C36F__AC777233D974D38E4F2C19D595C082C9A2B1FA47.udd, consider disabling it.
+[2020.03.27-12.49.09:283][970]PackagingResults: Warning: C:/Users/Adrian/AppData/Local/UnrealEngine/Common/DerivedDataCache is very slow (0.00MB/s) when accessing C:/Users/Adrian/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/6/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_4B9E72904490410C048B71A71C36F__463D2FB04FA6385C4430F0078E69D874843FB72A.udd, consider disabling it.
+[2020.03.27-12.49.11:964][979]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 401 Packages Remain 866 Total 1267
+[2020.03.27-12.49.14:975][988]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 451 Packages Remain 866 Total 1317
+[2020.03.27-12.49.16:313][992]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 501 Packages Remain 865 Total 1366
+[2020.03.27-12.49.17:650][996]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 551 Packages Remain 865 Total 1416
+[2020.03.27-12.49.18:325][998]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 601 Packages Remain 727 Total 1328
+[2020.03.27-12.49.19:647][  2]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 651 Packages Remain 725 Total 1376
+[2020.03.27-12.49.20:319][  4]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 701 Packages Remain 724 Total 1425
+[2020.03.27-12.49.21:320][  7]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 751 Packages Remain 724 Total 1475
+[2020.03.27-12.49.22:321][ 10]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 801 Packages Remain 723 Total 1524
+[2020.03.27-12.49.22:321][ 10]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 813 Packages Remain 722 Total 1535
+[2020.03.27-12.49.23:665][ 14]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 818 Packages Remain 721 Total 1539
+[2020.03.27-12.49.23:665][ 14]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 819 Packages Remain 720 Total 1539
+[2020.03.27-12.49.24:003][ 15]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 825 Packages Remain 719 Total 1544
+[2020.03.27-12.49.30:388][ 34]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Loading secondary levels for package 'Level10_Walk2'
+[2020.03.27-12.49.45:832][ 80]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 840 Packages Remain 1158 Total 1998
+[2020.03.27-12.49.47:173][ 84]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 890 Packages Remain 1158 Total 2048
+[2020.03.27-12.49.50:519][ 94]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 940 Packages Remain 1158 Total 2098
+[2020.03.27-12.49.56:884][113]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 990 Packages Remain 1177 Total 2167
+[2020.03.27-12.50.02:238][128]UATHelper: Packaging (Windows (64-bit)):   LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update Curve_GoodSky_BaseCloudColor
+[2020.03.27-12.50.02:238][128]UATHelper: Packaging (Windows (64-bit)):   LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update Curve_GoodSky_AllOverlayColor
+[2020.03.27-12.50.02:239][128]UATHelper: Packaging (Windows (64-bit)):   LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update Curve_GoodSky_horizon_Color
+[2020.03.27-12.50.02:239][128]UATHelper: Packaging (Windows (64-bit)):   LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update Curve_GoodSky_DomeColor
+[2020.03.27-12.50.02:239][128]PackagingResults: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update Curve_GoodSky_BaseCloudColor
+[2020.03.27-12.50.02:240][128]PackagingResults: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update Curve_GoodSky_AllOverlayColor
+[2020.03.27-12.50.02:240][128]PackagingResults: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update Curve_GoodSky_horizon_Color
+[2020.03.27-12.50.02:240][128]PackagingResults: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update Curve_GoodSky_DomeColor
+[2020.03.27-12.50.05:587][139]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 1040 Packages Remain 1289 Total 2329
+[2020.03.27-12.50.06:592][142]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 1090 Packages Remain 1289 Total 2379
+[2020.03.27-12.50.10:609][154]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 1140 Packages Remain 1301 Total 2441
+[2020.03.27-12.50.11:271][155]UATHelper: Packaging (Windows (64-bit)):   LogScript: Warning: Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill
+[2020.03.27-12.50.11:271][155]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.50.11:271][155]UATHelper: Packaging (Windows (64-bit)):   	AnimBP_Shooting_C /Game/Levels/LV09/Level9_5.Level9_5:PersistentLevel.EnemyShootingCh23.SkeletalMesh.AnimBP_Shooting_C_0
+[2020.03.27-12.50.11:272][155]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.50.11:272][155]UATHelper: Packaging (Windows (64-bit)):   	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:ExecuteUbergraph_AnimBP_Shooting:02F0
+[2020.03.27-12.50.11:272][155]UATHelper: Packaging (Windows (64-bit)):   LogScript: Warning: Script call stack:
+[2020.03.27-12.50.11:273][155]UATHelper: Packaging (Windows (64-bit)):   	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:BlueprintUpdateAnimation
+[2020.03.27-12.50.11:274][155]UATHelper: Packaging (Windows (64-bit)):   	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:ExecuteUbergraph_AnimBP_Shooting
+[2020.03.27-12.50.11:274][155]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.50.11:274][155]UATHelper: Packaging (Windows (64-bit)):   LogScript: Warning: Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill
+[2020.03.27-12.50.11:275][155]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.50.11:275][155]UATHelper: Packaging (Windows (64-bit)):   	AnimBP_Shooting_C /Game/Levels/LV09/Level9_5.Level9_5:PersistentLevel.EnemyShootingCh24.SkeletalMesh.AnimBP_Shooting_C_0
+[2020.03.27-12.50.11:275][155]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.50.11:275][155]UATHelper: Packaging (Windows (64-bit)):   	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:ExecuteUbergraph_AnimBP_Shooting:02F0
+[2020.03.27-12.50.11:276][155]UATHelper: Packaging (Windows (64-bit)):   LogScript: Warning: Script call stack:
+[2020.03.27-12.50.11:276][155]UATHelper: Packaging (Windows (64-bit)):   	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:BlueprintUpdateAnimation
+[2020.03.27-12.50.11:276][155]UATHelper: Packaging (Windows (64-bit)):   	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:ExecuteUbergraph_AnimBP_Shooting
+[2020.03.27-12.50.11:276][155]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.50.11:276][155]UATHelper: Packaging (Windows (64-bit)):   LogScript: Warning: Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill
+[2020.03.27-12.50.11:277][155]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.50.11:277][155]UATHelper: Packaging (Windows (64-bit)):   	AnimBP_Shooting_C /Game/Levels/LV09/Level9_5.Level9_5:PersistentLevel.EnemyShootingCh5.SkeletalMesh.AnimBP_Shooting_C_0
+[2020.03.27-12.50.11:277][155]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.50.11:277][155]UATHelper: Packaging (Windows (64-bit)):   	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:ExecuteUbergraph_AnimBP_Shooting:02F0
+[2020.03.27-12.50.11:278][155]UATHelper: Packaging (Windows (64-bit)):   LogScript: Warning: Script call stack:
+[2020.03.27-12.50.11:278][155]UATHelper: Packaging (Windows (64-bit)):   	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:BlueprintUpdateAnimation
+[2020.03.27-12.50.11:278][155]UATHelper: Packaging (Windows (64-bit)):   	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:ExecuteUbergraph_AnimBP_Shooting
+[2020.03.27-12.50.11:279][155]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.50.11:279][155]UATHelper: Packaging (Windows (64-bit)):   LogScript: Warning: Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill
+[2020.03.27-12.50.11:279][155]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.50.11:279][155]UATHelper: Packaging (Windows (64-bit)):   	AnimBP_Shooting_C /Game/Levels/LV09/Level9_5.Level9_5:PersistentLevel.EnemyShootingCh6.SkeletalMesh.AnimBP_Shooting_C_0
+[2020.03.27-12.50.11:280][155]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.50.11:280][155]UATHelper: Packaging (Windows (64-bit)):   	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:ExecuteUbergraph_AnimBP_Shooting:02F0
+[2020.03.27-12.50.11:280][155]UATHelper: Packaging (Windows (64-bit)):   LogScript: Warning: Script call stack:
+[2020.03.27-12.50.11:280][155]UATHelper: Packaging (Windows (64-bit)):   	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:BlueprintUpdateAnimation
+[2020.03.27-12.50.11:281][155]UATHelper: Packaging (Windows (64-bit)):   	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:ExecuteUbergraph_AnimBP_Shooting
+[2020.03.27-12.50.11:281][155]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.50.11:281][155]UATHelper: Packaging (Windows (64-bit)):   LogScript: Warning: Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill
+[2020.03.27-12.50.11:282][155]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.50.11:282][155]UATHelper: Packaging (Windows (64-bit)):   	AnimBP_Shooting_C /Game/Levels/LV09/Level9_5.Level9_5:PersistentLevel.EnemyShootingCh7.SkeletalMesh.AnimBP_Shooting_C_0
+[2020.03.27-12.50.11:282][155]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.50.11:282][155]UATHelper: Packaging (Windows (64-bit)):   	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:ExecuteUbergraph_AnimBP_Shooting:02F0
+[2020.03.27-12.50.11:282][155]UATHelper: Packaging (Windows (64-bit)):   LogScript: Warning: Script call stack:
+[2020.03.27-12.50.11:283][155]UATHelper: Packaging (Windows (64-bit)):   	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:BlueprintUpdateAnimation
+[2020.03.27-12.50.11:283][155]UATHelper: Packaging (Windows (64-bit)):   	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:ExecuteUbergraph_AnimBP_Shooting
+[2020.03.27-12.50.11:283][155]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.50.11:283][155]UATHelper: Packaging (Windows (64-bit)):   LogScript: Warning: Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill
+[2020.03.27-12.50.11:284][155]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.50.11:284][155]UATHelper: Packaging (Windows (64-bit)):   	AnimBP_Shooting_C /Game/Levels/LV09/Level9_5.Level9_5:PersistentLevel.EnemyShootingCh8.SkeletalMesh.AnimBP_Shooting_C_0
+[2020.03.27-12.50.11:285][155]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.50.11:285][155]UATHelper: Packaging (Windows (64-bit)):   	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:ExecuteUbergraph_AnimBP_Shooting:02F0
+[2020.03.27-12.50.11:285][155]UATHelper: Packaging (Windows (64-bit)):   LogScript: Warning: Script call stack:
+[2020.03.27-12.50.11:286][155]UATHelper: Packaging (Windows (64-bit)):   	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:BlueprintUpdateAnimation
+[2020.03.27-12.50.11:286][155]UATHelper: Packaging (Windows (64-bit)):   	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:ExecuteUbergraph_AnimBP_Shooting
+[2020.03.27-12.50.11:286][155]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.50.11:286][155]UATHelper: Packaging (Windows (64-bit)):   LogScript: Warning: Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill
+[2020.03.27-12.50.11:287][155]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.50.11:287][155]UATHelper: Packaging (Windows (64-bit)):   	AnimBP_Shooting_C /Game/Levels/LV09/Level9_5.Level9_5:PersistentLevel.EnemyShootingCh9.SkeletalMesh.AnimBP_Shooting_C_0
+[2020.03.27-12.50.11:287][155]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.50.11:287][155]UATHelper: Packaging (Windows (64-bit)):   	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:ExecuteUbergraph_AnimBP_Shooting:02F0
+[2020.03.27-12.50.11:288][155]UATHelper: Packaging (Windows (64-bit)):   LogScript: Warning: Script call stack:
+[2020.03.27-12.50.11:288][155]UATHelper: Packaging (Windows (64-bit)):   	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:BlueprintUpdateAnimation
+[2020.03.27-12.50.11:288][155]UATHelper: Packaging (Windows (64-bit)):   	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:ExecuteUbergraph_AnimBP_Shooting
+[2020.03.27-12.50.11:288][155]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.50.11:288][155]UATHelper: Packaging (Windows (64-bit)):   LogScript: Warning: Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill
+[2020.03.27-12.50.11:289][155]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.50.11:289][155]UATHelper: Packaging (Windows (64-bit)):   	AnimBP_Shooting_C /Game/Levels/LV09/Level9_5.Level9_5:PersistentLevel.EnemyShootingCh10.SkeletalMesh.AnimBP_Shooting_C_0
+[2020.03.27-12.50.11:289][155]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.50.11:290][155]UATHelper: Packaging (Windows (64-bit)):   	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:ExecuteUbergraph_AnimBP_Shooting:02F0
+[2020.03.27-12.50.11:290][155]UATHelper: Packaging (Windows (64-bit)):   LogScript: Warning: Script call stack:
+[2020.03.27-12.50.11:291][155]PackagingResults: Warning: Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill
+[2020.03.27-12.50.11:292][155]UATHelper: Packaging (Windows (64-bit)):   	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:BlueprintUpdateAnimation
+[2020.03.27-12.50.11:292][155]UATHelper: Packaging (Windows (64-bit)):   	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:ExecuteUbergraph_AnimBP_Shooting
+[2020.03.27-12.50.11:292][155]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.50.11:292][155]PackagingResults: Warning: Script call stack:
+[2020.03.27-12.50.11:293][155]PackagingResults: Warning: Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill
+[2020.03.27-12.50.11:293][155]PackagingResults: Warning: Script call stack:
+[2020.03.27-12.50.11:293][155]PackagingResults: Warning: Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill
+[2020.03.27-12.50.11:293][155]PackagingResults: Warning: Script call stack:
+[2020.03.27-12.50.11:293][155]PackagingResults: Warning: Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill
+[2020.03.27-12.50.11:294][155]PackagingResults: Warning: Script call stack:
+[2020.03.27-12.50.11:294][155]PackagingResults: Warning: Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill
+[2020.03.27-12.50.11:294][155]PackagingResults: Warning: Script call stack:
+[2020.03.27-12.50.11:294][155]PackagingResults: Warning: Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill
+[2020.03.27-12.50.11:295][155]PackagingResults: Warning: Script call stack:
+[2020.03.27-12.50.11:295][155]PackagingResults: Warning: Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill
+[2020.03.27-12.50.11:295][155]PackagingResults: Warning: Script call stack:
+[2020.03.27-12.50.11:296][155]PackagingResults: Warning: Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill
+[2020.03.27-12.50.11:296][155]PackagingResults: Warning: Script call stack:
+[2020.03.27-12.50.11:302][156]UATHelper: Packaging (Windows (64-bit)):   LogScript: Warning: Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill
+[2020.03.27-12.50.11:302][156]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.50.11:302][156]UATHelper: Packaging (Windows (64-bit)):   	AnimBP_Shooting_C /Game/Levels/LV09/Level9_5.Level9_5:PersistentLevel.EnemyShootingCh11.SkeletalMesh.AnimBP_Shooting_C_0
+[2020.03.27-12.50.11:303][156]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.50.11:303][156]UATHelper: Packaging (Windows (64-bit)):   	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:ExecuteUbergraph_AnimBP_Shooting:02F0
+[2020.03.27-12.50.11:304][156]UATHelper: Packaging (Windows (64-bit)):   LogScript: Warning: Script call stack:
+[2020.03.27-12.50.11:304][156]UATHelper: Packaging (Windows (64-bit)):   	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:BlueprintUpdateAnimation
+[2020.03.27-12.50.11:304][156]UATHelper: Packaging (Windows (64-bit)):   	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:ExecuteUbergraph_AnimBP_Shooting
+[2020.03.27-12.50.11:305][156]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.50.11:305][156]PackagingResults: Warning: Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill
+[2020.03.27-12.50.11:305][156]PackagingResults: Warning: Script call stack:
+[2020.03.27-12.50.11:605][156]UATHelper: Packaging (Windows (64-bit)):   LogScript: Warning: Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill
+[2020.03.27-12.50.11:605][156]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.50.11:605][156]UATHelper: Packaging (Windows (64-bit)):   	AnimBP_Shooting_C /Game/Levels/LV09/Level9_5.Level9_5:PersistentLevel.EnemyShootingCh12.SkeletalMesh.AnimBP_Shooting_C_0
+[2020.03.27-12.50.11:606][156]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.50.11:606][156]UATHelper: Packaging (Windows (64-bit)):   	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:ExecuteUbergraph_AnimBP_Shooting:02F0
+[2020.03.27-12.50.11:606][156]UATHelper: Packaging (Windows (64-bit)):   LogScript: Warning: Script call stack:
+[2020.03.27-12.50.11:606][156]UATHelper: Packaging (Windows (64-bit)):   	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:BlueprintUpdateAnimation
+[2020.03.27-12.50.11:607][156]UATHelper: Packaging (Windows (64-bit)):   	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:ExecuteUbergraph_AnimBP_Shooting
+[2020.03.27-12.50.11:607][156]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.50.11:607][156]UATHelper: Packaging (Windows (64-bit)):   LogScript: Warning: Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill
+[2020.03.27-12.50.11:608][156]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.50.11:608][156]UATHelper: Packaging (Windows (64-bit)):   	AnimBP_Shooting_C /Game/Levels/LV09/Level9_5.Level9_5:PersistentLevel.EnemyShootingCh13.SkeletalMesh.AnimBP_Shooting_C_0
+[2020.03.27-12.50.11:608][156]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.50.11:608][156]UATHelper: Packaging (Windows (64-bit)):   	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:ExecuteUbergraph_AnimBP_Shooting:02F0
+[2020.03.27-12.50.11:608][156]UATHelper: Packaging (Windows (64-bit)):   LogScript: Warning: Script call stack:
+[2020.03.27-12.50.11:608][156]UATHelper: Packaging (Windows (64-bit)):   	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:BlueprintUpdateAnimation
+[2020.03.27-12.50.11:609][156]UATHelper: Packaging (Windows (64-bit)):   	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:ExecuteUbergraph_AnimBP_Shooting
+[2020.03.27-12.50.11:609][156]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.50.11:609][156]UATHelper: Packaging (Windows (64-bit)):   LogScript: Warning: Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill
+[2020.03.27-12.50.11:609][156]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.50.11:609][156]UATHelper: Packaging (Windows (64-bit)):   	AnimBP_Shooting_C /Game/Levels/LV09/Level9_5.Level9_5:PersistentLevel.EnemyShootingCh14.SkeletalMesh.AnimBP_Shooting_C_0
+[2020.03.27-12.50.11:610][156]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.50.11:610][156]UATHelper: Packaging (Windows (64-bit)):   	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:ExecuteUbergraph_AnimBP_Shooting:02F0
+[2020.03.27-12.50.11:610][156]UATHelper: Packaging (Windows (64-bit)):   LogScript: Warning: Script call stack:
+[2020.03.27-12.50.11:610][156]UATHelper: Packaging (Windows (64-bit)):   	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:BlueprintUpdateAnimation
+[2020.03.27-12.50.11:611][156]UATHelper: Packaging (Windows (64-bit)):   	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:ExecuteUbergraph_AnimBP_Shooting
+[2020.03.27-12.50.11:611][156]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.50.11:611][156]UATHelper: Packaging (Windows (64-bit)):   LogScript: Warning: Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill
+[2020.03.27-12.50.11:612][156]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.50.11:612][156]UATHelper: Packaging (Windows (64-bit)):   	AnimBP_Shooting_C /Game/Levels/LV09/Level9_5.Level9_5:PersistentLevel.EnemyShootingCh15.SkeletalMesh.AnimBP_Shooting_C_0
+[2020.03.27-12.50.11:612][156]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.50.11:612][156]UATHelper: Packaging (Windows (64-bit)):   	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:ExecuteUbergraph_AnimBP_Shooting:02F0
+[2020.03.27-12.50.11:613][156]UATHelper: Packaging (Windows (64-bit)):   LogScript: Warning: Script call stack:
+[2020.03.27-12.50.11:613][156]UATHelper: Packaging (Windows (64-bit)):   	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:BlueprintUpdateAnimation
+[2020.03.27-12.50.11:613][156]UATHelper: Packaging (Windows (64-bit)):   	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:ExecuteUbergraph_AnimBP_Shooting
+[2020.03.27-12.50.11:614][156]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.50.11:614][156]UATHelper: Packaging (Windows (64-bit)):   LogScript: Warning: Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill
+[2020.03.27-12.50.11:614][156]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.50.11:614][156]UATHelper: Packaging (Windows (64-bit)):   	AnimBP_Shooting_C /Game/Levels/LV09/Level9_5.Level9_5:PersistentLevel.EnemyShootingCh16.SkeletalMesh.AnimBP_Shooting_C_0
+[2020.03.27-12.50.11:615][156]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.50.11:615][156]UATHelper: Packaging (Windows (64-bit)):   	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:ExecuteUbergraph_AnimBP_Shooting:02F0
+[2020.03.27-12.50.11:615][156]UATHelper: Packaging (Windows (64-bit)):   LogScript: Warning: Script call stack:
+[2020.03.27-12.50.11:615][156]UATHelper: Packaging (Windows (64-bit)):   	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:BlueprintUpdateAnimation
+[2020.03.27-12.50.11:616][156]UATHelper: Packaging (Windows (64-bit)):   	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:ExecuteUbergraph_AnimBP_Shooting
+[2020.03.27-12.50.11:616][156]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.50.11:616][156]UATHelper: Packaging (Windows (64-bit)):   LogScript: Warning: Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill
+[2020.03.27-12.50.11:616][156]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.50.11:617][156]UATHelper: Packaging (Windows (64-bit)):   	AnimBP_Shooting_C /Game/Levels/LV09/Level9_5.Level9_5:PersistentLevel.EnemyShootingCh17.SkeletalMesh.AnimBP_Shooting_C_0
+[2020.03.27-12.50.11:617][156]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.50.11:617][156]UATHelper: Packaging (Windows (64-bit)):   	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:ExecuteUbergraph_AnimBP_Shooting:02F0
+[2020.03.27-12.50.11:617][156]UATHelper: Packaging (Windows (64-bit)):   LogScript: Warning: Script call stack:
+[2020.03.27-12.50.11:618][156]UATHelper: Packaging (Windows (64-bit)):   	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:BlueprintUpdateAnimation
+[2020.03.27-12.50.11:618][156]UATHelper: Packaging (Windows (64-bit)):   	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:ExecuteUbergraph_AnimBP_Shooting
+[2020.03.27-12.50.11:618][156]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.50.11:619][156]UATHelper: Packaging (Windows (64-bit)):   LogScript: Warning: Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill
+[2020.03.27-12.50.11:619][156]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.50.11:619][156]UATHelper: Packaging (Windows (64-bit)):   	AnimBP_Shooting_C /Game/Levels/LV09/Level9_5.Level9_5:PersistentLevel.EnemyShootingCh18.SkeletalMesh.AnimBP_Shooting_C_0
+[2020.03.27-12.50.11:619][156]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.50.11:619][156]UATHelper: Packaging (Windows (64-bit)):   	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:ExecuteUbergraph_AnimBP_Shooting:02F0
+[2020.03.27-12.50.11:620][156]UATHelper: Packaging (Windows (64-bit)):   LogScript: Warning: Script call stack:
+[2020.03.27-12.50.11:620][156]UATHelper: Packaging (Windows (64-bit)):   	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:BlueprintUpdateAnimation
+[2020.03.27-12.50.11:620][156]UATHelper: Packaging (Windows (64-bit)):   	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:ExecuteUbergraph_AnimBP_Shooting
+[2020.03.27-12.50.11:621][156]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.50.11:621][156]UATHelper: Packaging (Windows (64-bit)):   LogScript: Warning: Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill
+[2020.03.27-12.50.11:621][156]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.50.11:621][156]UATHelper: Packaging (Windows (64-bit)):   	AnimBP_Shooting_C /Game/Levels/LV09/Level9_5.Level9_5:PersistentLevel.EnemyShootingCh19_15.SkeletalMesh.AnimBP_Shooting_C_0
+[2020.03.27-12.50.11:621][156]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.50.11:621][156]UATHelper: Packaging (Windows (64-bit)):   	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:ExecuteUbergraph_AnimBP_Shooting:02F0
+[2020.03.27-12.50.11:622][156]UATHelper: Packaging (Windows (64-bit)):   LogScript: Warning: Script call stack:
+[2020.03.27-12.50.11:622][156]UATHelper: Packaging (Windows (64-bit)):   	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:BlueprintUpdateAnimation
+[2020.03.27-12.50.11:622][156]UATHelper: Packaging (Windows (64-bit)):   	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:ExecuteUbergraph_AnimBP_Shooting
+[2020.03.27-12.50.11:622][156]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.50.11:622][156]PackagingResults: Warning: Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill
+[2020.03.27-12.50.11:623][156]PackagingResults: Warning: Script call stack:
+[2020.03.27-12.50.11:623][156]PackagingResults: Warning: Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill
+[2020.03.27-12.50.11:623][156]PackagingResults: Warning: Script call stack:
+[2020.03.27-12.50.11:623][156]PackagingResults: Warning: Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill
+[2020.03.27-12.50.11:624][156]PackagingResults: Warning: Script call stack:
+[2020.03.27-12.50.11:624][156]PackagingResults: Warning: Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill
+[2020.03.27-12.50.11:624][156]PackagingResults: Warning: Script call stack:
+[2020.03.27-12.50.11:624][156]PackagingResults: Warning: Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill
+[2020.03.27-12.50.11:625][156]PackagingResults: Warning: Script call stack:
+[2020.03.27-12.50.11:625][156]PackagingResults: Warning: Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill
+[2020.03.27-12.50.11:625][156]PackagingResults: Warning: Script call stack:
+[2020.03.27-12.50.11:625][156]PackagingResults: Warning: Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill
+[2020.03.27-12.50.11:625][156]PackagingResults: Warning: Script call stack:
+[2020.03.27-12.50.11:626][156]PackagingResults: Warning: Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill
+[2020.03.27-12.50.11:626][156]PackagingResults: Warning: Script call stack:
+[2020.03.27-12.50.13:617][163]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 1190 Packages Remain 1300 Total 2490
+[2020.03.27-12.50.20:647][184]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 1240 Packages Remain 1311 Total 2551
+[2020.03.27-12.50.23:987][194]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 1290 Packages Remain 1310 Total 2600
+[2020.03.27-12.50.28:672][208]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 1340 Packages Remain 1310 Total 2650
+[2020.03.27-12.50.31:011][215]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 1390 Packages Remain 1309 Total 2699
+[2020.03.27-12.50.33:348][222]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 1440 Packages Remain 1309 Total 2749
+[2020.03.27-12.50.35:025][227]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 1490 Packages Remain 1308 Total 2798
+[2020.03.27-12.50.38:040][236]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 1540 Packages Remain 1307 Total 2847
+[2020.03.27-12.50.39:382][240]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 1551 Packages Remain 1306 Total 2857
+[2020.03.27-12.50.49:089][269]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 1589 Packages Remain 1373 Total 2962
+[2020.03.27-12.50.52:428][279]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 1639 Packages Remain 1373 Total 3012
+[2020.03.27-12.50.59:830][301]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 1689 Packages Remain 1465 Total 3154
+[2020.03.27-12.51.01:513][306]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 1739 Packages Remain 1464 Total 3203
+[2020.03.27-12.51.05:856][319]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 1789 Packages Remain 1464 Total 3253
+[2020.03.27-12.51.07:861][325]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 1807 Packages Remain 1463 Total 3270
+[2020.03.27-12.51.43:962][432]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 1839 Packages Remain 1986 Total 3825
+[2020.03.27-12.51.49:309][448]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 1889 Packages Remain 1986 Total 3875
+[2020.03.27-12.52.04:392][493]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 1939 Packages Remain 2296 Total 4235
+[2020.03.27-12.52.05:735][497]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 1989 Packages Remain 2296 Total 4285
+[2020.03.27-12.52.08:735][506]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 2039 Packages Remain 2295 Total 4334
+[2020.03.27-12.52.10:415][511]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 2089 Packages Remain 2294 Total 4383
+[2020.03.27-12.52.18:130][534]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 2139 Packages Remain 2319 Total 4458
+[2020.03.27-12.52.21:139][543]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 2189 Packages Remain 2319 Total 4508
+[2020.03.27-12.52.26:591][727]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 2239 Packages Remain 2330 Total 4569
+[2020.03.27-12.52.31:983][743]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 2289 Packages Remain 2329 Total 4618
+[2020.03.27-12.52.35:996][755]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 2339 Packages Remain 2332 Total 4671
+[2020.03.27-12.52.37:333][758]UATHelper: Packaging (Windows (64-bit)):   LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.03.27-12.52.37:333][758]UATHelper: Packaging (Windows (64-bit)):   LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.27-12.52.37:333][758]UATHelper: Packaging (Windows (64-bit)):   LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.03.27-12.52.37:334][758]UATHelper: Packaging (Windows (64-bit)):   LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.27-12.52.37:334][758]UATHelper: Packaging (Windows (64-bit)):   LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.03.27-12.52.37:334][758]UATHelper: Packaging (Windows (64-bit)):   LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.27-12.52.37:335][758]UATHelper: Packaging (Windows (64-bit)):   LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.03.27-12.52.37:335][758]UATHelper: Packaging (Windows (64-bit)):   LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.27-12.52.37:335][758]PackagingResults: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.03.27-12.52.37:335][758]PackagingResults: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.27-12.52.37:335][758]PackagingResults: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.03.27-12.52.37:336][758]PackagingResults: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.27-12.52.37:336][758]PackagingResults: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.03.27-12.52.37:336][758]PackagingResults: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.27-12.52.37:336][758]PackagingResults: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.03.27-12.52.37:336][758]PackagingResults: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.27-12.52.43:705][778]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 2389 Packages Remain 2331 Total 4720
+[2020.03.27-12.52.55:105][812]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 2439 Packages Remain 2384 Total 4823
+[2020.03.27-12.52.56:782][817]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 2489 Packages Remain 2383 Total 4872
+[2020.03.27-12.53.03:474][837]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 2539 Packages Remain 2387 Total 4926
+[2020.03.27-12.53.07:156][848]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 2589 Packages Remain 2386 Total 4975
+[2020.03.27-12.53.10:503][858]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 2639 Packages Remain 2386 Total 5025
+[2020.03.27-12.53.14:198][869]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 2689 Packages Remain 2385 Total 5074
+[2020.03.27-12.53.20:897][889]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 2739 Packages Remain 2385 Total 5124
+[2020.03.27-12.53.26:599][906]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 2789 Packages Remain 2384 Total 5173
+[2020.03.27-12.53.30:629][918]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 2839 Packages Remain 2384 Total 5223
+[2020.03.27-12.53.35:302][932]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 2889 Packages Remain 2383 Total 5272
+[2020.03.27-12.53.43:008][955]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 2939 Packages Remain 2382 Total 5321
+[2020.03.27-12.53.43:346][956]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 2943 Packages Remain 2381 Total 5324
+[2020.03.27-12.53.47:026][967]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 2951 Packages Remain 2380 Total 5331
+[2020.03.27-12.53.49:382][974]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 2954 Packages Remain 2379 Total 5333
+[2020.03.27-12.53.55:783][993]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 2987 Packages Remain 2431 Total 5418
+[2020.03.27-12.53.58:791][  2]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 3037 Packages Remain 2431 Total 5468
+[2020.03.27-12.53.59:806][  5]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 3043 Packages Remain 2429 Total 5472
+[2020.03.27-12.54.00:139][  6]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 3044 Packages Remain 2428 Total 5472
+[2020.03.27-12.54.03:146][ 15]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 3068 Packages Remain 2427 Total 5495
+[2020.03.27-12.54.03:147][ 15]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 3069 Packages Remain 2426 Total 5495
+[2020.03.27-12.54.06:172][ 24]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 3083 Packages Remain 2425 Total 5508
+[2020.03.27-12.54.06:172][ 24]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 3084 Packages Remain 2424 Total 5508
+[2020.03.27-12.54.07:176][ 27]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 3087 Packages Remain 2424 Total 5511
+[2020.03.27-12.54.09:848][ 35]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 3091 Packages Remain 2423 Total 5514
+[2020.03.27-12.54.10:514][ 37]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 3096 Packages Remain 2422 Total 5518
+[2020.03.27-12.54.10:515][ 37]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 3097 Packages Remain 2421 Total 5518
+[2020.03.27-12.54.20:884][ 68]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 3135 Packages Remain 2543 Total 5678
+[2020.03.27-12.54.21:887][ 71]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 3185 Packages Remain 2542 Total 5727
+[2020.03.27-12.54.35:600][112]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 3235 Packages Remain 2550 Total 5785
+[2020.03.27-12.54.37:843][144]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 3285 Packages Remain 2548 Total 5833
+[2020.03.27-12.54.49:579][179]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 3335 Packages Remain 2704 Total 6039
+[2020.03.27-12.54.52:261][187]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 3385 Packages Remain 2703 Total 6088
+[2020.03.27-12.54.54:598][194]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 3435 Packages Remain 2708 Total 6143
+[2020.03.27-12.54.56:606][200]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 3485 Packages Remain 2707 Total 6192
+[2020.03.27-12.54.59:283][208]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 3526 Packages Remain 2706 Total 6232
+[2020.03.27-12.54.59:284][208]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 3527 Packages Remain 2705 Total 6232
+[2020.03.27-12.55.00:622][212]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 3535 Packages Remain 2706 Total 6241
+[2020.03.27-12.55.05:301][226]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 3535 Packages Remain 2706 Total 6241
+[2020.03.27-12.55.13:366][250]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 3565 Packages Remain 2709 Total 6274
+[2020.03.27-12.55.13:704][251]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 3566 Packages Remain 2707 Total 6273
+[2020.03.27-12.55.17:736][263]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 3575 Packages Remain 2706 Total 6281
+[2020.03.27-12.55.18:070][264]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 3576 Packages Remain 2705 Total 6281
+[2020.03.27-12.55.22:088][276]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 3605 Packages Remain 2704 Total 6309
+[2020.03.27-12.55.24:425][283]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 3616 Packages Remain 2703 Total 6319
+[2020.03.27-12.55.24:425][283]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 3617 Packages Remain 2701 Total 6318
+[2020.03.27-12.55.25:766][287]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 3619 Packages Remain 2700 Total 6319
+[2020.03.27-12.55.25:767][287]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 3620 Packages Remain 2699 Total 6319
+[2020.03.27-12.55.27:782][293]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 3625 Packages Remain 2709 Total 6334
+[2020.03.27-12.55.52:034][389]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 3659 Packages Remain 2708 Total 6367
+[2020.03.27-12.55.52:709][391]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 3667 Packages Remain 2707 Total 6374
+[2020.03.27-12.55.52:710][391]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 3668 Packages Remain 2706 Total 6374
+[2020.03.27-12.55.52:710][391]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 3669 Packages Remain 2619 Total 6288
+[2020.03.27-12.55.53:048][392]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 3670 Packages Remain 2283 Total 5953
+[2020.03.27-12.55.53:383][392]UATHelper: Packaging (Windows (64-bit)):   LogBlueprint: Warning: [Compiler PersistentLevel.Level10_Walk] Node  Unknown  is not referencing a valid level actor
+[2020.03.27-12.55.53:383][392]PackagingResults: Warning: [Compiler PersistentLevel.Level10_Walk] Node  Unknown  is not referencing a valid level actor
+[2020.03.27-12.55.54:061][395]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Loading secondary levels for package 'Level10_Walk'
+[2020.03.27-12.55.56:749][403]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 3674 Packages Remain 2103 Total 5777
+[2020.03.27-12.55.56:749][403]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 3675 Packages Remain 453 Total 4128
+[2020.03.27-12.55.56:750][403]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 3676 Packages Remain 452 Total 4128
+[2020.03.27-12.55.56:750][403]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 3677 Packages Remain 451 Total 4128
+[2020.03.27-12.55.56:750][403]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 3678 Packages Remain 450 Total 4128
+[2020.03.27-12.55.56:750][403]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 3679 Packages Remain 449 Total 4128
+[2020.03.27-12.55.56:750][403]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 3680 Packages Remain 448 Total 4128
+[2020.03.27-12.55.56:751][403]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 3681 Packages Remain 363 Total 4044
+[2020.03.27-12.55.56:752][403]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 3682 Packages Remain 359 Total 4041
+[2020.03.27-12.56.11:895][448]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 3682 Packages Remain 339 Total 4021
+[2020.03.27-12.56.22:604][480]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 3731 Packages Remain 216 Total 3947
+[2020.03.27-12.56.22:604][480]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 3732 Packages Remain 102 Total 3834
+[2020.03.27-12.56.24:942][487]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 3732 Packages Remain 34 Total 3766
+[2020.03.27-12.56.24:942][487]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 3732 Packages Remain 8 Total 3740
+[2020.03.27-12.56.24:942][487]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 3732 Packages Remain 7 Total 3739
+[2020.03.27-12.56.28:630][498]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 3761 Packages Remain 8 Total 3769
+[2020.03.27-12.56.28:630][498]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 3761 Packages Remain 0 Total 3761
+[2020.03.27-12.56.28:630][498]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Finishing up...
+[2020.03.27-12.56.28:962][499]UATHelper: Packaging (Windows (64-bit)):   LogBlueprintCodeGen: Display: Nativization Summary - AnimBP:
+[2020.03.27-12.56.28:963][499]UATHelper: Packaging (Windows (64-bit)):   LogBlueprintCodeGen: Display: Name, Children, Non-empty Functions (Empty Functions), Variables, FunctionUsage, VariableUsage
+[2020.03.27-12.56.28:963][499]UATHelper: Packaging (Windows (64-bit)):   LogBlueprintCodeGen: Display: Nativization Summary - Shared Variables From Graph: 0
+[2020.03.27-12.56.30:104][556]UATHelper: Packaging (Windows (64-bit)):   LogAssetRegistryGenerator: Display: Saving asset registry.
+[2020.03.27-12.56.30:662][623]UATHelper: Packaging (Windows (64-bit)):   LogAssetRegistryGenerator: Display: Generated asset registry num assets 3749, size is 3700.58kb
+[2020.03.27-12.56.30:662][623]UATHelper: Packaging (Windows (64-bit)):   LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2020.03.27-12.56.30:679][625]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cook by the book total time in tick 475.473059s total time 523.341248
+[2020.03.27-12.56.30:688][626]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Peak Used virtual 5728MB Peak Used physical 4121MB
+[2020.03.27-12.56.30:688][626]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Hierarchy Timer Information:
+[2020.03.27-12.56.30:689][626]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:   Root: 0.000s (0)
+[2020.03.27-12.56.30:689][626]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     StartCookByTheBookTime: 42.158s (1)
+[2020.03.27-12.56.30:690][626]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       GenerateAssetRegistryTime: 16.923s (1)
+[2020.03.27-12.56.30:691][626]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       CleanSandboxTime: 23.159s (1)
+[2020.03.27-12.56.30:691][626]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         ProcessingAccessedStrings: 0.008s (1)
+[2020.03.27-12.56.30:691][626]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       CollectFilesToCook: 0.157s (1)
+[2020.03.27-12.56.30:691][626]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         CookModificationDelegate: 0.006s (1)
+[2020.03.27-12.56.30:692][626]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         GeneratePackageNames: 0.000s (1)
+[2020.03.27-12.56.30:692][626]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       GenerateLongPackageName: 0.001s (1)
+[2020.03.27-12.56.30:692][626]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     TickCookOnTheSide: 475.379s (159)
+[2020.03.27-12.56.30:693][626]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       LoadPackage: 197.763s (133)
+[2020.03.27-12.56.30:693][626]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       CallBeginCacheForCookedPlatformData: 6.704s (149)
+[2020.03.27-12.56.30:694][626]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       PostLoadPackageFixup: 16.094s (149)
+[2020.03.27-12.56.30:695][626]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       SavingPackages: 254.700s (109)
+[2020.03.27-12.56.30:695][626]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         PrecachePlatformDataForNextPackage: 0.329s (5232)
+[2020.03.27-12.56.30:695][626]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         PrecachePlatformDataForNextNextPackage: 86.695s (5212)
+[2020.03.27-12.56.30:695][626]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         SaveCookedPackage: 159.517s (3751)
+[2020.03.27-12.56.30:695][626]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:           LoadPackage: 0.011s (3751)
+[2020.03.27-12.56.30:696][626]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:           GEditorSavePackage: 158.928s (3751)
+[2020.03.27-12.56.30:697][626]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:             ConvertingBlueprints: 0.187s (3751)
+[2020.03.27-12.56.30:697][626]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:             VerifyCanCookPackage: 3.249s (3749)
+[2020.03.27-12.56.30:697][626]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         ClearAllCachedCookedPlatformData: 0.146s (3751)
+[2020.03.27-12.56.30:698][626]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         EnqueueUnsavedPackages: 0.008s (74)
+[2020.03.27-12.56.30:698][626]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     GeneratingBlueprintAssets: 0.213s (1)
+[2020.03.27-12.56.30:698][626]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     SavingCurrentIniSettings: 0.416s (1)
+[2020.03.27-12.56.30:698][626]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       ProcessingAccessedStrings: 0.016s (1)
+[2020.03.27-12.56.30:698][626]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     SavingAssetRegistry: 1.493s (1)
+[2020.03.27-12.56.30:699][626]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       BuildChunkManifest: 0.798s (1)
+[2020.03.27-12.56.30:699][626]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       SaveManifests: 0.086s (1)
+[2020.03.27-12.56.30:699][626]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       SaveRealAssetRegistry: 0.565s (1)
+[2020.03.27-12.56.30:700][626]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       WriteCookerOpenOrder: 0.017s (1)
+[2020.03.27-12.56.30:700][626]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Done!
+[2020.03.27-12.56.30:967][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/LV05/Level5_Walk_1 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Forest_LayerInfo.Forest_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.30:967][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/LV05/Level5_Walk_1 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Snow_LayerInfo.Snow_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.30:968][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/LV05/Level5_Walk_1 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Forest_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.30:968][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/LV05/Level5_Walk_1 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Snow_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.30:968][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/LV05/Level5_Walk_3 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Forest_LayerInfo.Forest_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.30:968][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/LV05/Level5_Walk_3 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Snow_LayerInfo.Snow_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.30:969][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/LV05/Level5_Walk_3 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Forest_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.30:969][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/LV05/Level5_Walk_3 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Snow_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.30:969][658]PackagingResults: Warning: /Game/Levels/LV05/Level5_Walk_1 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Forest_LayerInfo.Forest_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.30:970][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/LV04/Level4_Walk2 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Snow_LayerInfo.Snow_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.30:971][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/LV04/Level4_Walk2 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Snow_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.30:971][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/LV01/Level1_Walk imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Desert_LayerInfo.Desert_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.30:971][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/LV01/Level1_Walk imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/GrassDry_LayerInfo.GrassDry_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.30:972][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/LV01/Level1_Walk imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Desert_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.30:973][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/LV01/Level1_Walk imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/GrassDry_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.30:973][658]PackagingResults: Warning: /Game/Levels/LV05/Level5_Walk_1 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Snow_LayerInfo.Snow_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.30:973][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/LV07/Level7_1 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Beach_LayerInfo.Beach_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.30:974][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/LV07/Level7_1 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Dunes_LayerInfo.Dunes_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.30:976][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/LV07/Level7_1 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Beach_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.30:977][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/LV07/Level7_1 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Dunes_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.30:978][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/LV06/Level6_Walk imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Grass_LayerInfo.Grass_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.30:979][658]PackagingResults: Warning: /Game/Levels/LV05/Level5_Walk_1 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Forest_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.30:980][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/LV06/Level6_Walk imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/GrassDry_LayerInfo.GrassDry_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.30:980][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/LV06/Level6_Walk imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Mud_LayerInfo.Mud_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.30:982][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/LV06/Level6_Walk imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Grass_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.30:983][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/LV06/Level6_Walk imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/GrassDry_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.30:984][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/LV06/Level6_Walk imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Mud_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.30:985][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/LV05/Level5_Walk_2 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Forest_LayerInfo.Forest_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.30:986][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/LV05/Level5_Walk_2 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Snow_LayerInfo.Snow_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.30:988][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/LV05/Level5_Walk_2 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Forest_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.30:989][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/LV05/Level5_Walk_2 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Snow_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.30:990][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/LV03/Level3_Walk imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Beach_LayerInfo.Beach_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.30:991][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/LV03/Level3_Walk imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Grass_LayerInfo.Grass_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.30:992][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/LV03/Level3_Walk imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Snow_LayerInfo.Snow_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.30:994][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/LV03/Level3_Walk imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Beach_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.30:995][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/LV03/Level3_Walk imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Grass_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.30:997][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/LV03/Level3_Walk imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Snow_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.30:998][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/LV04/Level4_Walk imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Snow_LayerInfo.Snow_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.30:999][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/LV04/Level4_Walk imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Snow_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:000][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/LV02/Level2_3 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Beach_LayerInfo.Beach_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:001][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/LV02/Level2_3 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Desert_LayerInfo.Desert_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:002][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/LV02/Level2_3 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Dunes_LayerInfo.Dunes_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:003][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/LV02/Level2_3 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Beach_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:004][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/LV02/Level2_3 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Desert_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:004][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/LV02/Level2_3 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Dunes_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:007][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/LV02/Level2_2 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Beach_LayerInfo.Beach_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:008][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/LV02/Level2_2 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Desert_LayerInfo.Desert_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:009][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/LV02/Level2_2 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Dunes_LayerInfo.Dunes_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:011][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/LV02/Level2_2 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Beach_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:012][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/LV02/Level2_2 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Desert_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:013][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/LV02/Level2_2 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Dunes_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:014][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/LV02/Level2_1 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Beach_LayerInfo.Beach_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:015][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/LV02/Level2_1 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Desert_LayerInfo.Desert_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:016][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/LV02/Level2_1 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Dunes_LayerInfo.Dunes_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:016][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/LV02/Level2_1 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Beach_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:018][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/LV02/Level2_1 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Desert_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:019][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/LV02/Level2_1 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Dunes_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:020][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/LV01/Level1_3 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Beach_LayerInfo.Beach_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:021][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/LV01/Level1_3 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Desert_LayerInfo.Desert_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:022][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/LV01/Level1_3 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Dunes_LayerInfo.Dunes_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:022][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/LV01/Level1_3 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Beach_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:024][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/LV01/Level1_3 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Desert_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:025][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/LV01/Level1_3 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Dunes_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:026][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/LV01/Level1_1 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Beach_LayerInfo.Beach_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:027][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/LV01/Level1_1 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Desert_LayerInfo.Desert_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:027][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/LV01/Level1_1 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Dunes_LayerInfo.Dunes_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:029][658]PackagingResults: Warning: /Game/Levels/LV05/Level5_Walk_1 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Snow_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:030][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/LV01/Level1_1 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Beach_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:030][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/LV01/Level1_1 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Desert_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:031][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/LV01/Level1_1 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Dunes_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:033][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/LV01/Level1_2 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Beach_LayerInfo.Beach_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:034][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/LV01/Level1_2 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Desert_LayerInfo.Desert_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:034][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/LV01/Level1_2 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Dunes_LayerInfo.Dunes_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:035][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/LV01/Level1_2 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Beach_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:036][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/LV01/Level1_2 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Desert_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:037][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/LV01/Level1_2 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Dunes_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:038][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/LV07/Level7_Walk imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Beach_LayerInfo.Beach_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:038][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/LV07/Level7_Walk imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Desert_LayerInfo.Desert_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:040][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/LV07/Level7_Walk imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Dunes_LayerInfo.Dunes_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:041][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/LV07/Level7_Walk imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Grass_LayerInfo.Grass_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:041][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/LV07/Level7_Walk imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Beach_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:042][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/LV07/Level7_Walk imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Desert_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:043][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/LV07/Level7_Walk imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Dunes_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:044][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/LV07/Level7_Walk imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Grass_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:045][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/LV02/Level2_Walk imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Beach_LayerInfo.Beach_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:046][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/LV02/Level2_Walk imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Beach_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:046][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/WorldMap/WorldMapLevel imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Beach_LayerInfo.Beach_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:047][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/WorldMap/WorldMapLevel imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Dunes_LayerInfo.Dunes_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:047][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/WorldMap/WorldMapLevel imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/ForestDry_LayerInfo.ForestDry_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:047][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/WorldMap/WorldMapLevel imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/GrassDry_LayerInfo.GrassDry_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:048][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/WorldMap/WorldMapLevel imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Mud_LayerInfo.Mud_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:049][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/WorldMap/WorldMapLevel imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Beach_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:049][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/WorldMap/WorldMapLevel imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Dunes_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:051][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/WorldMap/WorldMapLevel imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/ForestDry_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:052][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/WorldMap/WorldMapLevel imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/GrassDry_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:053][658]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Levels/WorldMap/WorldMapLevel imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Mud_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:053][658]PackagingResults: Warning: /Game/Levels/LV05/Level5_Walk_3 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Forest_LayerInfo.Forest_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:054][658]PackagingResults: Warning: /Game/Levels/LV05/Level5_Walk_3 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Snow_LayerInfo.Snow_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:055][658]PackagingResults: Warning: /Game/Levels/LV05/Level5_Walk_3 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Forest_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:056][658]PackagingResults: Warning: /Game/Levels/LV05/Level5_Walk_3 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Snow_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:056][658]PackagingResults: Warning: /Game/Levels/LV04/Level4_Walk2 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Snow_LayerInfo.Snow_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:057][658]PackagingResults: Warning: /Game/Levels/LV04/Level4_Walk2 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Snow_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:058][658]PackagingResults: Warning: /Game/Levels/LV01/Level1_Walk imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Desert_LayerInfo.Desert_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:059][658]PackagingResults: Warning: /Game/Levels/LV01/Level1_Walk imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/GrassDry_LayerInfo.GrassDry_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:059][658]PackagingResults: Warning: /Game/Levels/LV01/Level1_Walk imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Desert_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:060][658]PackagingResults: Warning: /Game/Levels/LV01/Level1_Walk imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/GrassDry_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:061][658]PackagingResults: Warning: /Game/Levels/LV07/Level7_1 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Beach_LayerInfo.Beach_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:062][658]PackagingResults: Warning: /Game/Levels/LV07/Level7_1 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Dunes_LayerInfo.Dunes_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:063][658]PackagingResults: Warning: /Game/Levels/LV07/Level7_1 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Beach_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:064][658]PackagingResults: Warning: /Game/Levels/LV07/Level7_1 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Dunes_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:064][658]PackagingResults: Warning: /Game/Levels/LV06/Level6_Walk imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Grass_LayerInfo.Grass_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:065][658]PackagingResults: Warning: /Game/Levels/LV06/Level6_Walk imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/GrassDry_LayerInfo.GrassDry_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:067][658]PackagingResults: Warning: /Game/Levels/LV06/Level6_Walk imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Mud_LayerInfo.Mud_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:068][658]PackagingResults: Warning: /Game/Levels/LV06/Level6_Walk imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Grass_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:068][658]PackagingResults: Warning: /Game/Levels/LV06/Level6_Walk imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/GrassDry_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:069][658]PackagingResults: Warning: /Game/Levels/LV06/Level6_Walk imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Mud_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:070][658]PackagingResults: Warning: /Game/Levels/LV05/Level5_Walk_2 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Forest_LayerInfo.Forest_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:071][658]PackagingResults: Warning: /Game/Levels/LV05/Level5_Walk_2 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Snow_LayerInfo.Snow_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:073][658]PackagingResults: Warning: /Game/Levels/LV05/Level5_Walk_2 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Forest_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:074][658]PackagingResults: Warning: /Game/Levels/LV05/Level5_Walk_2 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Snow_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:075][658]PackagingResults: Warning: /Game/Levels/LV03/Level3_Walk imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Beach_LayerInfo.Beach_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:075][658]PackagingResults: Warning: /Game/Levels/LV03/Level3_Walk imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Grass_LayerInfo.Grass_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:076][658]PackagingResults: Warning: /Game/Levels/LV03/Level3_Walk imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Snow_LayerInfo.Snow_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:077][658]PackagingResults: Warning: /Game/Levels/LV03/Level3_Walk imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Beach_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:078][658]PackagingResults: Warning: /Game/Levels/LV03/Level3_Walk imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Grass_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:078][658]PackagingResults: Warning: /Game/Levels/LV03/Level3_Walk imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Snow_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:079][658]PackagingResults: Warning: /Game/Levels/LV04/Level4_Walk imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Snow_LayerInfo.Snow_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:081][658]PackagingResults: Warning: /Game/Levels/LV04/Level4_Walk imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Snow_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:082][658]PackagingResults: Warning: /Game/Levels/LV02/Level2_3 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Beach_LayerInfo.Beach_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:082][658]PackagingResults: Warning: /Game/Levels/LV02/Level2_3 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Desert_LayerInfo.Desert_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:083][658]PackagingResults: Warning: /Game/Levels/LV02/Level2_3 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Dunes_LayerInfo.Dunes_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:083][658]PackagingResults: Warning: /Game/Levels/LV02/Level2_3 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Beach_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:084][658]PackagingResults: Warning: /Game/Levels/LV02/Level2_3 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Desert_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:085][658]PackagingResults: Warning: /Game/Levels/LV02/Level2_3 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Dunes_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:086][658]PackagingResults: Warning: /Game/Levels/LV02/Level2_2 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Beach_LayerInfo.Beach_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:088][658]PackagingResults: Warning: /Game/Levels/LV02/Level2_2 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Desert_LayerInfo.Desert_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:088][658]PackagingResults: Warning: /Game/Levels/LV02/Level2_2 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Dunes_LayerInfo.Dunes_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:089][658]PackagingResults: Warning: /Game/Levels/LV02/Level2_2 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Beach_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:090][658]PackagingResults: Warning: /Game/Levels/LV02/Level2_2 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Desert_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:091][658]PackagingResults: Warning: /Game/Levels/LV02/Level2_2 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Dunes_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:092][658]PackagingResults: Warning: /Game/Levels/LV02/Level2_1 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Beach_LayerInfo.Beach_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:093][658]PackagingResults: Warning: /Game/Levels/LV02/Level2_1 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Desert_LayerInfo.Desert_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:094][658]PackagingResults: Warning: /Game/Levels/LV02/Level2_1 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Dunes_LayerInfo.Dunes_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:095][658]PackagingResults: Warning: /Game/Levels/LV02/Level2_1 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Beach_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:096][658]PackagingResults: Warning: /Game/Levels/LV02/Level2_1 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Desert_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:096][658]PackagingResults: Warning: /Game/Levels/LV02/Level2_1 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Dunes_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:097][658]PackagingResults: Warning: /Game/Levels/LV01/Level1_3 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Beach_LayerInfo.Beach_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:097][658]PackagingResults: Warning: /Game/Levels/LV01/Level1_3 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Desert_LayerInfo.Desert_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:099][658]PackagingResults: Warning: /Game/Levels/LV01/Level1_3 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Dunes_LayerInfo.Dunes_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:099][658]PackagingResults: Warning: /Game/Levels/LV01/Level1_3 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Beach_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:100][658]PackagingResults: Warning: /Game/Levels/LV01/Level1_3 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Desert_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:101][658]PackagingResults: Warning: /Game/Levels/LV01/Level1_3 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Dunes_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:102][658]PackagingResults: Warning: /Game/Levels/LV01/Level1_1 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Beach_LayerInfo.Beach_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:103][658]PackagingResults: Warning: /Game/Levels/LV01/Level1_1 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Desert_LayerInfo.Desert_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:104][658]PackagingResults: Warning: /Game/Levels/LV01/Level1_1 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Dunes_LayerInfo.Dunes_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:106][658]PackagingResults: Warning: /Game/Levels/LV01/Level1_1 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Beach_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:107][658]PackagingResults: Warning: /Game/Levels/LV01/Level1_1 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Desert_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:107][658]PackagingResults: Warning: /Game/Levels/LV01/Level1_1 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Dunes_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:107][658]PackagingResults: Warning: /Game/Levels/LV01/Level1_2 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Beach_LayerInfo.Beach_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:108][658]PackagingResults: Warning: /Game/Levels/LV01/Level1_2 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Desert_LayerInfo.Desert_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:108][658]PackagingResults: Warning: /Game/Levels/LV01/Level1_2 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Dunes_LayerInfo.Dunes_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:108][658]PackagingResults: Warning: /Game/Levels/LV01/Level1_2 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Beach_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:108][658]PackagingResults: Warning: /Game/Levels/LV01/Level1_2 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Desert_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:109][658]PackagingResults: Warning: /Game/Levels/LV01/Level1_2 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Dunes_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:109][658]PackagingResults: Warning: /Game/Levels/LV07/Level7_Walk imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Beach_LayerInfo.Beach_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:110][658]PackagingResults: Warning: /Game/Levels/LV07/Level7_Walk imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Desert_LayerInfo.Desert_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:111][658]PackagingResults: Warning: /Game/Levels/LV07/Level7_Walk imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Dunes_LayerInfo.Dunes_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:111][658]PackagingResults: Warning: /Game/Levels/LV07/Level7_Walk imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Grass_LayerInfo.Grass_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:113][658]PackagingResults: Warning: /Game/Levels/LV07/Level7_Walk imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Beach_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:113][658]PackagingResults: Warning: /Game/Levels/LV07/Level7_Walk imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Desert_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:114][658]PackagingResults: Warning: /Game/Levels/LV07/Level7_Walk imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Dunes_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:115][658]PackagingResults: Warning: /Game/Levels/LV07/Level7_Walk imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Grass_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:116][658]PackagingResults: Warning: /Game/Levels/LV02/Level2_Walk imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Beach_LayerInfo.Beach_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:116][658]PackagingResults: Warning: /Game/Levels/LV02/Level2_Walk imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Beach_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:117][658]PackagingResults: Warning: /Game/Levels/WorldMap/WorldMapLevel imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Beach_LayerInfo.Beach_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:119][658]PackagingResults: Warning: /Game/Levels/WorldMap/WorldMapLevel imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Dunes_LayerInfo.Dunes_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:120][658]PackagingResults: Warning: /Game/Levels/WorldMap/WorldMapLevel imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/ForestDry_LayerInfo.ForestDry_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:121][658]PackagingResults: Warning: /Game/Levels/WorldMap/WorldMapLevel imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/GrassDry_LayerInfo.GrassDry_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:122][658]PackagingResults: Warning: /Game/Levels/WorldMap/WorldMapLevel imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Mud_LayerInfo.Mud_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:123][658]PackagingResults: Warning: /Game/Levels/WorldMap/WorldMapLevel imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Beach_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:125][658]PackagingResults: Warning: /Game/Levels/WorldMap/WorldMapLevel imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Dunes_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:127][658]PackagingResults: Warning: /Game/Levels/WorldMap/WorldMapLevel imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/ForestDry_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:127][658]PackagingResults: Warning: /Game/Levels/WorldMap/WorldMapLevel imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/GrassDry_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:129][658]PackagingResults: Warning: /Game/Levels/WorldMap/WorldMapLevel imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Mud_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.31:628][718]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Display: Took 0.666001s to verify the EDL loading graph.
+[2020.03.27-12.56.31:802][739]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Misc Cook Stats
+[2020.03.27-12.56.31:803][739]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ===============
+[2020.03.27-12.56.31:877][748]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ShaderCompiler
+[2020.03.27-12.56.31:878][748]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     BlockingTimeSec=0.000000
+[2020.03.27-12.56.31:878][748]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     AsyncCompileTimeSec=0.000000
+[2020.03.27-12.56.31:878][748]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     GlobalBeginCompileShaderTimeSec=0.000000
+[2020.03.27-12.56.31:878][748]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     GlobalBeginCompileShaderCalls=0
+[2020.03.27-12.56.31:879][748]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ProcessAsyncResultsTimeSec=0.001646
+[2020.03.27-12.56.31:879][748]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: GlobalShader.Misc
+[2020.03.27-12.56.31:879][748]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2020.03.27-12.56.31:893][750]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: MeshMaterial.Misc
+[2020.03.27-12.56.31:893][750]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2020.03.27-12.56.31:894][750]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: MaterialShader.Misc
+[2020.03.27-12.56.31:894][750]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2020.03.27-12.56.31:918][753]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.Load
+[2020.03.27-12.56.31:919][753]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumPackagesLoaded=271
+[2020.03.27-12.56.31:919][753]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     LoadPackageTimeSec=217.678989
+[2020.03.27-12.56.31:919][753]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.Save
+[2020.03.27-12.56.31:919][753]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumPackagesSaved=3751
+[2020.03.27-12.56.31:920][753]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SavePackageTimeSec=116.749126
+[2020.03.27-12.56.31:920][753]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsPresaveTimeSec=13.481052
+[2020.03.27-12.56.31:920][753]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsTimeSec=5.030606
+[2020.03.27-12.56.31:921][753]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ResetLoadersForSaveTimeSec=0.206234
+[2020.03.27-12.56.31:922][753]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsGetObjectsWithOuter=0.030723
+[2020.03.27-12.56.31:927][754]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsGetObjectsWithMarks=0.008427
+[2020.03.27-12.56.31:927][754]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SerializeImportsTimeSec=0.000000
+[2020.03.27-12.56.31:927][754]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SortExportsSeekfreeInnerTimeSec=5.284323
+[2020.03.27-12.56.31:928][754]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SerializeExportsTimeSec=14.938967
+[2020.03.27-12.56.31:928][754]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SerializeBulkDataTimeSec=37.709814
+[2020.03.27-12.56.31:929][754]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     AsyncWriteTimeSec=6.519905
+[2020.03.27-12.56.31:929][754]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     MBWritten=11558.563016
+[2020.03.27-12.56.31:936][755]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.DifferentPackagesSizeMBPerAsset
+[2020.03.27-12.56.31:936][755]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.NumberOfDifferencesInPackagesPerAsset
+[2020.03.27-12.56.31:936][755]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.PackageDifferencesSizeMBPerAsset
+[2020.03.27-12.56.31:936][755]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.DiffTotal
+[2020.03.27-12.56.31:937][755]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumberOfDifferentPackages=0
+[2020.03.27-12.56.31:937][755]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     DifferentPackagesSizeMB=0.000000
+[2020.03.27-12.56.31:937][755]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumberOfDifferencesInPackages=0
+[2020.03.27-12.56.31:937][755]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     PackageDifferencesSizeMB=0.000000
+[2020.03.27-12.56.31:938][755]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:
+[2020.03.27-12.56.31:938][755]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Cook Profile
+[2020.03.27-12.56.31:938][755]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ============
+[2020.03.27-12.56.31:938][755]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0.CookWallTimeSec=562.948715
+[2020.03.27-12.56.31:939][755]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 0.StartupWallTimeSec=38.306962
+[2020.03.27-12.56.31:939][755]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1.CookByTheBookTimeSec=524.641219
+[2020.03.27-12.56.31:940][755]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 0.StartCookByTheBookTimeSec=42.162216
+[2020.03.27-12.56.31:940][755]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 0. 0.GameCookModificationDelegateTimeSec=0.005938
+[2020.03.27-12.56.31:941][755]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1.TickCookOnTheSideTimeSec=477.645784
+[2020.03.27-12.56.31:941][755]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 0.TickCookOnTheSideLoadPackagesTimeSec=197.870044
+[2020.03.27-12.56.31:942][755]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 1.TickCookOnTheSideSaveCookedPackageTimeSec=159.518156
+[2020.03.27-12.56.31:942][755]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 1. 0.TickCookOnTheSideResolveRedirectorsTimeSec=0.000000
+[2020.03.27-12.56.31:942][755]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 2.TickCookOnTheSideBeginPackageCacheForCookedPlatformDataTimeSec=93.706679
+[2020.03.27-12.56.31:943][755]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 3.TickCookOnTheSideFinishPackageCacheForCookedPlatformDataTimeSec=7.954714
+[2020.03.27-12.56.31:944][755]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 2.TickLoopGCTimeSec=0.000000
+[2020.03.27-12.56.31:945][755]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 3.TickLoopRecompileShaderRequestsTimeSec=0.001569
+[2020.03.27-12.56.31:946][755]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 4.TickLoopShaderProcessAsyncResultsTimeSec=0.000131
+[2020.03.27-12.56.31:947][755]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 5.TickLoopProcessDeferredCommandsTimeSec=0.000208
+[2020.03.27-12.56.31:961][755]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 6.TickLoopTickCommandletStatsTimeSec=0.000036
+[2020.03.27-12.56.31:962][755]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:
+[2020.03.27-12.56.31:962][755]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: DDC Summary Stats
+[2020.03.27-12.56.31:962][755]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: =================
+[2020.03.27-12.56.31:962][755]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalGetHits  =     29958
+[2020.03.27-12.56.31:962][755]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalGets     =     29958
+[2020.03.27-12.56.31:962][755]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalGetHitPct=  1.000000
+[2020.03.27-12.56.31:963][755]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: LocalGetHitPct=  0.976934
+[2020.03.27-12.56.31:963][755]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: SharedGetHitPct=  0.000000
+[2020.03.27-12.56.31:963][755]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: OtherGetHitPct=  0.023066
+[2020.03.27-12.56.31:963][755]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: GetMissPct    =  0.000000
+[2020.03.27-12.56.31:964][755]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalPutHits  =     10695
+[2020.03.27-12.56.31:964][755]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalPuts     =     10695
+[2020.03.27-12.56.31:964][755]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalPutHitPct=  1.000000
+[2020.03.27-12.56.31:964][755]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: PutMissPct    =  0.000000
+[2020.03.27-12.56.31:964][755]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:
+[2020.03.27-12.56.31:965][755]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: DDC Resource Stats
+[2020.03.27-12.56.31:965][755]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: =======================================================================================================
+[2020.03.27-12.56.31:965][755]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Asset Type                          Total Time (Sec)  GameThread Time (Sec)  Assets Built  MB Processed
+[2020.03.27-12.56.31:965][755]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ----------------------------------  ----------------  ---------------------  ------------  ------------
+[2020.03.27-12.56.31:966][755]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Texture (Streaming)                           477.25                   0.00             0       9208.37
+[2020.03.27-12.56.31:966][755]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: LandscapeCollision (Heightfield)               30.98                  30.98             0        261.66
+[2020.03.27-12.56.31:966][755]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: MaterialShader                                 22.26                  22.26             0         71.86
+[2020.03.27-12.56.31:967][755]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: StaticMesh                                     19.34                  19.34             0        960.43
+[2020.03.27-12.56.31:972][756]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: PhysX (BodySetup)                              14.51                  14.51             0        326.06
+[2020.03.27-12.56.31:972][756]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: NavCollision                                    2.64                   2.64             0         85.65
+[2020.03.27-12.56.31:973][756]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Texture (Inline)                                2.31                   2.31             0        330.35
+[2020.03.27-12.56.31:974][756]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: SkeletalMesh                                    1.41                   1.41             0         86.55
+[2020.03.27-12.56.31:974][756]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: GlobalShader                                    0.11                   0.11             0          3.42
+[2020.03.27-12.56.31:974][756]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: LandscapeCollision (Mesh)                       0.02                   0.02             0          1.41
+[2020.03.27-12.56.31:975][756]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: DistanceField                                   0.01                   0.01             0          0.36
+[2020.03.27-12.56.31:975][756]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: SoundWave                                       0.00                   0.00             0          4.20
+[2020.03.27-12.56.31:976][756]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display:
+[2020.03.27-12.56.31:976][756]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Warning/Error Summary (Unique only)
+[2020.03.27-12.56.31:976][756]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: -----------------------------------
+[2020.03.27-12.56.31:976][756]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogDerivedDataCache: Warning: C:/Users/Adrian/AppData/Local/UnrealEngine/Common/DerivedDataCache is very slow (0.02MB/s) when accessing C:/Users/Adrian/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/9/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_DB913DFE44569788FEDF7A84CC244__02909E99D232E9280A052FB6F64168D443C274F7.udd, consider disabling it.
+[2020.03.27-12.56.31:977][756]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogDerivedDataCache: Warning: C:/Users/Adrian/AppData/Local/UnrealEngine/Common/DerivedDataCache is very slow (0.02MB/s) when accessing C:/Users/Adrian/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/2/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_4B9E72904490410C048B71A71C36F__17489E9184C5440ECAA9ED37F14AB95BD663C2FB.udd, consider disabling it.
+[2020.03.27-12.56.31:978][756]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogDerivedDataCache: Warning: C:/Users/Adrian/AppData/Local/UnrealEngine/Common/DerivedDataCache is very slow (0.33MB/s) when accessing C:/Users/Adrian/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/7/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_4B9E72904490410C048B71A71C36F__F5DF8B45B09FF2FAA07B5CB725D28312802FBE5E.udd, consider disabling it.
+[2020.03.27-12.56.31:979][756]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogDerivedDataCache: Warning: C:/Users/Adrian/AppData/Local/UnrealEngine/Common/DerivedDataCache is very slow (0.07MB/s) when accessing C:/Users/Adrian/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/4/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_4B9E72904490410C048B71A71C36F__AC777233D974D38E4F2C19D595C082C9A2B1FA47.udd, consider disabling it.
+[2020.03.27-12.56.31:979][756]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogDerivedDataCache: Warning: C:/Users/Adrian/AppData/Local/UnrealEngine/Common/DerivedDataCache is very slow (0.00MB/s) when accessing C:/Users/Adrian/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/6/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_4B9E72904490410C048B71A71C36F__463D2FB04FA6385C4430F0078E69D874843FB72A.udd, consider disabling it.
+[2020.03.27-12.56.31:980][756]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update Curve_GoodSky_BaseCloudColor
+[2020.03.27-12.56.31:981][756]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update Curve_GoodSky_AllOverlayColor
+[2020.03.27-12.56.31:981][756]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update Curve_GoodSky_horizon_Color
+[2020.03.27-12.56.31:982][756]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update Curve_GoodSky_DomeColor
+[2020.03.27-12.56.31:982][756]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogScript: Warning: Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill
+[2020.03.27-12.56.31:982][756]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.56.31:983][756]UATHelper: Packaging (Windows (64-bit)):   	AnimBP_Shooting_C /Game/Levels/LV09/Level9_5.Level9_5:PersistentLevel.EnemyShootingCh23.SkeletalMesh.AnimBP_Shooting_C_0
+[2020.03.27-12.56.31:983][756]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.56.31:983][756]UATHelper: Packaging (Windows (64-bit)):   	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:ExecuteUbergraph_AnimBP_Shooting:02F0
+[2020.03.27-12.56.31:983][756]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogScript: Warning: Script call stack:
+[2020.03.27-12.56.31:983][756]UATHelper: Packaging (Windows (64-bit)):   	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:BlueprintUpdateAnimation
+[2020.03.27-12.56.31:984][756]UATHelper: Packaging (Windows (64-bit)):   	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:ExecuteUbergraph_AnimBP_Shooting
+[2020.03.27-12.56.31:984][756]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.56.31:984][756]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogScript: Warning: Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill
+[2020.03.27-12.56.31:984][756]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.56.31:984][756]UATHelper: Packaging (Windows (64-bit)):   	AnimBP_Shooting_C /Game/Levels/LV09/Level9_5.Level9_5:PersistentLevel.EnemyShootingCh24.SkeletalMesh.AnimBP_Shooting_C_0
+[2020.03.27-12.56.31:985][756]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.56.31:985][756]UATHelper: Packaging (Windows (64-bit)):   	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:ExecuteUbergraph_AnimBP_Shooting:02F0
+[2020.03.27-12.56.31:985][756]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogScript: Warning: Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill
+[2020.03.27-12.56.31:985][756]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.56.31:986][756]UATHelper: Packaging (Windows (64-bit)):   	AnimBP_Shooting_C /Game/Levels/LV09/Level9_5.Level9_5:PersistentLevel.EnemyShootingCh5.SkeletalMesh.AnimBP_Shooting_C_0
+[2020.03.27-12.56.31:986][756]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.56.31:986][756]UATHelper: Packaging (Windows (64-bit)):   	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:ExecuteUbergraph_AnimBP_Shooting:02F0
+[2020.03.27-12.56.31:986][756]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogScript: Warning: Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill
+[2020.03.27-12.56.31:987][756]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.56.31:987][756]UATHelper: Packaging (Windows (64-bit)):   	AnimBP_Shooting_C /Game/Levels/LV09/Level9_5.Level9_5:PersistentLevel.EnemyShootingCh6.SkeletalMesh.AnimBP_Shooting_C_0
+[2020.03.27-12.56.31:987][756]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.56.31:987][756]UATHelper: Packaging (Windows (64-bit)):   	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:ExecuteUbergraph_AnimBP_Shooting:02F0
+[2020.03.27-12.56.31:987][756]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogScript: Warning: Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill
+[2020.03.27-12.56.31:988][756]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.56.31:988][756]UATHelper: Packaging (Windows (64-bit)):   	AnimBP_Shooting_C /Game/Levels/LV09/Level9_5.Level9_5:PersistentLevel.EnemyShootingCh7.SkeletalMesh.AnimBP_Shooting_C_0
+[2020.03.27-12.56.31:988][756]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.56.31:988][756]UATHelper: Packaging (Windows (64-bit)):   	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:ExecuteUbergraph_AnimBP_Shooting:02F0
+[2020.03.27-12.56.31:989][756]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogScript: Warning: Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill
+[2020.03.27-12.56.31:989][756]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.56.31:989][756]UATHelper: Packaging (Windows (64-bit)):   	AnimBP_Shooting_C /Game/Levels/LV09/Level9_5.Level9_5:PersistentLevel.EnemyShootingCh8.SkeletalMesh.AnimBP_Shooting_C_0
+[2020.03.27-12.56.31:990][756]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.56.31:990][756]UATHelper: Packaging (Windows (64-bit)):   	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:ExecuteUbergraph_AnimBP_Shooting:02F0
+[2020.03.27-12.56.31:990][756]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogScript: Warning: Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill
+[2020.03.27-12.56.31:991][756]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.56.31:991][756]UATHelper: Packaging (Windows (64-bit)):   	AnimBP_Shooting_C /Game/Levels/LV09/Level9_5.Level9_5:PersistentLevel.EnemyShootingCh9.SkeletalMesh.AnimBP_Shooting_C_0
+[2020.03.27-12.56.31:992][756]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.56.31:992][756]UATHelper: Packaging (Windows (64-bit)):   	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:ExecuteUbergraph_AnimBP_Shooting:02F0
+[2020.03.27-12.56.31:992][756]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogScript: Warning: Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill
+[2020.03.27-12.56.31:992][756]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.56.31:993][756]UATHelper: Packaging (Windows (64-bit)):   	AnimBP_Shooting_C /Game/Levels/LV09/Level9_5.Level9_5:PersistentLevel.EnemyShootingCh10.SkeletalMesh.AnimBP_Shooting_C_0
+[2020.03.27-12.56.31:993][756]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.56.31:993][756]UATHelper: Packaging (Windows (64-bit)):   	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:ExecuteUbergraph_AnimBP_Shooting:02F0
+[2020.03.27-12.56.31:994][756]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogScript: Warning: Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill
+[2020.03.27-12.56.31:994][756]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.56.31:994][756]UATHelper: Packaging (Windows (64-bit)):   	AnimBP_Shooting_C /Game/Levels/LV09/Level9_5.Level9_5:PersistentLevel.EnemyShootingCh11.SkeletalMesh.AnimBP_Shooting_C_0
+[2020.03.27-12.56.31:994][756]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.56.31:995][756]UATHelper: Packaging (Windows (64-bit)):   	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:ExecuteUbergraph_AnimBP_Shooting:02F0
+[2020.03.27-12.56.31:995][756]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogScript: Warning: Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill
+[2020.03.27-12.56.31:995][756]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.56.31:995][756]UATHelper: Packaging (Windows (64-bit)):   	AnimBP_Shooting_C /Game/Levels/LV09/Level9_5.Level9_5:PersistentLevel.EnemyShootingCh12.SkeletalMesh.AnimBP_Shooting_C_0
+[2020.03.27-12.56.31:996][756]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.56.31:996][756]UATHelper: Packaging (Windows (64-bit)):   	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:ExecuteUbergraph_AnimBP_Shooting:02F0
+[2020.03.27-12.56.31:997][756]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogScript: Warning: Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill
+[2020.03.27-12.56.31:998][756]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.56.31:998][756]UATHelper: Packaging (Windows (64-bit)):   	AnimBP_Shooting_C /Game/Levels/LV09/Level9_5.Level9_5:PersistentLevel.EnemyShootingCh13.SkeletalMesh.AnimBP_Shooting_C_0
+[2020.03.27-12.56.31:998][756]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.56.31:998][756]UATHelper: Packaging (Windows (64-bit)):   	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:ExecuteUbergraph_AnimBP_Shooting:02F0
+[2020.03.27-12.56.31:999][756]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogScript: Warning: Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill
+[2020.03.27-12.56.31:999][756]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.56.31:999][756]UATHelper: Packaging (Windows (64-bit)):   	AnimBP_Shooting_C /Game/Levels/LV09/Level9_5.Level9_5:PersistentLevel.EnemyShootingCh14.SkeletalMesh.AnimBP_Shooting_C_0
+[2020.03.27-12.56.32:000][756]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.56.32:000][756]UATHelper: Packaging (Windows (64-bit)):   	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:ExecuteUbergraph_AnimBP_Shooting:02F0
+[2020.03.27-12.56.32:000][756]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogScript: Warning: Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill
+[2020.03.27-12.56.32:001][756]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.56.32:001][756]UATHelper: Packaging (Windows (64-bit)):   	AnimBP_Shooting_C /Game/Levels/LV09/Level9_5.Level9_5:PersistentLevel.EnemyShootingCh15.SkeletalMesh.AnimBP_Shooting_C_0
+[2020.03.27-12.56.32:001][756]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.56.32:001][756]UATHelper: Packaging (Windows (64-bit)):   	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:ExecuteUbergraph_AnimBP_Shooting:02F0
+[2020.03.27-12.56.32:002][756]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogScript: Warning: Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill
+[2020.03.27-12.56.32:002][756]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.56.32:002][756]UATHelper: Packaging (Windows (64-bit)):   	AnimBP_Shooting_C /Game/Levels/LV09/Level9_5.Level9_5:PersistentLevel.EnemyShootingCh16.SkeletalMesh.AnimBP_Shooting_C_0
+[2020.03.27-12.56.32:003][756]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.56.32:003][756]UATHelper: Packaging (Windows (64-bit)):   	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:ExecuteUbergraph_AnimBP_Shooting:02F0
+[2020.03.27-12.56.32:003][756]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogScript: Warning: Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill
+[2020.03.27-12.56.32:004][756]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.56.32:004][756]UATHelper: Packaging (Windows (64-bit)):   	AnimBP_Shooting_C /Game/Levels/LV09/Level9_5.Level9_5:PersistentLevel.EnemyShootingCh17.SkeletalMesh.AnimBP_Shooting_C_0
+[2020.03.27-12.56.32:004][756]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.56.32:004][756]UATHelper: Packaging (Windows (64-bit)):   	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:ExecuteUbergraph_AnimBP_Shooting:02F0
+[2020.03.27-12.56.32:005][756]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogScript: Warning: Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill
+[2020.03.27-12.56.32:005][756]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.56.32:005][756]UATHelper: Packaging (Windows (64-bit)):   	AnimBP_Shooting_C /Game/Levels/LV09/Level9_5.Level9_5:PersistentLevel.EnemyShootingCh18.SkeletalMesh.AnimBP_Shooting_C_0
+[2020.03.27-12.56.32:005][756]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.56.32:006][756]UATHelper: Packaging (Windows (64-bit)):   	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:ExecuteUbergraph_AnimBP_Shooting:02F0
+[2020.03.27-12.56.32:006][756]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogScript: Warning: Attempted to access TRASH_ChildActorComponent_9 via property HandWeapon, but TRASH_ChildActorComponent_9 is pending kill
+[2020.03.27-12.56.32:007][756]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.56.32:007][756]UATHelper: Packaging (Windows (64-bit)):   	AnimBP_Shooting_C /Game/Levels/LV09/Level9_5.Level9_5:PersistentLevel.EnemyShootingCh19_15.SkeletalMesh.AnimBP_Shooting_C_0
+[2020.03.27-12.56.32:007][756]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.56.32:007][756]UATHelper: Packaging (Windows (64-bit)):   	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:ExecuteUbergraph_AnimBP_Shooting:02F0
+[2020.03.27-12.56.32:008][756]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.03.27-12.56.32:008][756]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.03.27-12.56.32:008][756]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogBlueprint: Warning: [Compiler PersistentLevel.Level10_Walk] Node  Unknown  is not referencing a valid level actor
+[2020.03.27-12.56.32:009][756]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogSavePackage: Warning: /Game/Levels/LV05/Level5_Walk_1 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Forest_LayerInfo.Forest_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.32:010][756]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogSavePackage: Warning: /Game/Levels/LV05/Level5_Walk_1 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Snow_LayerInfo.Snow_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.32:010][756]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogSavePackage: Warning: /Game/Levels/LV05/Level5_Walk_1 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Forest_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.32:011][756]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogSavePackage: Warning: /Game/Levels/LV05/Level5_Walk_1 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Snow_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.32:011][756]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogSavePackage: Warning: /Game/Levels/LV05/Level5_Walk_3 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Forest_LayerInfo.Forest_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.32:012][756]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogSavePackage: Warning: /Game/Levels/LV05/Level5_Walk_3 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Snow_LayerInfo.Snow_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.32:017][757]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogSavePackage: Warning: /Game/Levels/LV05/Level5_Walk_3 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Forest_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.32:017][757]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogSavePackage: Warning: /Game/Levels/LV05/Level5_Walk_3 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Snow_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.32:018][757]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogSavePackage: Warning: /Game/Levels/LV04/Level4_Walk2 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Snow_LayerInfo.Snow_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.32:018][757]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogSavePackage: Warning: /Game/Levels/LV04/Level4_Walk2 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Snow_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.32:018][757]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogSavePackage: Warning: /Game/Levels/LV01/Level1_Walk imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Desert_LayerInfo.Desert_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.32:019][757]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogSavePackage: Warning: /Game/Levels/LV01/Level1_Walk imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/GrassDry_LayerInfo.GrassDry_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.32:019][757]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogSavePackage: Warning: /Game/Levels/LV01/Level1_Walk imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Desert_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.32:020][757]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogSavePackage: Warning: /Game/Levels/LV01/Level1_Walk imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/GrassDry_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.32:020][757]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogSavePackage: Warning: /Game/Levels/LV07/Level7_1 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Beach_LayerInfo.Beach_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.32:020][757]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogSavePackage: Warning: /Game/Levels/LV07/Level7_1 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Dunes_LayerInfo.Dunes_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.32:021][757]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogSavePackage: Warning: /Game/Levels/LV07/Level7_1 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Beach_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.32:021][757]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogSavePackage: Warning: /Game/Levels/LV07/Level7_1 imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Dunes_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.32:021][757]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogSavePackage: Warning: /Game/Levels/LV06/Level6_Walk imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/Grass_LayerInfo.Grass_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.32:023][757]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogSavePackage: Warning: /Game/Levels/LV06/Level6_Walk imported Serialize:/Game/Brushify/Maps/Multi-Biome/Layerinfos/GrassDry_LayerInfo.GrassDry_LayerInfo, but it was never saved as an export.
+[2020.03.27-12.56.32:024][757]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: NOTE: Only first 50 warnings displayed.
+[2020.03.27-12.56.32:025][757]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display:
+[2020.03.27-12.56.32:025][757]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Success - 0 error(s), 144 warning(s)
+[2020.03.27-12.56.32:025][757]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display:
+[2020.03.27-12.56.32:026][757]UATHelper: Packaging (Windows (64-bit)):   
+[2020.03.27-12.56.32:026][757]UATHelper: Packaging (Windows (64-bit)):   Execution of commandlet took:  524.86 seconds
+[2020.03.27-12.56.51:864][138]UATHelper: Packaging (Windows (64-bit)):   FGlobalDynamicReadBuffer::Cleanup()
+[2020.03.27-12.56.51:881][140]UATHelper: Packaging (Windows (64-bit)):   FGlobalDynamicReadBuffer::Cleanup()
+[2020.03.27-12.56.51:881][140]UATHelper: Packaging (Windows (64-bit)):   FGlobalDynamicReadBuffer::Cleanup()
+[2020.03.27-12.56.55:756][605]UATHelper: Packaging (Windows (64-bit)): Took 588,1226387s to run UE4Editor-Cmd.exe, ExitCode=0
+[2020.03.27-12.56.55:807][611]UATHelper: Packaging (Windows (64-bit)): ********** COOK COMMAND COMPLETED **********
+[2020.03.27-12.56.55:865][618]UATHelper: Packaging (Windows (64-bit)): ********** STAGE COMMAND STARTED **********
+[2020.03.27-12.56.56:324][673]UATHelper: Packaging (Windows (64-bit)): Creating Staging Manifest...
+[2020.03.27-12.56.57:514][816]UATHelper: Packaging (Windows (64-bit)): Excluding config file E:\UE_4.23\Engine\Config\BaseEditor.ini
+[2020.03.27-12.56.57:515][816]UATHelper: Packaging (Windows (64-bit)): Excluding config file E:\UE_4.23\Engine\Config\BaseEditorKeyBindings.ini
+[2020.03.27-12.56.57:515][816]UATHelper: Packaging (Windows (64-bit)): Excluding config file E:\UE_4.23\Engine\Config\BaseEditorLayout.ini
+[2020.03.27-12.56.57:516][816]UATHelper: Packaging (Windows (64-bit)): Excluding config file E:\UE_4.23\Engine\Config\BaseEditorPerProjectUserSettings.ini
+[2020.03.27-12.56.57:517][816]UATHelper: Packaging (Windows (64-bit)): Excluding config file E:\UE_4.23\Engine\Config\BaseEditorSettings.ini
+[2020.03.27-12.56.57:517][816]UATHelper: Packaging (Windows (64-bit)): Excluding config file E:\UE_4.23\Engine\Config\BaseLightmass.ini
+[2020.03.27-12.56.57:518][816]UATHelper: Packaging (Windows (64-bit)): Excluding config file E:\UE_4.23\Engine\Config\BasePakFileRules.ini
+[2020.03.27-12.56.57:519][816]UATHelper: Packaging (Windows (64-bit)): Excluding config file E:\UE_4.23\Engine\Config\ConsoleVariables.ini
+[2020.03.27-12.56.57:519][816]UATHelper: Packaging (Windows (64-bit)): Excluding config file E:\UE_4.23\Engine\Config\Localization\Category.ini
+[2020.03.27-12.56.57:520][816]UATHelper: Packaging (Windows (64-bit)): Excluding config file E:\UE_4.23\Engine\Config\Localization\Editor.ini
+[2020.03.27-12.56.57:520][816]UATHelper: Packaging (Windows (64-bit)): Excluding config file E:\UE_4.23\Engine\Config\Localization\EditorTutorials.ini
+[2020.03.27-12.56.57:521][816]UATHelper: Packaging (Windows (64-bit)): Excluding config file E:\UE_4.23\Engine\Config\Localization\Engine.ini
+[2020.03.27-12.56.57:521][816]UATHelper: Packaging (Windows (64-bit)): Excluding config file E:\UE_4.23\Engine\Config\Localization\Keywords.ini
+[2020.03.27-12.56.57:521][816]UATHelper: Packaging (Windows (64-bit)): Excluding config file E:\UE_4.23\Engine\Config\Localization\PortableObjectExport.ini
+[2020.03.27-12.56.57:522][816]UATHelper: Packaging (Windows (64-bit)): Excluding config file E:\UE_4.23\Engine\Config\Localization\PortableObjectImport.ini
+[2020.03.27-12.56.57:523][816]UATHelper: Packaging (Windows (64-bit)): Excluding config file E:\UE_4.23\Engine\Config\Localization\PropertyNames.ini
+[2020.03.27-12.56.57:523][816]UATHelper: Packaging (Windows (64-bit)): Excluding config file E:\UE_4.23\Engine\Config\Localization\RepairData.ini
+[2020.03.27-12.56.57:524][816]UATHelper: Packaging (Windows (64-bit)): Excluding config file E:\UE_4.23\Engine\Config\Localization\ToolTips.ini
+[2020.03.27-12.56.57:525][816]UATHelper: Packaging (Windows (64-bit)): Excluding config file E:\UE_4.23\Engine\Config\Localization\WordCount.ini
+[2020.03.27-12.56.57:612][827]UATHelper: Packaging (Windows (64-bit)): Excluding config file E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\Config\DefaultEditor.ini
+[2020.03.27-12.56.57:613][827]UATHelper: Packaging (Windows (64-bit)): Excluding config file E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\Config\DefaultEditorPerProjectUserSettings.ini
+[2020.03.27-12.57.06:013][835]UATHelper: Packaging (Windows (64-bit)): Cleaning Stage Directory: E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\Saved\StagedBuilds\WindowsNoEditor
+[2020.03.27-12.57.06:696][917]UATHelper: Packaging (Windows (64-bit)): Creating pak using streaming install manifests.
+[2020.03.27-12.57.07:755][ 44]UATHelper: Packaging (Windows (64-bit)): Creating Pak files utilizing 8 cores
+[2020.03.27-12.57.07:805][ 50]UATHelper: Packaging (Windows (64-bit)): Executing 2 UnrealPak commands...
+[2020.03.27-12.57.17:814][233]UATHelper: Packaging (Windows (64-bit)): Waiting for child processes to complete (0/2)
+[2020.03.27-12.57.27:810][202]UATHelper: Packaging (Windows (64-bit)): Waiting for child processes to complete (1/2)
+[2020.03.27-12.57.37:831][237]UATHelper: Packaging (Windows (64-bit)): Waiting for child processes to complete (1/2)
+[2020.03.27-12.57.48:034][159]UATHelper: Packaging (Windows (64-bit)): Waiting for child processes to complete (1/2)
+[2020.03.27-12.57.57:927][607]UATHelper: Packaging (Windows (64-bit)): Waiting for child processes to complete (1/2)
+[2020.03.27-12.58.08:092][635]UATHelper: Packaging (Windows (64-bit)): Waiting for child processes to complete (1/2)
+[2020.03.27-12.58.18:138][664]UATHelper: Packaging (Windows (64-bit)): Waiting for child processes to complete (1/2)
+[2020.03.27-12.58.27:905][692]UATHelper: Packaging (Windows (64-bit)): Waiting for child processes to complete (1/2)
+[2020.03.27-12.58.37:967][721]UATHelper: Packaging (Windows (64-bit)): Waiting for child processes to complete (1/2)
+[2020.03.27-12.58.47:940][749]UATHelper: Packaging (Windows (64-bit)): Waiting for child processes to complete (1/2)
+[2020.03.27-12.58.58:299][778]UATHelper: Packaging (Windows (64-bit)): Waiting for child processes to complete (1/2)
+[2020.03.27-12.59.08:147][807]UATHelper: Packaging (Windows (64-bit)): Waiting for child processes to complete (1/2)
+[2020.03.27-12.59.18:202][835]UATHelper: Packaging (Windows (64-bit)): Waiting for child processes to complete (1/2)
+[2020.03.27-12.59.28:173][863]UATHelper: Packaging (Windows (64-bit)): Waiting for child processes to complete (1/2)
+[2020.03.27-12.59.38:034][891]UATHelper: Packaging (Windows (64-bit)): Waiting for child processes to complete (1/2)
+[2020.03.27-12.59.48:004][919]UATHelper: Packaging (Windows (64-bit)): Waiting for child processes to complete (1/2)
+[2020.03.27-12.59.58:314][948]UATHelper: Packaging (Windows (64-bit)): Waiting for child processes to complete (1/2)
+[2020.03.27-13.00.08:049][975]UATHelper: Packaging (Windows (64-bit)): Waiting for child processes to complete (1/2)
+[2020.03.27-13.00.18:203][  4]UATHelper: Packaging (Windows (64-bit)): Waiting for child processes to complete (1/2)
+[2020.03.27-13.00.28:055][ 33]UATHelper: Packaging (Windows (64-bit)): Waiting for child processes to complete (1/2)
+[2020.03.27-13.00.38:154][ 62]UATHelper: Packaging (Windows (64-bit)): Waiting for child processes to complete (1/2)
+[2020.03.27-13.00.48:274][ 90]UATHelper: Packaging (Windows (64-bit)): Waiting for child processes to complete (1/2)
+[2020.03.27-13.00.58:157][131]UATHelper: Packaging (Windows (64-bit)): Waiting for child processes to complete (1/2)
+[2020.03.27-13.01.08:326][248]UATHelper: Packaging (Windows (64-bit)): Waiting for child processes to complete (1/2)
+[2020.03.27-13.01.18:080][277]UATHelper: Packaging (Windows (64-bit)): Waiting for child processes to complete (1/2)
+[2020.03.27-13.01.28:272][307]UATHelper: Packaging (Windows (64-bit)): Waiting for child processes to complete (1/2)
+[2020.03.27-13.01.38:154][335]UATHelper: Packaging (Windows (64-bit)): Waiting for child processes to complete (1/2)
+[2020.03.27-13.01.48:306][364]UATHelper: Packaging (Windows (64-bit)): Waiting for child processes to complete (1/2)
+[2020.03.27-13.01.58:197][393]UATHelper: Packaging (Windows (64-bit)): Waiting for child processes to complete (1/2)
+[2020.03.27-13.02.08:168][420]UATHelper: Packaging (Windows (64-bit)): Waiting for child processes to complete (1/2)
+[2020.03.27-13.02.18:388][450]UATHelper: Packaging (Windows (64-bit)): Waiting for child processes to complete (1/2)
+[2020.03.27-13.02.28:328][479]UATHelper: Packaging (Windows (64-bit)): Waiting for child processes to complete (1/2)
+[2020.03.27-13.02.38:174][508]UATHelper: Packaging (Windows (64-bit)): Waiting for child processes to complete (1/2)
+[2020.03.27-13.02.48:473][535]UATHelper: Packaging (Windows (64-bit)): Waiting for child processes to complete (1/2)
+[2020.03.27-13.02.58:254][563]UATHelper: Packaging (Windows (64-bit)): Waiting for child processes to complete (1/2)
+[2020.03.27-13.03.08:266][592]UATHelper: Packaging (Windows (64-bit)): Waiting for child processes to complete (1/2)
+[2020.03.27-13.03.18:417][622]UATHelper: Packaging (Windows (64-bit)): Waiting for child processes to complete (1/2)
+[2020.03.27-13.03.28:211][650]UATHelper: Packaging (Windows (64-bit)): Waiting for child processes to complete (1/2)
+[2020.03.27-13.03.38:195][448]UATHelper: Packaging (Windows (64-bit)): Waiting for child processes to complete (1/2)
+[2020.03.27-13.03.48:195][562]UATHelper: Packaging (Windows (64-bit)): Waiting for child processes to complete (1/2)
+[2020.03.27-13.03.48:278][572]UATHelper: Packaging (Windows (64-bit)): Waiting for child processes to complete (2/2)
+[2020.03.27-13.03.48:279][572]UATHelper: Packaging (Windows (64-bit)): Output from: "E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\DieAgain.uproject" "E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\Saved\StagedBuilds\WindowsNoEditor\DieAgain\Content\Paks\pakchunk0-WindowsNoEditor.pak" -create="C:\Users\Adrian\AppData\Roaming\Unreal Engine\AutomationTool\Logs\E+UE_4.23\PakList_pakchunk0-WindowsNoEditor.txt" -cryptokeys="E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\Saved\Cooked\WindowsNoEditor\DieAgain\Metadata\Crypto.json" -order="E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\Build\WindowsNoEditor\FileOpenOrder\CookerOpenOrder.log" -patchpaddingalign=2048 -compressionformats=  -multiprocess -abslog="C:\Users\Adrian\AppData\Roaming\Unreal Engine\AutomationTool\Logs\E+UE_4.23\UnrealPak-pakchunk0-WindowsNoEditor-2020.03.27-13.57.07.txt"
+[2020.03.27-13.03.48:284][572]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Parsing crypto keys from a crypto key cache file
+[2020.03.27-13.03.48:285][572]UATHelper: Packaging (Windows (64-bit)):   LogCompression: Display: FCompression::GetCompressionFormat - Unable to find a module or plugin for compression format -multiprocess
+[2020.03.27-13.03.48:285][572]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Loading response file C:\Users\Adrian\AppData\Roaming\Unreal Engine\AutomationTool\Logs\E+UE_4.23\PakList_pakchunk0-WindowsNoEditor.txt
+[2020.03.27-13.03.48:285][572]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Added 9944 entries to add to pak file.
+[2020.03.27-13.03.48:285][572]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Loading pak order file E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\Build\WindowsNoEditor\FileOpenOrder\CookerOpenOrder.log...
+[2020.03.27-13.03.48:287][572]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Finished loading pak order file E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\Build\WindowsNoEditor\FileOpenOrder\CookerOpenOrder.log.
+[2020.03.27-13.03.48:290][572]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Collecting files to add to pak file...
+[2020.03.27-13.03.48:290][572]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Collected 9944 files in 0.09s.
+[2020.03.27-13.03.48:290][572]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Creating pak E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\Saved\StagedBuilds\WindowsNoEditor\DieAgain\Content\Paks\pakchunk0-WindowsNoEditor.pak.
+[2020.03.27-13.03.48:297][572]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: 1 small files (2048) totaling 141470779 contiguous bytes found before first 'large' file.  Changes to any of these files could cause the whole group to be 'dirty' in a per-file binary diff based patching system.
+[2020.03.27-13.03.48:298][572]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Added 9944 files, 6558887285 bytes total, time 390.82s.
+[2020.03.27-13.03.48:298][572]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Compression summary: 53.93% of original size. Compressed Size 6466919995 bytes, Original Size 11992003125 bytes.
+[2020.03.27-13.03.48:301][572]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Used compression formats (in priority order) 'Zlib, '
+[2020.03.27-13.03.48:302][572]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Encryption - DISABLED
+[2020.03.27-13.03.48:303][572]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Unreal pak executed in 391.260346 seconds
+[2020.03.27-13.03.48:306][572]UATHelper: Packaging (Windows (64-bit)): UnrealPak terminated with exit code 0
+[2020.03.27-13.03.48:306][572]UATHelper: Packaging (Windows (64-bit)): Output from: "E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\DieAgain.uproject" "E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\Saved\StagedBuilds\WindowsNoEditor\DieAgain\Content\Paks\pakchunk0optional-WindowsNoEditor.pak" -create="C:\Users\Adrian\AppData\Roaming\Unreal Engine\AutomationTool\Logs\E+UE_4.23\PakList_pakchunk0optional-WindowsNoEditor.txt" -cryptokeys="E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\Saved\Cooked\WindowsNoEditor\DieAgain\Metadata\Crypto.json" -order="E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\Build\WindowsNoEditor\FileOpenOrder\CookerOpenOrder.log" -patchpaddingalign=2048 -compressionformats=  -multiprocess -abslog="C:\Users\Adrian\AppData\Roaming\Unreal Engine\AutomationTool\Logs\E+UE_4.23\UnrealPak-pakchunk0optional-WindowsNoEditor-2020.03.27-13.57.07.txt"
+[2020.03.27-13.03.48:312][572]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Parsing crypto keys from a crypto key cache file
+[2020.03.27-13.03.48:312][572]UATHelper: Packaging (Windows (64-bit)):   LogCompression: Display: FCompression::GetCompressionFormat - Unable to find a module or plugin for compression format -multiprocess
+[2020.03.27-13.03.48:314][572]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Loading response file C:\Users\Adrian\AppData\Roaming\Unreal Engine\AutomationTool\Logs\E+UE_4.23\PakList_pakchunk0optional-WindowsNoEditor.txt
+[2020.03.27-13.03.48:314][572]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Added 1 entries to add to pak file.
+[2020.03.27-13.03.48:314][572]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Loading pak order file E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\Build\WindowsNoEditor\FileOpenOrder\CookerOpenOrder.log...
+[2020.03.27-13.03.48:316][572]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Finished loading pak order file E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\Build\WindowsNoEditor\FileOpenOrder\CookerOpenOrder.log.
+[2020.03.27-13.03.48:319][572]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Collecting files to add to pak file...
+[2020.03.27-13.03.48:319][572]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Collected 1 files in 0.00s.
+[2020.03.27-13.03.48:319][572]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Creating pak E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\Saved\StagedBuilds\WindowsNoEditor\DieAgain\Content\Paks\pakchunk0optional-WindowsNoEditor.pak.
+[2020.03.27-13.03.48:320][572]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Added 1 files, 51398241 bytes total, time 3.15s.
+[2020.03.27-13.03.48:321][572]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Compression summary: 76.54% of original size. Compressed Size 51365034 bytes, Original Size 67108864 bytes.
+[2020.03.27-13.03.48:322][572]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Used compression formats (in priority order) 'Zlib, '
+[2020.03.27-13.03.48:322][572]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Encryption - DISABLED
+[2020.03.27-13.03.48:323][572]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Unreal pak executed in 3.176677 seconds
+[2020.03.27-13.03.48:324][572]UATHelper: Packaging (Windows (64-bit)): UnrealPak terminated with exit code 0
+[2020.03.27-13.03.48:328][573]UATHelper: Packaging (Windows (64-bit)): Copying NonUFSFiles to staging directory: E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\Saved\StagedBuilds\WindowsNoEditor
+[2020.03.27-13.04.04:203][478]UATHelper: Packaging (Windows (64-bit)): ********** STAGE COMMAND COMPLETED **********
+[2020.03.27-13.04.04:245][483]UATHelper: Packaging (Windows (64-bit)): ********** PACKAGE COMMAND STARTED **********
+[2020.03.27-13.04.04:253][484]UATHelper: Packaging (Windows (64-bit)): ********** PACKAGE COMMAND COMPLETED **********
+[2020.03.27-13.04.04:254][484]UATHelper: Packaging (Windows (64-bit)): ********** ARCHIVE COMMAND STARTED **********
+[2020.03.27-13.04.04:254][484]UATHelper: Packaging (Windows (64-bit)): Archiving to E:/DieAgain Builds/03-27
+[2020.03.27-13.06.35:629][637]UATHelper: Packaging (Windows (64-bit)): ********** ARCHIVE COMMAND COMPLETED **********
+[2020.03.27-13.06.35:631][637]UATHelper: Packaging (Windows (64-bit)): BUILD SUCCESSFUL
+[2020.03.27-13.06.35:779][655]UATHelper: Packaging (Windows (64-bit)): AutomationTool exiting with ExitCode=0 (Success)
+[2020.03.27-13.52.00:481][730]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2020.03.27-13.52.03:624][781]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.27-13.52.04:273][809]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.03.27-13.52.04:286][809]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.03.27-13.52.15:480][915]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.03.27-13.52.15:773][915]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.03.27-13.52.19:529][ 51]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.03.27-13.52.19:573][ 51]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.03.27-13.52.22:945][153]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.03.27-13.52.22:983][153]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.03.27-13.52.24:080][183]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.03.27-13.53.33:990][806]LogUObjectHash: Compacting FUObjectHashTables data took  21.37ms
+[2020.03.27-13.53.33:991][806]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/LV09/Level9_3' took 1.578
+[2020.03.27-13.53.34:077][806]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2020.03.27-13.53.34:189][806]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2020.03.27-13.53.34:189][806]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2020.03.27-13.53.35:854][806]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/ThirdPersonCharacter_Auto4F33D650F4B22D4BF185A60ADC7D14EB7.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto4.uasset'
+[2020.03.27-13.53.35:880][806]LogFileHelpers: Auto-saving content packages took 1.862
+[2020.03.27-13.53.55:276][942]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.03.27-13.53.58:647][942]LogUObjectHash: Compacting FUObjectHashTables data took  10.21ms
+[2020.03.27-13.54.01:609][948]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/ThirdPersonCharacter87FB094D45698B41E5301AA1DB8F753D.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.03.27-13.54.09:519][284]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Enemies/EnemyShootingCh.EnemyShootingCh
+[2020.03.27-13.55.59:087][660]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/HUD/PauseHUD.PauseHUD
+[2020.03.27-13.56.14:806][221]LogUObjectHash: Compacting FUObjectHashTables data took   9.18ms
+[2020.03.27-13.56.16:572][221]LogUObjectHash: Compacting FUObjectHashTables data took   9.98ms
+[2020.03.27-13.56.17:509][221]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/ThirdPersonExampleMapD3A3A6664449A9BA59BFE58EC313203C.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.03.27-13.56.17:670][221]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 1.850
+[2020.03.27-13.56.17:799][221]LogUObjectHash: Compacting FUObjectHashTables data took   5.40ms
+[2020.03.27-13.56.19:203][221]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/Level9_3A0A489F24192B724939C75AFB9768BCC.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LV09/Level9_3.umap'
+[2020.03.27-13.56.19:461][221]LogFileHelpers: Saving map 'Level9_3' took 1.774
+[2020.03.27-13.56.19:896][221]LogUObjectHash: Compacting FUObjectHashTables data took   5.56ms
+[2020.03.27-13.56.21:315][221]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/Level1_1071E16014DA9E69530BCAFA3FF7CBE34.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LV01/Level1_1.umap'
+[2020.03.27-13.56.21:419][221]LogFileHelpers: Saving map 'Level1_1' took 1.948
+[2020.03.27-13.56.21:463][221]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/EnemyShootingCh" FILE="../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Enemies/EnemyShootingCh.uasset" SILENT=true
+[2020.03.27-13.56.22:711][221]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/EnemyShootingChABF6C1264512FEBBD77FB3B02F7F41B3.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Enemies/EnemyShootingCh.uasset'
