@@ -2986,3 +2986,683 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.08-11.54.35:392][107]LogPlayLevel: Display: Destroying online subsystem :Context_66
 [2020.04.08-11.54.36:211][174]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2020.04.08-11.54.39:715][516]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2020.04.08-12.11.35:649][247]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2020.04.08-12.11.38:050][388]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.08-12.11.43:114][807]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.08-12.11.43:145][807]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.08-12.11.43:176][807]LogFMOD: Creating runtime Studio System
+[2020.04.08-12.11.43:178][807]LogFMOD: Default sample rate = 48000
+[2020.04.08-12.11.43:178][807]LogFMOD: System sample rate = 44100
+[2020.04.08-12.11.43:178][807]LogFMOD: Matching system sample rate 44100
+[2020.04.08-12.11.43:195][807]LogFMOD: Loading Banks
+[2020.04.08-12.11.43:328][807]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.08-12.11.43:328][807]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 8, 2020, 4:11:43 PM)
+[2020.04.08-12.11.43:329][807]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.04.08-12.11.43:404][807]LogPlayLevel: PIE: StaticDuplicateObject took: (0.075190s)
+[2020.04.08-12.11.43:405][807]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.04.08-12.11.43:406][807]LogPlayLevel: PIE: World Init took: (0.001699s)
+[2020.04.08-12.11.43:406][807]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.077184s)
+[2020.04.08-12.11.43:463][807]LogUObjectHash: Compacting FUObjectHashTables data took   5.10ms
+[2020.04.08-12.11.43:488][807]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.08-12.11.43:493][807]LogInit: FAudioDevice initialized.
+[2020.04.08-12.11.43:531][807]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.04.08-12.11.43:536][807]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.11.43:537][807]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.11.43:538][807]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.11.43:538][807]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.11.43:539][807]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.11.43:540][807]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.11.43:540][807]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.11.43:541][807]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.11.43:541][807]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.11.43:566][807]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.04.08-14.11.43
+[2020.04.08-12.11.43:570][807]LogWorld: Bringing up level for play took: 0.038363
+[2020.04.08-12.11.43:571][807]LogOnline: OSS: Creating online subsystem instance for: :Context_67
+[2020.04.08-12.11.43:574][807]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.11.43:578][807]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.11.43:580][807]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.11.43:582][807]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.11.43:583][807]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.11.43:585][807]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.11.43:586][807]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.11.43:587][807]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.11.43:589][807]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.11.43:590][807]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.574
+[2020.04.08-12.11.43:591][807]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.08-12.11.44:967][907]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2020.04.08-12.11.46:761][ 62]LogBlueprintUserMessages: [AIShootingController_C_0] Up
+[2020.04.08-12.11.46:761][ 62]LogBlueprintUserMessages: [AIShootingController_C_0] PossessingAnotherAI
+[2020.04.08-12.11.46:801][ 63]LogBlueprintUserMessages: [AIShootingController_C_0] NOISE
+[2020.04.08-12.11.46:801][ 63]LogBlueprintUserMessages: [AIShootingController_C_0] NOTSEE
+[2020.04.08-12.11.46:801][ 63]LogBlueprintUserMessages: [AIShootingController_C_7] NOISE
+[2020.04.08-12.11.46:801][ 63]LogBlueprintUserMessages: [AIShootingController_C_7] NOTSEE
+[2020.04.08-12.11.47:150][ 93]LogCharacterMovement: EnemyShootingCh5_4 is stuck and failed to move! Velocity: X=-178.48 Y=-90.25 Z=0.00 Location: X=-1149.40 Y=535.54 Z=226.32 Normal: X=-0.88 Y=-0.27 Z=-0.39 PenetrationDepth:7.371 Actor:EnemyShootingCh8 Component:ShotgunBarrelCover BoneName:None (0 other events since notify)
+[2020.04.08-12.11.47:957][161]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.08-12.11.48:062][161]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.08-12.11.48:062][161]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.04.08-12.11.48:063][161]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.08-12.11.48:089][161]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.08-12.11.48:089][161]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.08-12.11.48:146][161]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.08-12.11.48:157][161]LogUObjectHash: Compacting FUObjectHashTables data took   5.39ms
+[2020.04.08-12.11.48:179][162]LogPlayLevel: Display: Destroying online subsystem :Context_67
+[2020.04.08-12.11.48:729][193]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.08-12.11.48:807][201]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.08-12.11.48:843][201]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.08-12.11.48:895][201]LogFMOD: Creating runtime Studio System
+[2020.04.08-12.11.48:896][201]LogFMOD: Default sample rate = 48000
+[2020.04.08-12.11.48:896][201]LogFMOD: System sample rate = 44100
+[2020.04.08-12.11.48:896][201]LogFMOD: Matching system sample rate 44100
+[2020.04.08-12.11.48:903][201]LogFMOD: Loading Banks
+[2020.04.08-12.11.48:946][201]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.08-12.11.48:946][201]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 8, 2020, 4:11:48 PM)
+[2020.04.08-12.11.48:946][201]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.04.08-12.11.48:981][201]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035090s)
+[2020.04.08-12.11.48:982][201]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.04.08-12.11.48:982][201]LogPlayLevel: PIE: World Init took: (0.001115s)
+[2020.04.08-12.11.48:982][201]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.036364s)
+[2020.04.08-12.11.49:030][201]LogUObjectHash: Compacting FUObjectHashTables data took   5.07ms
+[2020.04.08-12.11.49:037][201]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.08-12.11.49:043][201]LogInit: FAudioDevice initialized.
+[2020.04.08-12.11.49:052][201]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.04.08-12.11.49:056][201]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.11.49:056][201]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.11.49:056][201]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.11.49:057][201]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.11.49:057][201]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.11.49:057][201]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.11.49:058][201]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.11.49:058][201]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.11.49:058][201]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.11.49:073][201]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.04.08-14.11.49
+[2020.04.08-12.11.49:079][201]LogWorld: Bringing up level for play took: 0.025888
+[2020.04.08-12.11.49:079][201]LogOnline: OSS: Creating online subsystem instance for: :Context_68
+[2020.04.08-12.11.49:083][201]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.11.49:088][201]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.11.49:091][201]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.11.49:092][201]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.11.49:094][201]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.11.49:096][201]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.11.49:097][201]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.11.49:099][201]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.11.49:101][201]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.11.49:102][201]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.086
+[2020.04.08-12.11.49:103][201]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.08-12.11.53:526][585]LogBlueprintUserMessages: [AIShootingController_C_0] Up
+[2020.04.08-12.11.53:527][585]LogBlueprintUserMessages: [AIShootingController_C_0] PossessingAnotherAI
+[2020.04.08-12.11.53:542][586]LogBlueprintUserMessages: [AIShootingController_C_0] NOISE
+[2020.04.08-12.11.53:542][586]LogBlueprintUserMessages: [AIShootingController_C_0] NOTSEE
+[2020.04.08-12.11.53:542][586]LogBlueprintUserMessages: [AIShootingController_C_7] NOISE
+[2020.04.08-12.11.53:542][586]LogBlueprintUserMessages: [AIShootingController_C_7] NOTSEE
+[2020.04.08-12.11.54:530][680]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2020.04.08-12.11.54:685][695]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.08-12.11.54:758][695]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.08-12.11.54:758][695]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.04.08-12.11.54:760][695]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.08-12.11.54:810][695]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.08-12.11.54:810][695]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.08-12.11.54:872][695]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.08-12.11.54:882][695]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2020.04.08-12.11.54:902][696]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2020.04.08-12.11.55:414][726]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.08-12.11.55:494][735]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.08-12.11.55:524][735]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.08-12.11.55:560][735]LogFMOD: Creating runtime Studio System
+[2020.04.08-12.11.55:561][735]LogFMOD: Default sample rate = 48000
+[2020.04.08-12.11.55:561][735]LogFMOD: System sample rate = 44100
+[2020.04.08-12.11.55:562][735]LogFMOD: Matching system sample rate 44100
+[2020.04.08-12.11.55:576][735]LogFMOD: Loading Banks
+[2020.04.08-12.11.55:622][735]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.08-12.11.55:622][735]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 8, 2020, 4:11:55 PM)
+[2020.04.08-12.11.55:623][735]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.04.08-12.11.55:681][735]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057918s)
+[2020.04.08-12.11.55:682][735]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.04.08-12.11.55:682][735]LogPlayLevel: PIE: World Init took: (0.001639s)
+[2020.04.08-12.11.55:682][735]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.059808s)
+[2020.04.08-12.11.55:733][735]LogUObjectHash: Compacting FUObjectHashTables data took   5.72ms
+[2020.04.08-12.11.55:740][735]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.08-12.11.55:747][735]LogInit: FAudioDevice initialized.
+[2020.04.08-12.11.55:754][735]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.04.08-12.11.55:758][735]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.11.55:758][735]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.11.55:758][735]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.11.55:759][735]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.11.55:759][735]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.11.55:759][735]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.11.55:760][735]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.11.55:760][735]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.11.55:760][735]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.11.55:775][735]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.04.08-14.11.55
+[2020.04.08-12.11.55:780][735]LogWorld: Bringing up level for play took: 0.025064
+[2020.04.08-12.11.55:780][735]LogOnline: OSS: Creating online subsystem instance for: :Context_69
+[2020.04.08-12.11.55:784][735]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.11.55:788][735]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.11.55:791][735]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.11.55:792][735]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.11.55:794][735]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.11.55:796][735]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.11.55:797][735]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.11.55:799][735]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.11.55:801][735]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.11.55:802][735]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.786
+[2020.04.08-12.11.55:803][735]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.08-12.12.02:394][297]LogBlueprintUserMessages: [AIShootingController_C_0] Up
+[2020.04.08-12.12.02:394][297]LogBlueprintUserMessages: [AIShootingController_C_0] PossessingAnotherAI
+[2020.04.08-12.12.02:409][298]LogBlueprintUserMessages: [AIShootingController_C_0] NOISE
+[2020.04.08-12.12.02:409][298]LogBlueprintUserMessages: [AIShootingController_C_0] NOTSEE
+[2020.04.08-12.12.02:409][298]LogBlueprintUserMessages: [AIShootingController_C_4] NOISE
+[2020.04.08-12.12.02:409][298]LogBlueprintUserMessages: [AIShootingController_C_4] NOTSEE
+[2020.04.08-12.12.02:409][298]LogBlueprintUserMessages: [AIShootingController_C_6] NOISE
+[2020.04.08-12.12.02:410][298]LogBlueprintUserMessages: [AIShootingController_C_6] NOTSEE
+[2020.04.08-12.12.02:410][298]LogBlueprintUserMessages: [AIShootingController_C_7] NOISE
+[2020.04.08-12.12.02:410][298]LogBlueprintUserMessages: [AIShootingController_C_7] NOTSEE
+[2020.04.08-12.12.03:654][403]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.08-12.12.03:738][403]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.08-12.12.03:739][403]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.04.08-12.12.03:740][403]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.08-12.12.03:789][403]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.08-12.12.03:790][403]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.08-12.12.03:840][403]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.08-12.12.03:850][403]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
+[2020.04.08-12.12.03:870][404]LogPlayLevel: Display: Destroying online subsystem :Context_69
+[2020.04.08-12.12.04:459][449]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.08-12.12.04:784][488]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.08-12.12.04:818][488]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.08-12.12.04:844][488]LogFMOD: Creating runtime Studio System
+[2020.04.08-12.12.04:845][488]LogFMOD: Default sample rate = 48000
+[2020.04.08-12.12.04:845][488]LogFMOD: System sample rate = 44100
+[2020.04.08-12.12.04:845][488]LogFMOD: Matching system sample rate 44100
+[2020.04.08-12.12.04:854][488]LogFMOD: Loading Banks
+[2020.04.08-12.12.04:896][488]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.08-12.12.04:896][488]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 8, 2020, 4:12:04 PM)
+[2020.04.08-12.12.04:897][488]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.04.08-12.12.04:953][488]LogPlayLevel: PIE: StaticDuplicateObject took: (0.056123s)
+[2020.04.08-12.12.04:954][488]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.04.08-12.12.04:954][488]LogPlayLevel: PIE: World Init took: (0.001101s)
+[2020.04.08-12.12.04:954][488]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.057432s)
+[2020.04.08-12.12.04:998][488]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2020.04.08-12.12.05:004][488]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.08-12.12.05:010][488]LogInit: FAudioDevice initialized.
+[2020.04.08-12.12.05:016][488]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.04.08-12.12.05:019][488]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.12.05:019][488]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.12.05:020][488]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.12.05:020][488]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.12.05:020][488]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.12.05:021][488]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.12.05:021][488]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.12.05:021][488]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.12.05:021][488]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.12.05:034][488]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.04.08-14.12.05
+[2020.04.08-12.12.05:038][488]LogWorld: Bringing up level for play took: 0.022141
+[2020.04.08-12.12.05:039][488]LogOnline: OSS: Creating online subsystem instance for: :Context_70
+[2020.04.08-12.12.05:042][488]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.12.05:046][488]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.12.05:048][488]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.12.05:050][488]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.12.05:051][488]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.12.05:052][488]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.12.05:054][488]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.12.05:055][488]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.12.05:057][488]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.12.05:059][488]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.042
+[2020.04.08-12.12.05:059][488]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.08-12.12.07:035][658]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.08-12.12.07:142][658]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.08-12.12.07:142][658]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.04.08-12.12.07:143][658]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.08-12.12.07:189][658]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.08-12.12.07:189][658]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.08-12.12.07:243][658]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.08-12.12.07:252][658]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2020.04.08-12.12.07:272][659]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2020.04.08-12.12.08:591][790]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2020.04.08-12.12.10:260][886]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.08-12.12.11:166][938]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.08-12.12.11:201][938]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.08-12.12.11:234][938]LogFMOD: Creating runtime Studio System
+[2020.04.08-12.12.11:235][938]LogFMOD: Default sample rate = 48000
+[2020.04.08-12.12.11:235][938]LogFMOD: System sample rate = 44100
+[2020.04.08-12.12.11:235][938]LogFMOD: Matching system sample rate 44100
+[2020.04.08-12.12.11:243][938]LogFMOD: Loading Banks
+[2020.04.08-12.12.11:285][938]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.08-12.12.11:285][938]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 8, 2020, 4:12:11 PM)
+[2020.04.08-12.12.11:285][938]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.04.08-12.12.11:320][938]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034644s)
+[2020.04.08-12.12.11:321][938]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.04.08-12.12.11:321][938]LogPlayLevel: PIE: World Init took: (0.001227s)
+[2020.04.08-12.12.11:321][938]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.036074s)
+[2020.04.08-12.12.11:380][938]LogUObjectHash: Compacting FUObjectHashTables data took   5.72ms
+[2020.04.08-12.12.11:388][938]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.08-12.12.11:395][938]LogInit: FAudioDevice initialized.
+[2020.04.08-12.12.11:404][938]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.04.08-12.12.11:408][938]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.12.11:408][938]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.12.11:409][938]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.12.11:409][938]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.12.11:409][938]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.12.11:409][938]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.12.11:410][938]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.12.11:410][938]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.12.11:410][938]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.12.11:425][938]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.04.08-14.12.11
+[2020.04.08-12.12.11:431][938]LogWorld: Bringing up level for play took: 0.025991
+[2020.04.08-12.12.11:432][938]LogOnline: OSS: Creating online subsystem instance for: :Context_71
+[2020.04.08-12.12.11:435][938]LogBlueprintUserMessages: [ThirdPersonCharacter_167] AVATAR
+[2020.04.08-12.12.11:435][938]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.12.11:437][938]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.12.11:441][938]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.12.11:444][938]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.12.11:445][938]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.12.11:447][938]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.12.11:449][938]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.12.11:450][938]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.12.11:452][938]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.12.11:454][938]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.12.11:455][938]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.438
+[2020.04.08-12.12.11:456][938]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.08-12.12.14:638][188]LogBlueprintUserMessages: [AIShootingController_C_0] Up
+[2020.04.08-12.12.14:638][188]LogBlueprintUserMessages: [AIShootingController_C_0] PossessingAnotherAI
+[2020.04.08-12.12.14:678][189]LogBlueprintUserMessages: [AIShootingController_C_0] NOISE
+[2020.04.08-12.12.14:678][189]LogBlueprintUserMessages: [AIShootingController_C_0] NOTSEE
+[2020.04.08-12.12.14:678][189]LogBlueprintUserMessages: [AIShootingController_C_7] NOISE
+[2020.04.08-12.12.14:678][189]LogBlueprintUserMessages: [AIShootingController_C_7] NOTSEE
+[2020.04.08-12.12.16:212][310]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.08-12.12.16:315][310]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.08-12.12.16:315][310]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.04.08-12.12.16:316][310]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.08-12.12.16:362][310]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.08-12.12.16:363][310]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.08-12.12.16:424][310]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.08-12.12.16:434][310]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2020.04.08-12.12.16:453][311]LogPlayLevel: Display: Destroying online subsystem :Context_71
+[2020.04.08-12.12.16:880][335]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.08-12.12.16:976][346]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.08-12.12.17:007][346]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.08-12.12.17:035][346]LogFMOD: Creating runtime Studio System
+[2020.04.08-12.12.17:036][346]LogFMOD: Default sample rate = 48000
+[2020.04.08-12.12.17:036][346]LogFMOD: System sample rate = 44100
+[2020.04.08-12.12.17:036][346]LogFMOD: Matching system sample rate 44100
+[2020.04.08-12.12.17:046][346]LogFMOD: Loading Banks
+[2020.04.08-12.12.17:087][346]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.08-12.12.17:087][346]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 8, 2020, 4:12:17 PM)
+[2020.04.08-12.12.17:088][346]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.04.08-12.12.17:139][346]LogPlayLevel: PIE: StaticDuplicateObject took: (0.051197s)
+[2020.04.08-12.12.17:140][346]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.04.08-12.12.17:140][346]LogPlayLevel: PIE: World Init took: (0.001353s)
+[2020.04.08-12.12.17:140][346]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.052765s)
+[2020.04.08-12.12.17:194][346]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2020.04.08-12.12.17:200][346]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.08-12.12.17:206][346]LogInit: FAudioDevice initialized.
+[2020.04.08-12.12.17:216][346]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.04.08-12.12.17:219][346]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.12.17:220][346]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.12.17:220][346]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.12.17:220][346]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.12.17:220][346]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.12.17:221][346]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.12.17:221][346]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.12.17:221][346]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.12.17:221][346]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.12.17:234][346]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.04.08-14.12.17
+[2020.04.08-12.12.17:238][346]LogWorld: Bringing up level for play took: 0.021580
+[2020.04.08-12.12.17:239][346]LogOnline: OSS: Creating online subsystem instance for: :Context_72
+[2020.04.08-12.12.17:242][346]LogBlueprintUserMessages: [ThirdPersonCharacter_167] AVATAR
+[2020.04.08-12.12.17:242][346]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.12.17:243][346]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.12.17:246][346]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.12.17:248][346]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.12.17:250][346]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.12.17:251][346]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.12.17:253][346]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.12.17:254][346]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.12.17:256][346]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.12.17:257][346]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.12.17:259][346]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.242
+[2020.04.08-12.12.17:259][346]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.08-12.12.23:652][957]LogBlueprintUserMessages: [AIShootingController_C_0] Up
+[2020.04.08-12.12.23:652][957]LogBlueprintUserMessages: [AIShootingController_C_0] PossessingAnotherAI
+[2020.04.08-12.12.23:666][958]LogBlueprintUserMessages: [AIShootingController_C_0] NOISE
+[2020.04.08-12.12.23:666][958]LogBlueprintUserMessages: [AIShootingController_C_0] NOTSEE
+[2020.04.08-12.12.23:666][958]LogBlueprintUserMessages: [AIShootingController_C_4] NOISE
+[2020.04.08-12.12.23:666][958]LogBlueprintUserMessages: [AIShootingController_C_4] NOTSEE
+[2020.04.08-12.12.23:666][958]LogBlueprintUserMessages: [AIShootingController_C_7] NOISE
+[2020.04.08-12.12.23:666][958]LogBlueprintUserMessages: [AIShootingController_C_7] NOTSEE
+[2020.04.08-12.12.24:770][ 62]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.08-12.12.24:848][ 62]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.08-12.12.24:848][ 62]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.04.08-12.12.24:849][ 62]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.08-12.12.24:900][ 62]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.08-12.12.24:900][ 62]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.08-12.12.24:953][ 62]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.08-12.12.24:963][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2020.04.08-12.12.24:982][ 63]LogPlayLevel: Display: Destroying online subsystem :Context_72
+[2020.04.08-12.12.25:800][135]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.08-12.12.25:891][146]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.08-12.12.25:922][146]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.08-12.12.25:953][146]LogFMOD: Creating runtime Studio System
+[2020.04.08-12.12.25:955][146]LogFMOD: Default sample rate = 48000
+[2020.04.08-12.12.25:955][146]LogFMOD: System sample rate = 44100
+[2020.04.08-12.12.25:955][146]LogFMOD: Matching system sample rate 44100
+[2020.04.08-12.12.25:971][146]LogFMOD: Loading Banks
+[2020.04.08-12.12.26:015][146]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.08-12.12.26:015][146]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 8, 2020, 4:12:26 PM)
+[2020.04.08-12.12.26:015][146]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.04.08-12.12.26:054][146]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038615s)
+[2020.04.08-12.12.26:055][146]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.04.08-12.12.26:055][146]LogPlayLevel: PIE: World Init took: (0.001085s)
+[2020.04.08-12.12.26:055][146]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.039883s)
+[2020.04.08-12.12.26:106][146]LogUObjectHash: Compacting FUObjectHashTables data took   4.63ms
+[2020.04.08-12.12.26:112][146]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.08-12.12.26:118][146]LogInit: FAudioDevice initialized.
+[2020.04.08-12.12.26:126][146]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.04.08-12.12.26:129][146]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.12.26:129][146]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.12.26:130][146]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.12.26:130][146]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.12.26:130][146]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.12.26:130][146]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.12.26:131][146]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.12.26:131][146]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.12.26:131][146]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.12.26:143][146]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.04.08-14.12.26
+[2020.04.08-12.12.26:148][146]LogWorld: Bringing up level for play took: 0.021657
+[2020.04.08-12.12.26:149][146]LogOnline: OSS: Creating online subsystem instance for: :Context_73
+[2020.04.08-12.12.26:152][146]LogBlueprintUserMessages: [ThirdPersonCharacter_167] AVATAR
+[2020.04.08-12.12.26:152][146]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.12.26:153][146]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.12.26:156][146]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.12.26:158][146]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.12.26:160][146]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.12.26:161][146]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.12.26:163][146]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.12.26:164][146]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.12.26:165][146]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.12.26:167][146]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.12.26:169][146]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.152
+[2020.04.08-12.12.26:169][146]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.08-12.12.33:123][735]LogBlueprintUserMessages: [AIShootingController_C_0] Up
+[2020.04.08-12.12.33:123][735]LogBlueprintUserMessages: [AIShootingController_C_0] PossessingAnotherAI
+[2020.04.08-12.12.33:139][736]LogBlueprintUserMessages: [AIShootingController_C_0] NOISE
+[2020.04.08-12.12.33:139][736]LogBlueprintUserMessages: [AIShootingController_C_0] NOTSEE
+[2020.04.08-12.12.33:139][736]LogBlueprintUserMessages: [AIShootingController_C_7] NOISE
+[2020.04.08-12.12.33:139][736]LogBlueprintUserMessages: [AIShootingController_C_7] NOTSEE
+[2020.04.08-12.12.33:590][775]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2020.04.08-12.12.34:116][821]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.08-12.12.34:204][821]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.08-12.12.34:204][821]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.04.08-12.12.34:204][821]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.08-12.12.34:234][821]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.08-12.12.34:234][821]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.08-12.12.34:292][821]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.08-12.12.34:304][821]LogUObjectHash: Compacting FUObjectHashTables data took   5.64ms
+[2020.04.08-12.12.34:326][822]LogPlayLevel: Display: Destroying online subsystem :Context_73
+[2020.04.08-12.12.34:813][849]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.08-12.12.34:896][858]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.08-12.12.34:932][858]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.08-12.12.34:965][858]LogFMOD: Creating runtime Studio System
+[2020.04.08-12.12.34:966][858]LogFMOD: Default sample rate = 48000
+[2020.04.08-12.12.34:966][858]LogFMOD: System sample rate = 44100
+[2020.04.08-12.12.34:966][858]LogFMOD: Matching system sample rate 44100
+[2020.04.08-12.12.34:973][858]LogFMOD: Loading Banks
+[2020.04.08-12.12.35:017][858]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.08-12.12.35:017][858]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 8, 2020, 4:12:35 PM)
+[2020.04.08-12.12.35:017][858]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.04.08-12.12.35:049][858]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032255s)
+[2020.04.08-12.12.35:050][858]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.04.08-12.12.35:051][858]LogPlayLevel: PIE: World Init took: (0.001230s)
+[2020.04.08-12.12.35:051][858]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.033655s)
+[2020.04.08-12.12.35:101][858]LogUObjectHash: Compacting FUObjectHashTables data took   5.27ms
+[2020.04.08-12.12.35:109][858]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.08-12.12.35:115][858]LogInit: FAudioDevice initialized.
+[2020.04.08-12.12.35:125][858]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.04.08-12.12.35:129][858]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.12.35:130][858]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.12.35:130][858]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.12.35:130][858]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.12.35:131][858]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.12.35:131][858]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.12.35:131][858]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.12.35:131][858]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.12.35:132][858]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.12.35:145][858]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.04.08-14.12.35
+[2020.04.08-12.12.35:150][858]LogWorld: Bringing up level for play took: 0.024222
+[2020.04.08-12.12.35:151][858]LogOnline: OSS: Creating online subsystem instance for: :Context_74
+[2020.04.08-12.12.35:154][858]LogBlueprintUserMessages: [ThirdPersonCharacter_167] AVATAR
+[2020.04.08-12.12.35:154][858]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.12.35:155][858]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.12.35:159][858]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.12.35:162][858]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.12.35:165][858]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.12.35:167][858]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.12.35:169][858]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.12.35:171][858]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.12.35:173][858]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.12.35:174][858]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.12.35:176][858]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.16
+[2020.04.08-12.12.35:177][858]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.08-12.12.40:328][266]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsEnemy_Shooting_Ch_1
+	SniperPickUp_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SniperPickUp2_2
+	Function /Game/Objects/PickUps/SniperPickUp.SniperPickUp_C:ExecuteUbergraph_SniperPickUp:0311
+[2020.04.08-12.12.40:330][266]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsEnemy_Shooting_Ch_1". Blueprint:  SniperPickUp Function:  Execute Ubergraph Sniper Pick Up Graph:  EventGraph Node:  Set OverlapingActor
+[2020.04.08-12.12.40:330][266]LogScript: Warning: Accessed None attempting to assign variable on an object
+	SniperPickUp_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SniperPickUp2_2
+	Function /Game/Objects/PickUps/SniperPickUp.SniperPickUp_C:ExecuteUbergraph_SniperPickUp:0326
+[2020.04.08-12.12.40:330][266]PIE: Error: Blueprint Runtime Error: "Accessed None attempting to assign variable on an object". Blueprint:  SniperPickUp Function:  Execute Ubergraph Sniper Pick Up Graph:  EventGraph Node:  Set OverlapingActor
+[2020.04.08-12.12.40:808][307]LogBlueprintUserMessages: [ThirdPersonCharacter_167] AVATAR
+[2020.04.08-12.12.44:334][667]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Rifle
+[2020.04.08-12.12.44:334][667]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 30
+[2020.04.08-12.12.44:335][667]LogBlueprintUserMessages: [ThirdPersonCharacter_167] AVATAR
+[2020.04.08-12.12.44:587][692]LogBlueprintUserMessages: [Flee_C_1] FAILSUICIDE
+[2020.04.08-12.12.44:778][711]LogBlueprintUserMessages: [Flee_C_1] FAILSUICIDE
+[2020.04.08-12.12.44:972][730]LogBlueprintUserMessages: [Flee_C_1] FAILSUICIDE
+[2020.04.08-12.12.45:172][748]LogBlueprintUserMessages: [Flee_C_1] FAILSUICIDE
+[2020.04.08-12.12.45:387][765]LogBlueprintUserMessages: [Flee_C_1] FAILSUICIDE
+[2020.04.08-12.12.45:593][783]LogBlueprintUserMessages: [Flee_C_1] FAILSUICIDE
+[2020.04.08-12.12.45:792][803]LogBlueprintUserMessages: [Flee_C_1] FAILSUICIDE
+[2020.04.08-12.12.45:987][822]LogBlueprintUserMessages: [Flee_C_1] FAILSUICIDE
+[2020.04.08-12.12.46:115][834]LogBlueprintUserMessages: [AIShootingController_C_6] Up
+[2020.04.08-12.12.46:115][834]LogBlueprintUserMessages: [AIShootingController_C_6] PossessingAnotherAI
+[2020.04.08-12.12.46:195][841]LogBlueprintUserMessages: [Flee_C_1] FAILSUICIDE
+[2020.04.08-12.12.47:316][940]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2020.04.08-12.12.47:992][997]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2020.04.08-12.12.48:124][  9]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.08-12.12.48:212][  9]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.08-12.12.48:212][  9]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.04.08-12.12.48:213][  9]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.08-12.12.48:241][  9]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.08-12.12.48:241][  9]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.08-12.12.48:298][  9]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.08-12.12.48:310][  9]LogUObjectHash: Compacting FUObjectHashTables data took   5.48ms
+[2020.04.08-12.12.48:329][ 10]LogPlayLevel: Display: Destroying online subsystem :Context_74
+[2020.04.08-12.12.49:146][ 73]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.08-12.12.50:288][200]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.08-12.12.50:325][200]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.08-12.12.50:356][200]LogFMOD: Creating runtime Studio System
+[2020.04.08-12.12.50:357][200]LogFMOD: Default sample rate = 48000
+[2020.04.08-12.12.50:357][200]LogFMOD: System sample rate = 44100
+[2020.04.08-12.12.50:357][200]LogFMOD: Matching system sample rate 44100
+[2020.04.08-12.12.50:365][200]LogFMOD: Loading Banks
+[2020.04.08-12.12.50:407][200]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.08-12.12.50:407][200]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 8, 2020, 4:12:50 PM)
+[2020.04.08-12.12.50:407][200]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.04.08-12.12.50:442][200]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034589s)
+[2020.04.08-12.12.50:443][200]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.04.08-12.12.50:443][200]LogPlayLevel: PIE: World Init took: (0.001172s)
+[2020.04.08-12.12.50:443][200]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.035927s)
+[2020.04.08-12.12.50:493][200]LogUObjectHash: Compacting FUObjectHashTables data took   5.51ms
+[2020.04.08-12.12.50:500][200]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.08-12.12.50:507][200]LogInit: FAudioDevice initialized.
+[2020.04.08-12.12.50:512][200]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.04.08-12.12.50:516][200]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.12.50:516][200]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.12.50:517][200]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.12.50:517][200]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.12.50:517][200]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.12.50:518][200]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.12.50:518][200]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.12.50:518][200]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.12.50:519][200]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.12.50:533][200]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.04.08-14.12.50
+[2020.04.08-12.12.50:539][200]LogWorld: Bringing up level for play took: 0.026091
+[2020.04.08-12.12.50:540][200]LogOnline: OSS: Creating online subsystem instance for: :Context_75
+[2020.04.08-12.12.50:543][200]LogBlueprintUserMessages: [ThirdPersonCharacter_167] AVATAR
+[2020.04.08-12.12.50:543][200]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.12.50:544][200]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.12.50:548][200]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.12.50:551][200]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.12.50:552][200]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.12.50:554][200]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.12.50:556][200]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.12.50:558][200]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.12.50:560][200]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.12.50:562][200]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.12.50:564][200]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.453
+[2020.04.08-12.12.50:564][200]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.08-12.12.55:325][585]LogBlueprintUserMessages: [AIShootingController_C_0] Up
+[2020.04.08-12.12.55:325][585]LogBlueprintUserMessages: [AIShootingController_C_0] PossessingAnotherAI
+[2020.04.08-12.12.55:375][586]LogBlueprintUserMessages: [AIShootingController_C_0] NOISE
+[2020.04.08-12.12.55:375][586]LogBlueprintUserMessages: [AIShootingController_C_4] NOISE
+[2020.04.08-12.12.55:375][586]LogBlueprintUserMessages: [AIShootingController_C_4] NOTSEE
+[2020.04.08-12.12.55:375][586]LogBlueprintUserMessages: [AIShootingController_C_6] NOISE
+[2020.04.08-12.12.55:375][586]LogBlueprintUserMessages: [AIShootingController_C_6] NOTSEE
+[2020.04.08-12.12.55:375][586]LogBlueprintUserMessages: [AIShootingController_C_7] NOISE
+[2020.04.08-12.12.56:437][676]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.08-12.12.56:533][676]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.08-12.12.56:533][676]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.04.08-12.12.56:534][676]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.08-12.12.56:585][676]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.08-12.12.56:586][676]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.08-12.12.56:637][676]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.08-12.12.56:648][676]LogUObjectHash: Compacting FUObjectHashTables data took   5.08ms
+[2020.04.08-12.12.56:669][677]LogPlayLevel: Display: Destroying online subsystem :Context_75
+[2020.04.08-12.12.59:189][885]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2020.04.08-12.13.00:359][947]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.08-12.13.10:033][102]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.08-12.13.10:063][102]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.08-12.13.10:093][102]LogFMOD: Creating runtime Studio System
+[2020.04.08-12.13.10:094][102]LogFMOD: Default sample rate = 48000
+[2020.04.08-12.13.10:094][102]LogFMOD: System sample rate = 44100
+[2020.04.08-12.13.10:094][102]LogFMOD: Matching system sample rate 44100
+[2020.04.08-12.13.10:101][102]LogFMOD: Loading Banks
+[2020.04.08-12.13.10:145][102]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.08-12.13.10:145][102]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 8, 2020, 4:13:10 PM)
+[2020.04.08-12.13.10:146][102]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.04.08-12.13.10:194][102]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048000s)
+[2020.04.08-12.13.10:195][102]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.04.08-12.13.10:195][102]LogPlayLevel: PIE: World Init took: (0.001174s)
+[2020.04.08-12.13.10:195][102]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.049373s)
+[2020.04.08-12.13.10:240][102]LogUObjectHash: Compacting FUObjectHashTables data took   4.63ms
+[2020.04.08-12.13.10:247][102]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.08-12.13.10:254][102]LogInit: FAudioDevice initialized.
+[2020.04.08-12.13.10:261][102]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.04.08-12.13.10:264][102]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.13.10:264][102]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.13.10:265][102]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.13.10:265][102]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.13.10:265][102]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.13.10:266][102]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.13.10:266][102]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.13.10:266][102]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.13.10:266][102]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.13.10:279][102]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.04.08-14.13.10
+[2020.04.08-12.13.10:284][102]LogWorld: Bringing up level for play took: 0.021689
+[2020.04.08-12.13.10:284][102]LogOnline: OSS: Creating online subsystem instance for: :Context_76
+[2020.04.08-12.13.10:287][102]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.13.10:291][102]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.13.10:293][102]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.13.10:295][102]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.13.10:296][102]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.13.10:298][102]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.13.10:299][102]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.13.10:301][102]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.13.10:302][102]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.13.10:304][102]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.713
+[2020.04.08-12.13.10:304][102]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.08-12.13.11:533][198]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.08-12.13.11:628][198]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.08-12.13.11:628][198]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.04.08-12.13.11:628][198]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.08-12.13.11:655][198]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.08-12.13.11:655][198]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.08-12.13.11:710][198]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.08-12.13.11:717][198]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2020.04.08-12.13.11:736][199]LogPlayLevel: Display: Destroying online subsystem :Context_76
+[2020.04.08-12.13.13:267][330]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.04.08-12.13.14:148][406]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2020.04.08-12.13.14:153][406]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.04.08-12.13.14:220][406]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2020.04.08-12.13.15:026][406]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/ThirdPersonExampleMap8D019C204CFBF3F1DB9B048E44749C20.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.04.08-12.13.15:095][406]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.929
+[2020.04.08-12.13.15:438][438]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2020.04.08-12.16.07:865][181]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.08-12.16.23:280][560]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.08-12.16.23:314][560]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.08-12.16.23:351][560]LogFMOD: Creating runtime Studio System
+[2020.04.08-12.16.23:353][560]LogFMOD: Default sample rate = 48000
+[2020.04.08-12.16.23:353][560]LogFMOD: System sample rate = 44100
+[2020.04.08-12.16.23:353][560]LogFMOD: Matching system sample rate 44100
+[2020.04.08-12.16.23:371][560]LogFMOD: Loading Banks
+[2020.04.08-12.16.23:413][560]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.04.08-12.16.23:520][560]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2020.04.08-12.16.24:964][560]LogUObjectHash: Compacting FUObjectHashTables data took   8.71ms
+[2020.04.08-12.16.24:965][560]LogPlayLevel: PlayLevel: Blueprint regeneration took 1552 ms (1 blueprints)
+[2020.04.08-12.16.24:965][560]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 8, 2020, 4:16:24 PM)
+[2020.04.08-12.16.25:312][560]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.04.08-12.16.25:347][560]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035545s)
+[2020.04.08-12.16.25:349][560]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.04.08-12.16.25:349][560]LogPlayLevel: PIE: World Init took: (0.001214s)
+[2020.04.08-12.16.25:349][560]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.036977s)
+[2020.04.08-12.16.25:408][560]LogUObjectHash: Compacting FUObjectHashTables data took   5.23ms
+[2020.04.08-12.16.25:416][560]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.08-12.16.25:423][560]LogInit: FAudioDevice initialized.
+[2020.04.08-12.16.25:437][560]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.04.08-12.16.25:440][560]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.16.25:440][560]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.16.25:441][560]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.16.25:441][560]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.16.25:441][560]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.16.25:442][560]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.16.25:442][560]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.16.25:442][560]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.16.25:442][560]LogPhysicsCore: Error: PHYSX: (d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\NpRigidBodyTemplate.h 443) eINVALID_PARAMETER : RigidBody::setRigidBodyFlag: kinematic bodies with CCD enabled are not supported! CCD will be ignored.
+[2020.04.08-12.16.25:456][560]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.04.08-14.16.25
+[2020.04.08-12.16.25:461][560]LogWorld: Bringing up level for play took: 0.023365
+[2020.04.08-12.16.25:461][560]LogOnline: OSS: Creating online subsystem instance for: :Context_77
+[2020.04.08-12.16.25:468][560]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.16.25:470][560]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.16.25:472][560]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.16.25:474][560]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.16.25:475][560]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.16.25:477][560]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.16.25:479][560]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.16.25:481][560]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.16.25:483][560]LogStreaming: Warning: Failed to read file '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/SaveGames/Save_File.sav' error.
+[2020.04.08-12.16.25:484][560]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 2.466
+[2020.04.08-12.16.25:485][560]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.08-12.16.26:888][650]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2020.04.08-12.16.28:674][788]LogBlueprintUserMessages: [AIShootingController_C_0] NOISE
+[2020.04.08-12.16.28:674][788]LogBlueprintUserMessages: [AIShootingController_C_0] NOTSEE
+[2020.04.08-12.16.28:674][788]LogBlueprintUserMessages: [AIShootingController_C_7] NOISE
+[2020.04.08-12.16.28:674][788]LogBlueprintUserMessages: [AIShootingController_C_7] NOTSEE
+[2020.04.08-12.16.30:532][945]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.08-12.16.30:625][945]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.08-12.16.30:625][945]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.04.08-12.16.30:626][945]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.08-12.16.30:652][945]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.08-12.16.30:652][945]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.08-12.16.30:709][945]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.08-12.16.30:720][945]LogUObjectHash: Compacting FUObjectHashTables data took   5.53ms
+[2020.04.08-12.16.30:743][946]LogPlayLevel: Display: Destroying online subsystem :Context_77
+[2020.04.08-12.16.31:643][ 11]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.04.08-12.16.32:424][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2020.04.08-12.16.32:428][ 77]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.04.08-12.16.32:489][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2020.04.08-12.16.33:114][ 77]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/ThirdPersonExampleMapAB7F0B634658C82C67852BAB2D06D68F.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.04.08-12.16.33:164][ 77]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.722
+[2020.04.08-12.16.34:130][ 77]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/ThirdPersonCharacter6011C5944E1D6B15B9110F8442B42A65.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.04.08-12.20.22:839][ 42]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.08-12.20.33:778][894]LogUObjectHash: Compacting FUObjectHashTables data took   7.59ms
+[2020.04.08-12.20.33:818][894]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/EnemyShootingCh" FILE="../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Enemies/EnemyShootingCh.uasset" SILENT=true
+[2020.04.08-12.20.35:157][894]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/EnemyShootingChC9190B00439EECF8A9404A945B0DA2DC.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Enemies/EnemyShootingCh.uasset'
+[2020.04.08-12.20.46:086][339]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
