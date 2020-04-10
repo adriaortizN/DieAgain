@@ -60,7 +60,7 @@
 	<object class="MarkerTrack" id="{71e977a8-209a-43cb-a046-b0a87500f659}" />
 	<object class="GroupTrack" id="{781cbc65-3bd4-4932-9948-9f21d66645b4}">
 		<relationship name="modules">
-			<destination>{0afc5ed1-9e73-4f45-b58c-1ee0c1679bf1}</destination>
+			<destination>{47fbf41a-72e9-4e68-b787-381eb29e8e74}</destination>
 		</relationship>
 		<relationship name="mixerGroup">
 			<destination>{386b176e-77fc-4480-918a-baf5d1f624f8}</destination>
@@ -68,10 +68,10 @@
 	</object>
 	<object class="Timeline" id="{8c6aeedc-0446-4312-a9d2-dba49a49906a}">
 		<relationship name="modules">
-			<destination>{0afc5ed1-9e73-4f45-b58c-1ee0c1679bf1}</destination>
+			<destination>{47fbf41a-72e9-4e68-b787-381eb29e8e74}</destination>
 		</relationship>
 		<relationship name="markers">
-			<destination>{608dc063-5637-4f20-a491-dbb41341e731}</destination>
+			<destination>{7f77e0f0-2aea-4d21-bda0-7af7c30387f0}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{7a576659-b632-4489-916a-57ae4406eb73}">
@@ -91,12 +91,12 @@
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{31036559-c6fb-4716-8aac-76456f291f4e}" />
-	<object class="SingleSound" id="{0afc5ed1-9e73-4f45-b58c-1ee0c1679bf1}">
+	<object class="SingleSound" id="{47fbf41a-72e9-4e68-b787-381eb29e8e74}">
 		<property name="length">
-			<value>106.66666666666667</value>
+			<value>129.41061224489795</value>
 		</property>
 		<relationship name="audioFile">
-			<destination>{d5d536e7-ff36-4833-b9d2-0df3c7c4beb1}</destination>
+			<destination>{3b76d9e1-b034-42ef-a5b5-41679af66cd9}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{386b176e-77fc-4480-918a-baf5d1f624f8}">
@@ -113,12 +113,12 @@
 			<destination>{7a576659-b632-4489-916a-57ae4406eb73}</destination>
 		</relationship>
 	</object>
-	<object class="LoopRegion" id="{608dc063-5637-4f20-a491-dbb41341e731}">
+	<object class="LoopRegion" id="{7f77e0f0-2aea-4d21-bda0-7af7c30387f0}">
 		<property name="position">
 			<value>0</value>
 		</property>
 		<property name="length">
-			<value>106.66666666666667</value>
+			<value>129.41061224489795</value>
 		</property>
 		<relationship name="timeline">
 			<destination>{8c6aeedc-0446-4312-a9d2-dba49a49906a}</destination>
