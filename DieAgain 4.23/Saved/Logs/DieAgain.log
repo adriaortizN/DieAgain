@@ -611,3 +611,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.16-17.33.25:123][261]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
 [2020.04.16-17.33.25:894][261]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/ThirdPersonExampleMapC48D6848494C51F494343882FD89A9CF.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
 [2020.04.16-17.33.25:988][261]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.917
+[2020.04.16-17.46.40:444][466]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.04.16-17.53.32:077][322]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2020.04.16-17.53.33:884][380]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.16-17.53.34:538][426]LogSlate: Took 0.013881 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.04.16-17.56.58:169][130]LogUObjectHash: Compacting FUObjectHashTables data took   4.89ms
