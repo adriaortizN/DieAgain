@@ -196,6 +196,10 @@
 		{
 			"Name": "NullSourceCodeAccess",
 			"Enabled": false
+		},
+		{
+			"Name": "OnlineSubsystemSteam",
+			"Enabled": true
 		}
 	]
 }
