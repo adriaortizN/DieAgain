@@ -26,6 +26,8 @@
 /DELAYLOAD:"NvCloth_x64.dll"
 /DELAYLOAD:"fmod.dll"
 /DELAYLOAD:"fmodstudio.dll"
+/DELAYLOAD:"libsndfile-1.dll"
+/DELAYLOAD:"steam_api64.dll"
 /DELAYLOAD:"mf.dll"
 /DELAYLOAD:"mfplat.dll"
 /DELAYLOAD:"mfplay.dll"
@@ -36,7 +38,6 @@
 /DELAYLOAD:"mfuuid.dll"
 /DELAYLOAD:"WinPixEventRuntime.dll"
 /DELAYLOAD:"vulkan-1.dll"
-/DELAYLOAD:"libsndfile-1.dll"
 /DELAYLOAD:"libvorbisfile_64.dll"
 /DELAYLOAD:"Mfreadwrite.dll"
 /LIBPATH:"E:\UE_4.23\Engine\Source\ThirdParty\PhysX3\Lib\Win64\VS2015"
@@ -44,6 +45,9 @@
 /LIBPATH:"E:\UE_4.23\Engine\Source\ThirdParty\PhysX3\Lib\Win64\VS2015"
 /LIBPATH:"E:\UE_4.23\Engine\Source\ThirdParty\PhysX3\Lib\Win64\VS2015"
 /LIBPATH:"E:\UE_4.23\Engine\Plugins\FMODStudio\Binaries\Win64"
+/LIBPATH:"E:\UE_4.23\Engine\Binaries\ThirdParty\libsndfile\Win64"
+/LIBPATH:"E:\UE_4.23\Engine\Source\ThirdParty\Steamworks\Steamv142\sdk\redistributable_bin\win64"
+/LIBPATH:"E:\UE_4.23\Engine\Source\ThirdParty\Windows\DirectX\Lib\x64"
 /LIBPATH:"E:\UE_4.23\Engine\Source\ThirdParty\OpenSSL\1.1.1\lib\Win64\VS2015\Release"
 /LIBPATH:"E:\UE_4.23\Engine\Source\ThirdParty\libWebSockets\libwebsockets\lib\Win64\VS2015\Release"
 /LIBPATH:"E:\UE_4.23\Engine\Source\ThirdParty\zlib\v1.2.8\lib\Win64\VS2015\Release"
@@ -68,7 +72,6 @@
 /LIBPATH:"E:\UE_4.23\Engine\Source\ThirdParty\AMD\AMD_AGS\lib\VS2015"
 /LIBPATH:"E:\UE_4.23\Engine\Source\ThirdParty\Windows\DirectX\Lib\x64"
 /LIBPATH:"E:\UE_4.23\Engine\Source\ThirdParty\libcurl\curl-7.55.1\lib\Win64\VS2015"
-/LIBPATH:"E:\UE_4.23\Engine\Binaries\ThirdParty\libsndfile\Win64"
 /LIBPATH:"E:\UE_4.23\Engine\Source\ThirdParty\Vorbis\libvorbis-1.3.2\Lib\win64\VS2015"
 /LIBPATH:"E:\UE_4.23\Engine\Source\ThirdParty\Windows\DirectX\Lib\x64"
 /LIBPATH:"E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.13.26128\lib\x64"
@@ -138,6 +141,13 @@
 "E:\UE_4.23\Engine\Plugins\FMODStudio\Intermediate\Build\Win64\UE4\Shipping\FMODStudio\FMODSnapshotReverb.gen.cpp.obj"
 "E:\UE_4.23\Engine\Plugins\FMODStudio\Intermediate\Build\Win64\UE4\Shipping\FMODStudio\FMODStudio.init.gen.cpp.obj"
 "E:\UE_4.23\Engine\Plugins\FMODStudio\Intermediate\Build\Win64\UE4\Shipping\FMODStudio\FMODVCA.gen.cpp.obj"
+"E:\UE_4.23\Engine\Plugins\Online\OnlineSubsystemSteam\Intermediate\Build\Win64\UE4\Shipping\OnlineSubsystemSteam\Module.OnlineSubsystemSteam.cpp.obj"
+"E:\UE_4.23\Engine\Plugins\Online\OnlineSubsystemSteam\Intermediate\Build\Win64\UE4\Shipping\OnlineSubsystemSteam\Module.OnlineSubsystemSteam.gen.cpp.obj"
+"E:\UE_4.23\Engine\Intermediate\Build\Win64\UE4\Shipping\CoreUObject\SharedPCH.CoreUObject.h.obj"
+"E:\UE_4.23\Engine\Plugins\Online\OnlineSubsystem\Intermediate\Build\Win64\UE4\Shipping\OnlineSubsystem\Module.OnlineSubsystem.cpp.obj"
+"E:\UE_4.23\Engine\Plugins\Online\OnlineSubsystem\Intermediate\Build\Win64\UE4\Shipping\OnlineSubsystem\Module.OnlineSubsystem.gen.cpp.obj"
+"E:\UE_4.23\Engine\Plugins\Online\OnlineSubsystemUtils\Intermediate\Build\Win64\UE4\Shipping\OnlineSubsystemUtils\Module.OnlineSubsystemUtils.cpp.obj"
+"E:\UE_4.23\Engine\Plugins\Online\OnlineSubsystemUtils\Intermediate\Build\Win64\UE4\Shipping\OnlineSubsystemUtils\Module.OnlineSubsystemUtils.gen.cpp.obj"
 "E:\UE_4.23\Engine\Plugins\2D\Paper2D\Intermediate\Build\Win64\UE4\Shipping\Paper2D\Module.Paper2D.cpp.obj"
 "E:\UE_4.23\Engine\Plugins\2D\Paper2D\Intermediate\Build\Win64\UE4\Shipping\Paper2D\Module.Paper2D.gen.cpp.obj"
 "E:\UE_4.23\Engine\Plugins\AI\AISupport\Intermediate\Build\Win64\UE4\Shipping\AISupportModule\AISupportModule.cpp.obj"
@@ -167,7 +177,6 @@
 "E:\UE_4.23\Engine\Plugins\Experimental\PlatformCrypto\Intermediate\Build\Win64\UE4\Shipping\PlatformCryptoOpenSSL\Module.PlatformCryptoOpenSSL.cpp.obj"
 "E:\UE_4.23\Engine\Plugins\Media\ImgMedia\Intermediate\Build\Win64\UE4\Shipping\ImgMedia\Module.ImgMedia.cpp.obj"
 "E:\UE_4.23\Engine\Plugins\Media\ImgMedia\Intermediate\Build\Win64\UE4\Shipping\ImgMedia\Module.ImgMedia.gen.cpp.obj"
-"E:\UE_4.23\Engine\Intermediate\Build\Win64\UE4\Shipping\CoreUObject\SharedPCH.CoreUObject.h.obj"
 "E:\UE_4.23\Engine\Plugins\Media\ImgMedia\Intermediate\Build\Win64\UE4\Shipping\ImgMediaFactory\Module.ImgMediaFactory.cpp.obj"
 "E:\UE_4.23\Engine\Plugins\Media\ImgMedia\Intermediate\Build\Win64\UE4\Shipping\ImgMediaFactory\Module.ImgMediaFactory.gen.cpp.obj"
 "E:\UE_4.23\Engine\Plugins\Media\ImgMedia\Intermediate\Build\Win64\UE4\Shipping\OpenExrWrapper\PCH.OpenExrWrapper.h.obj"
@@ -570,6 +579,8 @@
 "E:\UE_4.23\Engine\Intermediate\Build\Win64\UE4\Shipping\Navmesh\Module.Navmesh.3_of_3.cpp.obj"
 "E:\UE_4.23\Engine\Intermediate\Build\Win64\UE4\Shipping\NavigationSystem\Module.NavigationSystem.cpp.obj"
 "E:\UE_4.23\Engine\Intermediate\Build\Win64\UE4\Shipping\NavigationSystem\Module.NavigationSystem.gen.cpp.obj"
+"E:\UE_4.23\Engine\Intermediate\Build\Win64\UE4\Shipping\Voice\Module.Voice.cpp.obj"
+"E:\UE_4.23\Engine\Intermediate\Build\Win64\UE4\Shipping\ImageCore\ImageCore.cpp.obj"
 "E:\UE_4.23\Engine\Intermediate\Build\Win64\UE4\Shipping\GameplayTasks\Module.GameplayTasks.cpp.obj"
 "E:\UE_4.23\Engine\Intermediate\Build\Win64\UE4\Shipping\GameplayTasks\Module.GameplayTasks.gen.cpp.obj"
 "E:\UE_4.23\Engine\Intermediate\Build\Win64\UE4\Shipping\AIModule\Module.AIModule.1_of_4.cpp.obj"
@@ -583,7 +594,6 @@
 "E:\UE_4.23\Engine\Intermediate\Build\Win64\UE4\Shipping\AIModule\Module.AIModule.gen.5_of_7.cpp.obj"
 "E:\UE_4.23\Engine\Intermediate\Build\Win64\UE4\Shipping\AIModule\Module.AIModule.gen.6_of_7.cpp.obj"
 "E:\UE_4.23\Engine\Intermediate\Build\Win64\UE4\Shipping\AIModule\Module.AIModule.gen.7_of_7.cpp.obj"
-"E:\UE_4.23\Engine\Intermediate\Build\Win64\UE4\Shipping\ImageCore\ImageCore.cpp.obj"
 "E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\Intermediate\Build\Win64\DieAgain\Shipping\Default.rc2.res"
 "delayimp.lib"
 "wininet.lib"
@@ -623,6 +633,12 @@
 "NvCloth_x64.lib"
 "E:\UE_4.23\Engine\Plugins\FMODStudio\Source\FMODStudio\..\..\Binaries\Win64\fmod_vc.lib"
 "E:\UE_4.23\Engine\Plugins\FMODStudio\Source\FMODStudio\..\..\Binaries\Win64\fmodstudio_vc.lib"
+"libsndfile-1.lib"
+"steam_api64.lib"
+"dxguid.lib"
+"X3DAudio.lib"
+"xapobase.lib"
+"XAPOFX.lib"
 "ThirdParty/OpenSSL\1.1.1\lib\Win64\VS2015\Release\libssl.lib"
 "ThirdParty/OpenSSL\1.1.1\lib\Win64\VS2015\Release\libcrypto.lib"
 "crypt32.lib"
@@ -676,21 +692,21 @@
 "winhttp.lib"
 "libcurl_a.lib"
 "opengl32.lib"
-"libsndfile-1.lib"
 "libvorbisfile_64.lib"
 "PhysX3Cooking_x64.lib"
-"dxguid.lib"
-"X3DAudio.lib"
-"xapobase.lib"
-"XAPOFX.lib"
 "legacy_stdio_definitions.lib"
 "d3d11.lib"
+"dxguid.lib"
+"dsound.lib"
 /OUT:"E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\Binaries\Win64\DieAgain-Win64-Shipping.exe"
 /PDB:"E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\Binaries\Win64\DieAgain-Win64-Shipping.pdb"
 /ignore:4078
 /INCLUDE:IMPLEMENT_MODULE_DialoguePlugin
 /INCLUDE:IMPLEMENT_MODULE_ApexDestruction
 /INCLUDE:IMPLEMENT_MODULE_FMODStudio
+/INCLUDE:IMPLEMENT_MODULE_OnlineSubsystemSteam
+/INCLUDE:IMPLEMENT_MODULE_OnlineSubsystem
+/INCLUDE:IMPLEMENT_MODULE_OnlineSubsystemUtils
 /INCLUDE:IMPLEMENT_MODULE_Paper2D
 /INCLUDE:IMPLEMENT_MODULE_AISupportModule
 /INCLUDE:IMPLEMENT_MODULE_LightPropagationVolumeRuntime
@@ -830,6 +846,7 @@
 /INCLUDE:IMPLEMENT_MODULE_MediaAssets
 /INCLUDE:IMPLEMENT_MODULE_Navmesh
 /INCLUDE:IMPLEMENT_MODULE_NavigationSystem
+/INCLUDE:IMPLEMENT_MODULE_Voice
+/INCLUDE:IMPLEMENT_MODULE_ImageCore
 /INCLUDE:IMPLEMENT_MODULE_GameplayTasks
 /INCLUDE:IMPLEMENT_MODULE_AIModule
-/INCLUDE:IMPLEMENT_MODULE_ImageCore
