@@ -1304,3 +1304,447 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.06.01-09.25.44:664][813]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
 [2020.06.01-09.25.45:760][813]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/Level2_380DF04EA4A6006E392A984830CA3F672.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LV02/Level2_3.umap'
 [2020.06.01-09.25.45:844][813]LogFileHelpers: Saving map 'Level2_3' took 1.239
+[2020.06.01-09.38.02:992][988]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	WorldMapPlayerAnimBP_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.WorldMapPlayerAnimBP_C_0
+	Function /Game/Art/WorldMapAnim/WorldMapPlayerAnimBP.WorldMapPlayerAnimBP_C:ExecuteUbergraph_WorldMapPlayerAnimBP:014A
+[2020.06.01-09.38.32:177][ 56]LogAIModule: Creating AISystem for world WorldMapLevel
+[2020.06.01-09.38.32:313][ 56]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/WorldMap/WorldMapLevel.WorldMapLevel
+[2020.06.01-09.38.32:411][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   6.50ms
+[2020.06.01-09.38.32:428][ 56]Cmd: MAP LOAD FILE="../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/WorldMap/WorldMapLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.06.01-09.38.32:428][ 56]LightingResults: New page: Lighting Build
+[2020.06.01-09.38.32:430][ 56]LoadErrors: New page: Loading map: WorldMapLevel.umap
+[2020.06.01-09.38.32:453][ 56]LogWorld: UWorld::CleanupWorld for Level2_3, bSessionEnded=true, bCleanupResources=true
+[2020.06.01-09.38.32:457][ 56]MapCheck: New page: Map Check
+[2020.06.01-09.38.32:457][ 56]LightingResults: New page: Lighting Build
+[2020.06.01-09.38.32:548][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   6.29ms
+[2020.06.01-09.38.33:908][ 56]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.06.01-09.38.36:256][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   5.06ms
+[2020.06.01-09.38.36:361][ 56]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.06.01-09.38.36:361][ 56]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.149ms to complete.
+[2020.06.01-09.38.36:361][ 56]LogFileHelpers: Loading map 'WorldMapLevel' took 3.949
+[2020.06.01-09.40.09:107][820]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.01-09.40.33:118][ 73]LogAIModule: Creating AISystem for world LevelPerfectWorld
+[2020.06.01-09.40.33:213][ 73]LogScript: Warning: Attempted to access TRASH_ChildActorComponent_7 via property HandWeapon, but TRASH_ChildActorComponent_7 is pending kill
+	AnimBP_Shooting_C /Game/Levels/LV12/LevelPerfectWorld.LevelPerfectWorld:PersistentLevel.EnemyShootingCh_2.SkeletalMesh.AnimBP_Shooting_C_0
+	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:ExecuteUbergraph_AnimBP_Shooting:017C
+[2020.06.01-09.40.33:221][ 73]LogScript: Warning: Attempted to access TRASH_ChildActorComponent_7 via property HandWeapon, but TRASH_ChildActorComponent_7 is pending kill
+	AnimBP_Shooting_C /Game/Levels/LV12/LevelPerfectWorld.LevelPerfectWorld:PersistentLevel.EnemyShootingCh2_1.SkeletalMesh.AnimBP_Shooting_C_0
+	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:ExecuteUbergraph_AnimBP_Shooting:017C
+[2020.06.01-09.40.33:226][ 73]LogScript: Warning: Attempted to access TRASH_ChildActorComponent_7 via property HandWeapon, but TRASH_ChildActorComponent_7 is pending kill
+	AnimBP_Shooting_C /Game/Levels/LV12/LevelPerfectWorld.LevelPerfectWorld:PersistentLevel.EnemyShootingCh3.SkeletalMesh.AnimBP_Shooting_C_0
+	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:ExecuteUbergraph_AnimBP_Shooting:017C
+[2020.06.01-09.40.33:231][ 73]LogScript: Warning: Attempted to access TRASH_ChildActorComponent_7 via property HandWeapon, but TRASH_ChildActorComponent_7 is pending kill
+	AnimBP_Shooting_C /Game/Levels/LV12/LevelPerfectWorld.LevelPerfectWorld:PersistentLevel.EnemyShootingCh4.SkeletalMesh.AnimBP_Shooting_C_0
+	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:ExecuteUbergraph_AnimBP_Shooting:017C
+[2020.06.01-09.40.33:239][ 73]LogScript: Warning: Attempted to access TRASH_ChildActorComponent_7 via property HandWeapon, but TRASH_ChildActorComponent_7 is pending kill
+	AnimBP_Shooting_C /Game/Levels/LV12/LevelPerfectWorld.LevelPerfectWorld:PersistentLevel.EnemyShootingCh5.SkeletalMesh.AnimBP_Shooting_C_0
+	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:ExecuteUbergraph_AnimBP_Shooting:017C
+[2020.06.01-09.40.33:250][ 73]LogScript: Warning: Attempted to access TRASH_ChildActorComponent_7 via property HandWeapon, but TRASH_ChildActorComponent_7 is pending kill
+	AnimBP_Shooting_C /Game/Levels/LV12/LevelPerfectWorld.LevelPerfectWorld:PersistentLevel.EnemyShootingCh6.SkeletalMesh.AnimBP_Shooting_C_0
+	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:ExecuteUbergraph_AnimBP_Shooting:017C
+[2020.06.01-09.40.33:266][ 73]LogScript: Warning: Attempted to access TRASH_ChildActorComponent_7 via property HandWeapon, but TRASH_ChildActorComponent_7 is pending kill
+	AnimBP_Shooting_C /Game/Levels/LV12/LevelPerfectWorld.LevelPerfectWorld:PersistentLevel.EnemyShootingCh7.SkeletalMesh.AnimBP_Shooting_C_0
+	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:ExecuteUbergraph_AnimBP_Shooting:017C
+[2020.06.01-09.40.33:272][ 73]LogScript: Warning: Attempted to access TRASH_ChildActorComponent_7 via property HandWeapon, but TRASH_ChildActorComponent_7 is pending kill
+	AnimBP_Shooting_C /Game/Levels/LV12/LevelPerfectWorld.LevelPerfectWorld:PersistentLevel.EnemyShootingCh8.SkeletalMesh.AnimBP_Shooting_C_0
+	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:ExecuteUbergraph_AnimBP_Shooting:017C
+[2020.06.01-09.40.33:570][ 73]LogAIModule: Creating AISystem for world LevelPerfectWorld_Error
+[2020.06.01-09.40.38:786][ 73]LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update Curve_GoodSky_AllOverlayColor
+[2020.06.01-09.40.39:244][ 73]LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update Curve_GoodSky_horizon_Color
+[2020.06.01-09.40.39:244][ 73]LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update Curve_GoodSky_DomeColor
+[2020.06.01-09.40.39:244][ 73]LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update Curve_GoodSky_BaseCloudColor
+[2020.06.01-09.40.39:311][ 73]LogAIModule: Creating AISystem for world LevelPerfectWorld_Walk
+[2020.06.01-09.40.43:023][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   8.77ms
+[2020.06.01-09.40.43:024][ 73]LogMetaData: Removing '/Game/Levels/LVPerfect/LevelPerfectWorld.LevelPerfectWorld_C' ref from Metadata '/Game/Levels/LV12/LevelPerfectWorld.PackageMetaData'
+[2020.06.01-09.40.43:024][ 73]LogMetaData: Removing '/Game/Levels/LVPerfect/LevelPerfectWorld.SKEL_LevelPerfectWorld_C' ref from Metadata '/Game/Levels/LV12/LevelPerfectWorld.PackageMetaData'
+[2020.06.01-09.40.43:530][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   6.17ms
+[2020.06.01-09.40.43:530][ 73]LogMetaData: Removing '/Game/Levels/LVPerfect/LevelPerfectWorld_Error.LevelPerfectWorld_Error:PersistentLevel.LevelPerfectWorld_Error.EventGraph.K2Node_Event_0' ref from Metadata '/Game/Levels/LV12/LevelPerfectWorld_Error.PackageMetaData'
+[2020.06.01-09.40.43:530][ 73]LogMetaData: Removing '/Game/Levels/LVPerfect/LevelPerfectWorld_Error.LevelPerfectWorld_Error:PersistentLevel.LevelPerfectWorld_Error.EventGraph.K2Node_Event_1' ref from Metadata '/Game/Levels/LV12/LevelPerfectWorld_Error.PackageMetaData'
+[2020.06.01-09.40.43:530][ 73]LogMetaData: Removing '/Game/Levels/LVPerfect/LevelPerfectWorld_Error.LevelPerfectWorld_Error_C' ref from Metadata '/Game/Levels/LV12/LevelPerfectWorld_Error.PackageMetaData'
+[2020.06.01-09.40.43:530][ 73]LogMetaData: Removing '/Game/Levels/LVPerfect/LevelPerfectWorld_Error.SKEL_LevelPerfectWorld_Error_C' ref from Metadata '/Game/Levels/LV12/LevelPerfectWorld_Error.PackageMetaData'
+[2020.06.01-09.40.44:213][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   5.69ms
+[2020.06.01-09.40.44:213][ 73]LogMetaData: Removing '/Game/Levels/LVPerfect/LevelPerfectWorld_Walk.LevelPerfectWorld_Walk_C' ref from Metadata '/Game/Levels/LV12/LevelPerfectWorld_Walk.PackageMetaData'
+[2020.06.01-09.40.44:214][ 73]LogMetaData: Removing '/Game/Levels/LVPerfect/LevelPerfectWorld_Walk.SKEL_LevelPerfectWorld_Walk_C' ref from Metadata '/Game/Levels/LV12/LevelPerfectWorld_Walk.PackageMetaData'
+[2020.06.01-09.40.44:275][ 73]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/LevelPerfectWorld_Walk_BuiltData95430F634FF9E3048AE9CDA1C6420406.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LVPerfect/LevelPerfectWorld_Walk_BuiltData.uasset'
+[2020.06.01-09.40.48:061][ 73]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/LevelPerfectWorld_BuiltDataFB6C4AE8452EE3C9A7AB0F91842D54CB.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LVPerfect/LevelPerfectWorld_BuiltData.uasset'
+[2020.06.01-09.40.48:321][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   5.96ms
+[2020.06.01-09.40.49:562][ 73]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/LevelPerfectWorld0D5BE446497171A07DF5BF8C2072F4E6.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LVPerfect/LevelPerfectWorld.umap'
+[2020.06.01-09.40.49:654][ 73]LogFileHelpers: Saving map 'LevelPerfectWorld' took 1.578
+[2020.06.01-09.40.49:737][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   6.04ms
+[2020.06.01-09.40.50:300][ 73]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/LevelPerfectWorld_Error215325504BBD40037259D4BDC4B8D308.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LVPerfect/LevelPerfectWorld_Error.umap'
+[2020.06.01-09.40.50:303][ 73]LogFileHelpers: Saving map 'LevelPerfectWorld_Error' took 0.628
+[2020.06.01-09.40.50:912][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   7.39ms
+[2020.06.01-09.40.51:893][ 73]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/LevelPerfectWorld_WalkF17B93904EAD22FD598FF18B5A87D5FC.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LVPerfect/LevelPerfectWorld_Walk.umap'
+[2020.06.01-09.40.51:914][ 73]LogFileHelpers: Saving map 'LevelPerfectWorld_Walk' took 1.609
+[2020.06.01-09.40.53:528][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   6.86ms
+[2020.06.01-09.40.53:580][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2020.06.01-09.40.53:638][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.06.01-09.40.53:696][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2020.06.01-09.40.53:750][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2020.06.01-09.40.53:812][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   6.85ms
+[2020.06.01-09.40.53:863][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2020.06.01-09.41.28:986][977]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.06.01-09.47.45:482][105]LogAIModule: Creating AISystem for world Level11_1
+[2020.06.01-09.47.45:904][105]LogBlueprint: Warning: [Compiler MyCharacter] InputAction Event references unknown Action 'Fire' for  InputAction Fire
+[2020.06.01-09.47.46:837][105]LogAIModule: Creating AISystem for world Level11_2
+[2020.06.01-09.47.47:017][105]LogAIModule: Creating AISystem for world Level11_UnFinish
+[2020.06.01-09.47.52:223][105]LogLinker: Warning: While loading '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Abandoned_City/LandscapeTextures/M_Landscape.uasset' failed to load '/Game/Abandoned_City/LandscapeTextures/Textures/T_Grass_Color': Can't find file.
+[2020.06.01-09.47.52:223][105]LogLinker: Warning: While loading '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Abandoned_City/LandscapeTextures/M_Landscape.uasset' failed to load '/Game/Abandoned_City/LandscapeTextures/Textures/T_Grass_Color': Can't find file.
+[2020.06.01-09.47.52:253][105]LogLinker: Warning: While loading '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Abandoned_City/LandscapeTextures/M_Landscape.uasset' failed to load '/Game/Abandoned_City/LandscapeTextures/Textures/T_Grass_Normal': Can't find file.
+[2020.06.01-09.47.52:253][105]LogLinker: Warning: While loading '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Abandoned_City/LandscapeTextures/M_Landscape.uasset' failed to load '/Game/Abandoned_City/LandscapeTextures/Textures/T_Grass_Normal': Can't find file.
+[2020.06.01-09.47.52:362][105]LogLinker: Warning: While loading '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Abandoned_City/LandscapeTextures/M_Landscape.uasset' failed to load '/Game/Abandoned_City/LandscapeTextures/Textures/T_Grass_Color': Can't find file.
+[2020.06.01-09.47.52:363][105]LogLinker: Warning: While loading '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Abandoned_City/LandscapeTextures/M_Landscape.uasset' failed to load '/Game/Abandoned_City/LandscapeTextures/Textures/T_Grass_Color': Can't find file.
+[2020.06.01-09.47.52:363][105]LogLinker: Warning: While loading '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Abandoned_City/LandscapeTextures/M_Landscape.uasset' failed to load '/Game/Abandoned_City/LandscapeTextures/Textures/T_Grass_Normal': Can't find file.
+[2020.06.01-09.47.52:363][105]LogLinker: Warning: While loading '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Abandoned_City/LandscapeTextures/M_Landscape.uasset' failed to load '/Game/Abandoned_City/LandscapeTextures/Textures/T_Grass_Normal': Can't find file.
+[2020.06.01-09.47.57:036][105]LogLinker: Warning: While loading '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Abandoned_City/LandscapeTextures/M_Landscape.uasset' failed to load '/Game/Abandoned_City/LandscapeTextures/Textures/T_Grass_Color': Can't find file.
+[2020.06.01-09.47.57:036][105]LoadErrors: Failed to load /Game/Abandoned_City/LandscapeTextures/Textures/T_Grass_Color.T_Grass_Color Referenced by MaterialExpressionTextureSample_1
+[2020.06.01-09.47.57:037][105]LogLinker: Warning: While loading '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Abandoned_City/LandscapeTextures/M_Landscape.uasset' failed to load '/Game/Abandoned_City/LandscapeTextures/Textures/T_Grass_Color': Can't find file.
+[2020.06.01-09.47.57:037][105]LogLinker: Warning: While loading '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Abandoned_City/LandscapeTextures/M_Landscape.uasset' failed to load '/Game/Abandoned_City/LandscapeTextures/Textures/T_Grass_Normal': Can't find file.
+[2020.06.01-09.47.57:037][105]LoadErrors: Failed to load /Game/Abandoned_City/LandscapeTextures/Textures/T_Grass_Normal.T_Grass_Normal Referenced by MaterialExpressionTextureSample_5
+[2020.06.01-09.47.57:037][105]LogLinker: Warning: While loading '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Abandoned_City/LandscapeTextures/M_Landscape.uasset' failed to load '/Game/Abandoned_City/LandscapeTextures/Textures/T_Grass_Normal': Can't find file.
+[2020.06.01-09.47.58:360][105]LogMaterial: Display: Missing cached shader map for material M_Landscape, compiling. 
+[2020.06.01-09.47.58:385][105]LogMaterial: Warning: E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\Content\Abandoned_City\LandscapeTextures\M_Landscape.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.06.01-09.47.58:385][105]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.06.01-09.47.58:433][105]LogMaterial: Display: Missing cached shader map for material M_Landscape, compiling. 
+[2020.06.01-09.47.58:434][105]LogMaterial: Warning: E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\Content\Levels\LV11\Level11_Walk.umap: Failed to compile Material Instance with Base M_Landscape for platform PCD3D_SM5, Default Material will be used in game.
+[2020.06.01-09.47.58:434][105]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.06.01-09.47.58:438][105]LogMaterial: Display: Missing cached shader map for material M_Landscape, compiling. 
+[2020.06.01-09.47.58:439][105]LogMaterial: Warning: E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\Content\Levels\LV11\Level11_Walk.umap: Failed to compile Material Instance with Base M_Landscape for platform PCD3D_SM5, Default Material will be used in game.
+[2020.06.01-09.47.58:439][105]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.06.01-09.47.58:443][105]LogMaterial: Display: Missing cached shader map for material M_Landscape, compiling. 
+[2020.06.01-09.47.58:444][105]LogMaterial: Warning: E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\Content\Levels\LV11\Level11_Walk.umap: Failed to compile Material Instance with Base M_Landscape for platform PCD3D_SM5, Default Material will be used in game.
+[2020.06.01-09.47.58:444][105]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.06.01-09.47.58:484][105]LogMaterial: Display: Missing cached shader map for material M_Landscape, compiling. 
+[2020.06.01-09.47.58:485][105]LogMaterial: Warning: E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\Content\Levels\LV11\Level11_Walk.umap: Failed to compile Material Instance with Base M_Landscape for platform PCD3D_SM5, Default Material will be used in game.
+[2020.06.01-09.47.58:485][105]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.06.01-09.47.58:489][105]LogMaterial: Display: Missing cached shader map for material M_Landscape, compiling. 
+[2020.06.01-09.47.58:490][105]LogMaterial: Warning: E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\Content\Levels\LV11\Level11_Walk.umap: Failed to compile Material Instance with Base M_Landscape for platform PCD3D_SM5, Default Material will be used in game.
+[2020.06.01-09.47.58:490][105]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.06.01-09.47.58:494][105]LogMaterial: Display: Missing cached shader map for material M_Landscape, compiling. 
+[2020.06.01-09.47.58:495][105]LogMaterial: Warning: E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\Content\Levels\LV11\Level11_Walk.umap: Failed to compile Material Instance with Base M_Landscape for platform PCD3D_SM5, Default Material will be used in game.
+[2020.06.01-09.47.58:495][105]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.06.01-09.47.58:499][105]LogMaterial: Display: Missing cached shader map for material M_Landscape, compiling. 
+[2020.06.01-09.47.58:499][105]LogMaterial: Warning: E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\Content\Levels\LV11\Level11_Walk.umap: Failed to compile Material Instance with Base M_Landscape for platform PCD3D_SM5, Default Material will be used in game.
+[2020.06.01-09.47.58:500][105]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.06.01-09.47.58:503][105]LogMaterial: Display: Missing cached shader map for material M_Landscape, compiling. 
+[2020.06.01-09.47.58:504][105]LogMaterial: Warning: E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\Content\Levels\LV11\Level11_Walk.umap: Failed to compile Material Instance with Base M_Landscape for platform PCD3D_SM5, Default Material will be used in game.
+[2020.06.01-09.47.58:504][105]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.06.01-09.47.58:508][105]LogMaterial: Display: Missing cached shader map for material M_Landscape, compiling. 
+[2020.06.01-09.47.58:509][105]LogMaterial: Warning: E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\Content\Levels\LV11\Level11_Walk.umap: Failed to compile Material Instance with Base M_Landscape for platform PCD3D_SM5, Default Material will be used in game.
+[2020.06.01-09.47.58:509][105]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.06.01-09.47.58:512][105]LogMaterial: Display: Missing cached shader map for material M_Landscape, compiling. 
+[2020.06.01-09.47.58:513][105]LogMaterial: Warning: E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\Content\Levels\LV11\Level11_Walk.umap: Failed to compile Material Instance with Base M_Landscape for platform PCD3D_SM5, Default Material will be used in game.
+[2020.06.01-09.47.58:513][105]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.06.01-09.47.58:517][105]LogMaterial: Display: Missing cached shader map for material M_Landscape, compiling. 
+[2020.06.01-09.47.58:517][105]LogMaterial: Warning: E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\Content\Levels\LV11\Level11_Walk.umap: Failed to compile Material Instance with Base M_Landscape for platform PCD3D_SM5, Default Material will be used in game.
+[2020.06.01-09.47.58:517][105]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.06.01-09.47.58:521][105]LogMaterial: Display: Missing cached shader map for material M_Landscape, compiling. 
+[2020.06.01-09.47.58:522][105]LogMaterial: Warning: E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\Content\Levels\LV11\Level11_Walk.umap: Failed to compile Material Instance with Base M_Landscape for platform PCD3D_SM5, Default Material will be used in game.
+[2020.06.01-09.47.58:522][105]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.06.01-09.47.58:525][105]LogMaterial: Display: Missing cached shader map for material M_Landscape, compiling. 
+[2020.06.01-09.47.58:526][105]LogMaterial: Warning: E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\Content\Levels\LV11\Level11_Walk.umap: Failed to compile Material Instance with Base M_Landscape for platform PCD3D_SM5, Default Material will be used in game.
+[2020.06.01-09.47.58:526][105]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.06.01-09.47.58:551][105]LogMaterial: Display: Missing cached shader map for material M_Landscape, compiling. 
+[2020.06.01-09.47.58:552][105]LogMaterial: Warning: E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\Content\Levels\LV11\Level11_Walk.umap: Failed to compile Material Instance with Base M_Landscape for platform PCD3D_SM5, Default Material will be used in game.
+[2020.06.01-09.47.58:552][105]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.06.01-09.47.58:555][105]LogMaterial: Display: Missing cached shader map for material M_Landscape, compiling. 
+[2020.06.01-09.47.58:556][105]LogMaterial: Warning: E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\Content\Levels\LV11\Level11_Walk.umap: Failed to compile Material Instance with Base M_Landscape for platform PCD3D_SM5, Default Material will be used in game.
+[2020.06.01-09.47.58:557][105]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.06.01-09.47.58:561][105]LogMaterial: Display: Missing cached shader map for material M_Landscape, compiling. 
+[2020.06.01-09.47.58:562][105]LogMaterial: Warning: E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\Content\Levels\LV11\Level11_Walk.umap: Failed to compile Material Instance with Base M_Landscape for platform PCD3D_SM5, Default Material will be used in game.
+[2020.06.01-09.47.58:562][105]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.06.01-09.47.58:567][105]LogMaterial: Display: Missing cached shader map for material M_Landscape, compiling. 
+[2020.06.01-09.47.58:568][105]LogMaterial: Warning: E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\Content\Levels\LV11\Level11_Walk.umap: Failed to compile Material Instance with Base M_Landscape for platform PCD3D_SM5, Default Material will be used in game.
+[2020.06.01-09.47.58:568][105]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.06.01-09.47.58:586][105]LogMaterial: Display: Missing cached shader map for material M_Landscape, compiling. 
+[2020.06.01-09.47.58:587][105]LogMaterial: Warning: E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\Content\Levels\LV11\Level11_Walk.umap: Failed to compile Material Instance with Base M_Landscape for platform PCD3D_SM5, Default Material will be used in game.
+[2020.06.01-09.47.58:587][105]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.06.01-09.47.58:601][105]LogMaterial: Display: Missing cached shader map for material M_Landscape, compiling. 
+[2020.06.01-09.47.58:602][105]LogMaterial: Warning: E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\Content\Levels\LV11\Level11_Walk.umap: Failed to compile Material Instance with Base M_Landscape for platform PCD3D_SM5, Default Material will be used in game.
+[2020.06.01-09.47.58:602][105]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.06.01-09.47.58:627][105]LogMaterial: Display: Missing cached shader map for material M_Landscape, compiling. 
+[2020.06.01-09.47.58:628][105]LogMaterial: Warning: E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\Content\Levels\LV11\Level11_Walk.umap: Failed to compile Material Instance with Base M_Landscape for platform PCD3D_SM5, Default Material will be used in game.
+[2020.06.01-09.47.58:628][105]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.06.01-09.47.58:632][105]LogMaterial: Display: Missing cached shader map for material M_Landscape, compiling. 
+[2020.06.01-09.47.58:633][105]LogMaterial: Warning: E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\Content\Levels\LV11\Level11_Walk.umap: Failed to compile Material Instance with Base M_Landscape for platform PCD3D_SM5, Default Material will be used in game.
+[2020.06.01-09.47.58:633][105]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.06.01-09.48.02:030][105]LogAIModule: Creating AISystem for world Level11_Walk
+[2020.06.01-09.48.04:936][105]LogUObjectHash: Compacting FUObjectHashTables data took  11.38ms
+[2020.06.01-09.48.04:936][105]LogMetaData: Removing '/Game/Levels/LVFinal/Level11_1.Level11_1_C' ref from Metadata '/Game/Levels/LV11/Level11_1.PackageMetaData'
+[2020.06.01-09.48.04:936][105]LogMetaData: Removing '/Game/Levels/LVFinal/Level11_1.SKEL_Level11_1_C' ref from Metadata '/Game/Levels/LV11/Level11_1.PackageMetaData'
+[2020.06.01-09.48.05:709][105]LogUObjectHash: Compacting FUObjectHashTables data took   7.75ms
+[2020.06.01-09.48.05:709][105]LogMetaData: Removing '/Game/Levels/LVFinal/Level11_2.Level11_2_C' ref from Metadata '/Game/Levels/LV11/Level11_2.PackageMetaData'
+[2020.06.01-09.48.05:709][105]LogMetaData: Removing '/Game/Levels/LVFinal/Level11_2.SKEL_Level11_2_C' ref from Metadata '/Game/Levels/LV11/Level11_2.PackageMetaData'
+[2020.06.01-09.48.06:429][105]LogUObjectHash: Compacting FUObjectHashTables data took   7.26ms
+[2020.06.01-09.48.06:430][105]LogMetaData: Removing '/Game/Levels/LVFinal/Level11_UnFinish.Level11_UnFinish_C' ref from Metadata '/Game/Levels/LV11/Level11_UnFinish.PackageMetaData'
+[2020.06.01-09.48.06:430][105]LogMetaData: Removing '/Game/Levels/LVFinal/Level11_UnFinish.SKEL_Level11_UnFinish_C' ref from Metadata '/Game/Levels/LV11/Level11_UnFinish.PackageMetaData'
+[2020.06.01-09.48.07:305][105]LogUObjectHash: Compacting FUObjectHashTables data took   8.64ms
+[2020.06.01-09.48.07:305][105]LogMetaData: Removing '/Game/Levels/LVFinal/Level11_Walk.Level11_Walk_C' ref from Metadata '/Game/Levels/LV11/Level11_Walk.PackageMetaData'
+[2020.06.01-09.48.07:305][105]LogMetaData: Removing '/Game/Levels/LVFinal/Level11_Walk.SKEL_Level11_Walk_C' ref from Metadata '/Game/Levels/LV11/Level11_Walk.PackageMetaData'
+[2020.06.01-09.48.07:780][105]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/Level11_1_BuiltData26C023B74620B45A9D6AD7BA170DABC1.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LVFinal/Level11_1_BuiltData.uasset'
+[2020.06.01-09.48.08:232][105]LogUObjectHash: Compacting FUObjectHashTables data took   7.26ms
+[2020.06.01-09.48.09:597][105]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/Level11_1D26AE2FB4F841F23CAC6E589A1BEA61F.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LVFinal/Level11_1.umap'
+[2020.06.01-09.48.09:660][105]LogFileHelpers: Saving map 'Level11_1' took 1.876
+[2020.06.01-09.48.09:744][105]LogUObjectHash: Compacting FUObjectHashTables data took   6.86ms
+[2020.06.01-09.48.10:430][105]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/Level11_284CB867B4962114B0A9D839F8384B9B7.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LVFinal/Level11_2.umap'
+[2020.06.01-09.48.10:432][105]LogFileHelpers: Saving map 'Level11_2' took 0.755
+[2020.06.01-09.48.10:540][105]LogUObjectHash: Compacting FUObjectHashTables data took   6.94ms
+[2020.06.01-09.48.11:225][105]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/Level11_UnFinish3A8B05C74C37BA8C9F1675B0BC1B59BB.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LVFinal/Level11_UnFinish.umap'
+[2020.06.01-09.48.11:228][105]LogFileHelpers: Saving map 'Level11_UnFinish' took 0.793
+[2020.06.01-09.48.12:494][105]LogUObjectHash: Compacting FUObjectHashTables data took   6.98ms
+[2020.06.01-09.48.15:607][105]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/Level11_WalkEBD6507949BFB55BE4E5E1B199ECA4DB.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LVFinal/Level11_Walk.umap'
+[2020.06.01-09.48.16:316][105]LogFileHelpers: Saving map 'Level11_Walk' took 5.086
+[2020.06.01-09.48.17:871][105]LogUObjectHash: Compacting FUObjectHashTables data took   7.21ms
+[2020.06.01-09.48.17:917][105]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2020.06.01-09.48.17:975][105]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2020.06.01-09.48.18:032][105]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2020.06.01-09.48.18:086][105]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2020.06.01-09.48.18:143][105]LogUObjectHash: Compacting FUObjectHashTables data took   5.83ms
+[2020.06.01-09.48.18:203][105]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2020.06.01-09.49.23:515][889]LogUObjectHash: Compacting FUObjectHashTables data took   6.88ms
+[2020.06.01-09.52.20:754][181]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.06.01-09.52.21:987][282]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.06.01-09.52.21:987][282]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.06.01-09.52.22:915][374]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.06.01-09.52.22:915][374]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.06.01-09.53.06:845][392]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.06.01-09.53.12:226][514]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.06.01-09.53.40:233][509]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.06.01-09.53.42:747][773]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (TargetPoint17)
+[2020.06.01-09.53.45:982][ 59]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.06.01-09.53.46:950][135]LogUObjectHash: Compacting FUObjectHashTables data took   8.88ms
+[2020.06.01-09.53.46:956][135]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.06.01-09.53.47:074][135]LogUObjectHash: Compacting FUObjectHashTables data took   6.62ms
+[2020.06.01-09.53.49:046][135]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/WorldMapLevelC00450494E7AC7470020DCBF69DC85B1.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/WorldMap/WorldMapLevel.umap'
+[2020.06.01-09.53.49:227][135]LogFileHelpers: Saving map 'WorldMapLevel' took 2.243
+[2020.06.01-09.56.58:484][958]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.01-09.57.08:305][977]LogSlate: Window 'Select Path' being destroyed
+[2020.06.01-09.57.09:207][ 75]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.01-09.57.18:213][ 37]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/PlayerWorldMap_Character.PlayerWorldMap_Character
+[2020.06.01-09.57.56:531][943]LogUObjectHash: Compacting FUObjectHashTables data took   7.84ms
+[2020.06.01-09.57.56:531][943]LogMetaData: Removing '/Game/Levels/LVFinal/LevelFinal_1.LevelFinal_1_C' ref from Metadata '/Game/Levels/LVFinal/Level11_1.PackageMetaData'
+[2020.06.01-09.57.56:531][943]LogMetaData: Removing '/Game/Levels/LVFinal/LevelFinal_1.SKEL_LevelFinal_1_C' ref from Metadata '/Game/Levels/LVFinal/Level11_1.PackageMetaData'
+[2020.06.01-09.57.57:059][943]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/LevelFinal_1_BuiltData848529CE46ECB6FFFA94869B26BF6091.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LVFinal/LevelFinal_1_BuiltData.uasset'
+[2020.06.01-09.57.57:233][943]LogUObjectHash: Compacting FUObjectHashTables data took   7.11ms
+[2020.06.01-09.57.58:626][943]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/LevelFinal_1C5FC797B48A86CC079388AAF0BA27B2A.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LVFinal/LevelFinal_1.umap'
+[2020.06.01-09.57.58:688][943]LogFileHelpers: Saving map 'LevelFinal_1' took 1.623
+[2020.06.01-09.57.59:333][943]LogUObjectHash: Compacting FUObjectHashTables data took   6.85ms
+[2020.06.01-09.57.59:386][943]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2020.06.01-09.57.59:447][943]LogUObjectHash: Compacting FUObjectHashTables data took   6.30ms
+[2020.06.01-09.57.59:507][943]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2020.06.01-09.58.11:799][209]BlueprintLog: New page: Compile PlayerWorldMap_Character
+[2020.06.01-09.58.12:733][209]LogUObjectHash: Compacting FUObjectHashTables data took   8.16ms
+[2020.06.01-09.58.13:584][254]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/PlayerWorldMap_CharacterBBC6C9834B713A2E9CD54B8F09A0DDEF.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/ThirdPersonBP/Blueprints/PlayerWorldMap_Character.uasset'
+[2020.06.01-09.58.16:848][573]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/LVFinal/LevelFinal_1.LevelFinal_1
+[2020.06.01-09.58.16:907][573]LogUObjectHash: Compacting FUObjectHashTables data took   9.61ms
+[2020.06.01-09.58.18:208][573]LogSlate: Window 'Save Content' being destroyed
+[2020.06.01-09.58.18:262][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2020.06.01-09.58.19:564][573]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/WorldMapLevel66BF89DE48C8E2D225225F80F0268D92.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/WorldMap/WorldMapLevel.umap'
+[2020.06.01-09.58.19:678][573]LogFileHelpers: Saving map 'WorldMapLevel' took 1.466
+[2020.06.01-09.58.19:681][573]Cmd: MAP LOAD FILE="../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LVFinal/LevelFinal_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.06.01-09.58.19:681][573]LightingResults: New page: Lighting Build
+[2020.06.01-09.58.19:682][573]LoadErrors: New page: Loading map: LevelFinal_1.umap
+[2020.06.01-09.58.19:692][573]LogWorld: UWorld::CleanupWorld for WorldMapLevel, bSessionEnded=true, bCleanupResources=true
+[2020.06.01-09.58.19:700][573]MapCheck: New page: Map Check
+[2020.06.01-09.58.19:700][573]LightingResults: New page: Lighting Build
+[2020.06.01-09.58.19:798][573]LogUObjectHash: Compacting FUObjectHashTables data took   9.24ms
+[2020.06.01-09.58.19:903][573]LogUObjectHash: Compacting FUObjectHashTables data took   7.91ms
+[2020.06.01-09.58.19:987][573]LogUObjectHash: Compacting FUObjectHashTables data took   8.16ms
+[2020.06.01-09.58.20:040][573]LogUObjectHash: Compacting FUObjectHashTables data took   8.50ms
+[2020.06.01-09.58.20:088][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2020.06.01-09.58.20:154][573]LogUObjectHash: Compacting FUObjectHashTables data took   9.10ms
+[2020.06.01-09.58.20:220][573]LogUObjectHash: Compacting FUObjectHashTables data took   8.41ms
+[2020.06.01-09.58.20:270][573]LogUObjectHash: Compacting FUObjectHashTables data took   6.65ms
+[2020.06.01-09.58.21:656][573]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.06.01-09.58.21:769][573]LogUObjectHash: Compacting FUObjectHashTables data took   8.00ms
+[2020.06.01-09.58.21:863][573]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.06.01-09.58.21:863][573]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.163ms to complete.
+[2020.06.01-09.58.21:865][573]LogFileHelpers: Loading map 'LevelFinal_1' took 2.186
+[2020.06.01-09.58.22:470][573]LogAIModule: Creating AISystem for world WorldMapLevel
+[2020.06.01-09.58.41:738][938]LogEditorViewport: Clicking on Actor (LMB): GhostSpawn_C (GhostSpawn2)
+[2020.06.01-09.58.43:600][132]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.01-09.58.44:230][202]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.06.01-09.58.44:231][202]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Objects/LV11/GhostSpawn.GhostSpawn
+[2020.06.01-09.58.46:865][352]LogSlate: Window 'GhostSpawn' being destroyed
+[2020.06.01-09.58.47:034][372]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.01-09.58.55:505][291]LogAIModule: Creating AISystem for world Level11_2
+[2020.06.01-09.58.56:229][291]LogUObjectHash: Compacting FUObjectHashTables data took   7.10ms
+[2020.06.01-09.58.56:229][291]LogMetaData: Removing '/Game/Levels/LVFinal/LevelFinal_2.LevelFinal_2_C' ref from Metadata '/Game/Levels/LVFinal/Level11_2.PackageMetaData'
+[2020.06.01-09.58.56:229][291]LogMetaData: Removing '/Game/Levels/LVFinal/LevelFinal_2.SKEL_LevelFinal_2_C' ref from Metadata '/Game/Levels/LVFinal/Level11_2.PackageMetaData'
+[2020.06.01-09.58.56:268][291]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.06.01-09.58.56:342][291]LogUObjectHash: Compacting FUObjectHashTables data took   6.82ms
+[2020.06.01-09.58.56:882][291]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/LevelFinal_2295A31804AF53A84F61809B7F3D02544.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LVFinal/LevelFinal_2.umap'
+[2020.06.01-09.58.56:884][291]LogFileHelpers: Saving map 'LevelFinal_2' took 0.593
+[2020.06.01-09.58.56:890][291]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.06.01-09.58.57:149][291]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.06.01-09.58.57:206][291]LogUObjectHash: Compacting FUObjectHashTables data took   6.39ms
+[2020.06.01-09.58.57:257][291]LogUObjectHash: Compacting FUObjectHashTables data took   5.42ms
+[2020.06.01-09.58.57:303][291]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2020.06.01-09.58.57:599][291]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.01-09.59.04:869][140]BlueprintLog: New page: Compile GhostSpawn
+[2020.06.01-09.59.05:521][140]LogUObjectHash: Compacting FUObjectHashTables data took   8.32ms
+[2020.06.01-09.59.05:991][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objects/LV11/GhostSpawn" FILE="../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Objects/LV11/GhostSpawn.uasset" SILENT=true
+[2020.06.01-09.59.06:040][183]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/GhostSpawn4A03505C4BF5ADE0E431AE88B3BAFD4C.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Objects/LV11/GhostSpawn.uasset'
+[2020.06.01-09.59.17:434][ 18]LogMaterial: Display: Missing cached shader map for material M_Landscape, compiling. 
+[2020.06.01-09.59.17:435][ 18]LogMaterial: Warning: E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\Content\Levels\LVFinal\Level11_Walk.umap: Failed to compile Material Instance with Base M_Landscape for platform PCD3D_SM5, Default Material will be used in game.
+[2020.06.01-09.59.17:435][ 18]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.06.01-09.59.17:439][ 18]LogMaterial: Display: Missing cached shader map for material M_Landscape, compiling. 
+[2020.06.01-09.59.17:440][ 18]LogMaterial: Warning: E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\Content\Levels\LVFinal\Level11_Walk.umap: Failed to compile Material Instance with Base M_Landscape for platform PCD3D_SM5, Default Material will be used in game.
+[2020.06.01-09.59.17:440][ 18]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.06.01-09.59.17:444][ 18]LogMaterial: Display: Missing cached shader map for material M_Landscape, compiling. 
+[2020.06.01-09.59.17:445][ 18]LogMaterial: Warning: E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\Content\Levels\LVFinal\Level11_Walk.umap: Failed to compile Material Instance with Base M_Landscape for platform PCD3D_SM5, Default Material will be used in game.
+[2020.06.01-09.59.17:445][ 18]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.06.01-09.59.17:480][ 18]LogMaterial: Display: Missing cached shader map for material M_Landscape, compiling. 
+[2020.06.01-09.59.17:481][ 18]LogMaterial: Warning: E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\Content\Levels\LVFinal\Level11_Walk.umap: Failed to compile Material Instance with Base M_Landscape for platform PCD3D_SM5, Default Material will be used in game.
+[2020.06.01-09.59.17:481][ 18]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.06.01-09.59.17:486][ 18]LogMaterial: Display: Missing cached shader map for material M_Landscape, compiling. 
+[2020.06.01-09.59.17:487][ 18]LogMaterial: Warning: E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\Content\Levels\LVFinal\Level11_Walk.umap: Failed to compile Material Instance with Base M_Landscape for platform PCD3D_SM5, Default Material will be used in game.
+[2020.06.01-09.59.17:487][ 18]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.06.01-09.59.17:491][ 18]LogMaterial: Display: Missing cached shader map for material M_Landscape, compiling. 
+[2020.06.01-09.59.17:492][ 18]LogMaterial: Warning: E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\Content\Levels\LVFinal\Level11_Walk.umap: Failed to compile Material Instance with Base M_Landscape for platform PCD3D_SM5, Default Material will be used in game.
+[2020.06.01-09.59.17:492][ 18]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.06.01-09.59.17:497][ 18]LogMaterial: Display: Missing cached shader map for material M_Landscape, compiling. 
+[2020.06.01-09.59.17:498][ 18]LogMaterial: Warning: E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\Content\Levels\LVFinal\Level11_Walk.umap: Failed to compile Material Instance with Base M_Landscape for platform PCD3D_SM5, Default Material will be used in game.
+[2020.06.01-09.59.17:498][ 18]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.06.01-09.59.17:502][ 18]LogMaterial: Display: Missing cached shader map for material M_Landscape, compiling. 
+[2020.06.01-09.59.17:503][ 18]LogMaterial: Warning: E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\Content\Levels\LVFinal\Level11_Walk.umap: Failed to compile Material Instance with Base M_Landscape for platform PCD3D_SM5, Default Material will be used in game.
+[2020.06.01-09.59.17:503][ 18]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.06.01-09.59.17:508][ 18]LogMaterial: Display: Missing cached shader map for material M_Landscape, compiling. 
+[2020.06.01-09.59.17:509][ 18]LogMaterial: Warning: E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\Content\Levels\LVFinal\Level11_Walk.umap: Failed to compile Material Instance with Base M_Landscape for platform PCD3D_SM5, Default Material will be used in game.
+[2020.06.01-09.59.17:509][ 18]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.06.01-09.59.17:513][ 18]LogMaterial: Display: Missing cached shader map for material M_Landscape, compiling. 
+[2020.06.01-09.59.17:514][ 18]LogMaterial: Warning: E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\Content\Levels\LVFinal\Level11_Walk.umap: Failed to compile Material Instance with Base M_Landscape for platform PCD3D_SM5, Default Material will be used in game.
+[2020.06.01-09.59.17:514][ 18]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.06.01-09.59.17:518][ 18]LogMaterial: Display: Missing cached shader map for material M_Landscape, compiling. 
+[2020.06.01-09.59.17:519][ 18]LogMaterial: Warning: E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\Content\Levels\LVFinal\Level11_Walk.umap: Failed to compile Material Instance with Base M_Landscape for platform PCD3D_SM5, Default Material will be used in game.
+[2020.06.01-09.59.17:519][ 18]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.06.01-09.59.17:523][ 18]LogMaterial: Display: Missing cached shader map for material M_Landscape, compiling. 
+[2020.06.01-09.59.17:524][ 18]LogMaterial: Warning: E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\Content\Levels\LVFinal\Level11_Walk.umap: Failed to compile Material Instance with Base M_Landscape for platform PCD3D_SM5, Default Material will be used in game.
+[2020.06.01-09.59.17:524][ 18]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.06.01-09.59.17:528][ 18]LogMaterial: Display: Missing cached shader map for material M_Landscape, compiling. 
+[2020.06.01-09.59.17:529][ 18]LogMaterial: Warning: E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\Content\Levels\LVFinal\Level11_Walk.umap: Failed to compile Material Instance with Base M_Landscape for platform PCD3D_SM5, Default Material will be used in game.
+[2020.06.01-09.59.17:529][ 18]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.06.01-09.59.17:556][ 18]LogMaterial: Display: Missing cached shader map for material M_Landscape, compiling. 
+[2020.06.01-09.59.17:557][ 18]LogMaterial: Warning: E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\Content\Levels\LVFinal\Level11_Walk.umap: Failed to compile Material Instance with Base M_Landscape for platform PCD3D_SM5, Default Material will be used in game.
+[2020.06.01-09.59.17:557][ 18]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.06.01-09.59.17:561][ 18]LogMaterial: Display: Missing cached shader map for material M_Landscape, compiling. 
+[2020.06.01-09.59.17:562][ 18]LogMaterial: Warning: E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\Content\Levels\LVFinal\Level11_Walk.umap: Failed to compile Material Instance with Base M_Landscape for platform PCD3D_SM5, Default Material will be used in game.
+[2020.06.01-09.59.17:562][ 18]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.06.01-09.59.17:566][ 18]LogMaterial: Display: Missing cached shader map for material M_Landscape, compiling. 
+[2020.06.01-09.59.17:568][ 18]LogMaterial: Warning: E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\Content\Levels\LVFinal\Level11_Walk.umap: Failed to compile Material Instance with Base M_Landscape for platform PCD3D_SM5, Default Material will be used in game.
+[2020.06.01-09.59.17:568][ 18]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.06.01-09.59.17:573][ 18]LogMaterial: Display: Missing cached shader map for material M_Landscape, compiling. 
+[2020.06.01-09.59.17:574][ 18]LogMaterial: Warning: E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\Content\Levels\LVFinal\Level11_Walk.umap: Failed to compile Material Instance with Base M_Landscape for platform PCD3D_SM5, Default Material will be used in game.
+[2020.06.01-09.59.17:574][ 18]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.06.01-09.59.17:591][ 18]LogMaterial: Display: Missing cached shader map for material M_Landscape, compiling. 
+[2020.06.01-09.59.17:592][ 18]LogMaterial: Warning: E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\Content\Levels\LVFinal\Level11_Walk.umap: Failed to compile Material Instance with Base M_Landscape for platform PCD3D_SM5, Default Material will be used in game.
+[2020.06.01-09.59.17:592][ 18]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.06.01-09.59.17:607][ 18]LogMaterial: Display: Missing cached shader map for material M_Landscape, compiling. 
+[2020.06.01-09.59.17:608][ 18]LogMaterial: Warning: E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\Content\Levels\LVFinal\Level11_Walk.umap: Failed to compile Material Instance with Base M_Landscape for platform PCD3D_SM5, Default Material will be used in game.
+[2020.06.01-09.59.17:608][ 18]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.06.01-09.59.17:634][ 18]LogMaterial: Display: Missing cached shader map for material M_Landscape, compiling. 
+[2020.06.01-09.59.17:636][ 18]LogMaterial: Warning: E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\Content\Levels\LVFinal\Level11_Walk.umap: Failed to compile Material Instance with Base M_Landscape for platform PCD3D_SM5, Default Material will be used in game.
+[2020.06.01-09.59.17:636][ 18]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.06.01-09.59.17:639][ 18]LogMaterial: Display: Missing cached shader map for material M_Landscape, compiling. 
+[2020.06.01-09.59.17:640][ 18]LogMaterial: Warning: E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\Content\Levels\LVFinal\Level11_Walk.umap: Failed to compile Material Instance with Base M_Landscape for platform PCD3D_SM5, Default Material will be used in game.
+[2020.06.01-09.59.17:640][ 18]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.06.01-09.59.18:339][ 18]LogAIModule: Creating AISystem for world Level11_Walk
+[2020.06.01-09.59.20:177][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   8.71ms
+[2020.06.01-09.59.20:177][ 18]LogMetaData: Removing '/Game/Levels/LVFinal/LevelFinal_Walk.LevelFinal_Walk_C' ref from Metadata '/Game/Levels/LVFinal/Level11_Walk.PackageMetaData'
+[2020.06.01-09.59.20:177][ 18]LogMetaData: Removing '/Game/Levels/LVFinal/LevelFinal_Walk.SKEL_LevelFinal_Walk_C' ref from Metadata '/Game/Levels/LVFinal/Level11_Walk.PackageMetaData'
+[2020.06.01-09.59.21:268][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   7.21ms
+[2020.06.01-09.59.24:479][ 18]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/LevelFinal_WalkCFA0E17949B35F07C4EEF9BF80A5B1F5.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LVFinal/LevelFinal_Walk.umap'
+[2020.06.01-09.59.25:229][ 18]LogFileHelpers: Saving map 'LevelFinal_Walk' took 5.003
+[2020.06.01-09.59.25:250][ 18]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.06.01-09.59.25:537][ 18]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.06.01-09.59.25:618][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   6.80ms
+[2020.06.01-09.59.25:665][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   5.05ms
+[2020.06.01-09.59.25:707][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2020.06.01-09.59.26:105][ 18]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.01-09.59.35:907][107]LogUObjectHash: Compacting FUObjectHashTables data took   5.82ms
+[2020.06.01-09.59.35:979][107]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2020.06.01-09.59.37:460][107]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/LevelFinal_1D6174E14430FF226D76227AFC2108B88.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LVFinal/LevelFinal_1.umap'
+[2020.06.01-09.59.37:541][107]LogFileHelpers: Saving map 'LevelFinal_1' took 1.615
+[2020.06.01-09.59.37:689][107]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/PlayerWorldMap_Character670ACA4E42079570E4C9CC9737655614.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/ThirdPersonBP/Blueprints/PlayerWorldMap_Character.uasset'
+[2020.06.01-10.01.37:119][963]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.01-10.04.37:509][602]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/LVFinal/LevelFinal_Walk.LevelFinal_Walk
+[2020.06.01-10.04.37:593][602]LogUObjectHash: Compacting FUObjectHashTables data took   8.61ms
+[2020.06.01-10.04.37:595][602]Cmd: MAP LOAD FILE="../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LVFinal/LevelFinal_Walk.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.06.01-10.04.37:595][602]LightingResults: New page: Lighting Build
+[2020.06.01-10.04.37:596][602]LoadErrors: New page: Loading map: LevelFinal_Walk.umap
+[2020.06.01-10.04.37:608][602]LogWorld: UWorld::CleanupWorld for LevelFinal_1, bSessionEnded=true, bCleanupResources=true
+[2020.06.01-10.04.37:612][602]MapCheck: New page: Map Check
+[2020.06.01-10.04.37:612][602]LightingResults: New page: Lighting Build
+[2020.06.01-10.04.37:708][602]LogUObjectHash: Compacting FUObjectHashTables data took   8.75ms
+[2020.06.01-10.04.37:767][602]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2020.06.01-10.04.37:901][602]LogUObjectHash: Compacting FUObjectHashTables data took   8.07ms
+[2020.06.01-10.04.37:954][602]LogUObjectHash: Compacting FUObjectHashTables data took   7.92ms
+[2020.06.01-10.04.38:020][602]LogUObjectHash: Compacting FUObjectHashTables data took   7.16ms
+[2020.06.01-10.04.40:685][602]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.06.01-10.04.40:874][602]LogUObjectHash: Compacting FUObjectHashTables data took   5.89ms
+[2020.06.01-10.04.40:949][602]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.06.01-10.04.40:949][602]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.15ms to complete.
+[2020.06.01-10.04.40:952][602]LogFileHelpers: Loading map 'LevelFinal_Walk' took 3.357
+[2020.06.01-10.04.41:134][605]LogStaticMesh: Allocated 235x64x128 distance field atlas = 3.7Mb, with 4 objects containing 2.4Mb backing data
+[2020.06.01-10.04.43:552][693]LogEditorViewport: Clicking on Actor (LMB): Conversation_Actor_C (Conversation_Actor)
+[2020.06.01-10.04.44:569][735]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.01-10.04.53:209][122]LogUObjectHash: Compacting FUObjectHashTables data took   5.94ms
+[2020.06.01-10.04.56:551][122]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/LevelFinal_Walk73512BD74630D95C8A8554B5FDC9BAB4.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LVFinal/LevelFinal_Walk.umap'
+[2020.06.01-10.05.59:976][326]LogAIModule: Creating AISystem for world CheckSaveFile
+[2020.06.01-10.05.59:979][326]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/CheckSaveFile.CheckSaveFile
+[2020.06.01-10.06.00:031][326]LogUObjectHash: Compacting FUObjectHashTables data took   8.23ms
+[2020.06.01-10.06.00:033][326]Cmd: MAP LOAD FILE="../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/CheckSaveFile.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.06.01-10.06.00:033][326]LightingResults: New page: Lighting Build
+[2020.06.01-10.06.00:034][326]LoadErrors: New page: Loading map: CheckSaveFile.umap
+[2020.06.01-10.06.00:053][326]LogWorld: UWorld::CleanupWorld for LevelFinal_Walk, bSessionEnded=true, bCleanupResources=true
+[2020.06.01-10.06.00:056][326]MapCheck: New page: Map Check
+[2020.06.01-10.06.00:056][326]LightingResults: New page: Lighting Build
+[2020.06.01-10.06.00:143][326]LogUObjectHash: Compacting FUObjectHashTables data took   7.69ms
+[2020.06.01-10.06.00:202][326]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2020.06.01-10.06.00:257][326]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2020.06.01-10.06.01:730][326]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.06.01-10.06.01:775][326]LogUObjectHash: Compacting FUObjectHashTables data took   5.27ms
+[2020.06.01-10.06.01:846][326]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.06.01-10.06.01:846][326]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.069ms to complete.
+[2020.06.01-10.06.01:846][326]LogFileHelpers: Loading map 'CheckSaveFile' took 1.814
+[2020.06.01-10.06.04:148][583]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Levels/CheckSaveFile.CheckSaveFile:PersistentLevel.CheckSaveFile
+[2020.06.01-10.06.47:946][164]LogAIModule: Creating AISystem for world Level11_UnFinish
+[2020.06.01-10.06.48:553][164]LogUObjectHash: Compacting FUObjectHashTables data took   7.07ms
+[2020.06.01-10.06.48:553][164]LogMetaData: Removing '/Game/Levels/LVFinal/LevelFinal_UnFinish.LevelFinal_UnFinish_C' ref from Metadata '/Game/Levels/LVFinal/Level11_UnFinish.PackageMetaData'
+[2020.06.01-10.06.48:553][164]LogMetaData: Removing '/Game/Levels/LVFinal/LevelFinal_UnFinish.SKEL_LevelFinal_UnFinish_C' ref from Metadata '/Game/Levels/LVFinal/Level11_UnFinish.PackageMetaData'
+[2020.06.01-10.06.48:636][164]LogUObjectHash: Compacting FUObjectHashTables data took   6.30ms
+[2020.06.01-10.06.49:213][164]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/LevelFinal_UnFinishBB181943405F8EE551F3BD8869BF6AC1.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LVFinal/LevelFinal_UnFinish.umap'
+[2020.06.01-10.06.49:216][164]LogFileHelpers: Saving map 'LevelFinal_UnFinish' took 0.637
+[2020.06.01-10.06.49:545][164]LogUObjectHash: Compacting FUObjectHashTables data took   6.93ms
+[2020.06.01-10.06.49:599][164]LogUObjectHash: Compacting FUObjectHashTables data took   5.88ms
+[2020.06.01-10.06.49:654][164]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2020.06.01-10.06.55:188][779]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2020.06.01-10.06.55:261][779]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2020.06.01-10.06.55:821][779]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/CheckSaveFileF969013B408B7FC25B79C7919A685851.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/CheckSaveFile.umap'
+[2020.06.01-10.06.55:917][779]LogFileHelpers: Saving map 'CheckSaveFile' took 0.705
+[2020.06.01-10.09.27:206][847]LogUObjectHash: Compacting FUObjectHashTables data took   8.32ms
+[2020.06.01-10.10.12:028][359]BlueprintLog: New page: Compile PlayerWorldMap_Character
+[2020.06.01-10.10.12:662][359]LogUObjectHash: Compacting FUObjectHashTables data took   7.69ms
+[2020.06.01-10.10.13:288][404]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/PlayerWorldMap_Character8C5A26CE450A3BC9473407B18CABF7DF.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/ThirdPersonBP/Blueprints/PlayerWorldMap_Character.uasset'
+[2020.06.01-10.10.16:948][831]LogUObjectHash: Compacting FUObjectHashTables data took   8.89ms
+[2020.06.01-10.10.17:479][831]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/CheckSaveFileAF5BCEA74FDEF57C773E4E96F5875AA0.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/CheckSaveFile.umap'
+[2020.06.01-10.10.17:616][831]LogFileHelpers: Saving map 'CheckSaveFile' took 0.729
+[2020.06.01-10.10.47:366][975]LogAIModule: Creating AISystem for world Level7_Walk
+[2020.06.01-10.10.47:504][975]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/LV07/Level7_Walk.Level7_Walk
+[2020.06.01-10.10.47:698][975]LogUObjectHash: Compacting FUObjectHashTables data took   8.94ms
+[2020.06.01-10.10.47:700][975]Cmd: MAP LOAD FILE="../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LV07/Level7_Walk.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.06.01-10.10.47:701][975]LightingResults: New page: Lighting Build
+[2020.06.01-10.10.47:701][975]LoadErrors: New page: Loading map: Level7_Walk.umap
+[2020.06.01-10.10.47:783][975]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.06.01-10.10.47:906][975]LogWorld: UWorld::CleanupWorld for CheckSaveFile, bSessionEnded=true, bCleanupResources=true
+[2020.06.01-10.10.47:906][975]MapCheck: New page: Map Check
+[2020.06.01-10.10.47:906][975]LightingResults: New page: Lighting Build
+[2020.06.01-10.10.47:966][975]LogUObjectHash: Compacting FUObjectHashTables data took   8.43ms
+[2020.06.01-10.10.48:024][975]LogUObjectHash: Compacting FUObjectHashTables data took   8.49ms
+[2020.06.01-10.10.48:083][975]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2020.06.01-10.10.48:136][975]LogUObjectHash: Compacting FUObjectHashTables data took   5.91ms
+[2020.06.01-10.10.50:627][975]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.06.01-10.10.50:925][975]LogUObjectHash: Compacting FUObjectHashTables data took   5.92ms
+[2020.06.01-10.10.50:998][975]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.06.01-10.10.50:998][975]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.178ms to complete.
+[2020.06.01-10.10.50:998][975]LogFileHelpers: Loading map 'Level7_Walk' took 3.300
