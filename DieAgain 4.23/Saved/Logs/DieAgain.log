@@ -2145,3 +2145,139 @@ Script Stack (0 frames):
 [2020.06.13-11.47.51:601][422]LogSlate: Window 'Generate Word Count Report for Target Game' being destroyed
 [2020.06.13-11.48.26:841][489]LogSlate: Window 'Compile Translations for Target Game' being destroyed
 [2020.06.13-11.48.30:746][778]LogUObjectHash: Compacting FUObjectHashTables data took  14.35ms
+[2020.06.13-12.02.43:505][286]LogLinker: Warning: While loading '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LV09/Level9_Walk1.umap' failed to load '/Game/Conversations/LV9/LV9_You_Ita': Can't find file.
+[2020.06.13-12.02.43:509][286]LogLinker: Warning: While loading '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LV09/Level9_Walk1.umap' failed to load '/Game/Conversations/LV9/LV9_You_Ita': Can't find file.
+[2020.06.13-12.02.43:798][286]LogLinker: Warning: While loading '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LV09/Level9_Walk1.umap' failed to load '/Game/Conversations/LV9/LV9_You_Ita': Can't find file.
+[2020.06.13-12.02.43:799][286]LogLinker: Warning: While loading '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LV09/Level9_Walk1.umap' failed to load '/Game/Conversations/LV9/LV9_You_Ita': Can't find file.
+[2020.06.13-12.02.43:976][286]LogLinker: Warning: While loading '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LV09/Level9_Walk1.umap' failed to load '/Game/Levels/WBTutorialLevels/WBLevelTut1_01': Can't find file.
+[2020.06.13-12.02.43:977][286]LogLinker: Warning: While loading '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LV09/Level9_Walk1.umap' failed to load '/Game/Levels/WBTutorialLevels/WBLevelTut1_01': Can't find file.
+[2020.06.13-12.02.44:491][286]LogLinker: Warning: While loading '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LV09/Level9_Walk1.umap' failed to load '/Game/Levels/WBTutorialLevels/WBLevelTut1_01': Can't find file.
+[2020.06.13-12.02.44:491][286]LogLinker: Warning: While loading '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LV09/Level9_Walk1.umap' failed to load '/Game/Levels/WBTutorialLevels/WBLevelTut1_01': Can't find file.
+[2020.06.13-12.02.44:510][286]LogLinker: Warning: Failed to load '/Game/Conversations/LV9/LV9_You_Ita': Can't find file.
+[2020.06.13-12.02.44:510][286]LogLinker: Warning: Failed to load '/Game/Conversations/LV9/LV9_You_Ita': Can't find file.
+[2020.06.13-12.02.44:510][286]LogLinker: Warning: Failed to load '/Game/Conversations/LV9/LV9_You_Ita': Can't find file.
+[2020.06.13-12.02.44:511][286]LogLinker: Warning: Failed to load '/Game/Conversations/LV9/LV9_You_Ita': Can't find file.
+[2020.06.13-12.02.44:511][286]LogLinker: Warning: Failed to load '/Game/Levels/WBTutorialLevels/WBLevelTut1_01': Can't find file.
+[2020.06.13-12.02.44:511][286]LogLinker: Warning: Failed to load '/Game/Levels/WBTutorialLevels/WBLevelTut1_01': Can't find file.
+[2020.06.13-12.02.44:512][286]LogLinker: Warning: Failed to load '/Game/Levels/WBTutorialLevels/WBLevelTut1_01': Can't find file.
+[2020.06.13-12.02.44:513][286]LogLinker: Warning: Failed to load '/Game/Levels/WBTutorialLevels/WBLevelTut1_01': Can't find file.
+[2020.06.13-12.02.44:535][286]LogLinker: Warning: While loading '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LV09/Level9_Walk1.umap' failed to load '/Game/Levels/WBTutorialLevels/WBLevelTut1_01': Can't find file.
+[2020.06.13-12.02.44:536][286]LoadErrors: Failed to load /Game/Levels/WBTutorialLevels/WBLevelTut1_01.WBLevelTut1_01_C Referenced by K2Node_CreateWidget_0
+[2020.06.13-12.02.44:538][286]LogLinker: Warning: While loading '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LV09/Level9_Walk1.umap' failed to load '/Game/Levels/WBTutorialLevels/WBLevelTut1_01': Can't find file.
+[2020.06.13-12.02.44:538][286]LogLinker: Warning: While loading '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LV09/Level9_Walk1.umap' failed to load '/Game/Levels/WBTutorialLevels/WBLevelTut1_01': Can't find file.
+[2020.06.13-12.02.44:538][286]LogLinker: Warning: While loading '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LV09/Level9_Walk1.umap' failed to load '/Game/Levels/WBTutorialLevels/WBLevelTut1_01': Can't find file.
+[2020.06.13-12.02.48:117][286]LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update Curve_GoodSky_BaseCloudColor
+[2020.06.13-12.02.48:118][286]LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update Curve_GoodSky_AllOverlayColor
+[2020.06.13-12.02.48:524][286]LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update Curve_GoodSky_DomeColor
+[2020.06.13-12.02.48:524][286]LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update Curve_GoodSky_horizon_Color
+[2020.06.13-12.02.48:579][286]LogAIModule: Creating AISystem for world Level9_Walk1
+[2020.06.13-12.02.48:753][286]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/LV09/Level9_Walk1.Level9_Walk1
+[2020.06.13-12.02.49:013][286]LogUObjectHash: Compacting FUObjectHashTables data took  15.43ms
+[2020.06.13-12.02.49:078][286]Cmd: MAP LOAD FILE="../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LV09/Level9_Walk1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.06.13-12.02.49:090][286]LightingResults: New page: Lighting Build
+[2020.06.13-12.02.49:092][286]LoadErrors: New page: Loading map: Level9_Walk1.umap
+[2020.06.13-12.02.49:116][286]LogWorld: UWorld::CleanupWorld for LevelTBC, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.02.49:117][286]MapCheck: New page: Map Check
+[2020.06.13-12.02.49:118][286]LightingResults: New page: Lighting Build
+[2020.06.13-12.02.49:206][286]LogUObjectHash: Compacting FUObjectHashTables data took  12.10ms
+[2020.06.13-12.02.49:280][286]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2020.06.13-12.02.49:358][286]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2020.06.13-12.02.52:592][286]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2020.06.13-12.02.52:714][286]LogUObjectHash: Compacting FUObjectHashTables data took   9.03ms
+[2020.06.13-12.02.52:799][286]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.06.13-12.02.52:806][286]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 6.004ms to complete.
+[2020.06.13-12.02.52:806][286]LogFileHelpers: Loading map 'Level9_Walk1' took 3.793
+[2020.06.13-12.03.02:799][552]LogEditorViewport: Clicking on Actor (LMB): PlayerWalkMap_Character_C (PlayerWalkMap_Character)
+[2020.06.13-12.03.07:105][814]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.13-12.03.07:591][824]LogAIModule: Creating AISystem for world Level9_1
+[2020.06.13-12.03.07:695][824]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/LV09/Level9_1.Level9_1
+[2020.06.13-12.03.07:799][824]LogUObjectHash: Compacting FUObjectHashTables data took  14.53ms
+[2020.06.13-12.03.07:802][824]Cmd: MAP LOAD FILE="../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LV09/Level9_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.06.13-12.03.07:802][824]LightingResults: New page: Lighting Build
+[2020.06.13-12.03.07:803][824]LoadErrors: New page: Loading map: Level9_1.umap
+[2020.06.13-12.03.07:825][824]LogWorld: UWorld::CleanupWorld for Level9_Walk1, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.03.07:830][824]MapCheck: New page: Map Check
+[2020.06.13-12.03.07:830][824]LightingResults: New page: Lighting Build
+[2020.06.13-12.03.07:938][824]LogUObjectHash: Compacting FUObjectHashTables data took  14.77ms
+[2020.06.13-12.03.08:019][824]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2020.06.13-12.03.08:095][824]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2020.06.13-12.03.12:664][824]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.06.13-12.03.12:809][824]LogUObjectHash: Compacting FUObjectHashTables data took   9.66ms
+[2020.06.13-12.03.12:914][824]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.06.13-12.03.12:918][824]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 3.927ms to complete.
+[2020.06.13-12.03.12:918][824]LogFileHelpers: Loading map 'Level9_1' took 5.118
+[2020.06.13-12.03.15:084][901]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2020.06.13-12.03.16:507][994]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.13-12.03.20:290][238]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.13-12.03.38:398][670]LogAIModule: Creating AISystem for world Level6_Walk
+[2020.06.13-12.03.38:524][670]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/LV06/Level6_Walk.Level6_Walk
+[2020.06.13-12.03.38:700][670]LogUObjectHash: Compacting FUObjectHashTables data took  23.34ms
+[2020.06.13-12.04.17:694][670]LogSlate: Window 'Save Content' being destroyed
+[2020.06.13-12.04.17:801][670]LogUObjectHash: Compacting FUObjectHashTables data took   6.76ms
+[2020.06.13-12.04.19:636][670]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/Level9_1852CE7AB4CEBC09268210B9F304FBF1E.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LV09/Level9_1.umap'
+[2020.06.13-12.04.19:787][670]LogFileHelpers: Saving map 'Level9_1' took 2.085
+[2020.06.13-12.04.19:789][670]Cmd: MAP LOAD FILE="../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LV06/Level6_Walk.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.06.13-12.04.19:789][670]LightingResults: New page: Lighting Build
+[2020.06.13-12.04.19:790][670]LoadErrors: New page: Loading map: Level6_Walk.umap
+[2020.06.13-12.04.19:795][670]LogWorld: UWorld::CleanupWorld for Level9_1, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.04.19:796][670]MapCheck: New page: Map Check
+[2020.06.13-12.04.19:796][670]LightingResults: New page: Lighting Build
+[2020.06.13-12.04.19:895][670]LogUObjectHash: Compacting FUObjectHashTables data took  11.80ms
+[2020.06.13-12.04.19:968][670]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2020.06.13-12.04.20:045][670]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2020.06.13-12.04.24:432][670]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.06.13-12.04.24:601][670]LogUObjectHash: Compacting FUObjectHashTables data took  10.50ms
+[2020.06.13-12.04.24:713][670]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.06.13-12.04.24:715][670]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.443ms to complete.
+[2020.06.13-12.04.24:716][670]LogFileHelpers: Loading map 'Level6_Walk' took 4.929
+[2020.06.13-12.04.25:129][670]LogAIModule: Creating AISystem for world Level9_1
+[2020.06.13-12.04.30:512][734]LogEditorViewport: Clicking on Actor (LMB): PlayerWalkMap_Character_C (PlayerWalkMap_Character)
+[2020.06.13-12.04.34:996][ 52]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.13-12.04.37:337][228]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.13-12.04.41:177][502]BlueprintLog: New page: Compile PlayerWalkMap_Character
+[2020.06.13-12.04.42:293][502]LogUObjectHash: Compacting FUObjectHashTables data took  13.51ms
+[2020.06.13-12.04.43:243][530]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/PlayerWalkMap_CharacterA6659A874BEF690863D330BB85C67EEC.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/ThirdPersonBP/Blueprints/PlayerWalkMap_Character.uasset'
+[2020.06.13-12.04.44:341][612]LogUObjectHash: Compacting FUObjectHashTables data took  17.03ms
+[2020.06.13-12.04.47:858][612]LogSlate: Window 'Save Content' being destroyed
+[2020.06.13-12.04.48:009][612]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2020.06.13-12.04.49:666][612]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/Level6_WalkD4913D5C434928385F96EFBED20D46C5.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LV06/Level6_Walk.umap'
+[2020.06.13-12.04.49:975][612]LogFileHelpers: Saving map 'Level6_Walk' took 2.091
+[2020.06.13-12.04.51:209][612]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.04.53:759][612]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.04.54:066][612]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.04.54:123][612]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.04.55:386][612]LogWorld: UWorld::CleanupWorld for World_66, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.04.55:488][612]LogWorld: UWorld::CleanupWorld for World_65, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.04.56:210][612]LogWorld: UWorld::CleanupWorld for World_64, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.04.56:296][612]LogWorld: UWorld::CleanupWorld for World_63, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.04.57:296][612]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.06.13-12.04.57:296][612]LogWorld: UWorld::CleanupWorld for World_55, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.04.58:286][612]LogSlate: Window 'DieAgain - Unreal Editor' being destroyed
+[2020.06.13-12.05.00:122][613]Cmd: QUIT_EDITOR
+[2020.06.13-12.05.00:806][613]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.06.13-12.05.00:847][613]LogExit: Preparing to exit.
+[2020.06.13-12.05.01:449][613]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.05.01:460][613]LogWorld: UWorld::CleanupWorld for World_56, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.05.01:471][613]LogWorld: UWorld::CleanupWorld for World_58, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.05.01:483][613]LogWorld: UWorld::CleanupWorld for World_59, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.05.01:494][613]LogWorld: UWorld::CleanupWorld for World_62, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.05.01:508][613]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.05.01:524][613]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.05.01:543][613]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.05.01:559][613]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.05.01:571][613]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.05.01:583][613]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.05.01:605][613]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.05.01:619][613]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.05.01:632][613]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.05.01:645][613]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.05.01:660][613]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.05.01:676][613]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.05.01:690][613]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.05.01:705][613]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.05.01:719][613]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.05.01:732][613]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.05.01:749][613]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.05.01:763][613]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.05.01:776][613]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.05.01:790][613]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
