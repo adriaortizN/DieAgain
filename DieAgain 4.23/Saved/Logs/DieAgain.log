@@ -1564,3 +1564,52 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.04-16.17.56:411][486]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/Level1_3_BuiltDataA7AFDF1144AB26CCABDCBDACBE845AF6.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LV01/Level1_3_BuiltData.uasset'
 [2020.07.04-16.21.16:615][880]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2020.07.04-16.21.57:389][184]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.04-16.23.15:844][910]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.04-16.23.16:114][930]LogUObjectHash: Compacting FUObjectHashTables data took   6.37ms
+[2020.07.04-16.23.16:445][930]LogSlate: Window 'DieAgain - Unreal Editor' being destroyed
+[2020.07.04-16.23.18:644][931]Cmd: QUIT_EDITOR
+[2020.07.04-16.23.19:145][931]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.07.04-16.23.19:183][931]LogExit: Preparing to exit.
+[2020.07.04-16.23.20:334][931]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.04-16.23.20:335][931]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.04-16.23.20:335][931]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.04-16.23.20:335][931]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.04-16.23.20:335][931]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.04-16.23.20:335][931]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.04-16.23.20:335][931]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.04-16.23.20:335][931]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.07.04-16.23.20:335][931]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.04-16.23.20:335][931]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.04-16.23.20:335][931]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.04-16.23.20:335][931]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.04-16.23.20:335][931]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.04-16.23.20:335][931]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.04-16.23.20:335][931]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.04-16.23.20:336][931]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.07.04-16.23.20:336][931]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.04-16.23.20:336][931]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.04-16.23.20:336][931]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.04-16.23.20:336][931]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.04-16.23.20:336][931]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.04-16.23.20:336][931]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.04-16.23.20:336][931]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.04-16.23.20:336][931]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.07.04-16.23.20:336][931]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.04-16.23.20:336][931]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.04-16.23.20:336][931]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.04-16.23.20:336][931]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.04-16.23.20:336][931]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.04-16.23.20:337][931]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.04-16.23.20:337][931]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.04-16.23.20:337][931]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.07.04-16.23.20:337][931]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.04-16.23.20:337][931]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.04-16.23.20:337][931]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.04-16.23.20:337][931]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.04-16.23.20:337][931]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.04-16.23.20:337][931]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.04-16.23.20:337][931]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.04-16.23.20:337][931]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.07.04-16.23.20:947][931]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.07.04-16.23.21:463][931]LogExit: Editor shut down
+[2020.07.04-16.23.21:472][931]LogExit: Transaction tracking system shut down
