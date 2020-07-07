@@ -227,6 +227,24 @@
 			}
 		},
 		{
+			"File": "../../../DieAgain/Plugins/NorthernFront/NorthernFront.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 1,
+				"VersionName": "1.0",
+				"FriendlyName": "NorthernFront",
+				"Description": "Northern Front DLC for Die Again",
+				"Category": "DLC",
+				"CreatedBy": "Varn",
+				"CreatedByURL": "https://twitter.com/DieAgain_Game",
+				"DocsURL": "",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"CanContainContent": true
+			}
+		},
+		{
 			"File": "../../../Engine/Plugins/2D/Paper2D/Paper2D.uplugin",
 			"Descriptor": 
 			{

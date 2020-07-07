@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\DieAgain.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{45D62803-369D-44D8-B678-C97276B20CD8}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\DieAgain.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\DieAgainEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\AmplifyLUTPack.png" />
+    <None Include="..\..\Brushify_Shaders.png" />
+    <None Include="..\..\Cosas a añadir con más o menos urgencia.txt" />
+    <None Include="..\..\Die.ico" />
+    <None Include="..\..\DieAgain.icns" />
+    <None Include="..\..\DieAgain.png" />
+    <None Include="..\..\EsquinasChulas.png" />
+    <None Include="..\..\icns.icns" />
+    <None Include="..\..\LevelDesignShort.txt" />
+    <None Include="..\..\Mesh y Texturas interesantes.txt" />
+    <None Include="..\..\ParticleToolkitVol1.png" />
+    <None Include="..\..\Plugins a utilizar.txt" />
+    <None Include="..\..\unreal_tournament_iii.icns" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{193E0960-62EA-4316-946E-D74ABDFEDB26}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\Localization">
+      <UniqueIdentifier>{366C1201-90B1-4538-A9A1-AF36616D50D7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Localization\Game_Compile.ini">
+      <Filter>Config\Localization</Filter>
+    </None>
+    <None Include="..\..\Config\Localization\Game_Export.ini">
+      <Filter>Config\Localization</Filter>
+    </None>
+    <None Include="..\..\Config\Localization\Game_ExportDialogueScript.ini">
+      <Filter>Config\Localization</Filter>
+    </None>
+    <None Include="..\..\Config\Localization\Game_Gather.ini">
+      <Filter>Config\Localization</Filter>
+    </None>
+    <None Include="..\..\Config\Localization\Game_GenerateReports.ini">
+      <Filter>Config\Localization</Filter>
+    </None>
+    <None Include="..\..\Config\Localization\Game_Import.ini">
+      <Filter>Config\Localization</Filter>
+    </None>
+    <None Include="..\..\Config\Localization\Game_ImportDialogue.ini">
+      <Filter>Config\Localization</Filter>
+    </None>
+    <None Include="..\..\Config\Localization\Game_ImportDialogueScript.ini">
+      <Filter>Config\Localization</Filter>
+    </None>
+    <Filter Include="Source\DieAgain">
+      <UniqueIdentifier>{844FA595-078F-40D7-AC26-272BD14D3CFD}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\DieAgain\DieAgain.Build.cs">
+      <Filter>Source\DieAgain</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\DieAgain\DieAgain.cpp">
+      <Filter>Source\DieAgain</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DieAgain\DieAgain.h">
+      <Filter>Source\DieAgain</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DieAgain\NorthernFront_ActivateDLC.cpp">
+      <Filter>Source\DieAgain</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DieAgain\NorthernFront_ActivateDLC.h">
+      <Filter>Source\DieAgain</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DieAgain\TestActorC.cpp">
+      <Filter>Source\DieAgain</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DieAgain\TestActorC.h">
+      <Filter>Source\DieAgain</Filter>
+    </ClInclude>
+    <Filter Include="Plugins">
+      <UniqueIdentifier>{4417C152-36C5-452E-9198-49346E04EE46}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\NorthernFront">
+      <UniqueIdentifier>{1CE125EF-2E1D-46FD-B89D-90FEBAF38825}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\NorthernFront\NorthernFront.uplugin">
+      <Filter>Plugins\NorthernFront</Filter>
+    </None>
+    <Filter Include="Plugins\NorthernFront\Resources">
+      <UniqueIdentifier>{941E5B0F-931F-4BD2-802A-57BCE8BA6186}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\NorthernFront\Resources\Icon128.png">
+      <Filter>Plugins\NorthernFront\Resources</Filter>
+    </None>
+  </ItemGroup>
+</Project>
