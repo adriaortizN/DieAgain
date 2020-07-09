@@ -1,9 +1,14 @@
 ChunkID, Package Name, Class Type, Hard or Soft Chunk, File Size, Other Chunks
-0,/Game/SurvivalAssetPack/Materials/M_Lighter,Material,Soft: Possibly Unassigned Asset,20043,None
-0,/Game/SurvivalAssetPack/Meshes/SM_Lighter,StaticMesh,Soft: Possibly Unassigned Asset,325792,None
-0,/Game/SurvivalAssetPack/Textures/T_Lighter_BaseColor,Texture2D,Soft: Possibly Unassigned Asset,700402,None
-0,/Game/SurvivalAssetPack/Textures/T_Lighter_Normal,Texture2D,Soft: Possibly Unassigned Asset,1399779,None
-0,/Game/SurvivalAssetPack/Textures/T_Lighter_OcclusionRoughnessMetallic,Texture2D,Soft: Possibly Unassigned Asset,700496,None
-0,/NorthernFront/LevelNF_Walk_1,World,Soft: Possibly Unassigned Asset,6698963,None
-0,/NorthernFront/LevelNF_Walk_2,World,Soft: Possibly Unassigned Asset,6698963,None
-0,/NorthernFront/NorthernFrontClass,Blueprint,Soft: Possibly Unassigned Asset,3813,None
+0,/Engine/MapTemplates/Bokeh_5Sides,Texture2D,Hard,350899,None
+0,/Game/LandscapePackOne/Environments/Sky/ShadowClouds/Materials/M_ShadowCloud_01,Material,Soft From Unassigned Package? Best Guess: /Game/LandscapePackOne/Maps/SnowyMountain_01->/Game/LandscapePackOne/Environments/Sky/ShadowClouds/Materials/MI_ShadowCloud_01->/Game/LandscapePackOne/Environments/Sky/ShadowClouds/Materials/M_ShadowCloud_01,16963,None
+0,/Game/LandscapePackOne/Environments/Sky/ShadowClouds/Materials/MI_ShadowCloud_01,MaterialInstanceConstant,Soft From Unassigned Package? Best Guess: /Game/LandscapePackOne/Maps/SnowyMountain_01->/Game/LandscapePackOne/Environments/Sky/ShadowClouds/Materials/MI_ShadowCloud_01,4049,None
+0,/Game/LandscapePackOne/Environments/Sky/ShadowClouds/Textures/T_Cloud_1,Texture2D,Soft From Unassigned Package? Best Guess: /Game/LandscapePackOne/Maps/SnowyMountain_01->/Game/LandscapePackOne/Environments/Sky/ShadowClouds/Materials/MI_ShadowCloud_01->/Game/LandscapePackOne/Environments/Sky/ShadowClouds/Materials/M_ShadowCloud_01->/Game/LandscapePackOne/Environments/Sky/ShadowClouds/Textures/T_Cloud_1,2797595,None
+0,/Game/LandscapePackOne/Environments/Sky/ShadowClouds/Textures/T_Cloud_8,Texture2D,Soft From Unassigned Package? Best Guess: /Game/LandscapePackOne/Maps/SnowyMountain_01->/Game/LandscapePackOne/Environments/Sky/ShadowClouds/Materials/MI_ShadowCloud_01->/Game/LandscapePackOne/Environments/Sky/ShadowClouds/Textures/T_Cloud_8,2797595,None
+0,/Game/LandscapePackOne/Textures/Luts/T_Lut_11,Texture2D,Soft From Unassigned Package? Best Guess: /Game/LandscapePackOne/Maps/SnowyMountain_01->/Game/LandscapePackOne/Textures/Luts/T_Lut_11,17544,None
+0,/Game/SurvivalAssetPack/Materials/M_Lighter,Material,Soft From Unassigned Package? Best Guess: /Game/SurvivalAssetPack/Blueprints/BP_Lighter->/Game/SurvivalAssetPack/Meshes/SM_Lighter->/Game/SurvivalAssetPack/Materials/M_Lighter,20043,None
+0,/Game/SurvivalAssetPack/Meshes/SM_Lighter,StaticMesh,Soft From Unassigned Package? Best Guess: /Game/SurvivalAssetPack/Blueprints/BP_Lighter->/Game/SurvivalAssetPack/Meshes/SM_Lighter,325792,None
+0,/Game/SurvivalAssetPack/Textures/T_Lighter_BaseColor,Texture2D,Soft From Unassigned Package? Best Guess: /Game/SurvivalAssetPack/Blueprints/BP_Lighter->/Game/SurvivalAssetPack/Meshes/SM_Lighter->/Game/SurvivalAssetPack/Materials/M_Lighter->/Game/SurvivalAssetPack/Textures/T_Lighter_BaseColor,700402,None
+0,/Game/SurvivalAssetPack/Textures/T_Lighter_Normal,Texture2D,Soft From Unassigned Package? Best Guess: /Game/SurvivalAssetPack/Blueprints/BP_Lighter->/Game/SurvivalAssetPack/Meshes/SM_Lighter->/Game/SurvivalAssetPack/Materials/M_Lighter->/Game/SurvivalAssetPack/Textures/T_Lighter_Normal,1399779,None
+0,/Game/SurvivalAssetPack/Textures/T_Lighter_OcclusionRoughnessMetallic,Texture2D,Soft From Unassigned Package? Best Guess: /Game/SurvivalAssetPack/Blueprints/BP_Lighter->/Game/SurvivalAssetPack/Meshes/SM_Lighter->/Game/SurvivalAssetPack/Materials/M_Lighter->/Game/SurvivalAssetPack/Textures/T_Lighter_OcclusionRoughnessMetallic,700496,None
+0,/NorthernFront/LevelNF_Walk_1,World,Soft From Unassigned Package? Best Guess: /NorthernFront/LevelNF_Walk_1,721833236,None
+0,/NorthernFront/NorthernFrontClass,Blueprint,Soft From Unassigned Package? Best Guess: /NorthernFront/NorthernFrontClass,3813,None
