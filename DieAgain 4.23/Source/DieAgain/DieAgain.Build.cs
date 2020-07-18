@@ -8,7 +8,8 @@ public class DieAgain : ModuleRules
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 	
-		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "OnlineSubsystem", "OnlineSubsystemUtils", "Steamworks" });
+		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore"});
+        //PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "OnlineSubsystem", "OnlineSubsystemUtils", "Steamworks" });
 
         PrivateDependencyModuleNames.AddRange(new string[] {  });
 
@@ -19,6 +20,6 @@ public class DieAgain : ModuleRules
         // PrivateDependencyModuleNames.Add("OnlineSubsystem");
 
         // To include OnlineSubsystemSteam, add it to the plugins section in your uproject file with the Enabled attribute set to true
-        DynamicallyLoadedModuleNames.Add("OnlineSubsystemSteam");
+        //DynamicallyLoadedModuleNames.Add("OnlineSubsystemSteam");
     }
 }

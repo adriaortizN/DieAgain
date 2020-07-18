@@ -2,6 +2,7 @@
 
 
 #include "NorthernFront_ActivateDLC.h"
+#include "Paths.h"
 
 // Sets default values
 ANorthernFront_ActivateDLC::ANorthernFront_ActivateDLC()
@@ -16,6 +17,16 @@ void ANorthernFront_ActivateDLC::BeginPlay()
 {
 	Super::BeginPlay();
 	
+	FString FullPath = FPaths::ConvertRelativePathToFull(FString("../../../DieAgain/Content/Paks/" + PluginName + ".pak"));
+
+	if (FPaths::FileExists(FullPath))
+	{
+		bCanOpenMap = true;
+	}
+	else
+	{
+		bCanOpenMap = false;
+	}
 }
 
 // Called every frame
@@ -24,4 +35,17 @@ void ANorthernFront_ActivateDLC::Tick(float DeltaTime)
 	Super::Tick(DeltaTime);
 
 }
+
+bool ANorthernFront_ActivateDLC::OpenDLC()
+{
+	if (bCanOpenMap)
+	{
+		return true;
+		//UGameplayStatics::OpenLevel(GetWorld(), MapToOpen);
+	}
+	else {
+		return false;
+	}
+}
+
 

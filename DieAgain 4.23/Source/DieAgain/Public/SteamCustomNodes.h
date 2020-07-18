@@ -1,5 +1,5 @@
 // Fill out your copyright notice in the Description page of Project Settings.
-
+/*
 #pragma once
 
 // Include SteamAPI and ignore useless warnings
@@ -10,8 +10,8 @@
 #pragma push_macro("ARRAY_COUNT")
 #undef ARRAY_COUNT
 #pragma pop_macro("ARRAY_COUNT")
-#pragma warning(pop)
-*/
+#pragma warning(pop)				//Cerrar comentarios aqui abajo
+
 #include "CoreMinimal.h"
 #include "Kismet/BlueprintFunctionLibrary.h"
 #include "SteamCustomNodes.generated.h"
@@ -34,3 +34,4 @@ public:
 };
 
 //class DIEAGAIN_API USteamCustomNodes : public UBlueprintFunctionLibrary
+*/

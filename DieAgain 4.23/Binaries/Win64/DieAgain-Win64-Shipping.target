@@ -47,15 +47,11 @@
 			"Type": "UFS"
 		},
 		{
-			"Path": "$(EngineDir)/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin",
+			"Path": "$(EngineDir)/Plugins/FX/NiagaraExtras/NiagaraExtras.uplugin",
 			"Type": "UFS"
 		},
 		{
-			"Path": "$(EngineDir)/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin",
-			"Type": "UFS"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin",
+			"Path": "$(EngineDir)/Plugins/FX/Niagara/Niagara.uplugin",
 			"Type": "UFS"
 		},
 		{
@@ -1381,10 +1377,6 @@
 		{
 			"Path": "$(EngineDir)/Binaries/ThirdParty/PhysX3/Win64/VS2015/NvCloth_x64.pdb",
 			"Type": "DebugNonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/Steamworks/Steamv142/Win64/steam_api64.dll",
-			"Type": "NonUFS"
 		},
 		{
 			"Path": "$(EngineDir)/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64/GFSDK_Aftermath_Lib.x64.dll",

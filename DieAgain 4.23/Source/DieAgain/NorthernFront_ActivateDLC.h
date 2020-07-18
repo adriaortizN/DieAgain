@@ -23,4 +23,16 @@ public:
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
 
+	UPROPERTY(EditAnywhere, Category = DLCLoader)
+		FString PluginName;
+	UPROPERTY(EditAnywhere, Category = DLCLoader)
+		FName MapToOpen;
+	UPROPERTY(EditAnywhere, Category = DLCLoader)
+		bool bEnableInEditor = true;
+	UFUNCTION(BlueprintCallable, Category = DLCLoader)
+		bool OpenDLC();
+
+private:
+	bool bCanOpenMap = false;
+
 };

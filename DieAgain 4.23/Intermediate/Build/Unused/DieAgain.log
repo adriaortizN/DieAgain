@@ -5,23 +5,24 @@
   Parsing headers for DieAgainEditor
     Running UnrealHeaderTool "E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\DieAgain.uproject" "E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\Intermediate\Build\Win64\DieAgainEditor\Development\DieAgainEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
 LogPluginManager : warning : Plugin 'NorthernFront' exists at '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Plugins/NorthernFront/NorthernFront.uplugin' and '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Plugins/NorthernFront/Saved/StagedBuilds/WindowsNoEditor/DieAgain/Plugins/NorthernFront/NorthernFront.uplugin' - second location will be ignored
-  Reflection code generated for DieAgainEditor in 6,8395875 seconds
+  Reflection code generated for DieAgainEditor in 6,2218443 seconds
   Using Visual Studio 2017 14.16.27023 toolchain (E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
-  Building 13 actions with 8 processes...
-    [1/13] Default.rc2
-    [2/13] SharedPCH.Engine.cpp
-    [3/13] DieAgain.cpp
-    [4/13] TestActorC.cpp
-    [5/13] NorthernFront_ActivateDLC.gen.cpp
-    [6/13] NorthernFront_ActivateDLC.cpp
-    [7/13] DieAgain.init.gen.cpp
-    [8/13] SteamCustomNodes.gen.cpp
-    [9/13] TestActorC.gen.cpp
-    [10/13] SteamCustomNodes.cpp
-    [11/13] UE4Editor-DieAgain.lib
+  Building 14 actions with 8 processes...
+    [1/14] Default.rc2
+    [2/14] SharedPCH.Engine.cpp
+    [3/14] SteamCustomNodes.cpp
+    [4/14] DLCLoader.cpp
+    [5/14] DieAgain.cpp
+    [6/14] NorthernFront_ActivateDLC.cpp
+    [7/14] NorthernFront_ActivateDLC.gen.cpp
+    [8/14] DieAgain.init.gen.cpp
+    [9/14] DLCLoader.gen.cpp
+    [10/14] TestActor.gen.cpp
+    [11/14] TestActor.cpp
+    [12/14] UE4Editor-DieAgain.lib
        Creating library E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\Intermediate\Build\Win64\UE4Editor\Development\DieAgain\UE4Editor-DieAgain.lib and object E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\Intermediate\Build\Win64\UE4Editor\Development\DieAgain\UE4Editor-DieAgain.exp
-    [12/13] UE4Editor-DieAgain.dll
+    [13/14] UE4Editor-DieAgain.dll
        Creating library E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\Intermediate\Build\Win64\UE4Editor\Development\DieAgain\UE4Editor-DieAgain.suppressed.lib and object E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\Intermediate\Build\Win64\UE4Editor\Development\DieAgain\UE4Editor-DieAgain.suppressed.exp
-    [13/13] DieAgainEditor.target
-  Total time in Parallel executor: 29,57 seconds
-  Total execution time: 45,79 seconds
+    [14/14] DieAgainEditor.target
+  Total time in Parallel executor: 34,30 seconds
+  Total execution time: 42,89 seconds

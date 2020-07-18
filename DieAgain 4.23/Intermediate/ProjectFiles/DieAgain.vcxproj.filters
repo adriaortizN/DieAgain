@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\DieAgain.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{7FA1BC04-E0DA-49F6-A10C-DBF3EF1D107B}</UniqueIdentifier>
+      <UniqueIdentifier>{E19BDF6A-4575-4326-A7ED-8E5487C04A9E}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\DieAgain.Target.cs">
       <Filter>Source</Filter>
@@ -25,7 +25,7 @@
     <None Include="..\..\Plugins a utilizar.txt" />
     <None Include="..\..\unreal_tournament_iii.icns" />
     <Filter Include="Config">
-      <UniqueIdentifier>{16BAA655-F402-4CAA-88E8-EEB8B6837977}</UniqueIdentifier>
+      <UniqueIdentifier>{B9F1EEFD-7876-4FBD-B4CB-D67EB6E97FB4}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -43,7 +43,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Config\Localization">
-      <UniqueIdentifier>{19CA24A9-32E7-49D6-ACA3-943CBA401D93}</UniqueIdentifier>
+      <UniqueIdentifier>{51895F9E-69FD-40D6-8513-58DB33C6FDF7}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\Localization\Game_Compile.ini">
       <Filter>Config\Localization</Filter>
@@ -70,7 +70,7 @@
       <Filter>Config\Localization</Filter>
     </None>
     <Filter Include="Source\DieAgain">
-      <UniqueIdentifier>{5E8FC97D-17BA-418E-8F5B-9203096EBF2A}</UniqueIdentifier>
+      <UniqueIdentifier>{1F04AD6F-16A1-4272-BCAC-F4C20B04379F}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\DieAgain\DieAgain.Build.cs">
       <Filter>Source\DieAgain</Filter>
@@ -87,35 +87,47 @@
     <ClInclude Include="..\..\Source\DieAgain\NorthernFront_ActivateDLC.h">
       <Filter>Source\DieAgain</Filter>
     </ClInclude>
-    <ClCompile Include="..\..\Source\DieAgain\TestActorC.cpp">
-      <Filter>Source\DieAgain</Filter>
-    </ClCompile>
-    <ClInclude Include="..\..\Source\DieAgain\TestActorC.h">
-      <Filter>Source\DieAgain</Filter>
-    </ClInclude>
     <Filter Include="Source\DieAgain\Private">
-      <UniqueIdentifier>{5AE0BCAF-77F3-4B87-B2F6-030922821A63}</UniqueIdentifier>
+      <UniqueIdentifier>{C4AAB33E-5573-4CC8-ADA7-447E51938235}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\DieAgain\Private\DLCLoader.cpp">
+      <Filter>Source\DieAgain\Private</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\Source\DieAgain\Private\SteamCustomNodes.cpp">
       <Filter>Source\DieAgain\Private</Filter>
     </ClCompile>
-    <Filter Include="Source\DieAgain\Public">
-      <UniqueIdentifier>{360F992F-5D12-4893-AFB1-404A8252557B}</UniqueIdentifier>
+    <Filter Include="Source\DieAgain\Private\TestActor">
+      <UniqueIdentifier>{83C5DC82-6DD7-4144-8534-28FC62EEADE1}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\DieAgain\Private\TestActor\TestActor.cpp">
+      <Filter>Source\DieAgain\Private\TestActor</Filter>
+    </ClCompile>
+    <Filter Include="Source\DieAgain\Public">
+      <UniqueIdentifier>{B2C89894-AF8E-42FA-A20C-D5488CF37CEF}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\DieAgain\Public\DLCLoader.h">
+      <Filter>Source\DieAgain\Public</Filter>
+    </ClInclude>
     <ClInclude Include="..\..\Source\DieAgain\Public\SteamCustomNodes.h">
       <Filter>Source\DieAgain\Public</Filter>
     </ClInclude>
+    <Filter Include="Source\DieAgain\Public\TestActor">
+      <UniqueIdentifier>{7D317977-0080-4451-9DF7-57302F039425}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\DieAgain\Public\TestActor\TestActor.h">
+      <Filter>Source\DieAgain\Public\TestActor</Filter>
+    </ClInclude>
     <Filter Include="Plugins">
-      <UniqueIdentifier>{B6FFD138-04D4-4C57-A6CA-087239A6BE08}</UniqueIdentifier>
+      <UniqueIdentifier>{4DBE227F-B3EC-466D-AA01-45206CC45951}</UniqueIdentifier>
     </Filter>
     <Filter Include="Plugins\NorthernFront">
-      <UniqueIdentifier>{8556542D-C493-4136-A5ED-E25E608FD114}</UniqueIdentifier>
+      <UniqueIdentifier>{03CBD702-7D56-499E-9093-445169119E01}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Plugins\NorthernFront\NorthernFront.uplugin">
       <Filter>Plugins\NorthernFront</Filter>
     </None>
     <Filter Include="Plugins\NorthernFront\Resources">
-      <UniqueIdentifier>{8CCBD3E6-75E1-48A8-8899-2A24A01F0228}</UniqueIdentifier>
+      <UniqueIdentifier>{8874839E-2909-46EA-9AE9-6286B5F9F1AF}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Plugins\NorthernFront\Resources\Icon128.png">
       <Filter>Plugins\NorthernFront\Resources</Filter>

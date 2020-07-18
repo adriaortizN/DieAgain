@@ -13,8 +13,28 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define DIEAGAIN_NorthernFront_ActivateDLC_generated_h
 
-#define DieAgain_4_23_Source_DieAgain_NorthernFront_ActivateDLC_h_12_RPC_WRAPPERS
-#define DieAgain_4_23_Source_DieAgain_NorthernFront_ActivateDLC_h_12_RPC_WRAPPERS_NO_PURE_DECLS
+#define DieAgain_4_23_Source_DieAgain_NorthernFront_ActivateDLC_h_12_RPC_WRAPPERS \
+ \
+	DECLARE_FUNCTION(execOpenDLC) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		*(bool*)Z_Param__Result=P_THIS->OpenDLC(); \
+		P_NATIVE_END; \
+	}
+
+
+#define DieAgain_4_23_Source_DieAgain_NorthernFront_ActivateDLC_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
+ \
+	DECLARE_FUNCTION(execOpenDLC) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		*(bool*)Z_Param__Result=P_THIS->OpenDLC(); \
+		P_NATIVE_END; \
+	}
+
+
 #define DieAgain_4_23_Source_DieAgain_NorthernFront_ActivateDLC_h_12_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesANorthernFront_ActivateDLC(); \

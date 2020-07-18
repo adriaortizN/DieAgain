@@ -26,9 +26,12 @@
 /wd4838
 /we4668
 /I .
+/I "E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\Source\DieAgain\Private"
 /I "E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\Intermediate\Build\Win64\UE4\Inc\DieAgain"
 /I "E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\Source"
+/I "E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\Source\DieAgain\Public"
 /I "E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\Source\DieAgain"
+/I "E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\Source\DieAgain\Public\TestActor"
 /I Runtime
 /I Runtime\Core\Public
 /I Runtime\Core

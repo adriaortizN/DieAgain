@@ -33,6 +33,7 @@
 /I "E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\Source"
 /I "E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\Source\DieAgain\Public"
 /I "E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\Source\DieAgain"
+/I "E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.23\Source\DieAgain\Public\TestActor"
 /I Runtime
 /I Runtime\Core\Public
 /I Runtime\Core
@@ -503,17 +504,6 @@
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\ClothingSystemRuntimeInterface
 /I Runtime\ClothingSystemRuntimeInterface\Public
 /I Runtime\ClothingSystemRuntimeInterface
-/I ..\Plugins\Online\OnlineSubsystem\Intermediate\Build\Win64\UE4Editor\Inc\OnlineSubsystem
-/I ..\Plugins\Online\OnlineSubsystem
-/I ..\Plugins\Online\OnlineSubsystem\Source
-/I ..\Plugins\Online\OnlineSubsystem\Source\Public
-/I ..\Plugins\Online\OnlineSubsystem\Source\Public\Interfaces
-/I ..\Plugins\Online\OnlineSubsystemUtils\Intermediate\Build\Win64\UE4Editor\Inc\OnlineSubsystemUtils
-/I ..\Plugins\Online\OnlineSubsystemUtils\Source
-/I ..\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Classes
-/I ..\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Public
-/I ..\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils
-/I ThirdParty\Steamworks\Steamv139\sdk\public
 /I ThirdParty\PhysX3\PxShared\include
 /I ThirdParty\PhysX3\PxShared\include\cudamanager
 /I ThirdParty\PhysX3\PxShared\include\filebuf

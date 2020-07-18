@@ -198,10 +198,6 @@
 			"Enabled": false
 		},
 		{
-			"Name": "OnlineSubsystemSteam",
-			"Enabled": true
-		},
-		{
 			"Name": "NiagaraExtras",
 			"Enabled": true
 		},

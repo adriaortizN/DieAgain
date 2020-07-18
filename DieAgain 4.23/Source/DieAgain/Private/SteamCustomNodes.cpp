@@ -1,5 +1,5 @@
 // Fill out your copyright notice in the Description page of Project Settings.
-
+/*
 #include "SteamCustomNodes.h"
 
 // Include SteamAPI and ignore useless warnings
@@ -45,3 +45,4 @@ void USteamCustomNodes::OpenStore(int32 DLC_AppID)
 		SteamFriends()->ActivateGameOverlayToStore(DLC_AppID, k_EOverlayToStoreFlag_None);
 	}
 }
+*/

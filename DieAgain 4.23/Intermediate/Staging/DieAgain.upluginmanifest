@@ -104,124 +104,76 @@
 			}
 		},
 		{
-			"File": "../../../Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin",
+			"File": "../../../Engine/Plugins/FX/NiagaraExtras/NiagaraExtras.uplugin",
 			"Descriptor": 
 			{
 				"FileVersion": 3,
 				"Version": 1,
 				"VersionName": "1.0",
-				"FriendlyName": "Online Subsystem Steam",
-				"Description": "Access to Steam platform",
-				"Category": "Online Platform",
+				"FriendlyName": "Niagara Extras",
+				"Description": "Additional content that is too experimental/unproductized/special purpose for the official Niagara plugin.",
+				"Category": "FX",
+				"CreatedBy": "Epic Games, Inc.",
+				"CreatedByURL": "http://epicgames.com",
+				"DocsURL": "",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"CanContainContent": true
+			}
+		},
+		{
+			"File": "../../../Engine/Plugins/FX/Niagara/Niagara.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 1,
+				"VersionName": "1.0",
+				"FriendlyName": "Niagara",
+				"Description": "Niagara effect systems.",
+				"Category": "FX",
 				"CreatedBy": "Epic Games, Inc.",
 				"CreatedByURL": "http://epicgames.com",
 				"DocsURL": "",
 				"MarketplaceURL": "",
 				"SupportURL": "",
 				"EnabledByDefault": false,
-				"CanContainContent": false,
+				"CanContainContent": true,
+				"IsBetaVersion": true,
 				"Modules": [
 					{
-						"Name": "OnlineSubsystemSteam",
+						"Name": "NiagaraCore",
 						"Type": "Runtime",
-						"LoadingPhase": "Default",
-						"WhitelistPlatforms": [
-							"Win32",
-							"Win64",
-							"Mac",
-							"Linux"
-						]
-					}
-				],
-				"LocalizationTargets": [
-					{
-						"Name": "OnlineSubsystemSteam",
-						"LoadingPolicy": "Always"
-					}
-				],
-				"Plugins": [
-					{
-						"Name": "OnlineSubsystem",
-						"Enabled": true
+						"LoadingPhase": "PreDefault"
 					},
 					{
-						"Name": "OnlineSubsystemUtils",
-						"Enabled": true
-					}
-				]
-			}
-		},
-		{
-			"File": "../../../Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin",
-			"Descriptor": 
-			{
-				"FileVersion": 3,
-				"Version": 1,
-				"VersionName": "1.0",
-				"FriendlyName": "Online Subsystem",
-				"Description": "Shared code for interacting online subsystem implementations.",
-				"Category": "Online Platform",
-				"CreatedBy": "Epic Games, Inc.",
-				"CreatedByURL": "http://epicgames.com",
-				"DocsURL": "",
-				"MarketplaceURL": "",
-				"SupportURL": "",
-				"EnabledByDefault": true,
-				"CanContainContent": false,
-				"Modules": [
-					{
-						"Name": "OnlineSubsystem",
+						"Name": "Niagara",
 						"Type": "Runtime",
-						"LoadingPhase": "PostConfigInit"
-					}
-				],
-				"LocalizationTargets": [
+						"LoadingPhase": "PreDefault"
+					},
 					{
-						"Name": "OnlineSubsystem",
-						"LoadingPolicy": "Always"
-					}
-				]
-			}
-		},
-		{
-			"File": "../../../Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin",
-			"Descriptor": 
-			{
-				"FileVersion": 3,
-				"Version": 1,
-				"VersionName": "1.0",
-				"FriendlyName": "Online Subsystem Utils",
-				"Description": "Shared code for interacting online subsystem implementations.",
-				"Category": "Online Platform",
-				"CreatedBy": "Epic Games, Inc.",
-				"CreatedByURL": "http://epicgames.com",
-				"DocsURL": "",
-				"MarketplaceURL": "",
-				"SupportURL": "",
-				"EnabledByDefault": true,
-				"CanContainContent": false,
-				"Modules": [
+						"Name": "NiagaraAnimNotifies",
+						"Type": "Runtime",
+						"LoadingPhase": "PreDefault"
+					},
 					{
-						"Name": "OnlineSubsystemUtils",
+						"Name": "NiagaraShader",
 						"Type": "Runtime",
 						"LoadingPhase": "PostConfigInit"
 					},
 					{
-						"Name": "OnlineBlueprintSupport",
-						"Type": "Developer",
+						"Name": "NiagaraVertexFactories",
+						"Type": "Runtime",
 						"LoadingPhase": "PostConfigInit"
-					}
-				],
-				"LocalizationTargets": [
+					},
 					{
-						"Name": "OnlineSubsystemUtils",
-						"LoadingPolicy": "Always"
-					}
-				],
-				"Plugins": [
+						"Name": "NiagaraEditor",
+						"Type": "Editor",
+						"LoadingPhase": "PreDefault"
+					},
 					{
-						"Name": "OnlineSubsystem",
-						"Enabled": true
+						"Name": "NiagaraEditorWidgets",
+						"Type": "Editor",
+						"LoadingPhase": "Default"
 					}
 				]
 			}
