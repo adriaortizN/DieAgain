@@ -3020,3 +3020,305 @@ Script Stack (0 frames):
 [2020.08.27-22.00.58:850][418]LogUObjectHash: Compacting FUObjectHashTables data took  13.40ms
 [2020.08.27-22.00.59:569][446]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyGameInstance/MyGameInstance" FILE="../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/MyGameInstance/MyGameInstance.uasset" SILENT=true
 [2020.08.27-22.00.59:881][446]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/MyGameInstanceA91FDEAE49ABD1F1903FCEA64063071D.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/MyGameInstance/MyGameInstance.uasset'
+[2020.08.27-22.03.57:974][678]BlueprintLog: New page: Compile MyGameInstance
+[2020.08.27-22.03.59:002][678]LogUObjectHash: Compacting FUObjectHashTables data took  11.50ms
+[2020.08.27-22.03.59:556][708]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyGameInstance/MyGameInstance" FILE="../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/MyGameInstance/MyGameInstance.uasset" SILENT=true
+[2020.08.27-22.03.59:840][708]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/MyGameInstanceB15F406744A95F72A011A6A20DA39DDC.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/MyGameInstance/MyGameInstance.uasset'
+[2020.08.27-22.04.02:145][924]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.08.27-22.04.07:460][326]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2020.08.27-22.04.07:500][326]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2020.08.27-22.04.08:842][326]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2020.08.27-22.04.10:376][473]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2020.08.27-22.04.10:386][473]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2020.08.27-22.04.10:610][473]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2020.08.27-22.05.29:447][720]LogUObjectArray: Warning: Other object in slot
+[2020.08.27-22.05.29:448][720]LogUObjectArray: Warning: Other object in slot
+[2020.08.27-22.05.29:448][720]LogUObjectArray: Warning: Other object in slot
+[2020.08.27-22.08.29:761][475]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.27-22.08.29:842][475]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/LV03/Level3_Walk.Level3_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV03/Level3_Walk.Level3_Walk:PersistentLevel.Level3_Walk' with GeneratedClass '/Game/Levels/LV03/Level3_Walk.Level3_Walk_C' with ClassGeneratedBy '/Game/Levels/LV03/Level3_Walk.Level3_Walk:PersistentLevel.Level3_Walk'
+[2020.08.27-22.08.30:016][475]LogFMOD: Creating runtime Studio System
+[2020.08.27-22.08.30:017][475]LogFMOD: Default sample rate = 48000
+[2020.08.27-22.08.30:017][475]LogFMOD: System sample rate = 44100
+[2020.08.27-22.08.30:017][475]LogFMOD: Matching system sample rate 44100
+[2020.08.27-22.08.30:027][475]LogFMOD: Loading Banks
+[2020.08.27-22.08.30:087][475]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.08.27-22.08.30:113][475]LogPlayLevel: [PlayLevel] Compiling PlayerWalkMap_Character before play...
+[2020.08.27-22.08.31:513][475]LogUObjectHash: Compacting FUObjectHashTables data took  13.43ms
+[2020.08.27-22.08.31:513][475]LogPlayLevel: PlayLevel: Blueprint regeneration took 1426 ms (1 blueprints)
+[2020.08.27-22.08.31:513][475]PIE: New page: PIE session: Level3_Walk (Aug 28, 2020, 2:08:31 AM)
+[2020.08.27-22.08.34:242][475]LogPlayLevel: Creating play world package: /Game/Levels/LV03/UEDPIE_0_Level3_Walk
+[2020.08.27-22.08.35:994][475]LogPlayLevel: PIE: StaticDuplicateObject took: (1.751794s)
+[2020.08.27-22.08.35:998][475]LogAIModule: Creating AISystem for world Level3_Walk
+[2020.08.27-22.08.35:998][475]LogPlayLevel: PIE: World Init took: (0.004434s)
+[2020.08.27-22.08.35:998][475]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV03/Level3_Walk.Level3_Walk to /Game/Levels/LV03/UEDPIE_0_Level3_Walk.Level3_Walk (1.756469s)
+[2020.08.27-22.08.36:283][475]LogUObjectHash: Compacting FUObjectHashTables data took  11.10ms
+[2020.08.27-22.08.36:299][475]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.27-22.08.36:308][475]LogInit: FAudioDevice initialized.
+[2020.08.27-22.08.36:351][475]LogLoad: Game class is 'GameMode'
+[2020.08.27-22.08.36:502][475]LogWorld: Bringing World /Game/Levels/LV03/UEDPIE_0_Level3_Walk.Level3_Walk up for play (max tick rate 0) at 2020.08.28-00.08.36
+[2020.08.27-22.08.36:503][475]LogWorld: Bringing up level for play took: 0.150623
+[2020.08.27-22.08.36:515][475]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.08.27-22.08.36:515][475]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.08.27-22.08.36:515][475]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.08.27-22.08.36:516][475]LogAnimation: Warning: AnimBP Talking_Normal_AnimBP1_C is incompatible with skeleton SK_Wolf_Skeleton, removing AnimBP from actor.
+[2020.08.27-22.08.36:535][475]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.08.27-22.08.36:535][475]PIE: Play in editor start time for /Game/Levels/LV03/UEDPIE_0_Level3_Walk 5.721
+[2020.08.27-22.08.36:535][475]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/LV03/Level3_Walk.Level3_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV03/Level3_Walk.Level3_Walk:PersistentLevel.Level3_Walk' with GeneratedClass '/Game/Levels/LV03/Level3_Walk.Level3_Walk_C' with ClassGeneratedBy '/Game/Levels/LV03/Level3_Walk.Level3_Walk:PersistentLevel.Level3_Walk'
+[2020.08.27-22.08.45:738][178]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/LV03/Level3_Walk.Level3_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV03/Level3_Walk.Level3_Walk:PersistentLevel.Level3_Walk' with GeneratedClass '/Game/Levels/LV03/Level3_Walk.Level3_Walk_C' with ClassGeneratedBy '/Game/Levels/LV03/Level3_Walk.Level3_Walk:PersistentLevel.Level3_Walk'
+[2020.08.27-22.08.45:895][178]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.27-22.08.45:895][178]LogWorld: BeginTearingDown for /Game/Levels/LV03/UEDPIE_0_Level3_Walk
+[2020.08.27-22.08.45:895][178]LogWorld: UWorld::CleanupWorld for Level3_Walk, bSessionEnded=true, bCleanupResources=true
+[2020.08.27-22.08.45:908][178]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/LV03/Level3_Walk.Level3_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV03/Level3_Walk.Level3_Walk:PersistentLevel.Level3_Walk' with GeneratedClass '/Game/Levels/LV03/Level3_Walk.Level3_Walk_C' with ClassGeneratedBy '/Game/Levels/LV03/Level3_Walk.Level3_Walk:PersistentLevel.Level3_Walk'
+[2020.08.27-22.08.45:974][178]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.27-22.08.45:986][178]LogUObjectHash: Compacting FUObjectHashTables data took   7.43ms
+[2020.08.27-22.08.46:383][214]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.27-22.09.56:721][876]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.27-22.09.56:785][876]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/LV03/Level3_Walk.Level3_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV03/Level3_Walk.Level3_Walk:PersistentLevel.Level3_Walk' with GeneratedClass '/Game/Levels/LV03/Level3_Walk.Level3_Walk_C' with ClassGeneratedBy '/Game/Levels/LV03/Level3_Walk.Level3_Walk:PersistentLevel.Level3_Walk'
+[2020.08.27-22.09.56:883][876]LogFMOD: Creating runtime Studio System
+[2020.08.27-22.09.56:885][876]LogFMOD: Default sample rate = 48000
+[2020.08.27-22.09.56:885][876]LogFMOD: System sample rate = 44100
+[2020.08.27-22.09.56:886][876]LogFMOD: Matching system sample rate 44100
+[2020.08.27-22.09.56:903][876]LogFMOD: Loading Banks
+[2020.08.27-22.09.56:945][876]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.08.27-22.09.56:996][876]LogPlayLevel: [PlayLevel] Compiling PlayerWalkMap_Character before play...
+[2020.08.27-22.09.57:932][876]LogUObjectHash: Compacting FUObjectHashTables data took   9.08ms
+[2020.08.27-22.09.57:932][876]LogPlayLevel: PlayLevel: Blueprint regeneration took 987 ms (1 blueprints)
+[2020.08.27-22.09.57:932][876]PIE: New page: PIE session: Level3_Walk (Aug 28, 2020, 2:09:57 AM)
+[2020.08.27-22.09.57:933][876]LogPlayLevel: Creating play world package: /Game/Levels/LV03/UEDPIE_0_Level3_Walk
+[2020.08.27-22.09.58:079][876]LogPlayLevel: PIE: StaticDuplicateObject took: (0.146285s)
+[2020.08.27-22.09.58:080][876]LogAIModule: Creating AISystem for world Level3_Walk
+[2020.08.27-22.09.58:081][876]LogPlayLevel: PIE: World Init took: (0.001459s)
+[2020.08.27-22.09.58:081][876]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV03/Level3_Walk.Level3_Walk to /Game/Levels/LV03/UEDPIE_0_Level3_Walk.Level3_Walk (0.147930s)
+[2020.08.27-22.09.58:141][876]LogUObjectHash: Compacting FUObjectHashTables data took   6.53ms
+[2020.08.27-22.09.58:150][876]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.27-22.09.58:157][876]LogInit: FAudioDevice initialized.
+[2020.08.27-22.09.58:164][876]LogLoad: Game class is 'GameMode'
+[2020.08.27-22.09.58:326][876]LogWorld: Bringing World /Game/Levels/LV03/UEDPIE_0_Level3_Walk.Level3_Walk up for play (max tick rate 0) at 2020.08.28-00.09.58
+[2020.08.27-22.09.58:327][876]LogWorld: Bringing up level for play took: 0.162331
+[2020.08.27-22.09.58:339][876]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.08.27-22.09.58:340][876]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.08.27-22.09.58:340][876]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.08.27-22.09.58:341][876]LogAnimation: Warning: AnimBP Talking_Normal_AnimBP1_C is incompatible with skeleton SK_Wolf_Skeleton, removing AnimBP from actor.
+[2020.08.27-22.09.58:344][876]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.08.27-22.09.58:344][876]PIE: Play in editor start time for /Game/Levels/LV03/UEDPIE_0_Level3_Walk 1.528
+[2020.08.27-22.09.58:344][876]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/LV03/Level3_Walk.Level3_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV03/Level3_Walk.Level3_Walk:PersistentLevel.Level3_Walk' with GeneratedClass '/Game/Levels/LV03/Level3_Walk.Level3_Walk_C' with ClassGeneratedBy '/Game/Levels/LV03/Level3_Walk.Level3_Walk:PersistentLevel.Level3_Walk'
+[2020.08.27-22.10.00:143][ 11]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/LV03/Level3_Walk.Level3_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV03/Level3_Walk.Level3_Walk:PersistentLevel.Level3_Walk' with GeneratedClass '/Game/Levels/LV03/Level3_Walk.Level3_Walk_C' with ClassGeneratedBy '/Game/Levels/LV03/Level3_Walk.Level3_Walk:PersistentLevel.Level3_Walk'
+[2020.08.27-22.10.00:297][ 11]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.27-22.10.00:297][ 11]LogWorld: BeginTearingDown for /Game/Levels/LV03/UEDPIE_0_Level3_Walk
+[2020.08.27-22.10.00:297][ 11]LogWorld: UWorld::CleanupWorld for Level3_Walk, bSessionEnded=true, bCleanupResources=true
+[2020.08.27-22.10.00:313][ 11]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/LV03/Level3_Walk.Level3_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV03/Level3_Walk.Level3_Walk:PersistentLevel.Level3_Walk' with GeneratedClass '/Game/Levels/LV03/Level3_Walk.Level3_Walk_C' with ClassGeneratedBy '/Game/Levels/LV03/Level3_Walk.Level3_Walk:PersistentLevel.Level3_Walk'
+[2020.08.27-22.10.00:383][ 11]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.27-22.10.00:397][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   7.15ms
+[2020.08.27-22.10.00:751][ 43]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.27-22.10.07:086][733]BlueprintLog: New page: Compile PlayerWalkMap_Character
+[2020.08.27-22.10.07:907][733]LogUObjectHash: Compacting FUObjectHashTables data took   8.68ms
+[2020.08.27-22.10.08:644][766]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/PlayerWalkMap_Character6105D06342FFD66BB9E6E58E189DF603.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/ThirdPersonBP/Blueprints/PlayerWalkMap_Character.uasset'
+[2020.08.27-22.11.02:236][364]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.27-22.11.02:303][364]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/LV03/Level3_Walk.Level3_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV03/Level3_Walk.Level3_Walk:PersistentLevel.Level3_Walk' with GeneratedClass '/Game/Levels/LV03/Level3_Walk.Level3_Walk_C' with ClassGeneratedBy '/Game/Levels/LV03/Level3_Walk.Level3_Walk:PersistentLevel.Level3_Walk'
+[2020.08.27-22.11.02:386][364]LogFMOD: Creating runtime Studio System
+[2020.08.27-22.11.02:387][364]LogFMOD: Default sample rate = 48000
+[2020.08.27-22.11.02:387][364]LogFMOD: System sample rate = 44100
+[2020.08.27-22.11.02:387][364]LogFMOD: Matching system sample rate 44100
+[2020.08.27-22.11.02:400][364]LogFMOD: Loading Banks
+[2020.08.27-22.11.02:448][364]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.08.27-22.11.02:484][364]LogPlayLevel: [PlayLevel] Compiling PlayerWalkMap_Character before play...
+[2020.08.27-22.11.03:489][364]LogUObjectHash: Compacting FUObjectHashTables data took   9.27ms
+[2020.08.27-22.11.03:489][364]LogPlayLevel: PlayLevel: Blueprint regeneration took 1041 ms (1 blueprints)
+[2020.08.27-22.11.03:490][364]PIE: New page: PIE session: Level3_Walk (Aug 28, 2020, 2:11:03 AM)
+[2020.08.27-22.11.03:490][364]LogPlayLevel: Creating play world package: /Game/Levels/LV03/UEDPIE_0_Level3_Walk
+[2020.08.27-22.11.03:641][364]LogPlayLevel: PIE: StaticDuplicateObject took: (0.150087s)
+[2020.08.27-22.11.03:642][364]LogAIModule: Creating AISystem for world Level3_Walk
+[2020.08.27-22.11.03:642][364]LogPlayLevel: PIE: World Init took: (0.001674s)
+[2020.08.27-22.11.03:642][364]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV03/Level3_Walk.Level3_Walk to /Game/Levels/LV03/UEDPIE_0_Level3_Walk.Level3_Walk (0.151941s)
+[2020.08.27-22.11.03:700][364]LogUObjectHash: Compacting FUObjectHashTables data took   6.50ms
+[2020.08.27-22.11.03:708][364]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.27-22.11.03:715][364]LogInit: FAudioDevice initialized.
+[2020.08.27-22.11.03:725][364]LogLoad: Game class is 'GameMode'
+[2020.08.27-22.11.03:880][364]LogWorld: Bringing World /Game/Levels/LV03/UEDPIE_0_Level3_Walk.Level3_Walk up for play (max tick rate 0) at 2020.08.28-00.11.03
+[2020.08.27-22.11.03:882][364]LogWorld: Bringing up level for play took: 0.156092
+[2020.08.27-22.11.03:895][364]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.08.27-22.11.03:896][364]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.08.27-22.11.03:896][364]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.08.27-22.11.03:897][364]LogAnimation: Warning: AnimBP Talking_Normal_AnimBP1_C is incompatible with skeleton SK_Wolf_Skeleton, removing AnimBP from actor.
+[2020.08.27-22.11.03:900][364]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.08.27-22.11.03:900][364]PIE: Play in editor start time for /Game/Levels/LV03/UEDPIE_0_Level3_Walk 1.083
+[2020.08.27-22.11.03:901][364]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/LV03/Level3_Walk.Level3_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV03/Level3_Walk.Level3_Walk:PersistentLevel.Level3_Walk' with GeneratedClass '/Game/Levels/LV03/Level3_Walk.Level3_Walk_C' with ClassGeneratedBy '/Game/Levels/LV03/Level3_Walk.Level3_Walk:PersistentLevel.Level3_Walk'
+[2020.08.27-22.11.25:915][876]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/LV03/Level3_Walk.Level3_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV03/Level3_Walk.Level3_Walk:PersistentLevel.Level3_Walk' with GeneratedClass '/Game/Levels/LV03/Level3_Walk.Level3_Walk_C' with ClassGeneratedBy '/Game/Levels/LV03/Level3_Walk.Level3_Walk:PersistentLevel.Level3_Walk'
+[2020.08.27-22.11.26:077][876]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.27-22.11.26:077][876]LogWorld: BeginTearingDown for /Game/Levels/LV03/UEDPIE_0_Level3_Walk
+[2020.08.27-22.11.26:078][876]LogWorld: UWorld::CleanupWorld for Level3_Walk, bSessionEnded=true, bCleanupResources=true
+[2020.08.27-22.11.26:089][876]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/LV03/Level3_Walk.Level3_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV03/Level3_Walk.Level3_Walk:PersistentLevel.Level3_Walk' with GeneratedClass '/Game/Levels/LV03/Level3_Walk.Level3_Walk_C' with ClassGeneratedBy '/Game/Levels/LV03/Level3_Walk.Level3_Walk:PersistentLevel.Level3_Walk'
+[2020.08.27-22.11.26:155][876]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.27-22.11.26:172][876]LogUObjectHash: Compacting FUObjectHashTables data took   7.24ms
+[2020.08.27-22.11.27:197][982]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.27-22.11.43:186][933]LogUObjectHash: Compacting FUObjectHashTables data took   7.44ms
+[2020.08.27-22.11.44:727][933]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/Level3_Walk04DCE76342532B082CF669B62FCAEDB8.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LV03/Level3_Walk.umap'
+[2020.08.27-22.11.45:023][933]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/Level3_Walk_BuiltDataC5FC88EB4C6581CA7FD0FA974D40849A.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LV03/Level3_Walk_BuiltData.uasset'
+[2020.08.27-22.11.48:465][293]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.27-22.11.48:536][293]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/LV03/Level3_Walk.Level3_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV03/Level3_Walk.Level3_Walk:PersistentLevel.Level3_Walk' with GeneratedClass '/Game/Levels/LV03/Level3_Walk.Level3_Walk_C' with ClassGeneratedBy '/Game/Levels/LV03/Level3_Walk.Level3_Walk:PersistentLevel.Level3_Walk'
+[2020.08.27-22.11.48:607][293]LogFMOD: Creating runtime Studio System
+[2020.08.27-22.11.48:608][293]LogFMOD: Default sample rate = 48000
+[2020.08.27-22.11.48:608][293]LogFMOD: System sample rate = 44100
+[2020.08.27-22.11.48:608][293]LogFMOD: Matching system sample rate 44100
+[2020.08.27-22.11.48:617][293]LogFMOD: Loading Banks
+[2020.08.27-22.11.48:659][293]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.27-22.11.48:659][293]PIE: New page: PIE session: Level3_Walk (Aug 28, 2020, 2:11:48 AM)
+[2020.08.27-22.11.48:659][293]LogPlayLevel: Creating play world package: /Game/Levels/LV03/UEDPIE_0_Level3_Walk
+[2020.08.27-22.11.48:830][293]LogPlayLevel: PIE: StaticDuplicateObject took: (0.170516s)
+[2020.08.27-22.11.48:831][293]LogAIModule: Creating AISystem for world Level3_Walk
+[2020.08.27-22.11.48:832][293]LogPlayLevel: PIE: World Init took: (0.001719s)
+[2020.08.27-22.11.48:832][293]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV03/Level3_Walk.Level3_Walk to /Game/Levels/LV03/UEDPIE_0_Level3_Walk.Level3_Walk (0.172439s)
+[2020.08.27-22.11.48:910][293]LogUObjectHash: Compacting FUObjectHashTables data took  10.26ms
+[2020.08.27-22.11.48:918][293]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.27-22.11.48:926][293]LogInit: FAudioDevice initialized.
+[2020.08.27-22.11.48:932][293]LogLoad: Game class is 'GameMode'
+[2020.08.27-22.11.49:120][293]LogWorld: Bringing World /Game/Levels/LV03/UEDPIE_0_Level3_Walk.Level3_Walk up for play (max tick rate 0) at 2020.08.28-00.11.49
+[2020.08.27-22.11.49:122][293]LogWorld: Bringing up level for play took: 0.189913
+[2020.08.27-22.11.49:138][293]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.08.27-22.11.49:138][293]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.08.27-22.11.49:138][293]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.08.27-22.11.49:140][293]LogAnimation: Warning: AnimBP Talking_Normal_AnimBP1_C is incompatible with skeleton SK_Wolf_Skeleton, removing AnimBP from actor.
+[2020.08.27-22.11.49:143][293]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.08.27-22.11.49:143][293]PIE: Play in editor start time for /Game/Levels/LV03/UEDPIE_0_Level3_Walk 0.325
+[2020.08.27-22.11.49:143][293]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/LV03/Level3_Walk.Level3_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV03/Level3_Walk.Level3_Walk:PersistentLevel.Level3_Walk' with GeneratedClass '/Game/Levels/LV03/Level3_Walk.Level3_Walk_C' with ClassGeneratedBy '/Game/Levels/LV03/Level3_Walk.Level3_Walk:PersistentLevel.Level3_Walk'
+[2020.08.27-22.12.05:666][503]LogBlueprintUserMessages: [Conversation_Actor_2] IM TALKING
+[2020.08.27-22.12.07:350][618]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/LV03/Level3_Walk.Level3_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV03/Level3_Walk.Level3_Walk:PersistentLevel.Level3_Walk' with GeneratedClass '/Game/Levels/LV03/Level3_Walk.Level3_Walk_C' with ClassGeneratedBy '/Game/Levels/LV03/Level3_Walk.Level3_Walk:PersistentLevel.Level3_Walk'
+[2020.08.27-22.12.07:504][618]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.27-22.12.07:504][618]LogWorld: BeginTearingDown for /Game/Levels/LV03/UEDPIE_0_Level3_Walk
+[2020.08.27-22.12.07:505][618]LogWorld: UWorld::CleanupWorld for Level3_Walk, bSessionEnded=true, bCleanupResources=true
+[2020.08.27-22.12.07:552][618]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/LV03/Level3_Walk.Level3_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV03/Level3_Walk.Level3_Walk:PersistentLevel.Level3_Walk' with GeneratedClass '/Game/Levels/LV03/Level3_Walk.Level3_Walk_C' with ClassGeneratedBy '/Game/Levels/LV03/Level3_Walk.Level3_Walk:PersistentLevel.Level3_Walk'
+[2020.08.27-22.12.07:617][618]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.27-22.12.07:632][618]LogUObjectHash: Compacting FUObjectHashTables data took   7.73ms
+[2020.08.27-22.12.08:134][668]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.27-22.12.32:487][309]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.27-22.12.32:553][309]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/LV03/Level3_Walk.Level3_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV03/Level3_Walk.Level3_Walk:PersistentLevel.Level3_Walk' with GeneratedClass '/Game/Levels/LV03/Level3_Walk.Level3_Walk_C' with ClassGeneratedBy '/Game/Levels/LV03/Level3_Walk.Level3_Walk:PersistentLevel.Level3_Walk'
+[2020.08.27-22.12.32:635][309]LogFMOD: Creating runtime Studio System
+[2020.08.27-22.12.32:637][309]LogFMOD: Default sample rate = 48000
+[2020.08.27-22.12.32:637][309]LogFMOD: System sample rate = 44100
+[2020.08.27-22.12.32:637][309]LogFMOD: Matching system sample rate 44100
+[2020.08.27-22.12.32:655][309]LogFMOD: Loading Banks
+[2020.08.27-22.12.32:697][309]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.08.27-22.12.32:734][309]LogPlayLevel: [PlayLevel] Compiling PlayerWalkMap_Character before play...
+[2020.08.27-22.12.33:656][309]LogUObjectHash: Compacting FUObjectHashTables data took   9.94ms
+[2020.08.27-22.12.33:656][309]LogPlayLevel: PlayLevel: Blueprint regeneration took 959 ms (1 blueprints)
+[2020.08.27-22.12.33:656][309]PIE: New page: PIE session: Level3_Walk (Aug 28, 2020, 2:12:33 AM)
+[2020.08.27-22.12.33:656][309]LogPlayLevel: Creating play world package: /Game/Levels/LV03/UEDPIE_0_Level3_Walk
+[2020.08.27-22.12.33:817][309]LogPlayLevel: PIE: StaticDuplicateObject took: (0.160079s)
+[2020.08.27-22.12.33:818][309]LogAIModule: Creating AISystem for world Level3_Walk
+[2020.08.27-22.12.33:818][309]LogPlayLevel: PIE: World Init took: (0.001524s)
+[2020.08.27-22.12.33:818][309]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV03/Level3_Walk.Level3_Walk to /Game/Levels/LV03/UEDPIE_0_Level3_Walk.Level3_Walk (0.161803s)
+[2020.08.27-22.12.33:882][309]LogUObjectHash: Compacting FUObjectHashTables data took   6.74ms
+[2020.08.27-22.12.33:890][309]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.27-22.12.33:898][309]LogInit: FAudioDevice initialized.
+[2020.08.27-22.12.33:907][309]LogLoad: Game class is 'GameMode'
+[2020.08.27-22.12.34:063][309]LogWorld: Bringing World /Game/Levels/LV03/UEDPIE_0_Level3_Walk.Level3_Walk up for play (max tick rate 0) at 2020.08.28-00.12.34
+[2020.08.27-22.12.34:065][309]LogWorld: Bringing up level for play took: 0.156634
+[2020.08.27-22.12.34:077][309]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.08.27-22.12.34:077][309]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.08.27-22.12.34:077][309]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.08.27-22.12.34:079][309]LogAnimation: Warning: AnimBP Talking_Normal_AnimBP1_C is incompatible with skeleton SK_Wolf_Skeleton, removing AnimBP from actor.
+[2020.08.27-22.12.34:081][309]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.08.27-22.12.34:082][309]PIE: Play in editor start time for /Game/Levels/LV03/UEDPIE_0_Level3_Walk 1.262
+[2020.08.27-22.12.34:082][309]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/LV03/Level3_Walk.Level3_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV03/Level3_Walk.Level3_Walk:PersistentLevel.Level3_Walk' with GeneratedClass '/Game/Levels/LV03/Level3_Walk.Level3_Walk_C' with ClassGeneratedBy '/Game/Levels/LV03/Level3_Walk.Level3_Walk:PersistentLevel.Level3_Walk'
+[2020.08.27-22.12.37:905][594]LogBlueprintUserMessages: [Conversation_Actor_2] IM TALKING
+[2020.08.27-22.12.38:662][650]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/LV03/Level3_Walk.Level3_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV03/Level3_Walk.Level3_Walk:PersistentLevel.Level3_Walk' with GeneratedClass '/Game/Levels/LV03/Level3_Walk.Level3_Walk_C' with ClassGeneratedBy '/Game/Levels/LV03/Level3_Walk.Level3_Walk:PersistentLevel.Level3_Walk'
+[2020.08.27-22.12.38:824][650]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.27-22.12.38:824][650]LogWorld: BeginTearingDown for /Game/Levels/LV03/UEDPIE_0_Level3_Walk
+[2020.08.27-22.12.38:825][650]LogWorld: UWorld::CleanupWorld for Level3_Walk, bSessionEnded=true, bCleanupResources=true
+[2020.08.27-22.12.38:847][650]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/LV03/Level3_Walk.Level3_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV03/Level3_Walk.Level3_Walk:PersistentLevel.Level3_Walk' with GeneratedClass '/Game/Levels/LV03/Level3_Walk.Level3_Walk_C' with ClassGeneratedBy '/Game/Levels/LV03/Level3_Walk.Level3_Walk:PersistentLevel.Level3_Walk'
+[2020.08.27-22.12.38:913][650]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.27-22.12.38:927][650]LogUObjectHash: Compacting FUObjectHashTables data took   7.01ms
+[2020.08.27-22.12.39:910][752]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.27-22.12.40:058][758]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2020.08.27-22.12.41:274][758]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/Level3_Walk2E6C38A04A9715B3459B72B4DA1C3F11.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LV03/Level3_Walk.umap'
+[2020.08.27-22.12.41:379][758]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/Level3_Walk_BuiltData540A76C04147D8F66650098ABF8905F1.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LV03/Level3_Walk_BuiltData.uasset'
+[2020.08.27-22.12.46:234][226]LogUObjectHash: Compacting FUObjectHashTables data took   9.31ms
+[2020.08.27-22.12.46:465][226]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/PlayerWalkMap_Character0906FCF1407E68F00EA0FFBF24B23E76.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/ThirdPersonBP/Blueprints/PlayerWalkMap_Character.uasset'
+[2020.08.27-22.12.46:633][226]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/Demon_WalkMap_AnimBP50D92C3D4EA1F14C77DE7FB8415437FE.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Hara/Hara_Anim/WalkMap/Demon_WalkMap_AnimBP.uasset'
+[2020.08.27-22.13.24:175][586]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.27-22.13.24:257][586]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/LV03/Level3_Walk.Level3_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV03/Level3_Walk.Level3_Walk:PersistentLevel.Level3_Walk' with GeneratedClass '/Game/Levels/LV03/Level3_Walk.Level3_Walk_C' with ClassGeneratedBy '/Game/Levels/LV03/Level3_Walk.Level3_Walk:PersistentLevel.Level3_Walk'
+[2020.08.27-22.13.24:343][586]LogFMOD: Creating runtime Studio System
+[2020.08.27-22.13.24:344][586]LogFMOD: Default sample rate = 48000
+[2020.08.27-22.13.24:344][586]LogFMOD: System sample rate = 44100
+[2020.08.27-22.13.24:344][586]LogFMOD: Matching system sample rate 44100
+[2020.08.27-22.13.24:354][586]LogFMOD: Loading Banks
+[2020.08.27-22.13.24:395][586]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.08.27-22.13.24:518][586]LogPlayLevel: [PlayLevel] Compiling MyGameInstance before play...
+[2020.08.27-22.13.25:711][586]LogUObjectHash: Compacting FUObjectHashTables data took  10.96ms
+[2020.08.27-22.13.25:712][586]LogPlayLevel: PlayLevel: Blueprint regeneration took 1317 ms (1 blueprints)
+[2020.08.27-22.13.25:712][586]PIE: New page: PIE session: Level3_Walk (Aug 28, 2020, 2:13:25 AM)
+[2020.08.27-22.13.26:102][586]LogPlayLevel: Creating play world package: /Game/Levels/LV03/UEDPIE_0_Level3_Walk
+[2020.08.27-22.13.26:274][586]LogPlayLevel: PIE: StaticDuplicateObject took: (0.171779s)
+[2020.08.27-22.13.26:276][586]LogAIModule: Creating AISystem for world Level3_Walk
+[2020.08.27-22.13.26:276][586]LogPlayLevel: PIE: World Init took: (0.001671s)
+[2020.08.27-22.13.26:276][586]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV03/Level3_Walk.Level3_Walk to /Game/Levels/LV03/UEDPIE_0_Level3_Walk.Level3_Walk (0.173656s)
+[2020.08.27-22.13.26:351][586]LogUObjectHash: Compacting FUObjectHashTables data took   6.78ms
+[2020.08.27-22.13.26:360][586]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.27-22.13.26:368][586]LogInit: FAudioDevice initialized.
+[2020.08.27-22.13.26:374][586]LogLoad: Game class is 'GameMode'
+[2020.08.27-22.13.26:554][586]LogWorld: Bringing World /Game/Levels/LV03/UEDPIE_0_Level3_Walk.Level3_Walk up for play (max tick rate 0) at 2020.08.28-00.13.26
+[2020.08.27-22.13.26:557][586]LogWorld: Bringing up level for play took: 0.181827
+[2020.08.27-22.13.26:574][586]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.08.27-22.13.26:574][586]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.08.27-22.13.26:574][586]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.08.27-22.13.26:576][586]LogAnimation: Warning: AnimBP Talking_Normal_AnimBP1_C is incompatible with skeleton SK_Wolf_Skeleton, removing AnimBP from actor.
+[2020.08.27-22.13.26:578][586]LogAnimation: Warning: AnimBP WorldMapPlayerAnimBP_C is incompatible with skeleton UE4_Robot_Mannequin_Skeleton, removing AnimBP from actor.
+[2020.08.27-22.13.26:581][586]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.08.27-22.13.26:581][586]PIE: Play in editor start time for /Game/Levels/LV03/UEDPIE_0_Level3_Walk 1.761
+[2020.08.27-22.13.26:581][586]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/LV03/Level3_Walk.Level3_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV03/Level3_Walk.Level3_Walk:PersistentLevel.Level3_Walk' with GeneratedClass '/Game/Levels/LV03/Level3_Walk.Level3_Walk_C' with ClassGeneratedBy '/Game/Levels/LV03/Level3_Walk.Level3_Walk:PersistentLevel.Level3_Walk'
+[2020.08.27-22.13.48:087][100]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/LV03/Level3_Walk.Level3_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV03/Level3_Walk.Level3_Walk:PersistentLevel.Level3_Walk' with GeneratedClass '/Game/Levels/LV03/Level3_Walk.Level3_Walk_C' with ClassGeneratedBy '/Game/Levels/LV03/Level3_Walk.Level3_Walk:PersistentLevel.Level3_Walk'
+[2020.08.27-22.13.48:228][100]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.27-22.13.48:228][100]LogWorld: BeginTearingDown for /Game/Levels/LV03/UEDPIE_0_Level3_Walk
+[2020.08.27-22.13.48:229][100]LogWorld: UWorld::CleanupWorld for Level3_Walk, bSessionEnded=true, bCleanupResources=true
+[2020.08.27-22.13.48:249][100]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/LV03/Level3_Walk.Level3_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV03/Level3_Walk.Level3_Walk:PersistentLevel.Level3_Walk' with GeneratedClass '/Game/Levels/LV03/Level3_Walk.Level3_Walk_C' with ClassGeneratedBy '/Game/Levels/LV03/Level3_Walk.Level3_Walk:PersistentLevel.Level3_Walk'
+[2020.08.27-22.13.48:325][100]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.27-22.13.48:338][100]LogUObjectHash: Compacting FUObjectHashTables data took   6.72ms
+[2020.08.27-22.13.49:888][263]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.27-22.14.08:174][631]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.27-22.14.08:245][631]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/LV03/Level3_Walk.Level3_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV03/Level3_Walk.Level3_Walk:PersistentLevel.Level3_Walk' with GeneratedClass '/Game/Levels/LV03/Level3_Walk.Level3_Walk_C' with ClassGeneratedBy '/Game/Levels/LV03/Level3_Walk.Level3_Walk:PersistentLevel.Level3_Walk'
+[2020.08.27-22.14.08:330][631]LogFMOD: Creating runtime Studio System
+[2020.08.27-22.14.08:331][631]LogFMOD: Default sample rate = 48000
+[2020.08.27-22.14.08:331][631]LogFMOD: System sample rate = 44100
+[2020.08.27-22.14.08:331][631]LogFMOD: Matching system sample rate 44100
+[2020.08.27-22.14.08:341][631]LogFMOD: Loading Banks
+[2020.08.27-22.14.08:382][631]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.08.27-22.14.08:456][631]LogPlayLevel: [PlayLevel] Compiling MyGameInstance before play...
+[2020.08.27-22.14.09:627][631]LogUObjectHash: Compacting FUObjectHashTables data took  13.88ms
+[2020.08.27-22.14.09:628][631]LogPlayLevel: PlayLevel: Blueprint regeneration took 1246 ms (1 blueprints)
+[2020.08.27-22.14.09:628][631]PIE: New page: PIE session: Level3_Walk (Aug 28, 2020, 2:14:09 AM)
+[2020.08.27-22.14.09:949][631]LogPlayLevel: Creating play world package: /Game/Levels/LV03/UEDPIE_0_Level3_Walk
+[2020.08.27-22.14.10:104][631]LogPlayLevel: PIE: StaticDuplicateObject took: (0.155324s)
+[2020.08.27-22.14.10:105][631]LogAIModule: Creating AISystem for world Level3_Walk
+[2020.08.27-22.14.10:106][631]LogPlayLevel: PIE: World Init took: (0.001475s)
+[2020.08.27-22.14.10:106][631]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV03/Level3_Walk.Level3_Walk to /Game/Levels/LV03/UEDPIE_0_Level3_Walk.Level3_Walk (0.157018s)
+[2020.08.27-22.14.10:157][631]LogUObjectHash: Compacting FUObjectHashTables data took   6.57ms
+[2020.08.27-22.14.10:166][631]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.27-22.14.10:174][631]LogInit: FAudioDevice initialized.
+[2020.08.27-22.14.10:184][631]LogLoad: Game class is 'GameMode'
+[2020.08.27-22.14.10:334][631]LogWorld: Bringing World /Game/Levels/LV03/UEDPIE_0_Level3_Walk.Level3_Walk up for play (max tick rate 0) at 2020.08.28-00.14.10
+[2020.08.27-22.14.10:336][631]LogWorld: Bringing up level for play took: 0.150936
+[2020.08.27-22.14.10:349][631]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.08.27-22.14.10:349][631]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.08.27-22.14.10:349][631]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.08.27-22.14.10:351][631]LogAnimation: Warning: AnimBP Talking_Normal_AnimBP1_C is incompatible with skeleton SK_Wolf_Skeleton, removing AnimBP from actor.
+[2020.08.27-22.14.10:353][631]LogAnimation: Warning: AnimBP WorldMapPlayerAnimBP_C is incompatible with skeleton SK_Hara_Skeleton, removing AnimBP from actor.
+[2020.08.27-22.14.10:354][631]LogBlueprintUserMessages: [PlayerWalkMap_Character_2] SET DEMON
+[2020.08.27-22.14.10:355][631]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.08.27-22.14.10:355][631]PIE: Play in editor start time for /Game/Levels/LV03/UEDPIE_0_Level3_Walk 1.534
+[2020.08.27-22.14.10:355][631]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/LV03/Level3_Walk.Level3_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV03/Level3_Walk.Level3_Walk:PersistentLevel.Level3_Walk' with GeneratedClass '/Game/Levels/LV03/Level3_Walk.Level3_Walk_C' with ClassGeneratedBy '/Game/Levels/LV03/Level3_Walk.Level3_Walk:PersistentLevel.Level3_Walk'
+[2020.08.27-22.14.22:529][486]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/LV03/Level3_Walk.Level3_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV03/Level3_Walk.Level3_Walk:PersistentLevel.Level3_Walk' with GeneratedClass '/Game/Levels/LV03/Level3_Walk.Level3_Walk_C' with ClassGeneratedBy '/Game/Levels/LV03/Level3_Walk.Level3_Walk:PersistentLevel.Level3_Walk'
+[2020.08.27-22.14.22:685][486]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.27-22.14.22:686][486]LogWorld: BeginTearingDown for /Game/Levels/LV03/UEDPIE_0_Level3_Walk
+[2020.08.27-22.14.22:686][486]LogWorld: UWorld::CleanupWorld for Level3_Walk, bSessionEnded=true, bCleanupResources=true
+[2020.08.27-22.14.22:709][486]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/LV03/Level3_Walk.Level3_Walk:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LV03/Level3_Walk.Level3_Walk:PersistentLevel.Level3_Walk' with GeneratedClass '/Game/Levels/LV03/Level3_Walk.Level3_Walk_C' with ClassGeneratedBy '/Game/Levels/LV03/Level3_Walk.Level3_Walk:PersistentLevel.Level3_Walk'
+[2020.08.27-22.14.22:790][486]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.27-22.14.22:802][486]LogUObjectHash: Compacting FUObjectHashTables data took   6.33ms
+[2020.08.27-22.14.26:224][556]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.27-22.14.34:674][427]BlueprintLog: New page: Compile MyGameInstance
+[2020.08.27-22.14.35:701][427]LogUObjectHash: Compacting FUObjectHashTables data took   8.46ms
+[2020.08.27-22.14.36:294][456]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyGameInstance/MyGameInstance" FILE="../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/MyGameInstance/MyGameInstance.uasset" SILENT=true
+[2020.08.27-22.14.36:670][456]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/MyGameInstanceEE61D6B843B4FB7E0828FA8ECC58F4D9.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/MyGameInstance/MyGameInstance.uasset'
+[2020.08.27-22.14.38:661][669]LogUObjectHash: Compacting FUObjectHashTables data took  10.45ms
+[2020.08.27-22.14.38:740][669]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2020.08.27-22.14.39:914][669]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/Level3_WalkA1A6B16D407CECB4B05D98A2F5C1280C.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LV03/Level3_Walk.umap'
+[2020.08.27-22.14.40:031][669]LogFileHelpers: Saving map 'Level3_Walk' took 1.347
