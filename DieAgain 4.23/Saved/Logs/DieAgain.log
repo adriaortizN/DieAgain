@@ -3322,3 +3322,688 @@ Script Stack (0 frames):
 [2020.08.27-22.14.38:740][669]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
 [2020.08.27-22.14.39:914][669]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/Level3_WalkA1A6B16D407CECB4B05D98A2F5C1280C.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LV03/Level3_Walk.umap'
 [2020.08.27-22.14.40:031][669]LogFileHelpers: Saving map 'Level3_Walk' took 1.347
+[2020.08.27-22.17.13:082][810]LogAIModule: Creating AISystem for world Level9_1
+[2020.08.27-22.17.13:263][810]LogScript: Warning: Attempted to access TRASH_ChildActorComponent_7 via property HandWeapon, but TRASH_ChildActorComponent_7 is pending kill
+	AnimBP_Shooting_C /Game/Levels/LV09/Level9_1.Level9_1:PersistentLevel.EnemyShootingCh_2.SkeletalMesh.AnimBP_Shooting_C_0
+	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:ExecuteUbergraph_AnimBP_Shooting:017C
+[2020.08.27-22.17.13:268][810]LogScript: Warning: Attempted to access TRASH_ChildActorComponent_7 via property HandWeapon, but TRASH_ChildActorComponent_7 is pending kill
+	AnimBP_Shooting_C /Game/Levels/LV09/Level9_1.Level9_1:PersistentLevel.EnemyShootingCh2.SkeletalMesh.AnimBP_Shooting_C_0
+	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:ExecuteUbergraph_AnimBP_Shooting:017C
+[2020.08.27-22.17.13:272][810]LogScript: Warning: Attempted to access TRASH_ChildActorComponent_7 via property HandWeapon, but TRASH_ChildActorComponent_7 is pending kill
+	AnimBP_Shooting_C /Game/Levels/LV09/Level9_1.Level9_1:PersistentLevel.EnemyShootingCh3.SkeletalMesh.AnimBP_Shooting_C_0
+	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:ExecuteUbergraph_AnimBP_Shooting:017C
+[2020.08.27-22.17.13:277][810]LogScript: Warning: Attempted to access TRASH_ChildActorComponent_7 via property HandWeapon, but TRASH_ChildActorComponent_7 is pending kill
+	AnimBP_Shooting_C /Game/Levels/LV09/Level9_1.Level9_1:PersistentLevel.EnemyShootingCh4.SkeletalMesh.AnimBP_Shooting_C_0
+	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:ExecuteUbergraph_AnimBP_Shooting:017C
+[2020.08.27-22.17.13:302][810]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/LV09/Level9_1.Level9_1
+[2020.08.27-22.17.13:364][810]LogUObjectHash: Compacting FUObjectHashTables data took   7.35ms
+[2020.08.27-22.17.13:366][810]Cmd: MAP LOAD FILE="../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LV09/Level9_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.08.27-22.17.13:366][810]LightingResults: New page: Lighting Build
+[2020.08.27-22.17.13:367][810]LoadErrors: New page: Loading map: Level9_1.umap
+[2020.08.27-22.17.13:370][810]LogWorld: UWorld::CleanupWorld for Level3_Walk, bSessionEnded=true, bCleanupResources=true
+[2020.08.27-22.17.13:372][810]MapCheck: New page: Map Check
+[2020.08.27-22.17.13:372][810]LightingResults: New page: Lighting Build
+[2020.08.27-22.17.13:433][810]LogUObjectHash: Compacting FUObjectHashTables data took   7.33ms
+[2020.08.27-22.17.13:486][810]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2020.08.27-22.17.13:535][810]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2020.08.27-22.17.13:969][810]LogScript: Warning: Attempted to access TRASH_ChildActorComponent_32 via property HandWeapon, but TRASH_ChildActorComponent_32 is pending kill
+	AnimBP_Shooting_C /Game/Levels/LV09/Level9_1.Level9_1:PersistentLevel.EnemyShootingCh_2.SkeletalMesh.AnimBP_Shooting_C_0
+	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:ExecuteUbergraph_AnimBP_Shooting:017C
+[2020.08.27-22.17.13:976][810]LogScript: Warning: Attempted to access TRASH_ChildActorComponent_32 via property HandWeapon, but TRASH_ChildActorComponent_32 is pending kill
+	AnimBP_Shooting_C /Game/Levels/LV09/Level9_1.Level9_1:PersistentLevel.EnemyShootingCh2.SkeletalMesh.AnimBP_Shooting_C_0
+	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:ExecuteUbergraph_AnimBP_Shooting:017C
+[2020.08.27-22.17.13:983][810]LogScript: Warning: Attempted to access TRASH_ChildActorComponent_32 via property HandWeapon, but TRASH_ChildActorComponent_32 is pending kill
+	AnimBP_Shooting_C /Game/Levels/LV09/Level9_1.Level9_1:PersistentLevel.EnemyShootingCh3.SkeletalMesh.AnimBP_Shooting_C_0
+	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:ExecuteUbergraph_AnimBP_Shooting:017C
+[2020.08.27-22.17.13:990][810]LogScript: Warning: Attempted to access TRASH_ChildActorComponent_32 via property HandWeapon, but TRASH_ChildActorComponent_32 is pending kill
+	AnimBP_Shooting_C /Game/Levels/LV09/Level9_1.Level9_1:PersistentLevel.EnemyShootingCh4.SkeletalMesh.AnimBP_Shooting_C_0
+	Function /Game/Art/Enemies/AnimationTree_Shooting/AnimBP_Shooting.AnimBP_Shooting_C:ExecuteUbergraph_AnimBP_Shooting:017C
+[2020.08.27-22.17.16:388][810]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.08.27-22.17.16:483][810]LogUObjectHash: Compacting FUObjectHashTables data took   7.39ms
+[2020.08.27-22.17.16:568][810]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.08.27-22.17.16:569][810]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.119ms to complete.
+[2020.08.27-22.17.16:569][810]LogFileHelpers: Loading map 'Level9_1' took 3.204
+[2020.08.27-22.17.23:670][972]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2020.08.27-22.17.24:919][ 32]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.08.27-22.17.25:669][ 61]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.08.27-22.17.25:672][ 61]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.08.27-22.17.51:175][581]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Art/AnimRobot/AnimBP_Robot.AnimBP_Robot
+[2020.08.27-22.17.51:222][581]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_62:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.08.27-22.17.51:691][581]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_62:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.08.27-22.17.52:224][581]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.08.27-22.17.58:177][196]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/Art/AnimRobot/AvatarRobot_BS.AvatarRobot_BS
+[2020.08.27-22.17.58:200][196]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_64:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.08.27-22.17.58:258][196]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_64:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.08.27-22.17.59:044][196]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.08.27-22.22.58:149][856]LogWorld: UWorld::CleanupWorld for World_64, bSessionEnded=true, bCleanupResources=true
+[2020.08.27-22.22.58:526][856]LogWorld: UWorld::CleanupWorld for World_65, bSessionEnded=true, bCleanupResources=true
+[2020.08.27-22.23.00:616][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   7.11ms
+[2020.08.27-22.23.00:707][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2020.08.27-22.23.01:990][ 32]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/Level9_1169D49AD4EFB39D9A88C54974FDF6B19.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Levels/LV09/Level9_1.umap'
+[2020.08.27-22.23.02:165][ 32]LogFileHelpers: Saving map 'Level9_1' took 1.522
+[2020.08.27-22.25.09:452][620]LogAssetEditorManager: Opening Asset editor for UserDefinedEnum /Game/Art/NPCs/Enum_NPCs.Enum_NPCs
+[2020.08.27-22.25.15:413][258]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/NPCs/Enum_NPCs" FILE="../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Art/NPCs/Enum_NPCs.uasset" SILENT=true
+[2020.08.27-22.25.15:427][258]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/Enum_NPCsA2E6C99C41015B27CFBFC5B32EE4F5FC.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Art/NPCs/Enum_NPCs.uasset'
+[2020.08.27-22.25.32:761][238]LogBlueprint: Warning: [Compiler PersistentLevel.LevelNF_Walk_2] Node  Unknown  is not referencing a valid level actor
+[2020.08.27-22.25.41:817][238]LogAIModule: Creating AISystem for world LevelNF_Walk_2
+[2020.08.27-22.25.41:946][238]LogAssetEditorManager: Opening Asset editor for World /NorthernFront/LevelNF_Walk_2.LevelNF_Walk_2
+[2020.08.27-22.25.42:030][238]LogUObjectHash: Compacting FUObjectHashTables data took   9.98ms
+[2020.08.27-22.25.51:853][238]LogSlate: Window 'Save Content' being destroyed
+[2020.08.27-22.25.52:149][238]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/Conversation_ActorB925F3E24A14D0B8B1D4C383FE39662C.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Conversations/Actors/Conversation_Actor.uasset'
+[2020.08.27-22.25.52:180][238]Cmd: MAP LOAD FILE="../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Plugins/NorthernFront/Content/LevelNF_Walk_2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.08.27-22.25.52:180][238]LightingResults: New page: Lighting Build
+[2020.08.27-22.25.52:181][238]LoadErrors: New page: Loading map: LevelNF_Walk_2.umap
+[2020.08.27-22.25.52:185][238]LogWorld: UWorld::CleanupWorld for Level9_1, bSessionEnded=true, bCleanupResources=true
+[2020.08.27-22.25.52:204][238]MapCheck: New page: Map Check
+[2020.08.27-22.25.52:204][238]LightingResults: New page: Lighting Build
+[2020.08.27-22.25.52:296][238]LogUObjectHash: Compacting FUObjectHashTables data took   8.12ms
+[2020.08.27-22.25.52:373][238]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2020.08.27-22.25.52:430][238]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2020.08.27-22.26.44:826][238]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.08.27-22.26.45:057][238]LogUObjectHash: Compacting FUObjectHashTables data took  10.20ms
+[2020.08.27-22.26.45:178][238]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.08.27-22.26.45:178][238]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.098ms to complete.
+[2020.08.27-22.26.45:178][238]LogFileHelpers: Loading map 'LevelNF_Walk_2' took 52.998
+[2020.08.27-22.27.05:859][429]LogEditorViewport: Clicking on Actor (LMB): Conversation_Actor_C (Conversation_Actor)
+[2020.08.27-22.27.10:131][765]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.27-22.27.11:633][791]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	PlayerWalk_SteinerAnimBP_C /Engine/Transient.World_77:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.PlayerWalk_SteinerAnimBP_C_0
+	Function /Game/Art/Enemies/Lobby_Animations/PlayerWalk_SteinerAnimBP.PlayerWalk_SteinerAnimBP_C:ExecuteUbergraph_PlayerWalk_SteinerAnimBP:013E
+[2020.08.27-22.27.16:668][794]LogD3D11RHI: GetQueryData is taking a very long time (5.0 s)
+[2020.08.27-22.27.24:698][  4]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Conversations/Actors/Conversation_Actor.Conversation_Actor
+[2020.08.27-22.28.58:631][ 14]BlueprintLog: New page: Compile Conversation_Actor
+[2020.08.27-22.28.59:933][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   9.80ms
+[2020.08.27-22.29.01:004][ 41]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/Conversation_Actor53CDE05C4C4E4F7DB2E79A978001072C.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Conversations/Actors/Conversation_Actor.uasset'
+[2020.08.27-22.29.14:381][239]LogContentBrowser: Verbose: The majority of assets in the view are of type: None
+[2020.08.27-22.29.16:111][339]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.08.27-22.29.25:223][688]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.27-22.30.27:097][644]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.27-22.30.27:173][644]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/NorthernFront/LevelNF_Walk_2.LevelNF_Walk_2:PersistentLevel' has LevelScriptBlueprint '/NorthernFront/LevelNF_Walk_2.LevelNF_Walk_2:PersistentLevel.LevelNF_Walk_2' with GeneratedClass '/NorthernFront/LevelNF_Walk_2.LevelNF_Walk_2_C' with ClassGeneratedBy '/NorthernFront/LevelNF_Walk_2.LevelNF_Walk_2:PersistentLevel.LevelNF_Walk_2'
+[2020.08.27-22.30.27:391][644]LogFMOD: Creating runtime Studio System
+[2020.08.27-22.30.27:394][644]LogFMOD: Default sample rate = 48000
+[2020.08.27-22.30.27:394][644]LogFMOD: System sample rate = 44100
+[2020.08.27-22.30.27:394][644]LogFMOD: Matching system sample rate 44100
+[2020.08.27-22.30.27:414][644]LogFMOD: Loading Banks
+[2020.08.27-22.30.27:502][644]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.08.27-22.30.27:543][644]LogPlayLevel: [PlayLevel] Compiling Conversation_Actor before play...
+[2020.08.27-22.30.28:619][644]LogPlayLevel: [PlayLevel] Compiling PROTO_BP_AnimBlueprint_0 before play...
+[2020.08.27-22.30.28:764][644]LogUObjectHash: Compacting FUObjectHashTables data took  10.40ms
+[2020.08.27-22.30.28:764][644]LogPlayLevel: PlayLevel: Blueprint regeneration took 1262 ms (2 blueprints)
+[2020.08.27-22.30.28:764][644]PIE: New page: PIE session: LevelNF_Walk_2 (Aug 28, 2020, 2:30:28 AM)
+[2020.08.27-22.30.28:765][644]LogPlayLevel: Creating play world package: /NorthernFront/UEDPIE_0_LevelNF_Walk_2
+[2020.08.27-22.30.37:630][644]LogPlayLevel: PIE: StaticDuplicateObject took: (8.845377s)
+[2020.08.27-22.30.37:668][644]LogAIModule: Creating AISystem for world LevelNF_Walk_2
+[2020.08.27-22.30.37:669][644]LogPlayLevel: PIE: World Init took: (0.038781s)
+[2020.08.27-22.30.37:669][644]LogPlayLevel: PIE: Created PIE world by copying editor world from /NorthernFront/LevelNF_Walk_2.LevelNF_Walk_2 to /NorthernFront/UEDPIE_0_LevelNF_Walk_2.LevelNF_Walk_2 (8.903136s)
+[2020.08.27-22.30.37:746][644]LogUObjectHash: Compacting FUObjectHashTables data took   5.44ms
+[2020.08.27-22.30.37:762][644]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.27-22.30.37:769][644]LogInit: FAudioDevice initialized.
+[2020.08.27-22.30.37:822][644]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.08.27-22.30.37:992][644]LogWorld: Bringing World /NorthernFront/UEDPIE_0_LevelNF_Walk_2.LevelNF_Walk_2 up for play (max tick rate 0) at 2020.08.28-00.30.37
+[2020.08.27-22.30.37:993][644]LogWorld: Bringing up level for play took: 0.168607
+[2020.08.27-22.30.37:994][644]LogAnimation: Warning: AnimBP Talking_Normal_AnimBP1_C is incompatible with skeleton SK_Hara_Skeleton, removing AnimBP from actor.
+[2020.08.27-22.30.38:020][644]LogAnimation: Warning: AnimBP WorldMapPlayerAnimBP_C is incompatible with skeleton EnemyType1_Skeleton, removing AnimBP from actor.
+[2020.08.27-22.30.38:020][644]PIE: Play in editor start time for /NorthernFront/UEDPIE_0_LevelNF_Walk_2 11.18
+[2020.08.27-22.30.38:021][644]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/NorthernFront/LevelNF_Walk_2.LevelNF_Walk_2:PersistentLevel' has LevelScriptBlueprint '/NorthernFront/LevelNF_Walk_2.LevelNF_Walk_2:PersistentLevel.LevelNF_Walk_2' with GeneratedClass '/NorthernFront/LevelNF_Walk_2.LevelNF_Walk_2_C' with ClassGeneratedBy '/NorthernFront/LevelNF_Walk_2.LevelNF_Walk_2:PersistentLevel.LevelNF_Walk_2'
+[2020.08.27-22.30.44:396][ 67]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.27-22.30.53:535][691]LogEditorViewport: Clicking on Actor (LMB): Conversation_Actor_C (Conversation_Actor)
+[2020.08.27-22.30.55:936][790]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.27-22.30.58:252][934]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/NorthernFront/LevelNF_Walk_2.LevelNF_Walk_2:PersistentLevel' has LevelScriptBlueprint '/NorthernFront/LevelNF_Walk_2.LevelNF_Walk_2:PersistentLevel.LevelNF_Walk_2' with GeneratedClass '/NorthernFront/LevelNF_Walk_2.LevelNF_Walk_2_C' with ClassGeneratedBy '/NorthernFront/LevelNF_Walk_2.LevelNF_Walk_2:PersistentLevel.LevelNF_Walk_2'
+[2020.08.27-22.30.58:396][934]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.27-22.30.58:396][934]LogWorld: BeginTearingDown for /NorthernFront/UEDPIE_0_LevelNF_Walk_2
+[2020.08.27-22.30.58:397][934]LogWorld: UWorld::CleanupWorld for LevelNF_Walk_2, bSessionEnded=true, bCleanupResources=true
+[2020.08.27-22.30.58:466][934]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/NorthernFront/LevelNF_Walk_2.LevelNF_Walk_2:PersistentLevel' has LevelScriptBlueprint '/NorthernFront/LevelNF_Walk_2.LevelNF_Walk_2:PersistentLevel.LevelNF_Walk_2' with GeneratedClass '/NorthernFront/LevelNF_Walk_2.LevelNF_Walk_2_C' with ClassGeneratedBy '/NorthernFront/LevelNF_Walk_2.LevelNF_Walk_2:PersistentLevel.LevelNF_Walk_2'
+[2020.08.27-22.30.58:545][934]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.27-22.30.58:603][934]LogUObjectHash: Compacting FUObjectHashTables data took   9.75ms
+[2020.08.27-22.30.58:947][957]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.27-22.31.20:349][ 73]BlueprintLog: New page: Compile Conversation_Actor
+[2020.08.27-22.31.21:373][ 73]LogUObjectHash: Compacting FUObjectHashTables data took  10.78ms
+[2020.08.27-22.31.22:456][ 99]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/Conversation_Actor56301C5A4E138DFAB1442EB5D934181F.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Conversations/Actors/Conversation_Actor.uasset'
+[2020.08.27-22.32.15:197][550]BlueprintLog: New page: Compile Conversation_Actor
+[2020.08.27-22.32.16:213][550]LogUObjectHash: Compacting FUObjectHashTables data took  11.83ms
+[2020.08.27-22.32.17:222][587]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/Conversation_ActorE880604A4CAED88220D07D8A8635DDF8.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Conversations/Actors/Conversation_Actor.uasset'
+[2020.08.27-22.32.19:157][781]BlueprintLog: New page: Compile Conversation_Actor
+[2020.08.27-22.32.20:239][781]LogUObjectHash: Compacting FUObjectHashTables data took  12.03ms
+[2020.08.27-22.32.21:168][809]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/Conversation_Actor67339181438604F1862FCA9B7424FC62.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Conversations/Actors/Conversation_Actor.uasset'
+[2020.08.27-22.32.22:694][934]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.27-22.32.22:776][934]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/NorthernFront/LevelNF_Walk_2.LevelNF_Walk_2:PersistentLevel' has LevelScriptBlueprint '/NorthernFront/LevelNF_Walk_2.LevelNF_Walk_2:PersistentLevel.LevelNF_Walk_2' with GeneratedClass '/NorthernFront/LevelNF_Walk_2.LevelNF_Walk_2_C' with ClassGeneratedBy '/NorthernFront/LevelNF_Walk_2.LevelNF_Walk_2:PersistentLevel.LevelNF_Walk_2'
+[2020.08.27-22.32.22:865][934]LogFMOD: Creating runtime Studio System
+[2020.08.27-22.32.22:866][934]LogFMOD: Default sample rate = 48000
+[2020.08.27-22.32.22:866][934]LogFMOD: System sample rate = 44100
+[2020.08.27-22.32.22:866][934]LogFMOD: Matching system sample rate 44100
+[2020.08.27-22.32.22:877][934]LogFMOD: Loading Banks
+[2020.08.27-22.32.22:916][934]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.27-22.32.22:916][934]PIE: New page: PIE session: LevelNF_Walk_2 (Aug 28, 2020, 2:32:22 AM)
+[2020.08.27-22.32.22:916][934]LogPlayLevel: Creating play world package: /NorthernFront/UEDPIE_0_LevelNF_Walk_2
+[2020.08.27-22.32.23:472][934]LogPlayLevel: PIE: StaticDuplicateObject took: (0.556105s)
+[2020.08.27-22.32.23:474][934]LogAIModule: Creating AISystem for world LevelNF_Walk_2
+[2020.08.27-22.32.23:474][934]LogPlayLevel: PIE: World Init took: (0.001335s)
+[2020.08.27-22.32.23:474][934]LogPlayLevel: PIE: Created PIE world by copying editor world from /NorthernFront/LevelNF_Walk_2.LevelNF_Walk_2 to /NorthernFront/UEDPIE_0_LevelNF_Walk_2.LevelNF_Walk_2 (0.557596s)
+[2020.08.27-22.32.23:569][934]LogUObjectHash: Compacting FUObjectHashTables data took  10.53ms
+[2020.08.27-22.32.23:579][934]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.27-22.32.23:587][934]LogInit: FAudioDevice initialized.
+[2020.08.27-22.32.23:593][934]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.08.27-22.32.23:782][934]LogWorld: Bringing World /NorthernFront/UEDPIE_0_LevelNF_Walk_2.LevelNF_Walk_2 up for play (max tick rate 0) at 2020.08.28-00.32.23
+[2020.08.27-22.32.23:783][934]LogWorld: Bringing up level for play took: 0.189600
+[2020.08.27-22.32.23:784][934]LogAnimation: Warning: AnimBP Talking_Normal_AnimBP1_C is incompatible with skeleton SK_Hara_Skeleton, removing AnimBP from actor.
+[2020.08.27-22.32.23:786][934]LogAnimation: Warning: AnimBP WorldMapPlayerAnimBP_C is incompatible with skeleton EnemyType1_Skeleton, removing AnimBP from actor.
+[2020.08.27-22.32.23:787][934]PIE: Play in editor start time for /NorthernFront/UEDPIE_0_LevelNF_Walk_2 0.945
+[2020.08.27-22.32.23:787][934]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/NorthernFront/LevelNF_Walk_2.LevelNF_Walk_2:PersistentLevel' has LevelScriptBlueprint '/NorthernFront/LevelNF_Walk_2.LevelNF_Walk_2:PersistentLevel.LevelNF_Walk_2' with GeneratedClass '/NorthernFront/LevelNF_Walk_2.LevelNF_Walk_2_C' with ClassGeneratedBy '/NorthernFront/LevelNF_Walk_2.LevelNF_Walk_2:PersistentLevel.LevelNF_Walk_2'
+[2020.08.27-22.32.33:052][547]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.27-22.32.35:315][698]LogBlueprintUserMessages: [Conversation_Actor_2] IM TALKING
+[2020.08.27-22.32.35:316][698]LogScript: Warning: Accessed None trying to read property InDialogue
+	MyDialogueWidget_C /Engine/Transient.UnrealEdEngine_0:MyGameInstance_C_38.MyDialogueWidget_C_0
+	Function /Game/Conversations/MyDialogueWidget.MyDialogueWidget_C:ExecuteUbergraph_MyDialogueWidget:07B7
+[2020.08.27-22.32.35:338][698]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InDialogue". Blueprint:  MyDialogueWidget Function:  Execute Ubergraph My Dialogue Widget Graph:  EventGraph Node:  Assign Persistent Outer
+[2020.08.27-22.32.35:339][698]LogScript: Warning: Accessed None trying to read property InDialogue
+	MyDialogueWidget_C /Engine/Transient.UnrealEdEngine_0:MyGameInstance_C_38.MyDialogueWidget_C_0
+	Function /Game/Conversations/MyDialogueWidget.MyDialogueWidget_C:ExecuteUbergraph_MyDialogueWidget:0800
+[2020.08.27-22.32.35:339][698]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InDialogue". Blueprint:  MyDialogueWidget Function:  Execute Ubergraph My Dialogue Widget Graph:  EventGraph Node:  To Npc Reply
+[2020.08.27-22.32.35:339][698]LogScript: Warning: Accessed None
+	MyDialogueWidget_C /Engine/Transient.UnrealEdEngine_0:MyGameInstance_C_38.MyDialogueWidget_C_0
+	Function /Game/Conversations/MyDialogueWidget.MyDialogueWidget_C:ExecuteUbergraph_MyDialogueWidget:07E1
+[2020.08.27-22.32.35:339][698]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyDialogueWidget Function:  Execute Ubergraph My Dialogue Widget Graph:  EventGraph Node:  To Npc Reply
+[2020.08.27-22.32.35:339][698]LogScript: Warning: Accessed None trying to read property InDialogue
+	MyDialogueWidget_C /Engine/Transient.UnrealEdEngine_0:MyGameInstance_C_38.MyDialogueWidget_C_0
+	Function /Game/Conversations/MyDialogueWidget.MyDialogueWidget_C:ToNpcReply:005B
+[2020.08.27-22.32.35:340][698]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InDialogue". Blueprint:  MyDialogueWidget Function:  To Npc Reply Graph:  ToNpcReply Node:  Get Next Nodes
+[2020.08.27-22.32.35:340][698]LogScript: Warning: Accessed None trying to read property ChameleonRef
+	Conversation_Actor_C /NorthernFront/UEDPIE_0_LevelNF_Walk_2.LevelNF_Walk_2:PersistentLevel.Conversation_Actor_2
+	Function /Game/Conversations/Actors/Conversation_Actor.Conversation_Actor_C:StopConversation:001B
+[2020.08.27-22.32.35:340][698]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ChameleonRef". Blueprint:  Conversation_Actor Function:  Stop Conversation Graph:  StopConversation Node:  Set Letterboxing
+[2020.08.27-22.32.35:340][698]LogScript: Warning: Accessed None trying to read property ChameleonRef
+	Conversation_Actor_C /NorthernFront/UEDPIE_0_LevelNF_Walk_2.LevelNF_Walk_2:PersistentLevel.Conversation_Actor_2
+	Function /Game/Conversations/Actors/Conversation_Actor.Conversation_Actor_C:StopConversation:003D
+[2020.08.27-22.32.35:340][698]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ChameleonRef". Blueprint:  Conversation_Actor Function:  Stop Conversation Graph:  StopConversation Node:  DestroyActor
+[2020.08.27-22.32.35:341][698]LogScript: Warning: Accessed None trying to read property InDialogue
+	MyDialogueWidget_C /Engine/Transient.UnrealEdEngine_0:MyGameInstance_C_38.MyDialogueWidget_C_0
+	Function /Game/Conversations/MyDialogueWidget.MyDialogueWidget_C:ExecuteUbergraph_MyDialogueWidget:086C
+[2020.08.27-22.32.35:341][698]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InDialogue". Blueprint:  MyDialogueWidget Function:  Execute Ubergraph My Dialogue Widget Graph:  EventGraph Node:  SetText (Text)
+[2020.08.27-22.32.35:355][698]LogScript: Warning: Accessed None trying to read property InDialogue
+	MyDialogueWidget_C /Engine/Transient.UnrealEdEngine_0:MyGameInstance_C_38.MyDialogueWidget_C_0
+	Function /Game/Conversations/MyDialogueWidget.MyDialogueWidget_C:ToNpcReply:005B
+[2020.08.27-22.32.36:551][787]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/NorthernFront/LevelNF_Walk_2.LevelNF_Walk_2:PersistentLevel' has LevelScriptBlueprint '/NorthernFront/LevelNF_Walk_2.LevelNF_Walk_2:PersistentLevel.LevelNF_Walk_2' with GeneratedClass '/NorthernFront/LevelNF_Walk_2.LevelNF_Walk_2_C' with ClassGeneratedBy '/NorthernFront/LevelNF_Walk_2.LevelNF_Walk_2:PersistentLevel.LevelNF_Walk_2'
+[2020.08.27-22.32.36:692][787]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.27-22.32.36:692][787]LogWorld: BeginTearingDown for /NorthernFront/UEDPIE_0_LevelNF_Walk_2
+[2020.08.27-22.32.36:692][787]LogWorld: UWorld::CleanupWorld for LevelNF_Walk_2, bSessionEnded=true, bCleanupResources=true
+[2020.08.27-22.32.36:772][787]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/NorthernFront/LevelNF_Walk_2.LevelNF_Walk_2:PersistentLevel' has LevelScriptBlueprint '/NorthernFront/LevelNF_Walk_2.LevelNF_Walk_2:PersistentLevel.LevelNF_Walk_2' with GeneratedClass '/NorthernFront/LevelNF_Walk_2.LevelNF_Walk_2_C' with ClassGeneratedBy '/NorthernFront/LevelNF_Walk_2.LevelNF_Walk_2:PersistentLevel.LevelNF_Walk_2'
+[2020.08.27-22.32.36:854][787]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.27-22.32.36:892][787]LogUObjectHash: Compacting FUObjectHashTables data took   8.59ms
+[2020.08.27-22.32.37:869][888]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.27-22.32.41:672][182]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2020.08.27-22.32.41:767][182]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2020.08.27-22.32.42:565][182]LogBlueprint: Warning: [Compiler PersistentLevel.LevelNF_Walk_2] Node  Unknown  is not referencing a valid level actor
+[2020.08.27-22.32.45:665][182]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/LevelNF_Walk_2B4662AA548A3808295013CAC45E57BB8.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Plugins/NorthernFront/Content/LevelNF_Walk_2.umap'
+[2020.08.27-22.32.47:922][182]LogFileHelpers: Saving map 'LevelNF_Walk_2' took 6.221
+[2020.08.27-22.33.15:226][326]LogEditorViewport: Clicking on Actor (LMB): Conversation_Actor_C (Conversation_Actor)
+[2020.08.27-22.33.16:539][420]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.27-22.33.19:909][682]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.27-22.33.19:979][682]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/NorthernFront/LevelNF_Walk_2.LevelNF_Walk_2:PersistentLevel' has LevelScriptBlueprint '/NorthernFront/LevelNF_Walk_2.LevelNF_Walk_2:PersistentLevel.LevelNF_Walk_2' with GeneratedClass '/NorthernFront/LevelNF_Walk_2.LevelNF_Walk_2_C' with ClassGeneratedBy '/NorthernFront/LevelNF_Walk_2.LevelNF_Walk_2:PersistentLevel.LevelNF_Walk_2'
+[2020.08.27-22.33.20:047][682]LogFMOD: Creating runtime Studio System
+[2020.08.27-22.33.20:048][682]LogFMOD: Default sample rate = 48000
+[2020.08.27-22.33.20:048][682]LogFMOD: System sample rate = 44100
+[2020.08.27-22.33.20:048][682]LogFMOD: Matching system sample rate 44100
+[2020.08.27-22.33.20:062][682]LogFMOD: Loading Banks
+[2020.08.27-22.33.20:129][682]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.27-22.33.20:129][682]PIE: New page: PIE session: LevelNF_Walk_2 (Aug 28, 2020, 2:33:20 AM)
+[2020.08.27-22.33.20:130][682]LogPlayLevel: Creating play world package: /NorthernFront/UEDPIE_0_LevelNF_Walk_2
+[2020.08.27-22.33.22:695][682]LogPlayLevel: PIE: StaticDuplicateObject took: (2.565575s)
+[2020.08.27-22.33.22:697][682]LogAIModule: Creating AISystem for world LevelNF_Walk_2
+[2020.08.27-22.33.22:698][682]LogPlayLevel: PIE: World Init took: (0.002117s)
+[2020.08.27-22.33.22:698][682]LogPlayLevel: PIE: Created PIE world by copying editor world from /NorthernFront/LevelNF_Walk_2.LevelNF_Walk_2 to /NorthernFront/UEDPIE_0_LevelNF_Walk_2.LevelNF_Walk_2 (2.568001s)
+[2020.08.27-22.33.22:774][682]LogUObjectHash: Compacting FUObjectHashTables data took   6.80ms
+[2020.08.27-22.33.22:787][682]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.27-22.33.22:793][682]LogInit: FAudioDevice initialized.
+[2020.08.27-22.33.22:803][682]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.08.27-22.33.22:964][682]LogWorld: Bringing World /NorthernFront/UEDPIE_0_LevelNF_Walk_2.LevelNF_Walk_2 up for play (max tick rate 0) at 2020.08.28-00.33.22
+[2020.08.27-22.33.22:964][682]LogWorld: Bringing up level for play took: 0.161069
+[2020.08.27-22.33.22:965][682]LogAnimation: Warning: AnimBP Talking_Normal_AnimBP1_C is incompatible with skeleton SK_Hara_Skeleton, removing AnimBP from actor.
+[2020.08.27-22.33.22:984][682]LogAnimation: Warning: AnimBP WorldMapPlayerAnimBP_C is incompatible with skeleton EnemyType1_Skeleton, removing AnimBP from actor.
+[2020.08.27-22.33.22:984][682]PIE: Play in editor start time for /NorthernFront/UEDPIE_0_LevelNF_Walk_2 2.142
+[2020.08.27-22.33.22:985][682]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/NorthernFront/LevelNF_Walk_2.LevelNF_Walk_2:PersistentLevel' has LevelScriptBlueprint '/NorthernFront/LevelNF_Walk_2.LevelNF_Walk_2:PersistentLevel.LevelNF_Walk_2' with GeneratedClass '/NorthernFront/LevelNF_Walk_2.LevelNF_Walk_2_C' with ClassGeneratedBy '/NorthernFront/LevelNF_Walk_2.LevelNF_Walk_2:PersistentLevel.LevelNF_Walk_2'
+[2020.08.27-22.33.28:864][ 97]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/NorthernFront/LevelNF_Walk_2.LevelNF_Walk_2:PersistentLevel' has LevelScriptBlueprint '/NorthernFront/LevelNF_Walk_2.LevelNF_Walk_2:PersistentLevel.LevelNF_Walk_2' with GeneratedClass '/NorthernFront/LevelNF_Walk_2.LevelNF_Walk_2_C' with ClassGeneratedBy '/NorthernFront/LevelNF_Walk_2.LevelNF_Walk_2:PersistentLevel.LevelNF_Walk_2'
+[2020.08.27-22.33.29:008][ 97]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.27-22.33.29:008][ 97]LogWorld: BeginTearingDown for /NorthernFront/UEDPIE_0_LevelNF_Walk_2
+[2020.08.27-22.33.29:008][ 97]LogWorld: UWorld::CleanupWorld for LevelNF_Walk_2, bSessionEnded=true, bCleanupResources=true
+[2020.08.27-22.33.29:032][ 97]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/NorthernFront/LevelNF_Walk_2.LevelNF_Walk_2:PersistentLevel' has LevelScriptBlueprint '/NorthernFront/LevelNF_Walk_2.LevelNF_Walk_2:PersistentLevel.LevelNF_Walk_2' with GeneratedClass '/NorthernFront/LevelNF_Walk_2.LevelNF_Walk_2_C' with ClassGeneratedBy '/NorthernFront/LevelNF_Walk_2.LevelNF_Walk_2:PersistentLevel.LevelNF_Walk_2'
+[2020.08.27-22.33.29:130][ 97]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.27-22.33.29:177][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   7.92ms
+[2020.08.27-22.33.29:924][144]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.27-22.33.46:878][855]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.27-22.33.46:960][855]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/NorthernFront/LevelNF_Walk_2.LevelNF_Walk_2:PersistentLevel' has LevelScriptBlueprint '/NorthernFront/LevelNF_Walk_2.LevelNF_Walk_2:PersistentLevel.LevelNF_Walk_2' with GeneratedClass '/NorthernFront/LevelNF_Walk_2.LevelNF_Walk_2_C' with ClassGeneratedBy '/NorthernFront/LevelNF_Walk_2.LevelNF_Walk_2:PersistentLevel.LevelNF_Walk_2'
+[2020.08.27-22.33.47:060][855]LogFMOD: Creating runtime Studio System
+[2020.08.27-22.33.47:062][855]LogFMOD: Default sample rate = 48000
+[2020.08.27-22.33.47:062][855]LogFMOD: System sample rate = 44100
+[2020.08.27-22.33.47:062][855]LogFMOD: Matching system sample rate 44100
+[2020.08.27-22.33.47:080][855]LogFMOD: Loading Banks
+[2020.08.27-22.33.47:122][855]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.08.27-22.33.47:160][855]LogPlayLevel: [PlayLevel] Compiling Conversation_Actor before play...
+[2020.08.27-22.33.48:225][855]LogUObjectHash: Compacting FUObjectHashTables data took  10.79ms
+[2020.08.27-22.33.48:225][855]LogPlayLevel: PlayLevel: Blueprint regeneration took 1103 ms (1 blueprints)
+[2020.08.27-22.33.48:225][855]PIE: New page: PIE session: LevelNF_Walk_2 (Aug 28, 2020, 2:33:48 AM)
+[2020.08.27-22.33.48:226][855]LogPlayLevel: Creating play world package: /NorthernFront/UEDPIE_0_LevelNF_Walk_2
+[2020.08.27-22.33.48:748][855]LogPlayLevel: PIE: StaticDuplicateObject took: (0.522509s)
+[2020.08.27-22.33.48:749][855]LogAIModule: Creating AISystem for world LevelNF_Walk_2
+[2020.08.27-22.33.48:750][855]LogPlayLevel: PIE: World Init took: (0.001225s)
+[2020.08.27-22.33.48:750][855]LogPlayLevel: PIE: Created PIE world by copying editor world from /NorthernFront/LevelNF_Walk_2.LevelNF_Walk_2 to /NorthernFront/UEDPIE_0_LevelNF_Walk_2.LevelNF_Walk_2 (0.523887s)
+[2020.08.27-22.33.48:833][855]LogUObjectHash: Compacting FUObjectHashTables data took   6.95ms
+[2020.08.27-22.33.48:841][855]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.27-22.33.48:849][855]LogInit: FAudioDevice initialized.
+[2020.08.27-22.33.48:861][855]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.08.27-22.33.49:072][855]LogWorld: Bringing World /NorthernFront/UEDPIE_0_LevelNF_Walk_2.LevelNF_Walk_2 up for play (max tick rate 0) at 2020.08.28-00.33.49
+[2020.08.27-22.33.49:073][855]LogWorld: Bringing up level for play took: 0.211159
+[2020.08.27-22.33.49:074][855]LogAnimation: Warning: AnimBP Talking_Normal_AnimBP1_C is incompatible with skeleton SK_Hara_Skeleton, removing AnimBP from actor.
+[2020.08.27-22.33.49:076][855]LogAnimation: Warning: AnimBP WorldMapPlayerAnimBP_C is incompatible with skeleton EnemyType1_Skeleton, removing AnimBP from actor.
+[2020.08.27-22.33.49:077][855]PIE: Play in editor start time for /NorthernFront/UEDPIE_0_LevelNF_Walk_2 2.233
+[2020.08.27-22.33.49:077][855]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/NorthernFront/LevelNF_Walk_2.LevelNF_Walk_2:PersistentLevel' has LevelScriptBlueprint '/NorthernFront/LevelNF_Walk_2.LevelNF_Walk_2:PersistentLevel.LevelNF_Walk_2' with GeneratedClass '/NorthernFront/LevelNF_Walk_2.LevelNF_Walk_2_C' with ClassGeneratedBy '/NorthernFront/LevelNF_Walk_2.LevelNF_Walk_2:PersistentLevel.LevelNF_Walk_2'
+[2020.08.27-22.33.54:663][193]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/NorthernFront/LevelNF_Walk_2.LevelNF_Walk_2:PersistentLevel' has LevelScriptBlueprint '/NorthernFront/LevelNF_Walk_2.LevelNF_Walk_2:PersistentLevel.LevelNF_Walk_2' with GeneratedClass '/NorthernFront/LevelNF_Walk_2.LevelNF_Walk_2_C' with ClassGeneratedBy '/NorthernFront/LevelNF_Walk_2.LevelNF_Walk_2:PersistentLevel.LevelNF_Walk_2'
+[2020.08.27-22.33.54:822][193]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.27-22.33.54:822][193]LogWorld: BeginTearingDown for /NorthernFront/UEDPIE_0_LevelNF_Walk_2
+[2020.08.27-22.33.54:822][193]LogWorld: UWorld::CleanupWorld for LevelNF_Walk_2, bSessionEnded=true, bCleanupResources=true
+[2020.08.27-22.33.54:842][193]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/NorthernFront/LevelNF_Walk_2.LevelNF_Walk_2:PersistentLevel' has LevelScriptBlueprint '/NorthernFront/LevelNF_Walk_2.LevelNF_Walk_2:PersistentLevel.LevelNF_Walk_2' with GeneratedClass '/NorthernFront/LevelNF_Walk_2.LevelNF_Walk_2_C' with ClassGeneratedBy '/NorthernFront/LevelNF_Walk_2.LevelNF_Walk_2:PersistentLevel.LevelNF_Walk_2'
+[2020.08.27-22.33.54:931][193]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.27-22.33.54:977][193]LogUObjectHash: Compacting FUObjectHashTables data took   7.41ms
+[2020.08.27-22.33.55:375][224]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.27-22.34.03:929][153]BlueprintLog: New page: Compile Conversation_Actor
+[2020.08.27-22.34.05:015][153]LogUObjectHash: Compacting FUObjectHashTables data took   9.94ms
+[2020.08.27-22.34.06:096][192]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/Conversation_Actor7C7E45754CC5751011B1C2BB2AAB9DE1.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Conversations/Actors/Conversation_Actor.uasset'
+[2020.08.27-22.34.18:317][274]BlueprintLog: New page: Compile Conversation_Actor
+[2020.08.27-22.34.19:406][274]LogUObjectHash: Compacting FUObjectHashTables data took  11.57ms
+[2020.08.27-22.34.20:410][294]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/Conversation_Actor3E573E534D57DA2C1097ABA0126B5170.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Conversations/Actors/Conversation_Actor.uasset'
+[2020.08.27-22.34.24:372][620]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/Conversation_Actor2F135B9647D78D50EFB933B8BFCADEAD.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/Conversations/Actors/Conversation_Actor.uasset'
+[2020.08.27-22.34.32:738][363]BlueprintLog: New page: Compile PlayerWalkMap_Character
+[2020.08.27-22.34.33:738][363]LogUObjectHash: Compacting FUObjectHashTables data took  10.33ms
+[2020.08.27-22.34.36:031][529]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/PlayerWalkMap_Character0B75F58B438620E9BB710CA2251ACE5F.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Content/ThirdPersonBP/Blueprints/PlayerWalkMap_Character.uasset'
+[2020.08.27-22.34.40:840][899]LogUObjectHash: Compacting FUObjectHashTables data took  12.33ms
+[2020.08.27-22.34.40:923][899]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2020.08.27-22.34.40:929][899]LogBlueprint: Warning: [Compiler PersistentLevel.LevelNF_Walk_2] Node  Unknown  is not referencing a valid level actor
+[2020.08.27-22.34.43:921][899]LogSavePackage: Moving '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Saved/LevelNF_Walk_25D7FCA2B4983427C327BB590C090359C.tmp' to '../../../../DieAgainProjects/DieAgain GitHub/DieAgain/DieAgain 4.23/Plugins/NorthernFront/Content/LevelNF_Walk_2.umap'
+[2020.08.27-22.34.44:024][899]LogFileHelpers: Saving map 'LevelNF_Walk_2' took 3.168
+[2020.08.27-22.34.46:408][105]LogUObjectHash: Compacting FUObjectHashTables data took  10.92ms
+[2020.08.27-22.34.46:920][105]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2020.08.27-22.34.48:007][105]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.08.27-22.34.48:406][105]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2020.08.27-22.34.49:585][105]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2020.08.27-22.34.50:083][105]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2020.08.27-22.34.50:225][105]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2020.08.27-22.34.50:569][105]LogWorld: UWorld::CleanupWorld for World_63, bSessionEnded=true, bCleanupResources=true
+[2020.08.27-22.34.50:656][105]LogWorld: UWorld::CleanupWorld for World_62, bSessionEnded=true, bCleanupResources=true
+[2020.08.27-22.34.50:663][105]LogWorld: UWorld::CleanupWorld for World_61, bSessionEnded=true, bCleanupResources=true
+[2020.08.27-22.34.50:808][105]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.08.27-22.34.50:808][105]LogWorld: UWorld::CleanupWorld for World_60, bSessionEnded=true, bCleanupResources=true
+[2020.08.27-22.34.50:893][105]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.08.27-22.34.50:893][105]LogWorld: UWorld::CleanupWorld for World_78, bSessionEnded=true, bCleanupResources=true
+[2020.08.27-22.34.51:058][105]LogWorld: UWorld::CleanupWorld for World_59, bSessionEnded=true, bCleanupResources=true
+[2020.08.27-22.34.51:121][105]LogWorld: UWorld::CleanupWorld for World_58, bSessionEnded=true, bCleanupResources=true
+[2020.08.27-22.34.51:135][105]LogSlate: Window 'DieAgain - Unreal Editor' being destroyed
+[2020.08.27-22.34.54:382][106]Cmd: QUIT_EDITOR
+[2020.08.27-22.34.54:958][106]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.08.27-22.34.55:024][106]LogExit: Preparing to exit.
+[2020.08.27-22.34.57:541][106]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.08.27-22.34.57:550][106]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.08.27-22.34.57:558][106]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.08.27-22.34.57:564][106]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.08.27-22.34.57:587][106]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.08.27-22.34.57:595][106]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2020.08.27-22.34.57:603][106]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2020.08.27-22.34.57:615][106]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.08.27-22.34.57:615][106]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.08.27-22.34.57:615][106]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.08.27-22.34.57:615][106]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.08.27-22.34.57:615][106]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.08.27-22.34.57:615][106]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.08.27-22.34.57:616][106]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.08.27-22.34.57:616][106]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2020.08.27-22.34.57:630][106]LogWorld: UWorld::CleanupWorld for World_66, bSessionEnded=true, bCleanupResources=true
+[2020.08.27-22.34.57:636][106]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.08.27-22.34.57:657][106]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2020.08.27-22.34.57:662][106]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.08.27-22.34.57:667][106]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.08.27-22.34.57:674][106]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.08.27-22.34.57:680][106]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.08.27-22.34.57:717][106]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.08.27-22.34.57:731][106]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2020.08.27-22.34.57:746][106]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2020.08.27-22.34.57:760][106]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.08.27-22.34.57:760][106]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.08.27-22.34.57:760][106]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.08.27-22.34.57:760][106]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.08.27-22.34.57:760][106]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.08.27-22.34.57:760][106]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.08.27-22.34.57:760][106]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.08.27-22.34.57:760][106]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.08.27-22.34.57:765][106]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2020.08.27-22.34.57:771][106]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2020.08.27-22.34.57:777][106]LogWorld: UWorld::CleanupWorld for World_67, bSessionEnded=true, bCleanupResources=true
+[2020.08.27-22.34.57:782][106]LogWorld: UWorld::CleanupWorld for World_68, bSessionEnded=true, bCleanupResources=true
+[2020.08.27-22.34.57:788][106]LogWorld: UWorld::CleanupWorld for World_69, bSessionEnded=true, bCleanupResources=true
+[2020.08.27-22.34.57:794][106]LogWorld: UWorld::CleanupWorld for World_70, bSessionEnded=true, bCleanupResources=true
+[2020.08.27-22.34.57:800][106]LogWorld: UWorld::CleanupWorld for World_71, bSessionEnded=true, bCleanupResources=true
+[2020.08.27-22.34.57:806][106]LogWorld: UWorld::CleanupWorld for World_72, bSessionEnded=true, bCleanupResources=true
+[2020.08.27-22.34.57:812][106]LogWorld: UWorld::CleanupWorld for World_73, bSessionEnded=true, bCleanupResources=true
+[2020.08.27-22.34.57:818][106]LogWorld: UWorld::CleanupWorld for World_74, bSessionEnded=true, bCleanupResources=true
+[2020.08.27-22.34.57:824][106]LogWorld: UWorld::CleanupWorld for World_75, bSessionEnded=true, bCleanupResources=true
+[2020.08.27-22.34.57:830][106]LogWorld: UWorld::CleanupWorld for World_76, bSessionEnded=true, bCleanupResources=true
+[2020.08.27-22.34.57:835][106]LogWorld: UWorld::CleanupWorld for World_77, bSessionEnded=true, bCleanupResources=true
+[2020.08.27-22.34.57:840][106]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.08.27-22.34.57:867][106]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.08.27-22.34.59:917][106]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.08.27-22.35.00:543][106]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.08.27-22.35.00:543][106]LogExit: Editor shut down
+[2020.08.27-22.35.00:567][106]LogExit: Transaction tracking system shut down
+[2020.08.27-22.35.15:026][106]LogExit: Object subsystem successfully closed.
+[2020.08.27-22.35.15:398][106]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.08.27-22.35.35:273][106]LogModuleManager: Shutting down and abandoning module AnimationEditor (615)
+[2020.08.27-22.35.35:273][106]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (613)
+[2020.08.27-22.35.35:322][106]LogModuleManager: Shutting down and abandoning module PinnedCommandList (611)
+[2020.08.27-22.35.35:322][106]LogModuleManager: Shutting down and abandoning module SkeletonEditor (609)
+[2020.08.27-22.35.35:372][106]LogModuleManager: Shutting down and abandoning module SequencerWidgets (607)
+[2020.08.27-22.35.35:413][106]LogModuleManager: Shutting down and abandoning module BlueprintGraph (605)
+[2020.08.27-22.35.35:711][106]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (603)
+[2020.08.27-22.35.35:763][106]LogModuleManager: Shutting down and abandoning module SceneOutliner (601)
+[2020.08.27-22.35.35:763][106]LogModuleManager: Shutting down and abandoning module AddContentDialog (599)
+[2020.08.27-22.35.36:296][106]LogModuleManager: Shutting down and abandoning module WidgetCarousel (598)
+[2020.08.27-22.35.36:296][106]LogModuleManager: Shutting down and abandoning module CollectionManager (595)
+[2020.08.27-22.35.36:341][106]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (593)
+[2020.08.27-22.35.36:341][106]LogModuleManager: Shutting down and abandoning module LauncherServices (591)
+[2020.08.27-22.35.36:341][106]LogModuleManager: Shutting down and abandoning module EditorWidgets (589)
+[2020.08.27-22.35.36:342][106]LogModuleManager: Shutting down and abandoning module StatsViewer (587)
+[2020.08.27-22.35.36:475][106]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (585)
+[2020.08.27-22.35.36:475][106]LogModuleManager: Shutting down and abandoning module FoliageEdit (583)
+[2020.08.27-22.35.36:528][106]LogModuleManager: Shutting down and abandoning module LandscapeEditor (581)
+[2020.08.27-22.35.36:672][106]LogModuleManager: Shutting down and abandoning module MeshPaintMode (579)
+[2020.08.27-22.35.36:674][106]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (577)
+[2020.08.27-22.35.36:678][106]LogModuleManager: Shutting down and abandoning module ActorPickerMode (575)
+[2020.08.27-22.35.36:678][106]LogModuleManager: Shutting down and abandoning module GeometryMode (573)
+[2020.08.27-22.35.36:691][106]LogModuleManager: Shutting down and abandoning module TextureAlignMode (571)
+[2020.08.27-22.35.36:691][106]LogModuleManager: Shutting down and abandoning module BspMode (569)
+[2020.08.27-22.35.36:705][106]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (567)
+[2020.08.27-22.35.36:744][106]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (565)
+[2020.08.27-22.35.36:767][106]LogModuleManager: Shutting down and abandoning module AutomationWorker (563)
+[2020.08.27-22.35.36:799][106]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (561)
+[2020.08.27-22.35.36:839][106]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (559)
+[2020.08.27-22.35.36:991][106]LogModuleManager: Shutting down and abandoning module PlacementMode (558)
+[2020.08.27-22.35.36:993][106]LogModuleManager: Shutting down and abandoning module MaterialEditor (557)
+[2020.08.27-22.35.37:118][106]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (553)
+[2020.08.27-22.35.37:155][106]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (551)
+[2020.08.27-22.35.37:155][106]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (549)
+[2020.08.27-22.35.37:155][106]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (547)
+[2020.08.27-22.35.37:208][106]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (545)
+[2020.08.27-22.35.37:208][106]LogModuleManager: Shutting down and abandoning module WebMMedia (543)
+[2020.08.27-22.35.37:229][106]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (541)
+[2020.08.27-22.35.37:382][106]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (539)
+[2020.08.27-22.35.37:557][106]LogModuleManager: Shutting down and abandoning module SequenceRecorder (538)
+[2020.08.27-22.35.37:557][106]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (535)
+[2020.08.27-22.35.37:557][106]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (533)
+[2020.08.27-22.35.37:557][106]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (531)
+[2020.08.27-22.35.37:558][106]LogModuleManager: Shutting down and abandoning module CharacterAI (529)
+[2020.08.27-22.35.37:558][106]LogModuleManager: Shutting down and abandoning module SmartSnapping (527)
+[2020.08.27-22.35.37:571][106]LogModuleManager: Shutting down and abandoning module SessionServices (525)
+[2020.08.27-22.35.37:571][106]LogModuleManager: Shutting down and abandoning module MeshPaint (523)
+[2020.08.27-22.35.37:609][106]LogModuleManager: Shutting down and abandoning module ViewportSnapping (521)
+[2020.08.27-22.35.37:609][106]LogModuleManager: Shutting down and abandoning module ViewportInteraction (519)
+[2020.08.27-22.35.37:610][106]LogModuleManager: Shutting down and abandoning module ClothPainter (517)
+[2020.08.27-22.35.37:661][106]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (516)
+[2020.08.27-22.35.37:662][106]LogModuleManager: Shutting down and abandoning module LogVisualizer (513)
+[2020.08.27-22.35.37:731][106]LogModuleManager: Shutting down and abandoning module IntroTutorials (511)
+[2020.08.27-22.35.37:817][106]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (510)
+[2020.08.27-22.35.37:834][106]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (507)
+[2020.08.27-22.35.37:834][106]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (505)
+[2020.08.27-22.35.37:834][106]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (503)
+[2020.08.27-22.35.37:834][106]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (501)
+[2020.08.27-22.35.37:834][106]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (500)
+[2020.08.27-22.35.39:248][106]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (497)
+[2020.08.27-22.35.39:248][106]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (495)
+[2020.08.27-22.35.39:248][106]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (493)
+[2020.08.27-22.35.39:248][106]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (491)
+[2020.08.27-22.35.39:248][106]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (489)
+[2020.08.27-22.35.39:276][106]LogModuleManager: Shutting down and abandoning module InputBindingEditor (487)
+[2020.08.27-22.35.39:318][106]LogModuleManager: Shutting down and abandoning module MergeActors (485)
+[2020.08.27-22.35.39:335][106]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (483)
+[2020.08.27-22.35.39:629][106]LogModuleManager: Shutting down and abandoning module LocalizationService (482)
+[2020.08.27-22.35.39:665][106]LogModuleManager: Shutting down and abandoning module HardwareTargeting (479)
+[2020.08.27-22.35.39:665][106]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (477)
+[2020.08.27-22.35.39:690][106]LogModuleManager: Shutting down and abandoning module UndoHistory (475)
+[2020.08.27-22.35.39:746][106]LogModuleManager: Shutting down and abandoning module XmlParser (473)
+[2020.08.27-22.35.39:777][106]LogModuleManager: Shutting down and abandoning module Blutility (471)
+[2020.08.27-22.35.39:777][106]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (469)
+[2020.08.27-22.35.39:778][106]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (468)
+[2020.08.27-22.35.39:836][106]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (465)
+[2020.08.27-22.35.39:911][106]LogModuleManager: Shutting down and abandoning module SettingsEditor (463)
+[2020.08.27-22.35.39:959][106]LogModuleManager: Shutting down and abandoning module ProjectLauncher (461)
+[2020.08.27-22.35.39:959][106]LogModuleManager: Shutting down and abandoning module SessionFrontend (459)
+[2020.08.27-22.35.39:970][106]LogModuleManager: Shutting down and abandoning module ProfilerClient (457)
+[2020.08.27-22.35.39:977][106]LogModuleManager: Shutting down and abandoning module DeviceManager (455)
+[2020.08.27-22.35.39:989][106]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (454)
+[2020.08.27-22.35.40:047][106]LogModuleManager: Shutting down and abandoning module AutomationController (451)
+[2020.08.27-22.35.40:133][106]LogModuleManager: Shutting down and abandoning module AutomationWindow (449)
+[2020.08.27-22.35.40:202][106]LogModuleManager: Shutting down and abandoning module Layers (447)
+[2020.08.27-22.35.40:251][106]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (445)
+[2020.08.27-22.35.40:251][106]LogModuleManager: Shutting down and abandoning module DetailCustomizations (443)
+[2020.08.27-22.35.40:251][106]LogModuleManager: Shutting down and abandoning module PackagesDialog (441)
+[2020.08.27-22.35.40:253][106]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (439)
+[2020.08.27-22.35.40:322][106]LogModuleManager: Shutting down and abandoning module Persona (437)
+[2020.08.27-22.35.40:465][106]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (436)
+[2020.08.27-22.35.40:465][106]LogModuleManager: Shutting down and abandoning module AnimGraph (434)
+[2020.08.27-22.35.40:503][106]LogModuleManager: Shutting down and abandoning module Kismet (431)
+[2020.08.27-22.35.40:973][106]LogModuleManager: Shutting down and abandoning module KismetWidgets (430)
+[2020.08.27-22.35.40:973][106]LogModuleManager: Shutting down and abandoning module GraphEditor (427)
+[2020.08.27-22.35.40:975][106]LogModuleManager: Shutting down and abandoning module StructViewer (425)
+[2020.08.27-22.35.41:007][106]LogModuleManager: Shutting down and abandoning module ClassViewer (423)
+[2020.08.27-22.35.41:028][106]LogModuleManager: Shutting down and abandoning module Toolbox (421)
+[2020.08.27-22.35.41:036][106]LogModuleManager: Shutting down and abandoning module DesktopPlatform (420)
+[2020.08.27-22.35.41:062][106]LogModuleManager: Shutting down and abandoning module ModuleUI (417)
+[2020.08.27-22.35.41:070][106]LogModuleManager: Shutting down and abandoning module MovieSceneTools (415)
+[2020.08.27-22.35.41:098][106]LogModuleManager: Shutting down and abandoning module OutputLog (413)
+[2020.08.27-22.35.41:259][106]LogModuleManager: Shutting down and abandoning module GammaUI (411)
+[2020.08.27-22.35.41:299][106]LogModuleManager: Shutting down and abandoning module Documentation (409)
+[2020.08.27-22.35.41:316][106]LogModuleManager: Shutting down and abandoning module LiveCoding (407)
+[2020.08.27-22.35.41:323][106]LogModuleManager: Shutting down and abandoning module LevelSequence (405)
+[2020.08.27-22.35.41:323][106]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (403)
+[2020.08.27-22.35.41:323][106]LogModuleManager: Shutting down and abandoning module MovieScene (401)
+[2020.08.27-22.35.41:323][106]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (399)
+[2020.08.27-22.35.41:328][106]LogModuleManager: Shutting down and abandoning module LauncherPlatform (397)
+[2020.08.27-22.35.41:328][106]LogModuleManager: Shutting down and abandoning module AnalyticsET (395)
+[2020.08.27-22.35.41:328][106]LogModuleManager: Shutting down and abandoning module PortalServices (393)
+[2020.08.27-22.35.41:328][106]LogModuleManager: Shutting down and abandoning module PortalRpc (391)
+[2020.08.27-22.35.41:328][106]LogModuleManager: Shutting down and abandoning module MessagingRpc (389)
+[2020.08.27-22.35.41:328][106]LogModuleManager: Shutting down and abandoning module AIModule (387)
+[2020.08.27-22.35.41:332][106]LogModuleManager: Shutting down and abandoning module GameplayDebugger (386)
+[2020.08.27-22.35.41:332][106]LogModuleManager: Shutting down and abandoning module AITestSuite (384)
+[2020.08.27-22.35.41:337][106]LogModuleManager: Shutting down and abandoning module NavigationSystem (382)
+[2020.08.27-22.35.41:337][106]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (379)
+[2020.08.27-22.35.41:350][106]LogModuleManager: Shutting down and abandoning module ProfilerService (377)
+[2020.08.27-22.35.41:513][106]LogModuleManager: Shutting down and abandoning module TaskGraph (375)
+[2020.08.27-22.35.41:554][106]LogModuleManager: Shutting down and abandoning module ScreenshotTools (373)
+[2020.08.27-22.35.41:554][106]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (371)
+[2020.08.27-22.35.41:585][106]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (369)
+[2020.08.27-22.35.41:616][106]LogModuleManager: Shutting down and abandoning module EditableMesh (367)
+[2020.08.27-22.35.41:625][106]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (365)
+[2020.08.27-22.35.41:625][106]LogModuleManager: Shutting down and abandoning module MediaCompositing (363)
+[2020.08.27-22.35.41:625][106]LogModuleManager: Shutting down and abandoning module ImgMedia (361)
+[2020.08.27-22.35.41:630][106]LogModuleManager: Shutting down and abandoning module DialoguePluginEditor (359)
+[2020.08.27-22.35.41:630][106]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (357)
+[2020.08.27-22.35.42:374][106]LogModuleManager: Shutting down and abandoning module FMODStudioEditor (355)
+[2020.08.27-22.35.42:861][106]LogModuleManager: Shutting down and abandoning module HTML5Networking (353)
+[2020.08.27-22.35.42:861][106]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (351)
+[2020.08.27-22.35.42:861][106]LogModuleManager: Shutting down and abandoning module GeometryCache (349)
+[2020.08.27-22.35.42:861][106]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (347)
+[2020.08.27-22.35.42:979][106]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (345)
+[2020.08.27-22.35.42:979][106]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (343)
+[2020.08.27-22.35.42:979][106]LogModuleManager: Shutting down and abandoning module AutomationUtils (341)
+[2020.08.27-22.35.43:198][106]LogModuleManager: Shutting down and abandoning module VariantManagerContent (339)
+[2020.08.27-22.35.43:308][106]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (337)
+[2020.08.27-22.35.43:566][106]LogModuleManager: Shutting down and abandoning module PluginBrowser (335)
+[2020.08.27-22.35.44:944][106]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (333)
+[2020.08.27-22.35.45:000][106]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (331)
+[2020.08.27-22.35.45:147][106]LogModuleManager: Shutting down and abandoning module CurveEditorTools (329)
+[2020.08.27-22.35.45:321][106]LogModuleManager: Shutting down and abandoning module CurveEditor (328)
+[2020.08.27-22.35.45:439][106]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (325)
+[2020.08.27-22.35.45:439][106]LogModuleManager: Shutting down and abandoning module CryptoKeys (323)
+[2020.08.27-22.35.45:439][106]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (321)
+[2020.08.27-22.35.45:454][106]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (319)
+[2020.08.27-22.35.45:519][106]LogModuleManager: Shutting down and abandoning module GitSourceControl (317)
+[2020.08.27-22.35.45:570][106]LogModuleManager: Shutting down and abandoning module SourceControl (316)
+[2020.08.27-22.35.45:603][106]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (313)
+[2020.08.27-22.35.45:603][106]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (311)
+[2020.08.27-22.35.45:656][106]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (309)
+[2020.08.27-22.35.45:656][106]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (307)
+[2020.08.27-22.35.45:687][106]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (305)
+[2020.08.27-22.35.45:688][106]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (303)
+[2020.08.27-22.35.45:715][106]LogModuleManager: Shutting down and abandoning module Paper2DEditor (301)
+[2020.08.27-22.35.45:821][106]LogModuleManager: Shutting down and abandoning module SignificanceManager (299)
+[2020.08.27-22.35.45:821][106]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (297)
+[2020.08.27-22.35.45:821][106]LogModuleManager: Shutting down and abandoning module ApexDestructionEditor (295)
+[2020.08.27-22.35.45:891][106]LogModuleManager: Shutting down and abandoning module ApexDestruction (293)
+[2020.08.27-22.35.45:913][106]LogModuleManager: Shutting down and abandoning module ActorSequence (291)
+[2020.08.27-22.35.45:913][106]LogModuleManager: Shutting down and abandoning module UdpMessaging (289)
+[2020.08.27-22.35.46:013][106]LogModuleManager: Shutting down and abandoning module TcpMessaging (287)
+[2020.08.27-22.35.46:150][106]LogModuleManager: Shutting down and abandoning module DialoguePlugin (285)
+[2020.08.27-22.35.46:150][106]LogModuleManager: Shutting down and abandoning module NiagaraEditor (283)
+[2020.08.27-22.35.46:208][106]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (281)
+[2020.08.27-22.35.46:208][106]LogModuleManager: Shutting down and abandoning module Niagara (279)
+[2020.08.27-22.35.46:239][106]LogModuleManager: Shutting down and abandoning module NiagaraCore (277)
+[2020.08.27-22.35.46:239][106]LogModuleManager: Shutting down and abandoning module FMODStudio (275)
+[2020.08.27-22.35.46:506][106]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (273)
+[2020.08.27-22.35.46:506][106]LogModuleManager: Shutting down and abandoning module DataValidation (271)
+[2020.08.27-22.35.46:527][106]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (269)
+[2020.08.27-22.35.46:602][106]LogModuleManager: Shutting down and abandoning module LevelEditor (268)
+[2020.08.27-22.35.46:694][106]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (267)
+[2020.08.27-22.35.46:704][106]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (265)
+[2020.08.27-22.35.46:712][106]LogModuleManager: Shutting down and abandoning module MainFrame (263)
+[2020.08.27-22.35.46:721][106]LogModuleManager: Shutting down and abandoning module HotReload (262)
+[2020.08.27-22.35.46:877][106]LogModuleManager: Shutting down and abandoning module ContentBrowser (258)
+[2020.08.27-22.35.46:937][106]LogModuleManager: Shutting down and abandoning module TreeMap (256)
+[2020.08.27-22.35.47:013][106]LogModuleManager: Shutting down and abandoning module AnimationSharing (253)
+[2020.08.27-22.35.47:013][106]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (251)
+[2020.08.27-22.35.47:013][106]LogModuleManager: Shutting down and abandoning module Paper2D (249)
+[2020.08.27-22.35.47:025][106]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (247)
+[2020.08.27-22.35.47:247][106]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (245)
+[2020.08.27-22.35.47:259][106]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (243)
+[2020.08.27-22.35.47:273][106]LogModuleManager: Shutting down and abandoning module PacketHandler (241)
+[2020.08.27-22.35.47:274][106]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (239)
+[2020.08.27-22.35.47:280][106]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (237)
+[2020.08.27-22.35.47:302][106]LogModuleManager: Shutting down and abandoning module MediaAssets (235)
+[2020.08.27-22.35.47:313][106]LogModuleManager: Shutting down and abandoning module Overlay (233)
+[2020.08.27-22.35.47:313][106]LogModuleManager: Shutting down and abandoning module OverlayEditor (232)
+[2020.08.27-22.35.47:313][106]LogModuleManager: Shutting down and abandoning module VREditor (229)
+[2020.08.27-22.35.47:318][106]LogModuleManager: Shutting down and abandoning module StringTableEditor (227)
+[2020.08.27-22.35.47:322][106]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (225)
+[2020.08.27-22.35.47:322][106]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (223)
+[2020.08.27-22.35.47:350][106]LogModuleManager: Shutting down and abandoning module FunctionalTesting (221)
+[2020.08.27-22.35.47:352][106]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (219)
+[2020.08.27-22.35.47:378][106]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (218)
+[2020.08.27-22.35.47:443][106]LogModuleManager: Shutting down and abandoning module UMG (215)
+[2020.08.27-22.35.47:453][106]LogModuleManager: Shutting down and abandoning module UMGEditor (214)
+[2020.08.27-22.35.47:462][106]LogModuleManager: Shutting down and abandoning module Sequencer (213)
+[2020.08.27-22.35.47:541][106]LogModuleManager: Shutting down and abandoning module MessageLog (210)
+[2020.08.27-22.35.47:541][106]LogModuleManager: Shutting down and abandoning module SlateReflector (205)
+[2020.08.27-22.35.47:563][106]LogModuleManager: Shutting down and abandoning module Slate (203)
+[2020.08.27-22.35.47:563][106]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (201)
+[2020.08.27-22.35.47:563][106]LogModuleManager: Shutting down and abandoning module EditorStyle (199)
+[2020.08.27-22.35.47:638][106]LogModuleManager: Shutting down and abandoning module UnrealEd (197)
+[2020.08.27-22.35.47:638][106]LogModuleManager: Shutting down and abandoning module MRMesh (195)
+[2020.08.27-22.35.47:638][106]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (193)
+[2020.08.27-22.35.47:647][106]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (191)
+[2020.08.27-22.35.47:651][106]LogModuleManager: Shutting down and abandoning module XAudio2 (189)
+[2020.08.27-22.35.47:651][106]LogModuleManager: Shutting down and abandoning module Networking (187)
+[2020.08.27-22.35.47:651][106]LogModuleManager: Shutting down and abandoning module Core (185)
+[2020.08.27-22.35.47:651][106]LogModuleManager: Shutting down and abandoning module KismetCompiler (183)
+[2020.08.27-22.35.47:651][106]LogModuleManager: Shutting down and abandoning module MeshUtilities (181)
+[2020.08.27-22.35.47:665][106]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (180)
+[2020.08.27-22.35.47:678][106]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (179)
+[2020.08.27-22.35.47:679][106]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (178)
+[2020.08.27-22.35.47:695][106]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (176)
+[2020.08.27-22.35.47:722][106]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (174)
+[2020.08.27-22.35.47:738][106]LogModuleManager: Shutting down and abandoning module MaterialBaking (170)
+[2020.08.27-22.35.47:741][106]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (165)
+[2020.08.27-22.35.47:741][106]LogModuleManager: Shutting down and abandoning module DerivedDataCache (163)
+[2020.08.27-22.35.47:757][106]LogDerivedDataCache: Shutdown
+[2020.08.27-22.35.47:757][106]LogModuleManager: Shutting down and abandoning module XGEController (161)
+[2020.08.27-22.35.47:790][106]LogXGEController: Cleaning working directory: C:/Users/Adrian/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.08.27-22.35.47:792][106]LogModuleManager: Shutting down and abandoning module TargetPlatform (159)
+[2020.08.27-22.35.47:797][106]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (158)
+[2020.08.27-22.35.47:803][106]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (156)
+[2020.08.27-22.35.47:809][106]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (154)
+[2020.08.27-22.35.47:820][106]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (152)
+[2020.08.27-22.35.47:828][106]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (150)
+[2020.08.27-22.35.47:834][106]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (148)
+[2020.08.27-22.35.47:844][106]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (146)
+[2020.08.27-22.35.47:848][106]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (144)
+[2020.08.27-22.35.47:848][106]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (142)
+[2020.08.27-22.35.47:878][106]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (140)
+[2020.08.27-22.35.47:878][106]LogModuleManager: Shutting down and abandoning module ImageWrapper (139)
+[2020.08.27-22.35.47:878][106]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (136)
+[2020.08.27-22.35.47:878][106]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (134)
+[2020.08.27-22.35.47:894][106]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (132)
+[2020.08.27-22.35.47:900][106]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (130)
+[2020.08.27-22.35.47:900][106]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (128)
+[2020.08.27-22.35.48:057][106]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (126)
+[2020.08.27-22.35.48:058][106]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (124)
+[2020.08.27-22.35.48:081][106]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (122)
+[2020.08.27-22.35.48:082][106]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (120)
+[2020.08.27-22.35.48:087][106]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (118)
+[2020.08.27-22.35.48:125][106]LogModuleManager: Shutting down and abandoning module Messaging (114)
+[2020.08.27-22.35.48:125][106]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (112)
+[2020.08.27-22.35.48:157][106]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (110)
+[2020.08.27-22.35.48:158][106]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (108)
+[2020.08.27-22.35.48:494][106]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (106)
+[2020.08.27-22.35.48:518][106]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (104)
+[2020.08.27-22.35.48:596][106]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (102)
+[2020.08.27-22.35.48:603][106]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (100)
+[2020.08.27-22.35.48:617][106]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (98)
+[2020.08.27-22.35.48:633][106]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (96)
+[2020.08.27-22.35.48:643][106]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (94)
+[2020.08.27-22.35.48:650][106]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (92)
+[2020.08.27-22.35.48:657][106]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (90)
+[2020.08.27-22.35.48:664][106]LogModuleManager: Shutting down and abandoning module InputCore (87)
+[2020.08.27-22.35.48:664][106]LogModuleManager: Shutting down and abandoning module Settings (85)
+[2020.08.27-22.35.48:670][106]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (83)
+[2020.08.27-22.35.48:839][106]LogModuleManager: Shutting down and abandoning module PhysXCooking (81)
+[2020.08.27-22.35.48:839][106]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (79)
+[2020.08.27-22.35.48:839][106]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (78)
+[2020.08.27-22.35.48:854][106]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (75)
+[2020.08.27-22.35.48:854][106]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (73)
+[2020.08.27-22.35.48:854][106]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (71)
+[2020.08.27-22.35.48:854][106]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (67)
+[2020.08.27-22.35.48:902][106]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2020.08.27-22.35.48:921][106]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2020.08.27-22.35.48:957][106]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2020.08.27-22.35.48:957][106]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.08.27-22.35.48:957][106]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7ED2A464-4F66-7C6A-E151-E6B29F230902%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=ccd468f74bb4201230191aa65e43c548%7C9838cf404cf94690918c4422a709b2b6%7C99dd8298-945b-4a52-82ea-adcce7b9c875&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.08.27-22.35.48:971][106]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2020.08.27-22.35.49:013][106]LogModuleManager: Shutting down and abandoning module WmfMedia (54)
+[2020.08.27-22.35.49:030][106]LogModuleManager: Shutting down and abandoning module Media (53)
+[2020.08.27-22.35.49:032][106]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (50)
+[2020.08.27-22.35.49:032][106]LogModuleManager: Shutting down and abandoning module NiagaraShader (48)
+[2020.08.27-22.35.49:039][106]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2020.08.27-22.35.49:039][106]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2020.08.27-22.35.49:039][106]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2020.08.27-22.35.49:045][106]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.08.27-22.35.49:045][106]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.08.27-22.35.49:060][106]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.08.27-22.35.49:358][106]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.08.27-22.35.49:482][106]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.08.27-22.35.49:516][106]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.08.27-22.35.49:516][106]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.08.27-22.35.49:516][106]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.08.27-22.35.49:575][106]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.08.27-22.35.49:589][106]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.08.27-22.35.49:589][106]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.08.27-22.35.49:595][106]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.08.27-22.35.49:604][106]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.08.27-22.35.49:608][106]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.08.27-22.35.49:608][106]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.08.27-22.35.49:613][106]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.08.27-22.35.49:613][106]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.08.27-22.35.49:618][106]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.08.27-22.35.49:626][106]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.08.27-22.35.49:713][106]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.08.27-22.35.49:751][106]LogD3D11RHI: Shutdown
+[2020.08.27-22.35.49:763][106]LogD3D11RHI: CleanupD3DDevice
+[2020.08.27-22.35.49:998][106]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.08.27-22.35.50:012][106]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.08.27-22.35.50:012][106]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.08.27-22.35.52:257][106]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.08.27-22.35.52:341][106]LogExit: Exiting.
+[2020.08.27-22.35.52:722][106]Log file closed, 08/28/20 00:35:52
