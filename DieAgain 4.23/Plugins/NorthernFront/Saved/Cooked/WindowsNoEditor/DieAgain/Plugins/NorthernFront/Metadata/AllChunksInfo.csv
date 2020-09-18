@@ -141,8 +141,8 @@ ChunkID, Package Name, Class Type, Hard or Soft Chunk, File Size, Other Chunks
 0,/NorthernFront/NF_2042_WB,WidgetBlueprint,Soft From Unassigned Package? Best Guess: /NorthernFront/NF_2042->/NorthernFront/NF_2042_WB,29518,None
 0,/NorthernFront/NF_Bg_Character,Blueprint,Soft From Unassigned Package? Best Guess: /NorthernFront/Cutscene/LevelSequence_InitNF->/NorthernFront/LevelNF_Cutscene->/NorthernFront/NF_Bg_Character,14948,None
 0,/NorthernFront/NF_Bg_Character_Spawner,Blueprint,Soft From Unassigned Package? Best Guess: /NorthernFront/LevelNF_Walk_1->/NorthernFront/NF_Bg_Character_Spawner,9501,None
-0,/NorthernFront/NF_LevelWarning,World,Soft From Unassigned Package? Best Guess: /NorthernFront/NF_LevelWarning,6447,None
+0,/NorthernFront/NF_LevelWarning,World,Soft From Unassigned Package? Best Guess: /NorthernFront/NF_LevelWarning,6345,None
 0,/NorthernFront/NF_Steiner,Blueprint,Soft From Unassigned Package? Best Guess: /NorthernFront/MiniCutscene/LevelNF_Minicutscene->/NorthernFront/NF_Steiner,6684,None
-0,/NorthernFront/NG_WarningWB,WidgetBlueprint,Soft From Unassigned Package? Best Guess: /NorthernFront/NF_LevelWarning->/NorthernFront/NG_WarningWB,16768,None
+0,/NorthernFront/NG_WarningWB,WidgetBlueprint,Soft From Unassigned Package? Best Guess: /NorthernFront/NF_LevelWarning->/NorthernFront/NG_WarningWB,19788,None
 0,/NorthernFront/NPCsMesh/Truman/NF_Truman_Anim,AnimSequence,Soft From Unassigned Package? Best Guess: /NorthernFront/NPCsMesh/Truman/NF_Truman_Anim,7463,None
 0,/NorthernFront/Sound/EnteringLevel_DemonSound,SoundWave,Soft From Unassigned Package? Best Guess: /NorthernFront/Sound/EnteringLevel_DemonSound,13749,None
