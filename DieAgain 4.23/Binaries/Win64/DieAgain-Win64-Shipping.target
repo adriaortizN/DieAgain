@@ -1391,7 +1391,7 @@
 			"Type": "DebugNonUFS"
 		},
 		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/Steamworks/Steamv139/Win64/steam_api64.dll",
+			"Path": "$(EngineDir)/Binaries/ThirdParty/Steamworks/Steamv142/Win64/steam_api64.dll",
 			"Type": "NonUFS"
 		},
 		{
