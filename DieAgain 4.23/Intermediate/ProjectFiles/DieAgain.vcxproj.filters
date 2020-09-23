@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\DieAgain.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{E19BDF6A-4575-4326-A7ED-8E5487C04A9E}</UniqueIdentifier>
+      <UniqueIdentifier>{71DC9583-6926-4259-9B0A-988E55045398}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\DieAgain.Target.cs">
       <Filter>Source</Filter>
@@ -25,7 +25,7 @@
     <None Include="..\..\Plugins a utilizar.txt" />
     <None Include="..\..\unreal_tournament_iii.icns" />
     <Filter Include="Config">
-      <UniqueIdentifier>{B9F1EEFD-7876-4FBD-B4CB-D67EB6E97FB4}</UniqueIdentifier>
+      <UniqueIdentifier>{69C59763-563D-4292-B897-2804C8DC6C46}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -43,7 +43,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Config\Localization">
-      <UniqueIdentifier>{51895F9E-69FD-40D6-8513-58DB33C6FDF7}</UniqueIdentifier>
+      <UniqueIdentifier>{62146D7A-CE89-4A65-ACE2-1C81DCDB64B3}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\Localization\Game_Compile.ini">
       <Filter>Config\Localization</Filter>
@@ -69,8 +69,137 @@
     <None Include="..\..\Config\Localization\Game_ImportDialogueScript.ini">
       <Filter>Config\Localization</Filter>
     </None>
+    <Filter Include="Plugins">
+      <UniqueIdentifier>{D6709D67-E7DD-4352-BE46-7439E8CA25A6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\DialoguePlugin">
+      <UniqueIdentifier>{9BC836B2-ACAF-4EED-855F-8F6277558D65}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\DialoguePlugin\Source">
+      <UniqueIdentifier>{0D4071EE-2A70-40EA-B9F4-F1CB545DF499}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\DialoguePlugin\Source\DialoguePluginEditor">
+      <UniqueIdentifier>{F42C5630-1D1F-4259-B4E9-6196D8A62F0A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\DialoguePlugin\Source\DialoguePluginEditor\DialoguePluginEditor.Build.cs">
+      <Filter>Plugins\DialoguePlugin\Source\DialoguePluginEditor</Filter>
+    </None>
+    <Filter Include="Plugins\DialoguePlugin\Source\DialoguePluginEditor\Private">
+      <UniqueIdentifier>{76CDA2DD-E272-4C2D-9A8C-F55E1AA1D34B}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\DialoguePlugin\Source\DialoguePluginEditor\Private\DialogueAssetTypeActions.cpp">
+      <Filter>Plugins\DialoguePlugin\Source\DialoguePluginEditor\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\DialoguePlugin\Source\DialoguePluginEditor\Private\DialogueAssetTypeActions.h">
+      <Filter>Plugins\DialoguePlugin\Source\DialoguePluginEditor\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\DialoguePlugin\Source\DialoguePluginEditor\Private\DialogueEditor.cpp">
+      <Filter>Plugins\DialoguePlugin\Source\DialoguePluginEditor\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\DialoguePlugin\Source\DialoguePluginEditor\Private\DialogueEditor.h">
+      <Filter>Plugins\DialoguePlugin\Source\DialoguePluginEditor\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\DialoguePlugin\Source\DialoguePluginEditor\Private\DialogueEditorActions.cpp">
+      <Filter>Plugins\DialoguePlugin\Source\DialoguePluginEditor\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\DialoguePlugin\Source\DialoguePluginEditor\Private\DialogueEditorActions.h">
+      <Filter>Plugins\DialoguePlugin\Source\DialoguePluginEditor\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\DialoguePlugin\Source\DialoguePluginEditor\Private\DialogueEditorStyle.cpp">
+      <Filter>Plugins\DialoguePlugin\Source\DialoguePluginEditor\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\DialoguePlugin\Source\DialoguePluginEditor\Private\DialogueEditorStyle.h">
+      <Filter>Plugins\DialoguePlugin\Source\DialoguePluginEditor\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\DialoguePlugin\Source\DialoguePluginEditor\Private\DialogueFactory.cpp">
+      <Filter>Plugins\DialoguePlugin\Source\DialoguePluginEditor\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\DialoguePlugin\Source\DialoguePluginEditor\Private\DialogueFactory.h">
+      <Filter>Plugins\DialoguePlugin\Source\DialoguePluginEditor\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\DialoguePlugin\Source\DialoguePluginEditor\Private\DialogueNodeWidget.cpp">
+      <Filter>Plugins\DialoguePlugin\Source\DialoguePluginEditor\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\DialoguePlugin\Source\DialoguePluginEditor\Private\DialogueNodeWidget.h">
+      <Filter>Plugins\DialoguePlugin\Source\DialoguePluginEditor\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\DialoguePlugin\Source\DialoguePluginEditor\Private\DialoguePluginEditor.cpp">
+      <Filter>Plugins\DialoguePlugin\Source\DialoguePluginEditor\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\DialoguePlugin\Source\DialoguePluginEditor\Private\DialoguePluginEditor.h">
+      <Filter>Plugins\DialoguePlugin\Source\DialoguePluginEditor\Private</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\DialoguePlugin\Source\DialoguePluginEditor\Private\DialoguePluginEditorPrivatePCH.h">
+      <Filter>Plugins\DialoguePlugin\Source\DialoguePluginEditor\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\DialoguePlugin\Source\DialoguePluginEditor\Private\DialoguePluginEditorSettingsDetails.cpp">
+      <Filter>Plugins\DialoguePlugin\Source\DialoguePluginEditor\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\DialoguePlugin\Source\DialoguePluginEditor\Private\DialoguePluginEditorSettingsDetails.h">
+      <Filter>Plugins\DialoguePlugin\Source\DialoguePluginEditor\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\DialoguePlugin\Source\DialoguePluginEditor\Private\DialogueViewportWidget.cpp">
+      <Filter>Plugins\DialoguePlugin\Source\DialoguePluginEditor\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\DialoguePlugin\Source\DialoguePluginEditor\Private\DialogueViewportWidget.h">
+      <Filter>Plugins\DialoguePlugin\Source\DialoguePluginEditor\Private</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\DialoguePlugin\Source\DialoguePluginEditor\Public">
+      <UniqueIdentifier>{21A68AF8-1CF8-4A74-8A37-01A7690412F6}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\DialoguePlugin\Source\DialoguePluginEditor\Public\IDialoguePluginEditorModule.h">
+      <Filter>Plugins\DialoguePlugin\Source\DialoguePluginEditor\Public</Filter>
+    </ClInclude>
+    <None Include="..\..\Plugins\DialoguePlugin\DialoguePlugin.uplugin">
+      <Filter>Plugins\DialoguePlugin</Filter>
+    </None>
+    <Filter Include="Plugins\NorthernFront">
+      <UniqueIdentifier>{B8084737-BE4B-437B-86E1-6F1FBC57ECEE}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\NorthernFront\NorthernFront.uplugin">
+      <Filter>Plugins\NorthernFront</Filter>
+    </None>
+    <Filter Include="Plugins\NorthernFront\Resources">
+      <UniqueIdentifier>{0634C5A6-68AA-4339-A957-9637617E0F11}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\NorthernFront\Resources\Icon128.png">
+      <Filter>Plugins\NorthernFront\Resources</Filter>
+    </None>
+    <Filter Include="Plugins\DialoguePlugin\Source\DialoguePlugin">
+      <UniqueIdentifier>{30F93498-F725-4DDF-B5A1-C55AC1E6784F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\DialoguePlugin\Source\DialoguePlugin\DialoguePlugin.Build.cs">
+      <Filter>Plugins\DialoguePlugin\Source\DialoguePlugin</Filter>
+    </None>
+    <Filter Include="Plugins\DialoguePlugin\Source\DialoguePlugin\Private">
+      <UniqueIdentifier>{1EDA5037-527B-40EB-991E-32B15C523922}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\DialoguePlugin\Source\DialoguePlugin\Private\Dialogue.cpp">
+      <Filter>Plugins\DialoguePlugin\Source\DialoguePlugin\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\DialoguePlugin\Source\DialoguePlugin\Private\DialoguePluginModule.cpp">
+      <Filter>Plugins\DialoguePlugin\Source\DialoguePlugin\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\DialoguePlugin\Source\DialoguePlugin\Private\DialoguePluginPrivatePCH.h">
+      <Filter>Plugins\DialoguePlugin\Source\DialoguePlugin\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\DialoguePlugin\Source\DialoguePlugin\Private\DialogueUserWidget.cpp">
+      <Filter>Plugins\DialoguePlugin\Source\DialoguePlugin\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\DialoguePlugin\Source\DialoguePlugin\Public">
+      <UniqueIdentifier>{27AC8D2A-84CC-4BCB-B166-839C43D17A0F}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\DialoguePlugin\Source\DialoguePlugin\Public\Dialogue.h">
+      <Filter>Plugins\DialoguePlugin\Source\DialoguePlugin\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\DialoguePlugin\Source\DialoguePlugin\Public\DialoguePluginModule.h">
+      <Filter>Plugins\DialoguePlugin\Source\DialoguePlugin\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\DialoguePlugin\Source\DialoguePlugin\Public\DialogueUserWidget.h">
+      <Filter>Plugins\DialoguePlugin\Source\DialoguePlugin\Public</Filter>
+    </ClInclude>
     <Filter Include="Source\DieAgain">
-      <UniqueIdentifier>{1F04AD6F-16A1-4272-BCAC-F4C20B04379F}</UniqueIdentifier>
+      <UniqueIdentifier>{90C61DCC-0889-4707-88ED-000D9F718718}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\DieAgain\DieAgain.Build.cs">
       <Filter>Source\DieAgain</Filter>
@@ -88,49 +217,40 @@
       <Filter>Source\DieAgain</Filter>
     </ClInclude>
     <Filter Include="Source\DieAgain\Private">
-      <UniqueIdentifier>{C4AAB33E-5573-4CC8-ADA7-447E51938235}</UniqueIdentifier>
+      <UniqueIdentifier>{A16B01DA-136C-48DA-84F3-68F8BF433276}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\DieAgain\Private\DLCLoader.cpp">
+      <Filter>Source\DieAgain\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\DieAgain\Private\MyClass.cpp">
       <Filter>Source\DieAgain\Private</Filter>
     </ClCompile>
     <ClCompile Include="..\..\Source\DieAgain\Private\SteamCustomNodes.cpp">
       <Filter>Source\DieAgain\Private</Filter>
     </ClCompile>
     <Filter Include="Source\DieAgain\Private\TestActor">
-      <UniqueIdentifier>{83C5DC82-6DD7-4144-8534-28FC62EEADE1}</UniqueIdentifier>
+      <UniqueIdentifier>{8471DD67-487B-4026-90AE-54EB4E05DE35}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\DieAgain\Private\TestActor\TestActor.cpp">
       <Filter>Source\DieAgain\Private\TestActor</Filter>
     </ClCompile>
     <Filter Include="Source\DieAgain\Public">
-      <UniqueIdentifier>{B2C89894-AF8E-42FA-A20C-D5488CF37CEF}</UniqueIdentifier>
+      <UniqueIdentifier>{62C4AD2E-82F2-4BBC-8658-0D31FB5C00D8}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Source\DieAgain\Public\DLCLoader.h">
+      <Filter>Source\DieAgain\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\DieAgain\Public\MyClass.h">
       <Filter>Source\DieAgain\Public</Filter>
     </ClInclude>
     <ClInclude Include="..\..\Source\DieAgain\Public\SteamCustomNodes.h">
       <Filter>Source\DieAgain\Public</Filter>
     </ClInclude>
     <Filter Include="Source\DieAgain\Public\TestActor">
-      <UniqueIdentifier>{7D317977-0080-4451-9DF7-57302F039425}</UniqueIdentifier>
+      <UniqueIdentifier>{311762CA-8346-4FE4-9963-3EB3D685D72A}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Source\DieAgain\Public\TestActor\TestActor.h">
       <Filter>Source\DieAgain\Public\TestActor</Filter>
     </ClInclude>
-    <Filter Include="Plugins">
-      <UniqueIdentifier>{4DBE227F-B3EC-466D-AA01-45206CC45951}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Plugins\NorthernFront">
-      <UniqueIdentifier>{03CBD702-7D56-499E-9093-445169119E01}</UniqueIdentifier>
-    </Filter>
-    <None Include="..\..\Plugins\NorthernFront\NorthernFront.uplugin">
-      <Filter>Plugins\NorthernFront</Filter>
-    </None>
-    <Filter Include="Plugins\NorthernFront\Resources">
-      <UniqueIdentifier>{8874839E-2909-46EA-9AE9-6286B5F9F1AF}</UniqueIdentifier>
-    </Filter>
-    <None Include="..\..\Plugins\NorthernFront\Resources\Icon128.png">
-      <Filter>Plugins\NorthernFront\Resources</Filter>
-    </None>
   </ItemGroup>
 </Project>

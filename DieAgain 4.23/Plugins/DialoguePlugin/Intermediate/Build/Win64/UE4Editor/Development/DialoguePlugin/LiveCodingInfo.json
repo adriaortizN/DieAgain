@@ -1,0 +1,15 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.DialoguePlugin.cpp.obj": [
+			"Dialogue.cpp.obj",
+			"DialoguePluginModule.cpp.obj",
+			"DialogueUserWidget.cpp.obj"
+		],
+		"Module.DialoguePlugin.gen.cpp.obj": [
+			"Dialogue.gen.cpp.obj",
+			"DialoguePlugin.init.gen.cpp.obj",
+			"DialogueUserWidget.gen.cpp.obj"
+		]
+	}
+}
