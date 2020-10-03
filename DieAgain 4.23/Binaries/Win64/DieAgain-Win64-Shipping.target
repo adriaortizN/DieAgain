@@ -35,7 +35,7 @@
 			"Type": "UFS"
 		},
 		{
-			"Path": "$(EngineDir)/Plugins/Marketplace/DialoguePlugin/DialoguePlugin.uplugin",
+			"Path": "$(ProjectDir)/Plugins/DialoguePlugin/DialoguePlugin.uplugin",
 			"Type": "UFS"
 		},
 		{
@@ -144,6 +144,22 @@
 		},
 		{
 			"Path": "$(EngineDir)/Plugins/Media/WmfMedia/WmfMedia.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/MegascansPlugin/MegascansPlugin.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Experimental/PythonScriptPlugin/PythonScriptPlugin.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Editor/EditorScriptingUtilities/EditorScriptingUtilities.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin",
 			"Type": "UFS"
 		},
 		{
