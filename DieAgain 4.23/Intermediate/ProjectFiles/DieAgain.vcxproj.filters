@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\DieAgain.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{71DC9583-6926-4259-9B0A-988E55045398}</UniqueIdentifier>
+      <UniqueIdentifier>{3754A53F-5720-4AA3-BBCB-F0A9E2E8A418}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\DieAgain.Target.cs">
       <Filter>Source</Filter>
@@ -25,7 +25,7 @@
     <None Include="..\..\Plugins a utilizar.txt" />
     <None Include="..\..\unreal_tournament_iii.icns" />
     <Filter Include="Config">
-      <UniqueIdentifier>{69C59763-563D-4292-B897-2804C8DC6C46}</UniqueIdentifier>
+      <UniqueIdentifier>{A427FB4F-EF3B-45EC-B39F-37EB434F73B2}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -43,7 +43,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Config\Localization">
-      <UniqueIdentifier>{62146D7A-CE89-4A65-ACE2-1C81DCDB64B3}</UniqueIdentifier>
+      <UniqueIdentifier>{1B465DF6-7806-4A9E-91F9-5C1F351024A3}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\Localization\Game_Compile.ini">
       <Filter>Config\Localization</Filter>
@@ -70,22 +70,22 @@
       <Filter>Config\Localization</Filter>
     </None>
     <Filter Include="Plugins">
-      <UniqueIdentifier>{D6709D67-E7DD-4352-BE46-7439E8CA25A6}</UniqueIdentifier>
+      <UniqueIdentifier>{2FF47C04-DB9E-46AB-8725-494D9235823C}</UniqueIdentifier>
     </Filter>
     <Filter Include="Plugins\DialoguePlugin">
-      <UniqueIdentifier>{9BC836B2-ACAF-4EED-855F-8F6277558D65}</UniqueIdentifier>
+      <UniqueIdentifier>{6F89E7DB-D794-4272-A965-DCCC740F8BEB}</UniqueIdentifier>
     </Filter>
     <Filter Include="Plugins\DialoguePlugin\Source">
-      <UniqueIdentifier>{0D4071EE-2A70-40EA-B9F4-F1CB545DF499}</UniqueIdentifier>
+      <UniqueIdentifier>{13F5F1C6-D02D-4745-9832-087B92AF73B8}</UniqueIdentifier>
     </Filter>
     <Filter Include="Plugins\DialoguePlugin\Source\DialoguePluginEditor">
-      <UniqueIdentifier>{F42C5630-1D1F-4259-B4E9-6196D8A62F0A}</UniqueIdentifier>
+      <UniqueIdentifier>{4E82F139-43CA-4748-BB6C-2DC26C30E4E0}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Plugins\DialoguePlugin\Source\DialoguePluginEditor\DialoguePluginEditor.Build.cs">
       <Filter>Plugins\DialoguePlugin\Source\DialoguePluginEditor</Filter>
     </None>
     <Filter Include="Plugins\DialoguePlugin\Source\DialoguePluginEditor\Private">
-      <UniqueIdentifier>{76CDA2DD-E272-4C2D-9A8C-F55E1AA1D34B}</UniqueIdentifier>
+      <UniqueIdentifier>{21CBE0DB-F619-4DD4-A2A2-8E2FB2A4C370}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Plugins\DialoguePlugin\Source\DialoguePluginEditor\Private\DialogueAssetTypeActions.cpp">
       <Filter>Plugins\DialoguePlugin\Source\DialoguePluginEditor\Private</Filter>
@@ -145,7 +145,7 @@
       <Filter>Plugins\DialoguePlugin\Source\DialoguePluginEditor\Private</Filter>
     </ClInclude>
     <Filter Include="Plugins\DialoguePlugin\Source\DialoguePluginEditor\Public">
-      <UniqueIdentifier>{21A68AF8-1CF8-4A74-8A37-01A7690412F6}</UniqueIdentifier>
+      <UniqueIdentifier>{A72FEADF-E048-4FA6-813B-BDBC09CA70D5}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Plugins\DialoguePlugin\Source\DialoguePluginEditor\Public\IDialoguePluginEditorModule.h">
       <Filter>Plugins\DialoguePlugin\Source\DialoguePluginEditor\Public</Filter>
@@ -154,25 +154,25 @@
       <Filter>Plugins\DialoguePlugin</Filter>
     </None>
     <Filter Include="Plugins\NorthernFront">
-      <UniqueIdentifier>{B8084737-BE4B-437B-86E1-6F1FBC57ECEE}</UniqueIdentifier>
+      <UniqueIdentifier>{265A0ED2-2129-4DAA-8C05-D3AB1F5225DC}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Plugins\NorthernFront\NorthernFront.uplugin">
       <Filter>Plugins\NorthernFront</Filter>
     </None>
     <Filter Include="Plugins\NorthernFront\Resources">
-      <UniqueIdentifier>{0634C5A6-68AA-4339-A957-9637617E0F11}</UniqueIdentifier>
+      <UniqueIdentifier>{674294E7-0649-4334-8943-F1E1DAF3E4B5}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Plugins\NorthernFront\Resources\Icon128.png">
       <Filter>Plugins\NorthernFront\Resources</Filter>
     </None>
     <Filter Include="Plugins\DialoguePlugin\Source\DialoguePlugin">
-      <UniqueIdentifier>{30F93498-F725-4DDF-B5A1-C55AC1E6784F}</UniqueIdentifier>
+      <UniqueIdentifier>{3C9D34B1-5D82-417F-A17B-1291BB8253EF}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Plugins\DialoguePlugin\Source\DialoguePlugin\DialoguePlugin.Build.cs">
       <Filter>Plugins\DialoguePlugin\Source\DialoguePlugin</Filter>
     </None>
     <Filter Include="Plugins\DialoguePlugin\Source\DialoguePlugin\Private">
-      <UniqueIdentifier>{1EDA5037-527B-40EB-991E-32B15C523922}</UniqueIdentifier>
+      <UniqueIdentifier>{AF732E75-A01C-413B-A1F9-3DDDE23F9409}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Plugins\DialoguePlugin\Source\DialoguePlugin\Private\Dialogue.cpp">
       <Filter>Plugins\DialoguePlugin\Source\DialoguePlugin\Private</Filter>
@@ -187,7 +187,7 @@
       <Filter>Plugins\DialoguePlugin\Source\DialoguePlugin\Private</Filter>
     </ClCompile>
     <Filter Include="Plugins\DialoguePlugin\Source\DialoguePlugin\Public">
-      <UniqueIdentifier>{27AC8D2A-84CC-4BCB-B166-839C43D17A0F}</UniqueIdentifier>
+      <UniqueIdentifier>{7FA42B2B-4C81-41D3-986C-0F33576DB3CB}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Plugins\DialoguePlugin\Source\DialoguePlugin\Public\Dialogue.h">
       <Filter>Plugins\DialoguePlugin\Source\DialoguePlugin\Public</Filter>
@@ -199,7 +199,7 @@
       <Filter>Plugins\DialoguePlugin\Source\DialoguePlugin\Public</Filter>
     </ClInclude>
     <Filter Include="Source\DieAgain">
-      <UniqueIdentifier>{90C61DCC-0889-4707-88ED-000D9F718718}</UniqueIdentifier>
+      <UniqueIdentifier>{D07DE704-C9EC-4AB8-8506-10314C0C02E1}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\DieAgain\DieAgain.Build.cs">
       <Filter>Source\DieAgain</Filter>
@@ -217,9 +217,12 @@
       <Filter>Source\DieAgain</Filter>
     </ClInclude>
     <Filter Include="Source\DieAgain\Private">
-      <UniqueIdentifier>{A16B01DA-136C-48DA-84F3-68F8BF433276}</UniqueIdentifier>
+      <UniqueIdentifier>{0EA61A68-0793-40AE-9B98-3F3B47BBCE18}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\DieAgain\Private\DLCLoader.cpp">
+      <Filter>Source\DieAgain\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\DieAgain\Private\MeshMergeFunctionLibrary.cpp">
       <Filter>Source\DieAgain\Private</Filter>
     </ClCompile>
     <ClCompile Include="..\..\Source\DieAgain\Private\MyClass.cpp">
@@ -229,15 +232,18 @@
       <Filter>Source\DieAgain\Private</Filter>
     </ClCompile>
     <Filter Include="Source\DieAgain\Private\TestActor">
-      <UniqueIdentifier>{8471DD67-487B-4026-90AE-54EB4E05DE35}</UniqueIdentifier>
+      <UniqueIdentifier>{EA0B7AF3-3B55-480E-B554-C7E945E57446}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\DieAgain\Private\TestActor\TestActor.cpp">
       <Filter>Source\DieAgain\Private\TestActor</Filter>
     </ClCompile>
     <Filter Include="Source\DieAgain\Public">
-      <UniqueIdentifier>{62C4AD2E-82F2-4BBC-8658-0D31FB5C00D8}</UniqueIdentifier>
+      <UniqueIdentifier>{CE613B9C-D5D1-4FAE-AB27-721C98274041}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Source\DieAgain\Public\DLCLoader.h">
+      <Filter>Source\DieAgain\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\DieAgain\Public\MeshMergeFunctionLibrary.h">
       <Filter>Source\DieAgain\Public</Filter>
     </ClInclude>
     <ClInclude Include="..\..\Source\DieAgain\Public\MyClass.h">
@@ -247,7 +253,7 @@
       <Filter>Source\DieAgain\Public</Filter>
     </ClInclude>
     <Filter Include="Source\DieAgain\Public\TestActor">
-      <UniqueIdentifier>{311762CA-8346-4FE4-9963-3EB3D685D72A}</UniqueIdentifier>
+      <UniqueIdentifier>{BD8F9CE6-ABBE-46B1-93E3-33BE9F9CEB66}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Source\DieAgain\Public\TestActor\TestActor.h">
       <Filter>Source\DieAgain\Public\TestActor</Filter>

@@ -530,10 +530,12 @@
     <ClCompile Include="..\..\Source\DieAgain\NorthernFront_ActivateDLC.cpp"/>
     <ClInclude Include="..\..\Source\DieAgain\NorthernFront_ActivateDLC.h"/>
     <ClCompile Include="..\..\Source\DieAgain\Private\DLCLoader.cpp"/>
+    <ClCompile Include="..\..\Source\DieAgain\Private\MeshMergeFunctionLibrary.cpp"/>
     <ClCompile Include="..\..\Source\DieAgain\Private\MyClass.cpp"/>
     <ClCompile Include="..\..\Source\DieAgain\Private\SteamCustomNodes.cpp"/>
     <ClCompile Include="..\..\Source\DieAgain\Private\TestActor\TestActor.cpp"/>
     <ClInclude Include="..\..\Source\DieAgain\Public\DLCLoader.h"/>
+    <ClInclude Include="..\..\Source\DieAgain\Public\MeshMergeFunctionLibrary.h"/>
     <ClInclude Include="..\..\Source\DieAgain\Public\MyClass.h"/>
     <ClInclude Include="..\..\Source\DieAgain\Public\SteamCustomNodes.h"/>
     <ClInclude Include="..\..\Source\DieAgain\Public\TestActor\TestActor.h"/>
