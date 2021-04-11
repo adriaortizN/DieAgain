@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{6a8e8959-61e4-4d70-9851-022aa79a4522}">
+		<property name="assetPath">
+			<value>RifleShoot2.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.20433333333333334</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{02c4dbd5-9d63-4585-86d4-2d7dda4c31e3}</destination>
+		</relationship>
+	</object>
+</objects>

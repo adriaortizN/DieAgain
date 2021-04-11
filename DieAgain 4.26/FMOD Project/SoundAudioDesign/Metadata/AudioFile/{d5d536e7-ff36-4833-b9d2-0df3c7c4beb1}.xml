@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{d5d536e7-ff36-4833-b9d2-0df3c7c4beb1}">
+		<property name="assetPath">
+			<value>C_Fuel_Injection_Loop.WAV</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>106.66666666666667</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{02c4dbd5-9d63-4585-86d4-2d7dda4c31e3}</destination>
+		</relationship>
+	</object>
+</objects>
