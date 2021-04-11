@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-DialoguePluginEditor.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26\Intermediate\Build\Win64\DieAgainEditor\Development\UnrealEd\SharedPCH.UnrealEd.h.obj"
+"E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26\Plugins\DialoguePlugin\Intermediate\Build\Win64\UE4Editor\Development\DialoguePluginEditor\Module.DialoguePluginEditor.cpp.obj"
+"E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26\Plugins\DialoguePlugin\Intermediate\Build\Win64\UE4Editor\Development\DialoguePluginEditor\Module.DialoguePluginEditor.gen.cpp.obj"
+"E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26\Plugins\DialoguePlugin\Intermediate\Build\Win64\UE4Editor\Development\DialoguePluginEditor\Default.rc2.res"
+/OUT:"E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26\Plugins\DialoguePlugin\Intermediate\Build\Win64\UE4Editor\Development\DialoguePluginEditor\UE4Editor-DialoguePluginEditor.lib"
+/INCLUDE:IMPLEMENT_MODULE_DialoguePluginEditor

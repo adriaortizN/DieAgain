@@ -1,0 +1,23 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-DieAgain.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26\Intermediate\Build\Win64\DieAgainEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26\Intermediate\Build\Win64\UE4Editor\Development\DieAgain\TestActor.cpp.obj"
+"E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26\Intermediate\Build\Win64\UE4Editor\Development\DieAgain\DLCLoader.cpp.obj"
+"E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26\Intermediate\Build\Win64\UE4Editor\Development\DieAgain\MeshMergeFunctionLibrary.cpp.obj"
+"E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26\Intermediate\Build\Win64\UE4Editor\Development\DieAgain\MyClass.cpp.obj"
+"E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26\Intermediate\Build\Win64\UE4Editor\Development\DieAgain\SteamCustomNodes.cpp.obj"
+"E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26\Intermediate\Build\Win64\UE4Editor\Development\DieAgain\DieAgain.cpp.obj"
+"E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26\Intermediate\Build\Win64\UE4Editor\Development\DieAgain\NorthernFront_ActivateDLC.cpp.obj"
+"E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26\Intermediate\Build\Win64\UE4Editor\Development\DieAgain\DieAgain.init.gen.cpp.obj"
+"E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26\Intermediate\Build\Win64\UE4Editor\Development\DieAgain\DLCLoader.gen.cpp.obj"
+"E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26\Intermediate\Build\Win64\UE4Editor\Development\DieAgain\NorthernFront_ActivateDLC.gen.cpp.obj"
+"E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26\Intermediate\Build\Win64\UE4Editor\Development\DieAgain\TestActor.gen.cpp.obj"
+"E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26\Intermediate\Build\Win64\UE4Editor\Development\DieAgain\Default.rc2.res"
+/OUT:"E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26\Intermediate\Build\Win64\UE4Editor\Development\DieAgain\UE4Editor-DieAgain.lib"
+/INCLUDE:IMPLEMENT_MODULE_DieAgain
