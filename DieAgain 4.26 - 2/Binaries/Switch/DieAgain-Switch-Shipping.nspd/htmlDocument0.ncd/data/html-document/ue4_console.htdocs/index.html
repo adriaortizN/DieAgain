@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<script>
+	function sendCommand()
+	{
+		window.open("http://localhost/?command=" + encodeURIComponent(document.getElementById("consoleCommand").value), "_self")
+	}
+</script>
+
+<body>
+<h2>Enter Console Command</h2>
+<div>
+<input type="text" id="consoleCommand"/>
+<input type="button" id="sendCommand" value="OK" onclick="sendCommand()"/>
+</div>
+</body>
+</html>
