@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\..\..\..\..\UE4.Source\UnrealEngine-4.26\Engine\Platforms\Switch\Source\Programs\SwitchInputSender\SwitchInputSender.Target.cs" />
+    <None Include="..\..\..\..\..\..\UE4.Source\UnrealEngine-4.26\Engine\Platforms\Switch\Source\Programs\SwitchInputSender\SwitchInputSender.Build.cs" />
+    <Filter Include="Private">
+      <UniqueIdentifier>{DED15CC2-C0F6-430A-8FD8-CACB4DC3FB3F}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\..\..\..\..\UE4.Source\UnrealEngine-4.26\Engine\Platforms\Switch\Source\Programs\SwitchInputSender\Private\SwitchInputSender.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\UE4.Source\UnrealEngine-4.26\Engine\Platforms\Switch\Source\Programs\SwitchInputSender\Private\SwitchInputSender.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <Filter Include="Private\Commands">
+      <UniqueIdentifier>{010CB037-7CDF-42AB-A8BF-E1C59C223748}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\..\..\..\..\UE4.Source\UnrealEngine-4.26\Engine\Platforms\Switch\Source\Programs\SwitchInputSender\Private\Commands\UserInterfaceCommand.cpp">
+      <Filter>Private\Commands</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\UE4.Source\UnrealEngine-4.26\Engine\Platforms\Switch\Source\Programs\SwitchInputSender\Private\Commands\UserInterfaceCommand.h">
+      <Filter>Private\Commands</Filter>
+    </ClInclude>
+    <Filter Include="Private\Widgets">
+      <UniqueIdentifier>{A1894A12-B5B4-4D4E-BEB5-574E2BE299E0}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\..\..\..\..\UE4.Source\UnrealEngine-4.26\Engine\Platforms\Switch\Source\Programs\SwitchInputSender\Private\Widgets\SSwitchInputSender.cpp">
+      <Filter>Private\Widgets</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\UE4.Source\UnrealEngine-4.26\Engine\Platforms\Switch\Source\Programs\SwitchInputSender\Private\Widgets\SSwitchInputSender.h">
+      <Filter>Private\Widgets</Filter>
+    </ClInclude>
+    <Filter Include="Private\Windows">
+      <UniqueIdentifier>{640BDB99-7DEE-4305-B30B-B7D73F512AA5}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\..\..\..\..\UE4.Source\UnrealEngine-4.26\Engine\Platforms\Switch\Source\Programs\SwitchInputSender\Private\Windows\WindowsSwitchInputSender.cpp">
+      <Filter>Private\Windows</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

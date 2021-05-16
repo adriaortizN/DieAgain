@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "DieAgain",
+			"Path": "E:\\DieAgainProjects\\DieAgain GitHub\\DieAgain\\DieAgain 4.26 - 2\\Source\\DieAgain.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "DieAgainEditor",
+			"Path": "E:\\DieAgainProjects\\DieAgain GitHub\\DieAgain\\DieAgain 4.26 - 2\\Source\\DieAgainEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

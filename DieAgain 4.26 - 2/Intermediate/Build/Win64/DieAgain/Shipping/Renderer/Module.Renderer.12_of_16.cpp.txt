@@ -1,0 +1,193 @@
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Shipping\Renderer\Definitions.Renderer.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Renderer/Private/SceneHitProxyRendering.cpp
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\private\SceneHitProxyRendering.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Renderer\Public\MeshPassProcessor.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\public\MeshMaterialShader.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\public\MaterialShader.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\public\SceneRenderTargetParameters.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\RenderCore\Public\RenderGraph.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\rendercore\public\RenderGraphResources.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\rendercore\public\RenderGraphParameter.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\rendercore\public\RenderGraphTextureSubresource.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\rendercore\public\RenderGraphResources.inl
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\rendercore\public\RenderGraphPass.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\rendercore\public\RenderGraphEvent.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\rendercore\public\RenderGraphEvent.inl
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\rendercore\public\RenderGraphParameters.inl
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\rendercore\public\RenderGraphBuilder.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\rendercore\public\RenderGraphValidation.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\rendercore\public\RenderGraphBuilder.inl
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\rendercore\public\RenderGraphUtils.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\rendercore\public\ShaderParameterStruct.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\public\MeshDrawShaderBindings.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Experimental/Containers/RobinHoodHashTable.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\private\PostProcess/SceneRenderTargets.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\private\postprocess\../TranslucencyPass.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\private\postprocess\../VT/VirtualTextureFeedback.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Renderer\Public\VT/VirtualTextureFeedbackBuffer.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\private\ShaderBaseClasses.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\private\SceneRendering.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\private\ScenePrivateBase.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Renderer\Public\PrimitiveSceneInfo.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\private\DistortionRendering.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\private\HeightfieldLighting.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\private\LightShaftRendering.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\private\SkyAtmosphereRendering.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\private\MeshDrawCommands.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Renderer\Public\GpuDebugRendering.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\private\PostProcess/PostProcessAmbientOcclusionMobile.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\private\DeferredShadingRenderer.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\private\LightSceneInfo.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\private\DepthRendering.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\private\TranslucentRendering.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Renderer\Public\VolumeRendering.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\RenderCore\Public\ShaderCompilerCore.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\ScreenRendering.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\private\ScreenPass.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\RenderCore\Public\CommonRenderResources.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\private\PostProcess/SceneFilterRendering.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\private\RenderTargetTemp.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\private\ScreenPass.inl
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\private\ScreenSpaceDenoise.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\private\ScenePrivate.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\RenderCore\Public\RenderTargetPool.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\private\SceneCore.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Containers/AllocatorFixedSizeFreeList.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\private\ShadowRendering.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\private\SystemTextures.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\private\LightRendering.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\private\LightPropagationVolume.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\private\HairStrands/HairStrandsRendering.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\private\hairstrands\HairStrandsUtils.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Renderer\Public\HairStrandsInterface.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\private\hairstrands\HairStrandsCluster.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\private\hairstrands\HairStrandsVoxelization.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\private\hairstrands\HairStrandsDeepShadow.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\private\hairstrands\HairStrandsClusters.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\private\hairstrands\HairStrandsLUT.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\private\hairstrands\HairStrandsVisibility.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\private\hairstrands\HairStrandsTransmittance.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\private\hairstrands\HairStrandsEnvironment.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\private\hairstrands\HairStrandsComposition.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\private\hairstrands\HairStrandsDebug.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\private\LightMapRendering.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\LightMap.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/LightMapTexture2D.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\LightMapTexture2D.generated.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\private\VelocityRendering.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\private\BasePassRendering.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\private\FogRendering.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\private\VolumetricFog.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\private\PlanarReflectionRendering.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\private\ReflectionEnvironment.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\private\MobileBasePassRendering.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\private\SceneSoftwareOcclusion.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\RenderCore\Public\VisualizeTexture.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\private\LightMapDensityRendering.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\private\VolumetricFogShared.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\private\DebugViewModeRendering.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\PrecomputedVolumetricLightmap.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Math/PackedVector.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\private\RayTracing/RaytracingOptions.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\private\RayTracing/RayTracingIESLightProfiles.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\private\Halton.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\private\HaltonUtilities.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\private\VolumetricRenderTargetViewStateData.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\private\BasePassRendering.inl
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\private\DynamicPrimitiveDrawing.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\private\DynamicPrimitiveDrawing.inl
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\RenderCore\Public\ClearQuad.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Renderer\Public\MeshPassProcessor.inl
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\private\GPUScene.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\FXSystem.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\GPUSortManager.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\private\VT/VirtualTextureSystem.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\private\VT/VirtualTextureProducer.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\private\vt\VirtualTextureShared.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\private\vt\VirtualTexturePhysicalSpace.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\private\vt\TexturePagePool.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Containers/BinaryHeap.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\private\VT/TexturePageLocks.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Renderer/Private/SceneOcclusion.cpp
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\private\SceneOcclusion.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\private\PostProcess/PostProcessing.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\private\PostProcess/RenderingCompositionGraph.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Renderer\Public\PostProcessParameters.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\PlanarReflectionSceneProxy.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Renderer/Private/SceneRendering.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\CanvasItem.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/Font.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/FontImportOptions.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\FontImportOptions.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Fonts/FontProviderInterface.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\SlateCore\FontProviderInterface.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\Font.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Components/ReflectionCaptureComponent.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\ReflectionCaptureComponent.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Components/SceneCaptureComponent2D.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Components/SceneCaptureComponent.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\SceneCaptureComponent.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\SceneCaptureComponent2D.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Components/SceneCaptureComponentCube.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\SceneCaptureComponentCube.generated.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\private\RendererModule.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\private\PostProcess/PostProcessEyeAdaptation.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\private\PostProcess/PostProcessSubsurface.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\private\OverridePassSequence.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\SceneViewExtension.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\engine\public\SceneViewExtensionContext.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\SceneViewExtensionContext.generated.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\private\PostProcess/TemporalAA.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\private\CompositionLighting/CompositionLighting.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\private\compositionlighting\PostProcessDeferredDecals.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Renderer\Public\DecalRenderingCommon.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\LegacyScreenPercentageDriver.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\private\AtmosphereRendering.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Matinee/MatineeActor.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\MatineeActor.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\ComponentRecreateRenderStateContext.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Renderer\Public\HdrCustomResolveShaders.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\private\WideCustomResolveShaders.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\GPUSkinCache.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\RenderCore\Public\ResolveShader.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\DeviceProfiles/DeviceProfileManager.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\DeviceProfileManager.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\DeviceProfiles/DeviceProfile.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/TextureLODSettings.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\TextureLODSettings.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\DeviceProfile.generated.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\private\VisualizeTexturePresent.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\HeadMountedDisplay\Public\IXRTrackingSystem.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\headmounteddisplay\public\HeadMountedDisplayTypes.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\headmounteddisplay\public\IMotionController.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\HeadMountedDisplay\HeadMountedDisplayTypes.generated.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\headmounteddisplay\public\IIdentifiableXRDevice.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\HeadMountedDisplay\IIdentifiableXRDevice.generated.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\headmounteddisplay\public\IXRInput.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\headmounteddisplay\public\XRGestureConfig.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\HeadMountedDisplay\XRGestureConfig.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\HeadMountedDisplay\Public\IXRCamera.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\HeadMountedDisplay\Public\IHeadMountedDisplay.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\headmounteddisplay\public\LateUpdateManager.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Renderer\Private\PostProcess\DiaphragmDOF.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\private\SingleLayerWaterRendering.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Renderer/Private/SceneSoftwareOcclusion.cpp
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Renderer/Private/SceneTextureParameters.cpp
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\private\SceneTextureParameters.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Renderer/Private/SceneTextureReductions.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\RenderCore\Public\PixelShaderUtils.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Renderer/Private/SceneVisibility.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/LODActor.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\LODActor.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\RectLightSceneProxy.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Components/RectLightComponent.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Components/LocalLightComponent.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Components/LightComponent.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Components/LightComponentBase.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\LightComponentBase.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\LightComponent.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\LocalLightComponent.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\RectLightComponent.generated.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\engine\public\LocalLightSceneProxy.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Math/Halton.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\ProfilingDebugging/DiagnosticTable.h

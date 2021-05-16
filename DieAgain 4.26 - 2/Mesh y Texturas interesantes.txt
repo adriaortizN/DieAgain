@@ -1,0 +1,109 @@
+Meshes y texturas interesantes
+
+SM_Floor01 --> Mesh de suelo. Solo dispone de un material. 
+Es el mismo para los X siguientes 
+
+MI_Floor04_Black --> Suelo metalico chulo. Tiene como una rendija guay alli
+MI_Floor02_Grey --> Suelo metalico con aperturas tipo agujeros. Puede ser muy bueno para hacer pasarelas.
+MI_Floor02 --> Suelo como el de arriba pero de color naranja
+MI_FloorConcrete --> Suelo de concreto, como de piedra, pero que ha pasado por manufacturación humana 
+MI_Floor04 --> Suelo gris y blanco. Es como una placa con algo raro enmedio.
+MI_Floor05 --> Igual que el de arriba. Son casi exactos.
+MI_Floor01 --> Suelo que parece de marmol blanco. Queda bien
+MI_Floor01_Grey --> Igual que el de arriba pero en color negro 
+
+SM_Beam01 --> Mesh alargado
+MI_Rails --> Material metalico que con el mesh de arriba, puede hacer conexiones de suelo interesantes. 
+
+
+
+
+
+SM_Wall01 --> Mesh de una pared
+M_Wall01 --> Material de pared blanca. Ideal para laboratorios o lugares con avanzada tecnologia. 
+
+SM_Wall01_Corner --> Mesh de la pared anterior, pero haciendo esquina. Ideal para hacer curvas
+M_Wall01 --> Su material
+
+SM_Wall03 --> Mesh de una pared
+M_Wall03 --> Material de una pared blanca con negro. Ideal para laboratorios o lugares con avanzada tecnologia. 
+
+SM_Wall03_Corner --> Mesh de la pared anterior, pero haciendo esquina. Ideal para hacer curvas
+MI_Wall03 --> Su material 
+
+SM_Wall04 --> Mesh de una pared
+MI_Wall04 --> Material que la hace como de cemento. Que bien, aunque tiene una raya marron encima que puede dar problemas
+
+SM_Wall04_Large --> Mesh de la pared de arriba pero doble. Bueno para hacer corredores largos
+MI_Wall04 --> Su material 
+
+SM_Wall04_Innercorner --> Mesh de una pared haciendo esquina. Combina con los dos mesh superiores 
+MI_Wall04 --> Su material, como de cemento
+
+SM_WallConcrete --> Mesh de una gran pared. Debe dejarse por debajo del nivel del suelo.
+MI_Hangarwall01 --> Su material, negro
+MI_Hangarwall02 --> Su material, naranja
+
+
+SM_Door2_Combined --> Mesh de puerta cerrada naranja
+MI_Door01 --> Material de la puerta 
+
+
+
+SM_RailWhite3m --> Mesh de una valla
+MI_Rails --> Material metalico para la valla 
+
+SM_Plane --> Mesh de un avion de comabte bastante chulo
+MI_Plane --> Material 0 para el avión
+M_PlaneGlass --> Material 1 para el avión 
+
+SM_Crate_01 --> Mesh de una caja. Es la combinación de las dos siguientes 
+SM_Crate_02 --> Mesh de una caja girada hacia arriba. 
+SM_Crate_03 --> Mesh de una caja tirada al suelo. Más grande que la anterior. 
+MI_Crate --> Material para los de arriba 
+
+SM_Container --> Mesh de un contenedor gigante
+MI_Container_Red --> Material del contenedor 
+
+SM_Barrel --> Mesh de un bidon 
+MI_Barrel02 --> Material azul. El rojo puede hacer que parezca explosivo 
+
+
+
+
+M_WallStripe (Imagenes planas para el suelo)
+
+MI_WallStripe02_Yellow --> Cuadrado amarillo 
+
+MI_WallStripe04_Dark --> Lineas en forma de _/- más o menos. Junto a otras del mismo timpo parecen dar un buen resultado
+
+MI_AreaDecal --> Circulo (grande tipo helipuesto) con nombre AT Area, todo blanco. 
+
+
+
+
+SM_Pipe01_Bend90 --> Tuberia que puede curvarse para acabarla, empezarla o girar esquinas. Utilizarla con MI_Pipa01
+SM_Pipe01 --> Tuberia totalmente recta. Utilizarla con lo mismo. 
+
+
+
+
+Para hacer espacios de casa:
+SM_Table_Lamp --> Lampara blanca de sobremesa. Diseño más tirando a antiguo
+SM_Bed_lamp_3 --> Lampara gris de sobremesa. Diseño bastante más contemporaneo
+
+BP_Classic_Commode_2 --> Cajón que se puede ajustar lo abierto o cerrado que está. Marron madera fuerte. 
+BP_Classic_Cupboard --> Armario que se puede ajustar lo abierto o cerrado que está. Marrón madera fuerte
+SM_Toilet --> Vater blanco. 
+
+SM_Military_Bed --> Cama militar con otra arriba
+SM_Military_Bed_2 --> Cama militar con una sola
+
+SM_Modern_Table --> Mesa algo cutre con madera 
+SM_Old_Table --> Mesa con aspecto de vieja, con un madera fuerte
+SM_Old_Chair --> Silla vieja con madera fuerte
+
+
+
+
+

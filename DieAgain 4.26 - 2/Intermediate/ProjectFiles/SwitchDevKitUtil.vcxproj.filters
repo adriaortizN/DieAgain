@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\..\..\..\..\UE4.Source\UnrealEngine-4.26\Engine\Platforms\Switch\Source\Programs\SwitchDevKitUtil\SwitchDevKitUtil.Target.cs" />
+    <None Include="..\..\..\..\..\..\UE4.Source\UnrealEngine-4.26\Engine\Platforms\Switch\Source\Programs\SwitchDevKitUtil\SwitchDevKitUtil.Build.cs" />
+    <Filter Include="Private">
+      <UniqueIdentifier>{3C4A53C8-0D9B-4892-80FA-3C6BC58D11D5}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\..\..\..\..\UE4.Source\UnrealEngine-4.26\Engine\Platforms\Switch\Source\Programs\SwitchDevKitUtil\Private\Output.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\UE4.Source\UnrealEngine-4.26\Engine\Platforms\Switch\Source\Programs\SwitchDevKitUtil\Private\SwitchAPI.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\UE4.Source\UnrealEngine-4.26\Engine\Platforms\Switch\Source\Programs\SwitchDevKitUtil\Private\SwitchDevKitUtil.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\UE4.Source\UnrealEngine-4.26\Engine\Platforms\Switch\Source\Programs\SwitchDevKitUtil\Private\SwitchDevKitUtil.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\UE4.Source\UnrealEngine-4.26\Engine\Platforms\Switch\Source\Programs\SwitchDevKitUtil\Private\TargetDiscovery.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\UE4.Source\UnrealEngine-4.26\Engine\Platforms\Switch\Source\Programs\SwitchDevKitUtil\Private\TargetDiscovery.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

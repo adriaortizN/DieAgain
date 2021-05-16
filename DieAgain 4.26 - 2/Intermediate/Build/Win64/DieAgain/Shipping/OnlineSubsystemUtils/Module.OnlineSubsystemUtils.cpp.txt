@@ -1,0 +1,521 @@
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Shipping\OnlineSubsystemUtils\Definitions.OnlineSubsystemUtils.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/AchievementBlueprintLibrary.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Classes\AchievementBlueprintLibrary.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\OnlineSubsystemUtils\AchievementBlueprintLibrary.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Online\OnlineSubsystem\Source\Public\OnlineSubsystem.h
+e:\ue4.source\unrealengine-4.26\engine\plugins\online\onlinesubsystem\source\public\OnlineSubsystemModule.h
+e:\ue4.source\unrealengine-4.26\engine\plugins\online\onlinesubsystem\source\public\OnlineSubsystemTypes.h
+e:\ue4.source\unrealengine-4.26\engine\plugins\online\onlinesubsystem\source\public\OnlineSubsystemNames.h
+e:\ue4.source\unrealengine-4.26\engine\plugins\online\onlinesubsystem\source\public\OnlineSubsystemPackage.h
+e:\ue4.source\unrealengine-4.26\engine\plugins\online\onlinesubsystem\source\public\OnlineDelegateMacros.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Online\OnlineSubsystem\Source\Public\Interfaces/OnlineAchievementsInterface.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Online\OnlineSubsystem\Source\Public\OnlineStats.h
+e:\ue4.source\unrealengine-4.26\engine\plugins\online\onlinesubsystem\source\public\OnlineKeyValuePair.h
+e:\ue4.source\unrealengine-4.26\engine\plugins\online\onlinesubsystem\source\public\OnlineSubsystemPackage.h
+e:\ue4.source\unrealengine-4.26\engine\plugins\online\onlinesubsystemutils\source\onlinesubsystemutils\private\OnlineSubsystemBPCallHelper.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/AchievementQueryCallbackProxy.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Classes\AchievementQueryCallbackProxy.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\Net/OnlineBlueprintCallProxyBase.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Kismet/BlueprintAsyncActionBase.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\BlueprintAsyncActionBase.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\OnlineBlueprintCallProxyBase.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\OnlineSubsystemUtils\AchievementQueryCallbackProxy.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/AchievementWriteCallbackProxy.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Classes\AchievementWriteCallbackProxy.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\OnlineSubsystemUtils\AchievementWriteCallbackProxy.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/ConnectionCallbackProxy.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Classes\ConnectionCallbackProxy.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Online\OnlineSubsystem\Source\Public\Interfaces/OnlineIdentityInterface.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Online\OnlineSubsystem\Source\Public\OnlineIdentityErrors.h
+e:\ue4.source\unrealengine-4.26\engine\plugins\online\onlinesubsystem\source\public\OnlineError.h
+e:\ue4.source\unrealengine-4.26\engine\plugins\online\onlinesubsystem\source\public\OnlineErrorMacros.inl
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\OnlineSubsystemUtils\ConnectionCallbackProxy.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/CreateSessionCallbackProxy.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Classes\CreateSessionCallbackProxy.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Online\OnlineSubsystem\Source\Public\Interfaces/OnlineSessionInterface.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\OnlineSubsystemUtils\CreateSessionCallbackProxy.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Online\OnlineSubsystem\Source\Public\OnlineSessionSettings.h
+e:\ue4.source\unrealengine-4.26\engine\plugins\online\onlinesubsystem\source\public\OnlineSubsystemPackage.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/DestroySessionCallbackProxy.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Classes\DestroySessionCallbackProxy.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\OnlineSubsystemUtils\DestroySessionCallbackProxy.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/EndMatchCallbackProxy.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Classes\EndMatchCallbackProxy.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Online\OnlineSubsystem\Source\Public\Interfaces/OnlineTurnBasedInterface.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\OnlineSubsystem\OnlineTurnBasedInterface.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\OnlineSubsystemUtils\EndMatchCallbackProxy.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Online\OnlineSubsystem\Source\Public\Interfaces/TurnBasedMatchInterface.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\OnlineSubsystem\TurnBasedMatchInterface.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/EndTurnCallbackProxy.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Classes\EndTurnCallbackProxy.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\OnlineSubsystemUtils\EndTurnCallbackProxy.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\Net/RepLayout.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Containers/StaticBitArray.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Net\Core\Public\Net/Core/PushModel/PushModel.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/FindSessionsCallbackProxy.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Classes\FindSessionsCallbackProxy.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\OnlineSubsystemUtils\FindSessionsCallbackProxy.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/FindTurnBasedMatchCallbackProxy.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Classes\FindTurnBasedMatchCallbackProxy.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\OnlineSubsystemUtils\FindTurnBasedMatchCallbackProxy.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/InAppPurchaseCallbackProxy.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Classes\InAppPurchaseCallbackProxy.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Online\OnlineSubsystem\Source\Public\Interfaces/OnlineStoreInterface.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\OnlineSubsystem\OnlineStoreInterface.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\OnlineSubsystemUtils\InAppPurchaseCallbackProxy.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/InAppPurchaseCallbackProxy2.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Classes\InAppPurchaseCallbackProxy2.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Online\OnlineSubsystem\Source\Public\Interfaces/OnlinePurchaseInterface.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Online\OnlineSubsystem\Source\Public\Interfaces/OnlineEntitlementsInterface.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Online\OnlineSubsystem\Source\Public\Interfaces/OnlineStoreInterfaceV2.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Online\OnlineSubsystem\Source\Public\OnlineJsonSerializer.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\OnlineSubsystemUtils\InAppPurchaseCallbackProxy2.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/InAppPurchaseQueryCallbackProxy.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Classes\InAppPurchaseQueryCallbackProxy.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\OnlineSubsystemUtils\InAppPurchaseQueryCallbackProxy.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/InAppPurchaseQueryCallbackProxy2.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Classes\InAppPurchaseQueryCallbackProxy2.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\OnlineSubsystemUtils\InAppPurchaseQueryCallbackProxy2.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/InAppPurchaseRestoreCallbackProxy.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Classes\InAppPurchaseRestoreCallbackProxy.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\OnlineSubsystemUtils\InAppPurchaseRestoreCallbackProxy.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/InAppPurchaseRestoreCallbackProxy2.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Classes\InAppPurchaseRestoreCallbackProxy2.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\OnlineSubsystemUtils\InAppPurchaseRestoreCallbackProxy2.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/IpConnection.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Classes\IpConnection.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\OnlineSubsystemUtils\IpConnection.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Classes\IpNetDriver.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Containers/CircularQueue.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Sockets\Public\SocketSubsystem.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\sockets\public\AddressInfoTypes.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\OnlineSubsystemUtils\IpNetDriver.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Sockets\Public\Sockets.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\Net/NetworkProfiler.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\Net/DataChannel.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Net\Core\Public\Net/Core/Misc/PacketAudit.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/ScopeExit.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/IpNetDriver.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\PacketHandlers/StatelessConnectHandlerComponent.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\Serialization/ArchiveCountMem.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/JoinSessionCallbackProxy.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Classes\JoinSessionCallbackProxy.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\OnlineSubsystemUtils\JoinSessionCallbackProxy.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/LeaderboardBlueprintLibrary.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Classes\LeaderboardBlueprintLibrary.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\OnlineSubsystemUtils\LeaderboardBlueprintLibrary.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/PlayerState.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\PlayerState.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Online\OnlineSubsystem\Source\Public\Interfaces/OnlineLeaderboardInterface.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/LeaderboardFlushCallbackProxy.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Classes\LeaderboardFlushCallbackProxy.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\OnlineSubsystemUtils\LeaderboardFlushCallbackProxy.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/LeaderboardQueryCallbackProxy.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Classes\LeaderboardQueryCallbackProxy.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\OnlineSubsystemUtils\LeaderboardQueryCallbackProxy.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/LogoutCallbackProxy.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Classes\LogoutCallbackProxy.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\OnlineSubsystemUtils\LogoutCallbackProxy.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/OnlineBeacon.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Public\OnlineBeacon.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\OnlineSubsystemUtils\OnlineBeacon.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/OnlineBeaconClient.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Public\OnlineBeaconClient.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\OnlineSubsystemUtils\OnlineBeaconClient.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Public\OnlineBeaconHostObject.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\OnlineSubsystemUtils\OnlineBeaconHostObject.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/PackageMapClient.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/NetworkVersion.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\PackageMapClient.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Public\OnlineSubsystemUtils.h
+e:\ue4.source\unrealengine-4.26\engine\plugins\online\onlinesubsystemutils\source\onlinesubsystemutils\public\OnlineSubsystemUtilsModule.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Online\OnlineSubsystem\Source\Public\Online.h
+e:\ue4.source\unrealengine-4.26\engine\plugins\online\onlinesubsystem\source\public\Interfaces/OnlineChatInterface.h
+e:\ue4.source\unrealengine-4.26\engine\plugins\online\onlinesubsystem\source\public\Interfaces/OnlineFriendsInterface.h
+e:\ue4.source\unrealengine-4.26\engine\plugins\online\onlinesubsystem\source\public\Interfaces/OnlineEventsInterface.h
+e:\ue4.source\unrealengine-4.26\engine\plugins\online\onlinesubsystem\source\public\Interfaces/OnlinePartyInterface.h
+e:\ue4.source\unrealengine-4.26\engine\plugins\online\onlinesubsystem\source\public\Interfaces/OnlineExternalUIInterface.h
+e:\ue4.source\unrealengine-4.26\engine\plugins\online\onlinesubsystem\source\public\Interfaces/OnlineMessageInterface.h
+e:\ue4.source\unrealengine-4.26\engine\plugins\online\onlinesubsystem\source\public\Interfaces/VoiceInterface.h
+e:\ue4.source\unrealengine-4.26\engine\plugins\online\onlinesubsystem\source\public\OnlineSubsystemPackage.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/MultithreadedPatching.h
+e:\ue4.source\unrealengine-4.26\engine\plugins\online\onlinesubsystem\source\public\Interfaces/OnlineTitleFileInterface.h
+e:\ue4.source\unrealengine-4.26\engine\plugins\online\onlinesubsystem\source\public\Interfaces/OnlinePresenceInterface.h
+e:\ue4.source\unrealengine-4.26\engine\plugins\online\onlinesubsystem\source\public\Interfaces/OnlineUserCloudInterface.h
+e:\ue4.source\unrealengine-4.26\engine\plugins\online\onlinesubsystem\source\public\Interfaces/OnlineUserInterface.h
+e:\ue4.source\unrealengine-4.26\engine\plugins\online\onlinesubsystem\source\public\Interfaces/OnlineStatsInterface.h
+e:\ue4.source\unrealengine-4.26\engine\plugins\online\onlinesubsystemutils\source\onlinesubsystemutils\public\VoipListenerSynthComponent.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\AudioMixer\Public\Components/SynthComponent.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Components/AudioComponent.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Sound/QuartzSubscription.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\AudioMixer\Public\Quartz/AudioMixerClockHandle.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\AudioMixer\Public\Quartz/QuartzSubsystem.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\AudioMixer\QuartzSubsystem.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\AudioMixer\Public\Quartz/QuartzMetronome.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\AudioMixer\AudioMixerClockHandle.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\AudioMixer\Public\Quartz/AudioMixerQuantizedCommands.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\audiomixer\public\quartz\AudioMixerClock.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\AudioComponent.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Sound/SoundWaveProcedural.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\SoundWaveProcedural.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\AudioMixer\SynthComponent.generated.h
+e:\ue4.source\unrealengine-4.26\engine\plugins\online\onlinesubsystemutils\source\onlinesubsystemutils\public\VoicePacketBuffer.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\Net/VoiceDataCommon.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\Net/VoiceConfig.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/EnvelopeFollower.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Sound/AudioSettings.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\AudioSettings.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\VoiceConfig.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/DynamicsProcessor.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/Delay.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/WaveTableOsc.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\signalprocessing\public\dsp\Filter.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/ModulationMatrix.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/BiQuadFilter.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/EQ.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\OnlineSubsystemUtils\VoipListenerSynthComponent.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/OnlineBeaconHost.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Public\OnlineBeaconHost.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\OnlineSubsystemUtils\OnlineBeaconHost.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/OnlineBeaconHostObject.cpp
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/OnlineEngineInterfaceImpl.cpp
+e:\ue4.source\unrealengine-4.26\engine\plugins\online\onlinesubsystemutils\source\onlinesubsystemutils\private\OnlineEngineInterfaceImpl.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\Net/OnlineEngineInterface.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\OnlineEngineInterface.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\OnlineSubsystemUtils\OnlineEngineInterfaceImpl.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/OnlinePIESettings.cpp
+e:\ue4.source\unrealengine-4.26\engine\plugins\online\onlinesubsystemutils\source\onlinesubsystemutils\private\OnlinePIESettings.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\OnlineSubsystemUtils\OnlinePIESettings.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/OnlineSessionClient.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Classes\OnlineSessionClient.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/OnlineSession.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\OnlineSession.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\OnlineSubsystemUtils\OnlineSessionClient.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/OnlineSubsystemUtils.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Logging/LogScopedVerbosityOverride.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Sound/SoundClass.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\AudioDynamicParameter.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\SoundClass.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/GameEngine.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Slate\Public\Widgets/SViewport.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime/MovieSceneCapture/Public/MovieSceneCaptureHandle.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\GameEngine.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Online\OnlineSubsystem\Source\Public\OnlineSubsystemImpl.h
+e:\ue4.source\unrealengine-4.26\engine\plugins\online\onlinesubsystem\source\public\OnlineSubsystemPackage.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Online\Voice\Public\VoiceModule.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\online\voice\public\Interfaces/VoiceCapture.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\online\voice\public\VoicePackage.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\online\voice\public\Interfaces/VoiceCodec.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\online\voice\public\VoicePackage.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\AudioDevice.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/SpectrumAnalyzer.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/AudioFFT.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/FFTAlgorithm.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\SampleBuffer.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Sound/SoundMix.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\SoundMix.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Sound/SoundSubmix.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\AudioExtensions\Public\IAudioEndpoint.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\AudioExtensions\IAudioEndpoint.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\AudioExtensions\Public\ISoundfieldEndpoint.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\AudioExtensions\ISoundfieldEndpoint.generated.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\engine\classes\sound\SampleBufferIO.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\engine\classes\sound\SoundEffectSubmix.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\SoundEffectSubmix.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\SoundSubmix.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Sound/SoundSourceBus.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Sound/AudioBus.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\AudioBus.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\SoundSourceBus.generated.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\engine\public\AudioVirtualLoop.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\engine\public\ActiveSound.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\engine\public\Audio/AudioDebug.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/VolumeFader.h
+e:\ue4.source\unrealengine-4.26\engine\plugins\online\onlinesubsystemutils\source\onlinesubsystemutils\private\Tests/TestFriendsInterface.h
+e:\ue4.source\unrealengine-4.26\engine\plugins\online\onlinesubsystemutils\source\onlinesubsystemutils\private\Tests/TestSessionInterface.h
+e:\ue4.source\unrealengine-4.26\engine\plugins\online\onlinesubsystemutils\source\onlinesubsystemutils\private\Tests/TestCloudInterface.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Online\OnlineSubsystem\Source\Public\Interfaces/OnlineSharedCloudInterface.h
+e:\ue4.source\unrealengine-4.26\engine\plugins\online\onlinesubsystemutils\source\onlinesubsystemutils\private\Tests/TestLeaderboardInterface.h
+e:\ue4.source\unrealengine-4.26\engine\plugins\online\onlinesubsystemutils\source\onlinesubsystemutils\private\Tests/TestTimeInterface.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Online\OnlineSubsystem\Source\Public\Interfaces/OnlineTimeInterface.h
+e:\ue4.source\unrealengine-4.26\engine\plugins\online\onlinesubsystemutils\source\onlinesubsystemutils\private\Tests/TestIdentityInterface.h
+e:\ue4.source\unrealengine-4.26\engine\plugins\online\onlinesubsystemutils\source\onlinesubsystemutils\private\Tests/TestTitleFileInterface.h
+e:\ue4.source\unrealengine-4.26\engine\plugins\online\onlinesubsystemutils\source\onlinesubsystemutils\private\Tests/TestEntitlementsInterface.h
+e:\ue4.source\unrealengine-4.26\engine\plugins\online\onlinesubsystemutils\source\onlinesubsystemutils\private\Tests/TestAchievementsInterface.h
+e:\ue4.source\unrealengine-4.26\engine\plugins\online\onlinesubsystemutils\source\onlinesubsystemutils\private\Tests/TestSharingInterface.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Online\OnlineSubsystem\Source\Public\Interfaces/OnlineSharingInterface.h
+e:\ue4.source\unrealengine-4.26\engine\plugins\online\onlinesubsystemutils\source\onlinesubsystemutils\private\Tests/TestUserInterface.h
+e:\ue4.source\unrealengine-4.26\engine\plugins\online\onlinesubsystemutils\source\onlinesubsystemutils\private\Tests/TestMessageInterface.h
+e:\ue4.source\unrealengine-4.26\engine\plugins\online\onlinesubsystemutils\source\onlinesubsystemutils\private\Tests/TestVoice.h
+e:\ue4.source\unrealengine-4.26\engine\plugins\online\onlinesubsystemutils\source\onlinesubsystemutils\private\Tests/TestExternalUIInterface.h
+e:\ue4.source\unrealengine-4.26\engine\plugins\online\onlinesubsystemutils\source\onlinesubsystemutils\private\Tests/TestPresenceInterface.h
+e:\ue4.source\unrealengine-4.26\engine\plugins\online\onlinesubsystemutils\source\onlinesubsystemutils\private\Tests/TestStoreInterface.h
+e:\ue4.source\unrealengine-4.26\engine\plugins\online\onlinesubsystemutils\source\onlinesubsystemutils\private\Tests/TestPurchaseInterface.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/OnlineSubsystemUtilsModule.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Online\OnlineSubsystem\Source\Public\OnlineDelegates.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/PartyBeaconClient.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Public\PartyBeaconClient.h
+e:\ue4.source\unrealengine-4.26\engine\plugins\online\onlinesubsystemutils\source\onlinesubsystemutils\public\PartyBeaconState.h
+e:\ue4.source\unrealengine-4.26\engine\plugins\online\onlinesubsystemutils\source\onlinesubsystemutils\public\OnlineBeaconReservation.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\OnlineSubsystemUtils\OnlineBeaconReservation.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\OnlineSubsystemUtils\PartyBeaconState.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\OnlineSubsystemUtils\PartyBeaconClient.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Public\PartyBeaconHost.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\OnlineSubsystemUtils\PartyBeaconHost.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/PartyBeaconHost.cpp
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/PartyBeaconState.cpp
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/QuitMatchCallbackProxy.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Classes\QuitMatchCallbackProxy.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\OnlineSubsystemUtils\QuitMatchCallbackProxy.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/ShowLoginUICallbackProxy.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Classes\ShowLoginUICallbackProxy.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\OnlineSubsystemUtils\ShowLoginUICallbackProxy.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/SpectatorBeaconClient.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Public\SpectatorBeaconClient.h
+e:\ue4.source\unrealengine-4.26\engine\plugins\online\onlinesubsystemutils\source\onlinesubsystemutils\public\SpectatorBeaconState.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\OnlineSubsystemUtils\SpectatorBeaconState.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\OnlineSubsystemUtils\SpectatorBeaconClient.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Public\SpectatorBeaconHost.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\OnlineSubsystemUtils\SpectatorBeaconHost.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/SpectatorBeaconHost.cpp
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/SpectatorBeaconState.cpp
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/TestBeaconClient.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Classes\TestBeaconClient.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\OnlineSubsystemUtils\TestBeaconClient.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/TestBeaconHost.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Classes\TestBeaconHost.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\OnlineSubsystemUtils\TestBeaconHost.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/Tests/OnlineSubsystemUtilitiesTests.cpp
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/Tests/TestAchievementsInterface.cpp
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/Tests/TestCloudInterface.cpp
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/Tests/TestEntitlementsInterface.cpp
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/Tests/TestExternalUIInterface.cpp
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/Tests/TestFriendsInterface.cpp
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/Tests/TestIdentityInterface.cpp
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/Tests/TestKeyValuePairs.cpp
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/Tests/TestLeaderboardInterface.cpp
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/Tests/TestMessageInterface.cpp
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/Tests/TestPresenceInterface.cpp
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/Tests/TestPurchaseInterface.cpp
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/Tests/TestSessionInterface.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\ServerStatReplicator.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\GameModeBase.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/GameMode.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\GameMode.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/CollisionProfile.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\CollisionProfile.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\KismetSystemLibrary.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Sound/DialogueTypes.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\DialogueTypes.generated.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\engine\classes\kismet\GameplayStaticsTypes.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\GameplayStaticsTypes.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\GameplayStatics.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Online\OnlineSubsystem\Source\Public\OnlineSubsystemSessionSettings.h
+e:\ue4.source\unrealengine-4.26\engine\plugins\online\onlinesubsystem\source\public\OnlineSubsystemPackage.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/Tests/TestSharingInterface.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\ImageCore\Public\ImageCore.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/Tests/TestStoreInterface.cpp
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/Tests/TestTimeInterface.cpp
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/Tests/TestTitleFileInterface.cpp
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/Tests/TestUserInterface.cpp
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/Tests/TestVoice.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Private\Tests/TestVoiceData.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Online\Voice\Public\Voice.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/TurnBasedBlueprintLibrary.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Classes\TurnBasedBlueprintLibrary.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\OnlineSubsystemUtils\TurnBasedBlueprintLibrary.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/VoiceEngineImpl.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Public\VoiceEngineImpl.h
+e:\ue4.source\unrealengine-4.26\engine\plugins\online\onlinesubsystemutils\source\onlinesubsystemutils\public\OnlineSubsystemUtilsPackage.h
+e:\ue4.source\unrealengine-4.26\engine\plugins\online\onlinesubsystemutils\source\onlinesubsystemutils\public\OnlineSubsystemUtilsPackage.h
+e:\ue4.source\unrealengine-4.26\engine\plugins\online\onlinesubsystemutils\source\onlinesubsystemutils\public\VoicePacketImpl.h
+e:\ue4.source\unrealengine-4.26\engine\plugins\online\onlinesubsystemutils\source\onlinesubsystemutils\public\OnlineSubsystemUtilsPackage.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/GameSession.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\GameSession.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Windows\XAudio2\Private\XAudio2Support.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Windows\XAudio2\Public\XAudio2Device.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\AudioDecompress.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\AudioEffect.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\AudioEffect.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\VorbisAudioInfo.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Windows/WindowsHWrapper.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Windows/MinWindows.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\Windows.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\sdkddkver.h
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\excpt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\windef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\minwindef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\winnt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\kernelspecs.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\basetsd.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\guiddef.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\pshpack4.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\pshpack4.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\pshpack2.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\poppack.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\poppack.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\pshpack8.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\poppack.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\pshpack1.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\poppack.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\pshpack1.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\poppack.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\ktmtypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\winbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\minwinbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\processenv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\fileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\debugapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\utilapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\handleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\errhandlingapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\fibersapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\namedpipeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\profileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\heapapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\ioapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\synchapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\interlockedapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\processthreadsapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\sysinfoapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\memoryapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\enclaveapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\threadpoollegacyapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\threadpoolapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\jobapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\jobapi2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\wow64apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\libloaderapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\securitybaseapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\namespaceapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\systemtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\processtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\securityappcontainer.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\realtimeapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\winerror.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\timezoneapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\wingdi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\winuser.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\tvout.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\datetimeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\stringapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\wincon.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\consoleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\winver.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\verrsrc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\winreg.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\reason.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\winnetwk.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\wnnc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\stralign.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\imm.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\ime_cmodes.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformAtomics.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\ThirdParty\Windows\DirectX\include\xaudio2.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\ThirdParty\Windows\DirectX\include\comdecl.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\basetyps.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\guiddef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\objbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\rpc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\rpcdce.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\rpcdcep.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\rpcnsi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\rpcnterr.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\rpcasync.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\rpcndr.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\rpcnsip.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\ThirdParty\Windows\DirectX\include\rpcsal.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\combaseapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\wtypesbase.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\guiddef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\unknwnbase.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\ole2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\oleauto.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\oaidl.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\objidl.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\unknwn.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\wtypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\coml2api.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\propidlbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\oleidl.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\objidlbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\guiddef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\cguid.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\urlmon.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\servprov.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\msxml.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\propidl.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\ThirdParty\Windows\DirectX\include\audiodefs.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\ThirdParty\Windows\DirectX\include\xma2defs.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\ThirdParty\Windows\DirectX\include\X3Daudio.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\ThirdParty\Windows\DirectX\include\d3d9types.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformAtomics.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformAtomics.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\mmdeviceapi.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\propsys.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\ocidl.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shtypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\StructuredQueryCondition.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\propkeydef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\functiondiscoverykeys_devpkey.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformAtomics.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/VoiceInterfaceImpl.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Public\VoiceInterfaceImpl.h
+e:\ue4.source\unrealengine-4.26\engine\plugins\online\onlinesubsystemutils\source\onlinesubsystemutils\public\OnlineSubsystemUtilsPackage.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/VoicePacketBuffer.cpp
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/VoicePacketImpl.cpp
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/VoipListenerSynthComponent.cpp

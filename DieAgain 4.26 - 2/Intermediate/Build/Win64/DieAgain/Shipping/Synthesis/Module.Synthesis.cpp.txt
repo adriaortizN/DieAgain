@@ -1,0 +1,333 @@
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Shipping\Synthesis\Definitions.Synthesis.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Runtime/Synthesis/Source/Synthesis/Private/ConvolutionReverb.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Runtime\Synthesis\Source\Synthesis\Public\ConvolutionReverb.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/AlignedBlockBuffer.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/AudioChannelFormatConverter.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/ConvolutionAlgorithm.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\AudioMixer\Public\AudioMixerDevice.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\AudioDevice.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Components/AudioComponent.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Sound/QuartzSubscription.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\audiomixer\public\Quartz/AudioMixerClockHandle.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\audiomixer\public\Quartz/QuartzSubsystem.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\AudioMixer\QuartzSubsystem.generated.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\audiomixer\public\Quartz/QuartzMetronome.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\AudioMixer\AudioMixerClockHandle.generated.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\audiomixer\public\Quartz/AudioMixerQuantizedCommands.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\audiomixer\public\quartz\AudioMixerClock.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\AudioComponent.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/SpectrumAnalyzer.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/AudioFFT.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/FFTAlgorithm.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\SampleBuffer.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\engine\public\AudioDynamicParameter.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Sound/AudioSettings.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\AudioSettings.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Sound/SoundClass.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\SoundClass.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Sound/SoundMix.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\SoundMix.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Sound/SoundSubmix.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\AudioExtensions\Public\IAudioEndpoint.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/MultithreadedPatching.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\AudioExtensions\IAudioEndpoint.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\AudioExtensions\Public\ISoundfieldEndpoint.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\AudioExtensions\ISoundfieldEndpoint.generated.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\engine\classes\sound\SampleBufferIO.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\engine\classes\sound\SoundEffectSubmix.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\SoundEffectSubmix.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\SoundSubmix.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Sound/SoundSourceBus.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Sound/SoundWaveProcedural.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\SoundWaveProcedural.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Sound/AudioBus.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\AudioBus.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\SoundSourceBus.generated.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\engine\public\AudioVirtualLoop.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\engine\public\ActiveSound.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\engine\public\Audio/AudioDebug.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/VolumeFader.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\audiomixer\public\Quartz/AudioMixerClockManager.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/SampleRateConverter.h
+e:\ue4.source\unrealengine-4.26\engine\plugins\runtime\synthesis\source\synthesis\private\SubmixChannelFormatConverter.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Runtime\Synthesis\Source\Synthesis\Public\SynthesisModule.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Runtime/Synthesis/Source/Synthesis/Private/EpicSynth1.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Runtime\Synthesis\Source\Synthesis\Public\EpicSynth1.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/Osc.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/ModulationMatrix.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/Noise.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/LFO.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/Envelope.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/Amp.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/DelayStereo.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/Delay.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/WaveTableOsc.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/Filter.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/BiQuadFilter.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/Chorus.h
+e:\ue4.source\unrealengine-4.26\engine\plugins\runtime\synthesis\source\synthesis\public\EpicSynth1Types.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Synthesis\EpicSynth1Types.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Runtime/Synthesis/Source/Synthesis/Private/EpicSynth1Component.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Runtime\Synthesis\Source\Synthesis\Classes\SynthComponents/EpicSynth1Component.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/DataTable.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\DataTableUtils.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\DataTable.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\AudioMixer\Public\Components/SynthComponent.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\AudioMixer\SynthComponent.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Synthesis\EpicSynth1Component.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Runtime/Synthesis/Source/Synthesis/Private/Flexiverb.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Runtime\Synthesis\Source\Synthesis\Public\Flexiverb.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/AllPassFilter.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/OnePole.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Runtime/Synthesis/Source/Synthesis/Private/MonoWaveTable.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Runtime\Synthesis\Source\Synthesis\Public\MonoWaveTable.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Runtime/Synthesis/Source/Synthesis/Private/SourceEffectBitCrusher.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Runtime\Synthesis\Source\Synthesis\Classes\SourceEffects/SourceEffectBitCrusher.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/BitCrusher.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Synthesis\SourceEffectBitCrusher.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Runtime/Synthesis/Source/Synthesis/Private/SourceEffectChorus.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Runtime\Synthesis\Source\Synthesis\Classes\SourceEffects/SourceEffectChorus.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Synthesis\SourceEffectChorus.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Runtime/Synthesis/Source/Synthesis/Private/SourceEffectDynamicsProcessor.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Runtime\Synthesis\Source\Synthesis\Classes\SourceEffects/SourceEffectDynamicsProcessor.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/DynamicsProcessor.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/EnvelopeFollower.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Synthesis\SourceEffectDynamicsProcessor.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Runtime/Synthesis/Source/Synthesis/Private/SourceEffectEnvelopeFollower.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Runtime\Synthesis\Source\Synthesis\Classes\SourceEffects/SourceEffectEnvelopeFollower.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Synthesis\SourceEffectEnvelopeFollower.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Runtime/Synthesis/Source/Synthesis/Private/SourceEffectEQ.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Runtime\Synthesis\Source\Synthesis\Classes\SourceEffects/SourceEffectEQ.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/EQ.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Synthesis\SourceEffectEQ.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Runtime/Synthesis/Source/Synthesis/Private/SourceEffectFilter.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Runtime\Synthesis\Source\Synthesis\Classes\SourceEffects/SourceEffectFilter.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Synthesis\SourceEffectFilter.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Runtime/Synthesis/Source/Synthesis/Private/SourceEffectFoldbackDistortion.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Runtime\Synthesis\Source\Synthesis\Classes\SourceEffects/SourceEffectFoldbackDistortion.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/FoldbackDistortion.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Synthesis\SourceEffectFoldbackDistortion.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Runtime/Synthesis/Source/Synthesis/Private/SourceEffectMidSideSpreader.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Runtime\Synthesis\Source\Synthesis\Classes\SourceEffects/SourceEffectMidSideSpreader.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Synthesis\SourceEffectMidSideSpreader.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Runtime/Synthesis/Source/Synthesis/Private/SourceEffectPanner.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Runtime\Synthesis\Source\Synthesis\Classes\SourceEffects/SourceEffectPanner.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Synthesis\SourceEffectPanner.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Runtime/Synthesis/Source/Synthesis/Private/SourceEffectPhaser.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Runtime\Synthesis\Source\Synthesis\Classes\SourceEffects/SourceEffectPhaser.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/Phaser.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Synthesis\SourceEffectPhaser.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Runtime/Synthesis/Source/Synthesis/Private/SourceEffectRingModulation.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Runtime\Synthesis\Source\Synthesis\Classes\SourceEffects/SourceEffectRingModulation.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/RingModulation.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Synthesis\SourceEffectRingModulation.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\AudioMixer\Public\AudioMixerBus.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Runtime/Synthesis/Source/Synthesis/Private/SourceEffectSimpleDelay.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Runtime\Synthesis\Source\Synthesis\Classes\SourceEffects/SourceEffectSimpleDelay.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Synthesis\SourceEffectSimpleDelay.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Runtime/Synthesis/Source/Synthesis/Private/SourceEffectStereoDelay.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Runtime\Synthesis\Source\Synthesis\Classes\SourceEffects/SourceEffectStereoDelay.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Synthesis\SourceEffectStereoDelay.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Runtime/Synthesis/Source/Synthesis/Private/SourceEffectWaveShaper.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Runtime\Synthesis\Source\Synthesis\Classes\SourceEffects/SourceEffectWaveShaper.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/WaveShaper.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Synthesis\SourceEffectWaveShaper.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Runtime/Synthesis/Source/Synthesis/Private/SubmixChannelFormatConverter.cpp
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Runtime/Synthesis/Source/Synthesis/Private/SubmixEffectConvolutionReverb.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Runtime\Synthesis\Source\Synthesis\Classes\SubmixEffects/SubmixEffectConvolutionReverb.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Synthesis\SubmixEffectConvolutionReverb.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Runtime/Synthesis/Source/Synthesis/Private/SubmixEffectDelay.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Runtime\Synthesis\Source\Synthesis\Classes\SubmixEffects/SubmixEffectDelay.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\AudioEffect.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\AudioEffect.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Synthesis\SubmixEffectDelay.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Runtime/Synthesis/Source/Synthesis/Private/SubmixEffectFilter.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Runtime\Synthesis\Source\Synthesis\Classes\SubmixEffects/SubmixEffectFilter.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Synthesis\SubmixEffectFilter.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Runtime/Synthesis/Source/Synthesis/Private/SubmixEffectFlexiverb.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Runtime\Synthesis\Source\Synthesis\Classes\SubmixEffects/SubmixEffectFlexiverb.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Synthesis\SubmixEffectFlexiverb.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Sound/ReverbEffect.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\ReverbEffect.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Runtime/Synthesis/Source/Synthesis/Private/SubmixEffectMultiBandCompressor.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Runtime\Synthesis\Source\Synthesis\Classes\SubmixEffects/SubmixEffectMultiBandCompressor.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/LinkwitzRileyBandSplitter.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/VariablePoleFilter.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\AudioMixer\Classes\SubmixEffects/AudioMixerSubmixEffectDynamicsProcessor.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\AudioMixer\AudioMixerSubmixEffectDynamicsProcessor.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Synthesis\SubmixEffectMultiBandCompressor.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Runtime/Synthesis/Source/Synthesis/Private/SubmixEffectStereoDelay.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Runtime\Synthesis\Source\Synthesis\Classes\SubmixEffects/SubmixEffectStereoDelay.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Synthesis\SubmixEffectStereoDelay.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Runtime/Synthesis/Source/Synthesis/Private/SubmixEffectTapDelay.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Runtime\Synthesis\Source\Synthesis\Classes\SubmixEffects/SubmixEffectTapDelay.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Synthesis\SubmixEffectTapDelay.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Runtime/Synthesis/Source/Synthesis/Private/SynthComponentGranulator.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Runtime\Synthesis\Source\Synthesis\Classes\SynthComponents/SynthComponentGranulator.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/Granulator.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/SampleBufferReader.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Synthesis\SynthComponentGranulator.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Runtime/Synthesis/Source/Synthesis/Private/SynthComponentMonoWaveTable.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Runtime\Synthesis\Source\Synthesis\Classes\SynthComponents/SynthComponentMonoWaveTable.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Synthesis\SynthComponentMonoWaveTable.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Runtime/Synthesis/Source/Synthesis/Private/SynthComponentToneGenerator.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Runtime\Synthesis\Source\Synthesis\Classes\SynthComponents/SynthComponentToneGenerator.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/SinOsc.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Synthesis\SynthComponentToneGenerator.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Runtime/Synthesis/Source/Synthesis/Private/SynthComponentWaveTable.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Runtime\Synthesis\Source\Synthesis\Classes\SynthComponents/SynthComponentWaveTable.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Synthesis\SynthComponentWaveTable.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\AudioDecompress.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Runtime/Synthesis/Source/Synthesis/Private/SynthesisBlueprintUtilities.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Runtime\Synthesis\Source\Synthesis\Public\SynthesisBlueprintUtilities.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Synthesis\SynthesisBlueprintUtilities.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Runtime/Synthesis/Source/Synthesis/Private/SynthesisModule.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Runtime\Synthesis\Source\Synthesis\Public\UI/SynthSlateStyle.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\UMG\Public\Components/Widget.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\UMG\Public\Components/Visual.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\UMG\Visual.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\UMG\Public\Components/SlateWrapperTypes.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\UMG\SlateWrapperTypes.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\UMG\Public\Slate/WidgetTransform.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\UMG\WidgetTransform.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\UMG\Public\Blueprint/WidgetNavigation.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Types/NavigationMetaData.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\UMG\WidgetNavigation.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\UMG\Widget.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Styling/SlateStyle.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateBorderBrush.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateBoxBrush.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateColorBrush.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateImageBrush.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Synthesis\SynthSlateStyle.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Runtime/Synthesis/Source/Synthesis/Private/UI/SSynth2DSlider.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Runtime\Synthesis\Source\Synthesis\Public\UI/SSynth2DSlider.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Runtime\Synthesis\Source\Synthesis\Public\UI/Synth2DSliderStyle.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Synthesis\Synth2DSliderStyle.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Runtime/Synthesis/Source/Synthesis/Private/UI/SSynthKnob.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Runtime\Synthesis\Source\Synthesis\Public\UI/SSynthKnob.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Runtime\Synthesis\Source\Synthesis\Public\UI/SynthKnobStyle.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Synthesis\SynthKnobStyle.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Runtime\Synthesis\Source\Synthesis\Public\UI/SSynthTooltip.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Runtime/Synthesis/Source/Synthesis/Private/UI/SSynthTooltip.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Slate\Public\Widgets/SToolTip.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Runtime/Synthesis/Source/Synthesis/Private/UI/Synth2DSlider.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Runtime\Synthesis\Source\Synthesis\Public\UI/Synth2DSlider.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Runtime\Synthesis\Source\Synthesis\Public\UI/SynthTypes.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Synthesis\Synth2DSlider.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Runtime/Synthesis/Source/Synthesis/Private/UI/Synth2DSliderStyle.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Projects\Public\Interfaces/IPluginManager.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Projects\Public\PluginDescriptor.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\projects\public\ModuleDescriptor.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\projects\public\CustomBuildSteps.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\projects\public\LocalizationDescriptor.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\projects\public\PluginReferenceDescriptor.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Runtime/Synthesis/Source/Synthesis/Private/UI/SynthKnob.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Runtime\Synthesis\Source\Synthesis\Public\UI/SynthKnob.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\UMG\Public\Components/TextBlock.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\UMG\Public\Components/TextWidgetTypes.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\UMG\TextWidgetTypes.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\UMG\TextBlock.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\UMG\Public\Components/ContentWidget.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\UMG\Public\Components/PanelWidget.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\UMG\Public\Components/PanelSlot.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\UMG\PanelSlot.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\UMG\Public\Blueprint/UserWidget.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\UMG\Public\Components/NamedSlotInterface.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\UMG\NamedSlotInterface.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Slate\Public\Widgets/Layout/Anchors.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Slate\Anchors.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\UMG\Public\Animation/WidgetAnimation.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\MovieScene\Public\MovieSceneSequence.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\moviescene\public\MovieSceneSignedObject.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\MovieScene\MovieSceneSignedObject.generated.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\moviescene\public\MovieSceneTrack.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\moviescene\public\MovieSceneSection.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\moviescene\public\MovieSceneFwd.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\moviescene\public\MovieSceneSequenceID.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\MovieScene\MovieSceneSequenceID.generated.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\moviescene\public\KeyParams.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\moviescene\public\MovieScene.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\moviescene\public\MovieSceneSpawnable.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\MovieScene\MovieSceneSpawnable.generated.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\moviescene\public\MovieSceneBinding.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\MovieScene\MovieSceneBinding.generated.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\moviescene\public\MovieScenePossessable.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\MovieScene\MovieScenePossessable.generated.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\moviescene\public\MovieSceneObjectBindingID.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\MovieScene\MovieSceneObjectBindingID.generated.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\moviescene\public\MovieSceneFrameMigration.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\MovieScene\MovieSceneFrameMigration.generated.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\moviescene\public\MovieSceneTimeController.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\MovieScene\MovieScene.generated.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\moviescene\public\Evaluation/Blending/MovieSceneBlendType.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\MovieScene\MovieSceneBlendType.generated.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\moviescene\public\Evaluation/MovieSceneCompletionMode.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\MovieScene\MovieSceneCompletionMode.generated.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\moviescene\public\Generators/MovieSceneEasingFunction.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\MovieScene\MovieSceneEasingFunction.generated.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\moviescene\public\Evaluation/MovieSceneEvaluationCustomVersion.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\moviescene\public\EntitySystem/MovieSceneEntityBuilder.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\moviescene\public\EntitySystem/MovieSceneEntityIDs.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\moviescene\public\EntitySystem/MovieSceneEntitySystemTypes.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\moviescene\public\EntitySystem/MovieSceneEntityManager.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/InlineValue.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/StrongObjectPtr.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\moviescene\public\Evaluation/MovieScenePlayback.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\moviescene\public\Evaluation/MovieSceneSequenceTransform.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Algo/AllOf.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\moviescene\public\evaluation\MovieSceneTimeTransform.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\MovieScene\MovieSceneTimeTransform.generated.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\moviescene\public\evaluation\MovieSceneTimeWarping.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\MovieScene\MovieSceneTimeWarping.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\MovieScene\MovieSceneSequenceTransform.generated.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\moviescene\public\EntitySystem/MovieSceneEntityFactoryTypes.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\moviescene\public\EntitySystem/MovieSceneComponentTypeHandler.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\moviescene\public\EntitySystem/MovieSceneComponentTypeInfo.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\moviescene\public\EntitySystem/MovieSceneComponentDebug.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\moviescene\public\EntitySystem/MovieSceneComponentPtr.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Algo/AnyOf.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Algo/NoneOf.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Algo/Common.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\moviescene\public\EntitySystem/MovieSceneComponentRegistry.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\moviescene\public\EntitySystem/MovieSceneEntityFactory.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\moviescene\public\EntitySystem/MovieSceneEntityRange.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\moviescene\public\EntitySystem/MovieSceneEntitySystemTask.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\moviescene\public\EntitySystem/EntityAllocationIterator.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\moviescene\public\EntitySystem/MovieSceneComponentAccessors.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\moviescene\public\EntitySystem/MovieSceneSystemTaskDependencies.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\moviescene\public\EntitySystem/MovieSceneSequenceInstanceHandle.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\moviescene\public\EntitySystem/MovieSceneEntitySystemDirectedGraph.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/GeneratedTypeName.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\MovieScene\MovieSceneSection.generated.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\moviescene\public\Compilation/MovieSceneSegmentCompiler.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\moviescene\public\Evaluation/MovieSceneSegment.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\UObject/SequencerObjectVersion.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\MovieScene\MovieSceneSegment.generated.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\moviescene\public\MovieSceneTrackEvaluationField.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\moviescene\public\Evaluation/MovieSceneEvaluationTree.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\MovieScene\MovieSceneTrackEvaluationField.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\MovieScene\MovieSceneTrack.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\MovieScene\MovieSceneSequence.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\UMG\Public\Animation/WidgetAnimationBinding.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\UMG\WidgetAnimationBinding.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\UMG\WidgetAnimation.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\UMG\Public\Blueprint/WidgetBlueprintGeneratedClass.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\UMG\Public\Binding/DynamicPropertyPath.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\PropertyPath\Public\PropertyPathHelpers.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\propertypath\public\PropertyTypeCompatibility.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\PropertyPath\PropertyPathHelpers.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\UMG\DynamicPropertyPath.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\UMG\WidgetBlueprintGeneratedClass.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\UMG\UserWidget.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\UMG\PanelWidget.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\UMG\ContentWidget.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Synthesis\SynthKnob.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\UMG\Public\Blueprint/WidgetLayoutLibrary.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\UMG\WidgetLayoutLibrary.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\UMG\Public\Components/CanvasPanelSlot.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SConstraintCanvas.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\UMG\CanvasPanelSlot.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Runtime/Synthesis/Source/Synthesis/Private/UI/SynthKnobStyle.cpp
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Runtime/Synthesis/Source/Synthesis/Private/UI/SynthSlateStyle.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Styling/SlateStyleRegistry.h
