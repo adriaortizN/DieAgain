@@ -1,0 +1,42 @@
+<NintendoSdkMeta>
+  <Core>
+    <Name>DieAgain</Name>
+    <ApplicationId>0x01004b9000490000</ApplicationId>
+    <Is64BitInstruction>True</Is64BitInstruction>
+    <ProcessAddressSpace>AddressSpace64Bit</ProcessAddressSpace>
+    <MainThreadStackSize>0x10000</MainThreadStackSize>
+    <SystemResourceSize>0x5000000</SystemResourceSize>
+  </Core>
+  <Application>
+    <DisplayVersion>0.1</DisplayVersion>
+    <Rating>
+      <Organization>ESRB</Organization>
+      <Age>0</Age>
+    </Rating>
+    <UserAccountSaveDataSize>0x400000</UserAccountSaveDataSize>
+    <UserAccountSaveDataJournalSize>0x100000</UserAccountSaveDataJournalSize>
+    <LogoType>LicensedByNintendo</LogoType>
+    <ReleaseVersion>1</ReleaseVersion>
+    <SupportedLanguage>AmericanEnglish</SupportedLanguage>
+    <Title>
+      <Language>AmericanEnglish</Language>
+      <Name>DieAgain</Name>
+      <Publisher>VarnGameDev</Publisher>
+    </Title>
+    <Icon>
+      <Language>AmericanEnglish</Language>
+      <IconPath>E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Build\Switch\Resources\Icons\AmericanEnglish.bmp</IconPath>
+    </Icon>
+    <LogoHandling>Auto</LogoHandling>
+    <TouchScreenUsage>Supported</TouchScreenUsage>
+    <Screenshot>Allow</Screenshot>
+    <StartupUserAccount>None</StartupUserAccount>
+    <SaveDataOwnerId>0x01004b9000490000</SaveDataOwnerId>
+    <DataLossConfirmation>Required</DataLossConfirmation>
+    <CrashReport>Allow</CrashReport>
+    <VideoCapture>Disable</VideoCapture>
+    <RuntimeAddOnContentInstall>Deny</RuntimeAddOnContentInstall>
+    <UserAccountSwitchLock>Disable</UserAccountSwitchLock>
+    <HtmlDocumentPath>E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Switch\HtmlDocument_Staging</HtmlDocumentPath>
+  </Application>
+</NintendoSdkMeta>
