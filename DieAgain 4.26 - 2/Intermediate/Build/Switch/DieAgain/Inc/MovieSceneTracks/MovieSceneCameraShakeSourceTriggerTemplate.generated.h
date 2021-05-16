@@ -1,0 +1,30 @@
+// Copyright Epic Games, Inc. All Rights Reserved.
+/*===========================================================================
+	Generated code exported from UnrealHeaderTool.
+	DO NOT modify this manually! Edit the corresponding .h files instead!
+===========================================================================*/
+
+#include "UObject/ObjectMacros.h"
+#include "UObject/ScriptMacros.h"
+
+PRAGMA_DISABLE_DEPRECATION_WARNINGS
+#ifdef MOVIESCENETRACKS_MovieSceneCameraShakeSourceTriggerTemplate_generated_h
+#error "MovieSceneCameraShakeSourceTriggerTemplate.generated.h already included, missing '#pragma once' in MovieSceneCameraShakeSourceTriggerTemplate.h"
+#endif
+#define MOVIESCENETRACKS_MovieSceneCameraShakeSourceTriggerTemplate_generated_h
+
+#define Engine_Source_Runtime_MovieSceneTracks_Private_Evaluation_MovieSceneCameraShakeSourceTriggerTemplate_h_17_GENERATED_BODY \
+	friend struct Z_Construct_UScriptStruct_FMovieSceneCameraShakeSourceTriggerSectionTemplate_Statics; \
+	static class UScriptStruct* StaticStruct(); \
+	FORCEINLINE static uint32 __PPO__TriggerTimes() { return STRUCT_OFFSET(FMovieSceneCameraShakeSourceTriggerSectionTemplate, TriggerTimes); } \
+	FORCEINLINE static uint32 __PPO__TriggerValues() { return STRUCT_OFFSET(FMovieSceneCameraShakeSourceTriggerSectionTemplate, TriggerValues); } \
+	typedef FMovieSceneEvalTemplate Super;
+
+
+template<> MOVIESCENETRACKS_API UScriptStruct* StaticStruct<struct FMovieSceneCameraShakeSourceTriggerSectionTemplate>();
+
+#undef CURRENT_FILE_ID
+#define CURRENT_FILE_ID Engine_Source_Runtime_MovieSceneTracks_Private_Evaluation_MovieSceneCameraShakeSourceTriggerTemplate_h
+
+
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
