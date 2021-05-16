@@ -1,0 +1,343 @@
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/ImageWrapper/Private/Formats/BmpImageWrapper.cpp
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\imagewrapper\private\formats\BmpImageWrapper.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\ImageWrapper\Private\ImageWrapperBase.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\ImageWrapper\Public\IImageWrapper.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Templates/SharedPointer.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Containers/Map.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Algo/Reverse.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Containers/Set.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/StructBuilder.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Containers/SparseArray.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Containers/ScriptArray.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Containers/BitArray.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/EnumClassFlags.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Serialization/StructuredArchive.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Serialization/StructuredArchiveFormatter.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\serialization\Formatters/BinaryArchiveFormatter.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/Optional.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Concepts/Insertable.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Serialization/ArchiveProxy.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Templates/UniqueObj.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Templates/UniquePtr.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Templates/RemoveExtent.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Templates/Tuple.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Delegates/IntegerSequence.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\CoreGlobals.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\HAL/PlatformTLS.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\GenericPlatform/GenericPlatformTLS.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Windows/WindowsPlatformTLS.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\ProfilingDebugging/CpuProfilerTrace.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\TraceLog\Public\Trace/Trace.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\tracelog\public\trace\Detail/Trace.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\TraceLog\Public\Trace/Detail/Channel.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\TraceLog\Public\Trace/Detail/Channel.inl
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Templates/SharedPointerInternals.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Templates/SharedPointerTesting.inl
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\ImageWrapper\Public\BmpImageSupport.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/ObjectMacros.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\CoreMinimal.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Templates/IntegralConstant.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Templates/IsClass.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Misc/Compression.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Misc/FrameNumber.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Misc/Parse.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Math/Color.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Math/ColorList.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Math/IntPoint.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Math/IntVector.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Math/Vector2D.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Math/IntRect.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Misc/ByteSwap.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Internationalization/CulturePointer.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\UObject/WeakObjectPtrTemplates.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Delegates/DelegateSettings.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Delegates/IDelegateInstance.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Delegates/DelegateBase.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Delegates/MulticastDelegateBase.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\UObject/ScriptDelegates.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Delegates/Delegate.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Delegates/DelegateInstanceInterface.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Delegates/DelegateInstancesImpl.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Delegates/DelegateSignatureImpl.inl
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Templates/IsConst.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Delegates/DelegateCombinations.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Internationalization/TextLocalizationManager.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Containers/ArrayView.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Internationalization/TextKey.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Internationalization/LocTesting.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Internationalization/LocKeyFuncs.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Internationalization/LocalizedTextSourceTypes.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Internationalization/Text.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Internationalization/StringTableCoreFwd.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Internationalization/ITextData.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Internationalization/Internationalization.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Math/Vector.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Math/Axis.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Math/Vector4.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Math/VectorRegister.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Math/UnrealMathSSE.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Math/sse_mathfun.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Math/UnrealMathVectorConstants.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Math/UnrealMathVectorCommon.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Math/TwoVectors.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Math/Edge.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\UObject/ObjectVersion.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\UObject/PendingVersions.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Math/Plane.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Math/Sphere.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Math/CapsuleShape.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Math/Rotator.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Misc/DateTime.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Math/RangeBound.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Misc/AutomationEvent.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Misc/Guid.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Hash/CityHash.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Math/Range.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Math/RangeSet.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Math/Box.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Math/Box2D.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Math/BoxSphereBounds.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Math/OrientedBox.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Math/Matrix.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Math/Matrix.inl
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Math/RotationTranslationMatrix.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Math/RotationAboutPointMatrix.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Math/ScaleRotationTranslationMatrix.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Math/RotationMatrix.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Math/Quat.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Math/PerspectiveMatrix.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Math/OrthoMatrix.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Math/TranslationMatrix.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Math/QuatRotationTranslationMatrix.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Math/InverseRotationMatrix.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Math/ScaleMatrix.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Math/MirrorMatrix.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Math/ClipProjectionMatrix.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Math/InterpCurvePoint.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Math/InterpCurve.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Math/CurveEdInterface.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Math/Float32.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Math/Float16.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Math/Float16Color.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Math/Vector2DHalf.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Math/Transform.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Math/ScalarRegister.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Math/TransformVectorized.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Math/TransformNonVectorized.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Math/ConvexHull2d.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Math/UnrealMath.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\Math/Ray.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/Script.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\HAL/ThreadSingleton.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\HAL/TlsAutoCleanup.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Stats/Stats.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\HAL/PlatformTime.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformTime.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformTime.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\stats\StatsCommon.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Stats/Stats2.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\HAL/LowLevelMemTracker.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Containers/LockFreeList.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/NoopCounter.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\HAL/PlatformProcess.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformProcess.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformProcess.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Containers/ChunkedArray.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Containers/IndirectArray.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\ProfilingDebugging/MiscTrace.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\ProfilingDebugging/FormatArgsTrace.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\stats\StatsTrace.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/CoreMisc.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\ImageWrapper\BmpImageSupport.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/ScriptMacros.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/ScriptInterface.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectGlobals.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/PrimaryAssetId.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/StringBuilder.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Containers/StringView.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\containers\StringView.inl
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/LinkerInstancingContext.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceRedirector.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\Serialization/ArchiveUObject.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\Templates/Casts.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/Object.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectBaseUtility.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectBase.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectArray.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectMarks.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\ProfilingDebugging/ResourceSize.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/Class.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Concepts/GetTypeHashable.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Math/RandomStream.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/FallbackStruct.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/ScopeRWLock.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/CoreNative.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GarbageCollection.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\HAL/ThreadSafeBool.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/FastReferenceCollectorOptions.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/ReflectedTypeAccessors.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/FieldPath.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/Field.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Templates/HasGetTypeHash.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/WeakObjectPtr.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/UnrealType.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Containers/List.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\Serialization/SerializedPropertyScope.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Serialization/MemoryImage.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/SecureHash.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Async/AsyncWork.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\HAL/Event.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/IQueuedWork.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/QueuedThreadPool.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformAffinity.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Serialization/BufferReader.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\String/BytesToHex.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\String/HexToBytes.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Templates/RefCounting.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Templates/Greater.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/CoreNetTypes.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/LazyObjectPtr.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/PersistentObjectPtr.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\UObject/PropertyPortFlags.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyTag.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/SoftObjectPtr.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/SoftObjectPath.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/SparseDelegate.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/ScopeLock.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/UndefineUPropertyMacros.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/DefineUPropertyMacros.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/Stack.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/EnumProperty.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/FieldPathProperty.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/ImageWrapper/Private/Formats/ExrImageWrapper.cpp
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\imagewrapper\private\formats\ExrImageWrapper.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\ThirdParty\openexr\Deploy\OpenEXR-2.3.0\OpenEXR/include/ImfIO.h
+e:\ue4.source\unrealengine-4.26\engine\source\thirdparty\openexr\deploy\openexr-2.3.0\openexr\include\ImfInt64.h
+e:\ue4.source\unrealengine-4.26\engine\source\thirdparty\openexr\deploy\openexr-2.3.0\openexr\include\ImathInt64.h
+e:\ue4.source\unrealengine-4.26\engine\source\thirdparty\openexr\deploy\openexr-2.3.0\openexr\include\ImathNamespace.h
+e:\ue4.source\unrealengine-4.26\engine\source\thirdparty\openexr\deploy\openexr-2.3.0\openexr\include\IlmBaseConfig.h
+e:\ue4.source\unrealengine-4.26\engine\source\thirdparty\openexr\deploy\openexr-2.3.0\openexr\include\ImfNamespace.h
+e:\ue4.source\unrealengine-4.26\engine\source\thirdparty\openexr\deploy\openexr-2.3.0\openexr\include\OpenEXRConfig.h
+e:\ue4.source\unrealengine-4.26\engine\source\thirdparty\openexr\deploy\openexr-2.3.0\openexr\include\ImfExport.h
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\string
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\istream
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\ostream
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\ios
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocnum
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\climits
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cmath
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xtgmath.h
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cstdio
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\streambuf
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xiosbase
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocale
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cstring
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\stdexcept
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xstring
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xmemory0
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cstdint
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\limits
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\ymath.h
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cfloat
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cwchar
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xutility
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\utility
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\iosfwd
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xatomic0.h
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\typeinfo
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\vcruntime_typeinfo.h
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocinfo
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocinfo.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt\locale.h
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\memory
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xmemory
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xfacet
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\system_error
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cerrno
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xcall_once.h
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xerrc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt\share.h
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xstring_insert.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\ThirdParty\openexr\Deploy\OpenEXR-2.3.0\OpenEXR/include/ImathBox.h
+e:\ue4.source\unrealengine-4.26\engine\source\thirdparty\openexr\deploy\openexr-2.3.0\openexr\include\ImathVec.h
+e:\ue4.source\unrealengine-4.26\engine\source\thirdparty\openexr\deploy\openexr-2.3.0\openexr\include\ImathExc.h
+e:\ue4.source\unrealengine-4.26\engine\source\thirdparty\openexr\deploy\openexr-2.3.0\openexr\include\IexBaseExc.h
+e:\ue4.source\unrealengine-4.26\engine\source\thirdparty\openexr\deploy\openexr-2.3.0\openexr\include\IexNamespace.h
+e:\ue4.source\unrealengine-4.26\engine\source\thirdparty\openexr\deploy\openexr-2.3.0\openexr\include\IlmBaseConfig.h
+e:\ue4.source\unrealengine-4.26\engine\source\thirdparty\openexr\deploy\openexr-2.3.0\openexr\include\IexExport.h
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\sstream
+e:\ue4.source\unrealengine-4.26\engine\source\thirdparty\openexr\deploy\openexr-2.3.0\openexr\include\ImathExport.h
+e:\ue4.source\unrealengine-4.26\engine\source\thirdparty\openexr\deploy\openexr-2.3.0\openexr\include\ImathLimits.h
+e:\ue4.source\unrealengine-4.26\engine\source\thirdparty\openexr\deploy\openexr-2.3.0\openexr\include\ImathMath.h
+e:\ue4.source\unrealengine-4.26\engine\source\thirdparty\openexr\deploy\openexr-2.3.0\openexr\include\ImathPlatform.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt\math.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt\math.h
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\iostream
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\ThirdParty\openexr\Deploy\OpenEXR-2.3.0\OpenEXR/include/ImfChannelList.h
+e:\ue4.source\unrealengine-4.26\engine\source\thirdparty\openexr\deploy\openexr-2.3.0\openexr\include\ImfName.h
+e:\ue4.source\unrealengine-4.26\engine\source\thirdparty\openexr\deploy\openexr-2.3.0\openexr\include\ImfExport.h
+e:\ue4.source\unrealengine-4.26\engine\source\thirdparty\openexr\deploy\openexr-2.3.0\openexr\include\ImfPixelType.h
+e:\ue4.source\unrealengine-4.26\engine\source\thirdparty\openexr\deploy\openexr-2.3.0\openexr\include\ImfExport.h
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\map
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\tuple
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xtree
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\set
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\ThirdParty\openexr\Deploy\OpenEXR-2.3.0\OpenEXR/include/ImfInputFile.h
+e:\ue4.source\unrealengine-4.26\engine\source\thirdparty\openexr\deploy\openexr-2.3.0\openexr\include\ImfHeader.h
+e:\ue4.source\unrealengine-4.26\engine\source\thirdparty\openexr\deploy\openexr-2.3.0\openexr\include\ImfLineOrder.h
+e:\ue4.source\unrealengine-4.26\engine\source\thirdparty\openexr\deploy\openexr-2.3.0\openexr\include\ImfCompression.h
+e:\ue4.source\unrealengine-4.26\engine\source\thirdparty\openexr\deploy\openexr-2.3.0\openexr\include\ImfTileDescription.h
+e:\ue4.source\unrealengine-4.26\engine\source\thirdparty\openexr\deploy\openexr-2.3.0\openexr\include\ImfForward.h
+e:\ue4.source\unrealengine-4.26\engine\source\thirdparty\openexr\deploy\openexr-2.3.0\openexr\include\ImfExport.h
+e:\ue4.source\unrealengine-4.26\engine\source\thirdparty\openexr\deploy\openexr-2.3.0\openexr\include\ImfFrameBuffer.h
+e:\ue4.source\unrealengine-4.26\engine\source\thirdparty\openexr\deploy\openexr-2.3.0\openexr\include\ImfExport.h
+e:\ue4.source\unrealengine-4.26\engine\source\thirdparty\openexr\deploy\openexr-2.3.0\openexr\include\ImfTiledOutputFile.h
+e:\ue4.source\unrealengine-4.26\engine\source\thirdparty\openexr\deploy\openexr-2.3.0\openexr\include\ImfThreading.h
+e:\ue4.source\unrealengine-4.26\engine\source\thirdparty\openexr\deploy\openexr-2.3.0\openexr\include\ImfExport.h
+e:\ue4.source\unrealengine-4.26\engine\source\thirdparty\openexr\deploy\openexr-2.3.0\openexr\include\ImfGenericOutputFile.h
+e:\ue4.source\unrealengine-4.26\engine\source\thirdparty\openexr\deploy\openexr-2.3.0\openexr\include\ImfVersion.h
+e:\ue4.source\unrealengine-4.26\engine\source\thirdparty\openexr\deploy\openexr-2.3.0\openexr\include\ImfExport.h
+e:\ue4.source\unrealengine-4.26\engine\source\thirdparty\openexr\deploy\openexr-2.3.0\openexr\include\ImfXdr.h
+e:\ue4.source\unrealengine-4.26\engine\source\thirdparty\openexr\deploy\openexr-2.3.0\openexr\include\IexMathExc.h
+e:\ue4.source\unrealengine-4.26\engine\source\thirdparty\openexr\deploy\openexr-2.3.0\openexr\include\half.h
+e:\ue4.source\unrealengine-4.26\engine\source\thirdparty\openexr\deploy\openexr-2.3.0\openexr\include\halfExport.h
+e:\ue4.source\unrealengine-4.26\engine\source\thirdparty\openexr\deploy\openexr-2.3.0\openexr\include\ImfExport.h
+e:\ue4.source\unrealengine-4.26\engine\source\thirdparty\openexr\deploy\openexr-2.3.0\openexr\include\ImfExport.h
+e:\ue4.source\unrealengine-4.26\engine\source\thirdparty\openexr\deploy\openexr-2.3.0\openexr\include\ImfGenericInputFile.h
+e:\ue4.source\unrealengine-4.26\engine\source\thirdparty\openexr\deploy\openexr-2.3.0\openexr\include\ImfExport.h
+e:\ue4.source\unrealengine-4.26\engine\source\thirdparty\openexr\deploy\openexr-2.3.0\openexr\include\ImfExport.h
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\fstream
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\ThirdParty\openexr\Deploy\OpenEXR-2.3.0\OpenEXR/include/ImfOutputFile.h
+e:\ue4.source\unrealengine-4.26\engine\source\thirdparty\openexr\deploy\openexr-2.3.0\openexr\include\ImfExport.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\ThirdParty\openexr\Deploy\OpenEXR-2.3.0\OpenEXR/include/ImfArray.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\ThirdParty\openexr\Deploy\OpenEXR-2.3.0\OpenEXR/include/ImfStdIO.h
+e:\ue4.source\unrealengine-4.26\engine\source\thirdparty\openexr\deploy\openexr-2.3.0\openexr\include\ImfExport.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\ThirdParty\openexr\Deploy\OpenEXR-2.3.0\OpenEXR/include/ImfRgbaFile.h
+e:\ue4.source\unrealengine-4.26\engine\source\thirdparty\openexr\deploy\openexr-2.3.0\openexr\include\ImfRgba.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/ImageWrapper/Private/Formats/IcnsImageWrapper.cpp
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\imagewrapper\private\formats\IcnsImageWrapper.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/ImageWrapper/Private/Formats/IcoImageWrapper.cpp
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\imagewrapper\private\formats\IcoImageWrapper.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\ImageWrapper\Private\Formats/PngImageWrapper.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\ThirdParty/zlib/zlib-1.2.5/Inc/zlib.h
+e:\ue4.source\unrealengine-4.26\engine\source\thirdparty\zlib\zlib-1.2.5\inc\zconf.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\ThirdParty/libPNG/libPNG-1.5.2/png.h
+e:\ue4.source\unrealengine-4.26\engine\source\thirdparty\libpng\libpng-1.5.2\pnglibconf.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt\time.h
+e:\ue4.source\unrealengine-4.26\engine\source\thirdparty\libpng\libpng-1.5.2\pngconf.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\ThirdParty/libPNG/libPNG-1.5.2/pnginfo.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/ImageWrapper/Private/Formats/JpegImageWrapper.cpp
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\imagewrapper\private\formats\JpegImageWrapper.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\ThirdParty\libJPG\jpgd.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\ThirdParty\libJPG\jpgd.cpp
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt\assert.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\ThirdParty\libJPG\jpge.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\ThirdParty\libJPG\jpge.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\ThirdParty\libjpeg-turbo\include\turbojpeg.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/ImageWrapper/Private/Formats/PngImageWrapper.cpp
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/ImageWrapper/Private/ImageWrapperBase.cpp
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/ImageWrapper/Private/ImageWrapperModule.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Modules/ModuleManager.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Modules/ModuleInterface.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Modules/Boilerplate/ModuleBoilerplate.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\ImageWrapper\Public\IImageWrapperModule.h

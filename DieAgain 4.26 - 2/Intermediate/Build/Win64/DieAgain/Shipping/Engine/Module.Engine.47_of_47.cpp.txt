@@ -1,0 +1,309 @@
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/WorldComposition.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/WorldComposition.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\WorldComposition.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/LocalPlayer.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\Subsystems/LocalPlayerSubsystem.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\LocalPlayerSubsystem.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\LocalPlayer.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/LevelStreamingDynamic.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/LevelStreaming.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\LatentActions.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\LevelStreaming.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\LevelStreamingDynamic.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/AssetManager.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\engine\classes\engine\AssetManagerTypes.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\AssetManagerTypes.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\Misc/AssetRegistryInterface.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\engine\classes\engine\StreamableManager.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\AssetRegistry\Public\AssetRegistryModule.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\assetregistry\public\AssetRegistry/AssetRegistryModule.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\assetregistry\public\AssetRegistry/IAssetRegistry.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\AssetRegistry/ARFilter.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\AssetRegistry\IAssetRegistry.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformChunkInstall.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\engine\classes\engine\ContentEncryptionConfig.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\AssetManager.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/WorldSettings.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Algo/Partition.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/MessageDialog.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/DefaultPhysicsVolume.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/PhysicsVolume.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\PhysicsVolume.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\DefaultPhysicsVolume.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\Net/UnrealNetwork.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/GameNetworkManager.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\GameNetworkManager.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\AudioDevice.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/SpectrumAnalyzer.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/AudioFFT.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/FFTAlgorithm.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\SampleBuffer.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\engine\public\AudioDynamicParameter.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Sound/AudioSettings.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\AudioSettings.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Sound/SoundClass.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\SoundClass.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Sound/SoundMix.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\SoundMix.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Sound/SoundSubmix.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\AudioExtensions\Public\IAudioEndpoint.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/MultithreadedPatching.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\AudioExtensions\IAudioEndpoint.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\AudioExtensions\Public\ISoundfieldEndpoint.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\AudioExtensions\ISoundfieldEndpoint.generated.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\engine\classes\sound\SampleBufferIO.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\engine\classes\sound\SoundEffectSubmix.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\SoundEffectSubmix.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\SoundSubmix.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Sound/SoundSourceBus.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Sound/SoundWaveProcedural.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\SoundWaveProcedural.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Sound/AudioBus.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\AudioBus.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\SoundSourceBus.generated.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\engine\public\AudioVirtualLoop.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\engine\public\ActiveSound.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\engine\public\Audio/AudioDebug.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/VolumeFader.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\Misc/UObjectToken.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/MapErrors.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Particles/ParticleEventManager.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Particles/ParticleSystemComponent.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\ParticleSystemComponent.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\ParticleEventManager.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\PhysicsEngine/PhysicsSettings.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\PhysicsCore\Public\PhysicsSettingsEnums.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\PhysicsCore\PhysicsSettingsEnums.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Experimental\Chaos\Public\PhysicsCoreTypes.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Chaos\PhysicsCoreTypes.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\PhysicsCore\Public\PhysicsSettingsCore.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Experimental\Chaos\Public\ChaosSolverConfiguration.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\SolverEventFilters.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Chaos\SolverEventFilters.generated.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/PBDRigidsEvolutionGBF.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/ChaosPerfTest.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\ProfilingDebugging/ScopedTimers.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/Collision/NarrowPhase.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Experimental\ChaosCore\Public\Chaos/Core.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Experimental\ChaosCore\Public\Chaos/Vector.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Experimental\ChaosCore\Public\Chaos/Array.h
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\functional
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\tuple
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\typeinfo
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\vcruntime_typeinfo.h
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\vcruntime_exception.h
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\eh.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt\corecrt_terminate.h
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xstring
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xmemory0
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cstdint
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\limits
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\ymath.h
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cfloat
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cmath
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xtgmath.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Experimental\ChaosCore\Public\Chaos/Pair.h
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\iostream
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\istream
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\ostream
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\ios
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocnum
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\streambuf
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xiosbase
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocale
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\stdexcept
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocinfo
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocinfo.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt\locale.h
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\memory
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xmemory
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xfacet
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\system_error
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cerrno
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xcall_once.h
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xerrc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt\share.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Experimental\ChaosCore\Public\Chaos/Matrix.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/Rotation.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/Transform.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/Collision/CollisionContext.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/Collision/StatsData.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/Box.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/ImplicitObject.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/ImplicitFwd.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/AABB.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/Plane.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\ChaosCheck.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/ParticleHandle.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/PBDRigidClusteredParticles.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Experimental\ChaosCore\Public\Chaos/ArrayCollectionArray.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Experimental\ChaosCore\Public\Chaos/ArrayCollectionArrayBase.h
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\algorithm
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/PBDRigidParticles.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/RigidParticles.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/Collision/CollisionConstraintFlags.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/Framework/MultiBufferResource.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/GeometryParticlesfwd.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/BVHParticles.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/Particles.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Experimental\ChaosCore\Public\Chaos/ArrayCollection.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/GeometryParticles.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/PhysicalMaterials.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/Defines.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/Framework/Handles.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\UObject/PhysicsObjectVersion.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\UObject/ExternalPhysicsMaterialCustomObjectVersion.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/Properties.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/ParticleDirtyFlags.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/KinematicTargets.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\chaos\ParticleProperties.inl
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\chaos\PropertiesTypes.inl
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\chaos\PropertiesTypes.inl
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\chaos\ParticleProperties.inl
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\chaos\ParticleProperties.inl
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\chaos\ShapeProperties.inl
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\chaos\ShapeProperties.inl
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\chaos\ShapeProperties.inl
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\chaos\ParticleProperties.inl
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\chaos\ShapeProperties.inl
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\chaos\ParticleProperties.inl
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\chaos\ParticleProperties.inl
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\chaos\ShapeProperties.inl
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\chaos\ShapeProperties.inl
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\chaos\ParticleProperties.inl
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\chaos\ShapeProperties.inl
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\chaos\ParticleProperties.inl
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\chaos\ParticleProperties.inl
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\chaos\ShapeProperties.inl
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\chaos\ShapeProperties.inl
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\chaos\Framework/PhysicsProxyBase.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\chaos\Framework/PhysicsSolverBase.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\ChaosLog.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Async/ParallelFor.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/Fork.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/EvolutionTraits.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/EvolutionTraits.inl
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/EvolutionTraits.inl
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/ChaosMarshallingManager.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/ParallelFor.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/EvolutionTraits.inl
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/KinematicGeometryParticles.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/ImplicitObjectUnion.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/ISpatialAcceleration.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\chaos\ImplicitObjectTransformed.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/PBDGeometryCollectionParticles.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/ParticleIterator.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/Framework/Parallel.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\ChaosStats.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/ChaosDebugDrawDeclares.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/CollisionResolution.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/CollisionResolutionTypes.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/CollisionResolutionUtil.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/Collision/PBDCollisionConstraint.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/PBDCollisionConstraints.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/Collision/CollisionApplyType.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/Collision/PBDCollisionConstraintHandle.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/ConstraintHandle.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/PBDConstraintContainer.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\chaos\Framework/BufferedData.h
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\queue
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\deque
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\vector
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\sstream
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\string
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xstring_insert.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\chaos\BoundingVolume.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Experimental\ChaosCore\Public\Chaos/ArrayND.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/UniformGrid.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/BoundingVolumeUtilities.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/Sphere.h
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\unordered_set
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xhash
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\list
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\chaos\AABBTree.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/PBDRigidsSOAs.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/Collision/SpatialAccelerationBroadPhase.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/Collision/BroadPhase.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/Collision/CollisionReceiver.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/EvolutionResimCache.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\chaos\ResimCacheBase.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/ISpatialAccelerationCollection.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/Capsule.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/Cylinder.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/Segment.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/Collision/SpatialAccelerationCollisionDetector.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/Collision/CollisionDetector.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/PBDRigidsEvolution.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/PBDCollisionConstraintsPGS.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/PBDConstraintGraph.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/PBDRigidClustering.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/ExternalCollisionData.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/TriangleMesh.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/Map.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/SegmentMesh.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/ClusterCreationParameters.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/PBDConstraintRule.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/PBDConstraintColor.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/Framework/DebugSubstep.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/PBDJointConstraints.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/Joint/JointSolverConstraints.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/PBDJointConstraintTypes.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/PBDJointConstraintUtilities.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/Utilities.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/Joint/JointSolverConstraints.inl
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/Joint/PBDJointSolverGaussSeidel.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/DenseMatrix.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/PBDJointConstraintData.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/PBDConstraintBaseData.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/SpatialAccelerationCollection.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/PendingSpatialData.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/EvolutionTraits.inl
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/PerParticleAddImpulses.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/PerParticleRule.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/PBDParticles.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/DynamicParticles.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/ParticleRule.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/Particle/ParticleUtilities.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/PerParticleEtherDrag.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/PerParticleEulerStepVelocity.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/PerParticleExternalForces.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/PerParticleGravity.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/PerParticleInitForce.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/PerParticlePBDEulerStep.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/EvolutionTraits.inl
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\PBDRigidsSolver.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/Framework/PhysicsProxy.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/PBDRigidDynamicSpringConstraints.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/PBDPositionConstraints.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/PBDSuspensionConstraints.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/PBDSuspensionConstraintTypes.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/PBDSuspensionConstraintData.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\EventManager.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/EvolutionTraits.inl
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Field/FieldSystem.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Field/FieldSystemTypes.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\PBDRigidActiveParticlesBuffer.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/EvolutionTraits.inl
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/EvolutionTraits.inl
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\PhysicsProxy/SingleParticlePhysicsProxyFwd.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\PhysicsProxy/JointConstraintProxy.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\PhysicsProxy/SuspensionConstraintProxy.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\ChaosSolversModule.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Framework/Threading.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/EvolutionTraits.inl
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\experimental\chaos\public\Chaos/EvolutionTraits.inl
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Chaos\ChaosSolverConfiguration.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\PhysicsCore\PhysicsSettingsCore.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\PhysicsSettings.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\UObject/EnterpriseObjectVersion.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\AI/AISystemBase.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\AISystemBase.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\AI/NavigationSystemConfig.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\NavigationSystemConfig.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/BookmarkBase.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\BookmarkBase.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/BookMark.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\BookMark.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Public/Rendering/SkyAtmosphereCommonData.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Components/SkyAtmosphereComponent.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\SkyAtmosphereComponent.generated.h

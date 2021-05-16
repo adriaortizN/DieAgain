@@ -1,0 +1,127 @@
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/Materials/MaterialInstance.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Materials/MaterialInstance.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Materials/MaterialInstanceBasePropertyOverrides.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\MaterialInstanceBasePropertyOverrides.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\MaterialInstance.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Stats/StatsMisc.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\EngineModule.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Materials/MaterialInstanceDynamic.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\MaterialInstanceDynamic.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionScalarParameter.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\MaterialExpressionScalarParameter.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionVectorParameter.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\MaterialExpressionVectorParameter.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionRuntimeVirtualTextureSampleParameter.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionRuntimeVirtualTextureSample.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\VT/RuntimeVirtualTexture.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\RuntimeVirtualTexture.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\MaterialExpressionRuntimeVirtualTextureSample.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\MaterialExpressionRuntimeVirtualTextureSampleParameter.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionStaticSwitchParameter.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionStaticBoolParameter.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\MaterialExpressionStaticBoolParameter.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\MaterialExpressionStaticSwitchParameter.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionStaticComponentMaskParameter.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\MaterialExpressionStaticComponentMaskParameter.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Materials/MaterialFunctionInstance.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\MaterialFunctionInstance.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Materials/MaterialInstanceConstant.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\MaterialInstanceConstant.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Private\Materials/MaterialUniformExpressions.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionTextureProperty.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\MaterialExpressionTextureProperty.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Private\Materials/MaterialInstanceSupport.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/SubsurfaceProfile.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\SubsurfaceProfile.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\ProfilingDebugging/LoadTimeTracker.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\TraceLog\Public\Trace/Trace.inl
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\tracelog\public\trace\Detail/EventNode.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\tracelog\public\trace\Detail/LogScope.inl
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\tracelog\public\trace\Detail/Writer.inl
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\ProfilingDebugging/ScopedTimers.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Serialization/LoadTimeTrace.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Developer\TargetPlatform\Public\Interfaces/ITargetPlatform.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Developer\TargetPlatform\Public\Interfaces/ITargetDevice.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Developer\TargetPlatform\Public\Interfaces/TargetDeviceId.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Developer\TargetPlatform\Public\Interfaces/ITargetPlatformManagerModule.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionCurveAtlasRowParameter.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\MaterialExpressionCurveAtlasRowParameter.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Curves/CurveLinearColor.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\CurveLinearColor.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Curves/CurveLinearColorAtlas.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\CurveLinearColorAtlas.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\HAL/ThreadHeartBeat.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/ScopedSlowTask.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/SlowTask.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Private\Materials/MaterialStaticParameterValueResolver.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\MaterialShaderQualitySettings\Classes\ShaderPlatformQualitySettings.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\MaterialShaderQualitySettings\ShaderPlatformQualitySettings.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\MaterialShaderQualitySettings\Classes\MaterialShaderQualitySettings.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\MaterialShaderQualitySettings\MaterialShaderQualitySettings.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/Materials/MaterialInstanceConstant.cpp
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/Materials/MaterialInstanceDynamic.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/RuntimeErrors.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/Materials/MaterialInterface.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\EditorFramework/AssetImportData.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\AssetImportData.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/Materials/MaterialShader.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Renderer\Public\MaterialShader.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\RenderCore\Public\GlobalShader.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\MaterialShaderType.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\public\SceneRenderTargetParameters.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\RenderCore\Public\RenderGraph.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\rendercore\public\RenderGraphResources.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\rendercore\public\RenderGraphParameter.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\rendercore\public\RenderGraphTextureSubresource.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\rendercore\public\RenderGraphResources.inl
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\rendercore\public\RenderGraphPass.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\rendercore\public\RenderGraphEvent.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\rendercore\public\RenderGraphEvent.inl
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\rendercore\public\RenderGraphParameters.inl
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\rendercore\public\RenderGraphBuilder.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\rendercore\public\RenderGraphValidation.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\rendercore\public\RenderGraphBuilder.inl
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\rendercore\public\RenderGraphUtils.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\rendercore\public\ShaderParameterStruct.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\RenderCore\Public\ShaderParameterUtils.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\ProfilingDebugging/DiagnosticTable.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\HAL/FileManager.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\MeshMaterialShaderType.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\engine\private\materials\MaterialShaderMapLayout.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\ShaderCompiler.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\RenderCore\Public\ShaderCompilerCore.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Developer\DerivedDataCache\Public\DerivedDataCacheInterface.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Private\ShaderDerivedDataVersion.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\ProfilingDebugging/CookStats.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\UObject/EditorObjectVersion.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/Materials/MaterialShared.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\UObject/CoreObjectVersion.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\UObject/FrameworkObjectVersion.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionBreakMaterialAttributes.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\MaterialExpressionBreakMaterialAttributes.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionShadingModel.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\MaterialExpressionShadingModel.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionReroute.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\MaterialExpressionReroute.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionSingleLayerWaterMaterialOutput.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionCustomOutput.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\MaterialExpressionCustomOutput.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\MaterialExpressionSingleLayerWaterMaterialOutput.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\MaterialCompiler.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionSpeedTree.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\MaterialExpressionSpeedTree.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionWorldPosition.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\MaterialExpressionWorldPosition.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionViewProperty.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\MaterialExpressionViewProperty.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Private\Materials/HLSLMaterialTranslator.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Algo/Transform.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionVolumetricAdvancedMaterialOutput.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\MaterialExpressionVolumetricAdvancedMaterialOutput.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionThinTranslucentMaterialOutput.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\MaterialExpressionThinTranslucentMaterialOutput.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\ComponentRecreateRenderStateContext.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Renderer\Public\DecalRenderingCommon.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\ExternalTexture.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/CoreRedirects.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Shaders\Shared\RayTracingDefinitions.h

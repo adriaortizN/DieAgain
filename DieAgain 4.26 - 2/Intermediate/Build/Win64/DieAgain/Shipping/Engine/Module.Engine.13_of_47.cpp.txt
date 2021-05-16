@@ -1,0 +1,152 @@
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/Components/SkinnedMeshComponent.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\DrawDebugHelpers.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\SkeletalRenderPublic.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Private\SkeletalRenderCPUSkin.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\Rendering/SkeletalMeshRenderData.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\Rendering/SkeletalMeshLODRenderData.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\Rendering/MultiSizeIndexContainer.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\Rendering/SkeletalMeshVertexBuffer.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\Rendering/SkeletalMeshDuplicatedVerticesBuffer.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\Rendering/SkeletalMeshVertexClothBuffer.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\Rendering/MorphTargetVertexInfoBuffers.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Private\SkeletalRenderGPUSkin.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\RenderCore\Public\GlobalShader.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\GPUSkinCache.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Private\SkeletalRenderStatic.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/SkeletalMeshSocket.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\SkeletalMeshSocket.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Animation/MorphTarget.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\UObject/EditorObjectVersion.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\MorphTarget.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\AnimationRuntime.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\Animation/SkinWeightProfileManager.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\SkinWeightProfileManager.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/Components/SkyAtmosphereComponent.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Components/SkyAtmosphereComponent.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\SkyAtmosphereComponent.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Atmosphere/AtmosphericFogComponent.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\AtmosphericFogComponent.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Components/ArrowComponent.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\ArrowComponent.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Components/BillboardComponent.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\BillboardComponent.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/MapBuildDataRegistry.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\LightMap.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/LightMapTexture2D.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\LightMapTexture2D.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/TextureCube.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\TextureCube.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\MapBuildDataRegistry.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/MapErrors.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\Misc/UObjectToken.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/Components/SkyLightComponent.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Components/SkyLightComponent.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Components/LightComponentBase.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\LightComponentBase.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\SkyLightComponent.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/SkyLight.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\SkyLight.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\Net/UnrealNetwork.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\ShaderCompiler.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\RenderCore\Public\ShaderCompilerCore.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\RenderCore\Public\ShaderParameterUtils.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\ScreenRendering.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/Components/SphereComponent.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Components/SphereComponent.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\ShapeComponent.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\SphereComponent.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/Components/SplineComponent.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Components/SplineComponent.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\SplineComponent.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/Components/SplineMeshComponent.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Components/SplineMeshComponent.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\SplineMeshComponent.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Private\SplineMeshSceneProxy.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\AI/NavigationSystemHelpers.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Experimental\ChaosCore\Public\Chaos/Core.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Experimental\ChaosCore\Public\Chaos/Vector.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Experimental\ChaosCore\Public\Chaos/Array.h
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\functional
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\tuple
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\typeinfo
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\vcruntime_typeinfo.h
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\vcruntime_exception.h
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\eh.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt\corecrt_terminate.h
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xstring
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xmemory0
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cstdint
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\limits
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\ymath.h
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cfloat
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cmath
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xtgmath.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Experimental\ChaosCore\Public\Chaos/Pair.h
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\iostream
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\istream
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\ostream
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\ios
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocnum
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\streambuf
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xiosbase
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocale
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\stdexcept
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocinfo
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocinfo.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt\locale.h
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\memory
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xmemory
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xfacet
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\system_error
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cerrno
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xcall_once.h
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xerrc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt\share.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Experimental\ChaosCore\Public\Chaos/Matrix.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Experimental\Chaos\Public\Chaos/Rotation.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Experimental\Chaos\Public\Chaos/Transform.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavCollisionBase.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\NavCollisionBase.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/StaticMeshSocket.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\StaticMeshSocket.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Renderer\Public\MeshMaterialShader.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\MeshMaterialShaderType.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\engine\public\MaterialShaderType.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\public\MaterialShader.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\public\SceneRenderTargetParameters.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\RenderCore\Public\RenderGraph.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\rendercore\public\RenderGraphResources.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\rendercore\public\RenderGraphParameter.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\rendercore\public\RenderGraphTextureSubresource.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\rendercore\public\RenderGraphResources.inl
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\rendercore\public\RenderGraphPass.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\rendercore\public\RenderGraphEvent.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\rendercore\public\RenderGraphEvent.inl
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\rendercore\public\RenderGraphParameters.inl
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\rendercore\public\RenderGraphBuilder.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\rendercore\public\RenderGraphValidation.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\rendercore\public\RenderGraphBuilder.inl
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\rendercore\public\RenderGraphUtils.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\rendercore\public\ShaderParameterStruct.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\public\MeshDrawShaderBindings.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\StaticMeshLight.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\engine\public\StaticLighting.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/Components/SpotLightComponent.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Components/SpotLightComponent.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Components/PointLightComponent.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Components/LocalLightComponent.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Components/LightComponent.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\LightComponent.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\LocalLightComponent.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\PointLightComponent.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\SpotLightComponent.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Private\PointLightSceneProxy.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\LocalLightSceneProxy.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/Components/StaticMeshComponent.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\ShadowMap.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/ShadowMapTexture2D.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\ShadowMapTexture2D.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\ComponentRecreateRenderStateContext.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Algo/AllOf.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Algo/Transform.h

@@ -1,0 +1,126 @@
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/CoreUObject/Private/Serialization/AsyncLoading2.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\Serialization/AsyncLoading2.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\IO/IoContainerId.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\Serialization/AsyncPackageLoader.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\HAL/PlatformFilemanager.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\HAL/RunnableThread.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\HAL/PlatformAffinity.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformAffinity.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Stats/StatsMisc.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/CoreStats.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Internationalization/Culture.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/MessageDialog.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\UObject/NameBatchSerialization.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\Serialization/DeferredMessageLog.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\Misc/ExclusiveLoadPackageTimeTracker.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\ProfilingDebugging/LoadTimeTracker.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\TraceLog\Public\Trace/Trace.inl
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\tracelog\public\trace\Detail/EventNode.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\tracelog\public\trace\Detail/LogScope.inl
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\tracelog\public\trace\Detail/Writer.inl
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\ProfilingDebugging/ScopedTimers.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Serialization/LoadTimeTrace.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\HAL/ThreadHeartBeat.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\HAL/Runnable.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\HAL/ExceptionHandling.h
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\excpt.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Async/TaskGraphInterfaces.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Containers/LockFreeFixedSizeAllocator.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/MemStack.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\ProfilingDebugging/CsvProfiler.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Containers/Queue.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\ProfilingDebugging/CsvProfilerTrace.h
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\atomic
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xatomic.h
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xatomic0.h
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xutility
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\climits
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\utility
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\iosfwd
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cstdio
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cstring
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cwchar
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xxatomic
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xxatomic
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xxatomic
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xxatomic
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xxatomic
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xxatomic
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xxatomic
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xxatomic
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xxatomic
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xxatomic
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xxatomic
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xxatomic
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xxatomic
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xxatomic
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xxatomic
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xxatomic
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Private\UObject/UObjectArchetypeInternal.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Private\UObject/GarbageCollectionInternal.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Private\UObject/GCScopeLock.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Private\Serialization/LoadTimeTracePrivate.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\ProfilingDebugging/CountersTrace.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Private\Serialization/AsyncPackage.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Private\Serialization/UnversionedPropertySerialization.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Private\Serialization/Zenaphore.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\Serialization/BulkData.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Containers/SortedMap.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Async/AsyncFileHandle.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\coreuobject\public\serialization\BulkDataCommon.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\coreuobject\public\serialization\BulkData2.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\coreuobject\public\serialization\BulkDataBuffer.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\IO/IoDispatcher.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/IEngineCrypto.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Features/IModularFeatures.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Serialization/LargeMemoryReader.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Serialization/MemoryReader.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectClusters.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Async/Async.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Async/ParallelFor.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/Fork.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\HAL/LowLevelMemStats.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\HAL/IPlatformFileOpenLogWrapper.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/DataDrivenPlatformInfoRegistry.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/CoreUObject/Private/Serialization/AsyncPackageLoader.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Private\Serialization/AsyncLoadingThread.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Private\Serialization/AsyncLoading.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/CoreUObject/Private/Serialization/BulkData.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/PathViews.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Serialization/LargeMemoryWriter.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Serialization/LargeMemoryData.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Developer\TargetPlatform\Public\Interfaces/ITargetPlatform.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Developer\TargetPlatform\Public\Interfaces/ITargetDevice.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Developer\TargetPlatform\Public\Interfaces/TargetDeviceId.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\UObject/DebugSerializationFlags.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Private\Serialization/AsyncLoadingPrivate.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Async/MappedFileHandle.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/CoreUObject/Private/Serialization/BulkData2.cpp
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/CoreUObject/Private/Serialization/BulkDataManifest.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\Serialization/BulkDataManifest.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/CoreUObject/Private/Serialization/DeferredMessageLog.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Logging/TokenizedMessage.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/Attribute.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Logging/MessageLog.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/CoreUObject/Private/Serialization/DuplicateDataReader.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\Serialization/DuplicatedObject.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\Serialization/DuplicatedDataReader.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/CoreUObject/Private/Serialization/DuplicateDataWriter.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\Serialization/DuplicatedDataWriter.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/CoreUObject/Private/Serialization/FindReferencersArchive.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\Serialization/FindReferencersArchive.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/CoreUObject/Private/Serialization/Formatters/JsonArchiveInputFormatter.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\Serialization/Formatters/JsonArchiveInputFormatter.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Json\Public\Serialization/JsonReader.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Json\Public\Serialization/JsonTypes.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Json\Public\Dom/JsonObject.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Json\Public\JsonGlobals.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Json\Public\Dom/JsonValue.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Json\Public\Serialization/JsonSerializer.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Json\Public\Serialization/JsonWriter.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Json\Public\Policies/PrettyJsonPrintPolicy.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Json\Public\Policies/JsonPrintPolicy.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/Base64.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/CoreUObject/Private/Serialization/Formatters/JsonArchiveOutputFormatter.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\Serialization/Formatters/JsonArchiveOutputFormatter.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/CoreUObject/Private/Serialization/LoadTimeTrace.cpp

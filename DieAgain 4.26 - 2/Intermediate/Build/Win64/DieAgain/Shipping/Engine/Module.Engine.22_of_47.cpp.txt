@@ -1,0 +1,216 @@
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/LatentActionManager.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\LatentActions.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/Layers/Layer.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Layers/Layer.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\Layer.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/LegacyScreenPercentageDriver.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\LegacyScreenPercentageDriver.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/Level.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/ScopedSlowTask.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/SlowTask.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\PrecomputedLightVolume.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Math/GenericOctree.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\math\GenericOctree.inl
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\PrecomputedVolumetricLightmap.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Math/PackedVector.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\RenderCore\Public\ShaderParameterStruct.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\rendercore\public\RenderGraphResources.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\rendercore\public\RenderGraphParameter.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\rendercore\public\RenderGraphTextureSubresource.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\rendercore\public\RenderGraphResources.inl
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\RenderCore\Public\GlobalShader.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/MapBuildDataRegistry.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\LightMap.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/LightMapTexture2D.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\LightMapTexture2D.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/TextureCube.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\TextureCube.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\MapBuildDataRegistry.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Components/LightComponent.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Components/LightComponentBase.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\LightComponentBase.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\LightComponent.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Containers/TransArray.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/NavigationObjectBase.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\NavigationObjectBase.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/LevelScriptBlueprint.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\LevelScriptBlueprint.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/LevelScriptActor.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\LevelScriptActor.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/WorldComposition.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\WorldComposition.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\StaticLighting.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\TickTaskManagerInterface.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/LevelBounds.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\LevelBounds.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Async/ParallelFor.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/Fork.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/LevelStreaming.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\LevelStreaming.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\LevelUtils.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Components/ModelComponent.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\ModelComponent.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/LevelActorContainer.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\LevelActorContainer.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/StaticMeshActor.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\StaticMeshActor.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\ComponentRecreateRenderStateContext.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\HAL/FileManager.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Algo/Copy.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Algo/Common.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\ObjectTrace.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\engine\public\TraceFilter.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Animation/AnimInstance.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Animation/AnimMontage.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Animation/TimeStretchCurve.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\TimeStretchCurve.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\AnimMontage.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Animation/AnimNotifies/AnimNotify.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\AnimNotify.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\AnimInstance.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\ObjectTrace.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/LevelActor.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceFile.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/ScriptStackTracker.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\EditorSupportDelegates.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\ServerStatReplicator.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\GameModeBase.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/MapErrors.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/NetDriver.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\PacketHandlers\PacketHandler\Public\PacketHandler.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Net\Common\Public\Net/Common/Packets/PacketTraits.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Sockets\Public\IPAddress.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\sockets\public\SocketTypes.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Net\Common\Public\Net/Common/Packets/PacketView.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Net\Common\Public\Net/Common/Sockets/SocketErrors.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\engine\classes\engine\Channel.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\Channel.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Net\Core\Public\Net/Core/Misc/DDoSDetection.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\Net/NetAnalyticsTypes.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\Net/NetConnectionIdHandler.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\NetDriver.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Components/BoxComponent.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\ShapeComponent.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\BoxComponent.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/TimeGuard.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\engine\private\GameFramework/SpawnActorTimer.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/LevelActorContainer.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/FastReferenceCollector.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectClusters.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/LevelBounds.cpp
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/LevelScriptActor.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/InputSettings.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/PlayerInput.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\GestureRecognizer.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\KeyState.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\PlayerInput.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\InputSettings.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/InputDelegateBinding.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/DynamicBlueprintBinding.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\DynamicBlueprintBinding.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\InputDelegateBinding.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/LevelScriptBlueprint.cpp
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/LevelStreaming.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/ReferenceChainSearch.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\HAL/ThreadHeartBeat.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/LevelStreamingAlwaysLoaded.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\LevelStreamingAlwaysLoaded.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/LevelStreamingPersistent.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\LevelStreamingPersistent.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/LevelStreamingVolume.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\LevelStreamingVolume.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/LevelStreamingDynamic.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\LevelStreamingDynamic.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Components/BrushComponent.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\BrushComponent.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/CoreSettings.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\CoreSettings.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/PackageMapClient.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/NetworkVersion.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\Net/DataBunch.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Net\Core\Public\Net/Core/Trace/Config.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\PackageMapClient.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Serialization/LoadTimeTrace.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/LevelStreamingVolume.cpp
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/LevelTick.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Materials/MaterialParameterCollectionInstance.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\MaterialParameterCollectionInstance.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/NetConnection.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\Net/NetPacketNotify.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Net\Core\Public\Net/Core/Misc/ResizableCircularQueue.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\engine\public\net\Util/SequenceNumber.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\engine\public\net\Util/SequenceHistory.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\ProfilingDebugging/Histogram.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Containers/CircularBuffer.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\engine\classes\engine\ReplicationDriver.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\ReplicationDriver.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\Analytics/EngineNetAnalytics.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Net\Core\Public\Net/Core/Analytics/NetAnalytics.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\NetConnection.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\Collision.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\HeadMountedDisplay\Public\IHeadMountedDisplay.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\headmounteddisplay\public\HeadMountedDisplayTypes.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\headmounteddisplay\public\IMotionController.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\HeadMountedDisplay\HeadMountedDisplayTypes.generated.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\headmounteddisplay\public\LateUpdateManager.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\HeadMountedDisplay\Public\IXRTrackingSystem.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\headmounteddisplay\public\IIdentifiableXRDevice.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\HeadMountedDisplay\IIdentifiableXRDevice.generated.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\headmounteddisplay\public\IXRInput.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\headmounteddisplay\public\XRGestureConfig.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\HeadMountedDisplay\XRGestureConfig.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Camera/CameraPhotography.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\FXSystem.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\InGamePerformanceTracker.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\engine\private\Streaming/TextureStreamingHelpers.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\GPUSkinCache.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/LevelUtils.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/FeedbackContext.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/SlowTaskStack.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/Light.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/Light.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\Light.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Components/ArrowComponent.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\ArrowComponent.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/PointLight.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\PointLight.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/DirectionalLight.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\DirectionalLight.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/GeneratedMeshAreaLight.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/SpotLight.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\SpotLight.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\GeneratedMeshAreaLight.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\LightingBuildOptions.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\Net/UnrealNetwork.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Components/DirectionalLightComponent.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\DirectionalLightComponent.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Components/PointLightComponent.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Components/LocalLightComponent.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\LocalLightComponent.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\PointLightComponent.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/LightMap.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\ShadowMap.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/ShadowMapTexture2D.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\ShadowMapTexture2D.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Developer\TargetPlatform\Public\Interfaces/ITargetPlatform.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Developer\TargetPlatform\Public\Interfaces/ITargetDevice.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Developer\TargetPlatform\Public\Interfaces/TargetDeviceId.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/InstancedStaticMesh.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\StaticMeshLight.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\VT/LightmapVirtualTexture.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\LightmapVirtualTexture.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\VT/VirtualTexture.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\VT/VirtualTextureBuildSettings.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\VirtualTextureBuildSettings.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\VirtualTexture.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\EngineModule.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\ProfilingDebugging/LoadTimeTracker.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\TraceLog\Public\Trace/Trace.inl
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\tracelog\public\trace\Detail/EventNode.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\tracelog\public\trace\Detail/LogScope.inl
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\tracelog\public\trace\Detail/Writer.inl
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\ProfilingDebugging/ScopedTimers.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\TextureLayout.h

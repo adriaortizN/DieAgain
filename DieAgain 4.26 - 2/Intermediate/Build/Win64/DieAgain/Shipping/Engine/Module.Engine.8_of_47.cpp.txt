@@ -1,0 +1,222 @@
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/AudioStreamingCache.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\AudioStreamingCache.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\engine\public\AudioStreaming.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/ObjectKey.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Sound/AudioSettings.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\AudioSettings.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Developer\DerivedDataCache\Public\DerivedDataCacheInterface.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\HAL/PlatformFile.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformFile.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Async/Async.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\AudioDecompress.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\AudioDevice.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/SpectrumAnalyzer.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/AudioFFT.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/FFTAlgorithm.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\SampleBuffer.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\engine\public\AudioDynamicParameter.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Sound/SoundClass.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\SoundClass.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Sound/SoundMix.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\SoundMix.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Sound/SoundSubmix.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\AudioExtensions\Public\IAudioEndpoint.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/MultithreadedPatching.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\AudioExtensions\IAudioEndpoint.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\AudioExtensions\Public\ISoundfieldEndpoint.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\AudioExtensions\ISoundfieldEndpoint.generated.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\engine\classes\sound\SampleBufferIO.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\engine\classes\sound\SoundEffectSubmix.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\SoundEffectSubmix.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\SoundSubmix.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Sound/SoundSourceBus.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Sound/SoundWaveProcedural.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\SoundWaveProcedural.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Sound/AudioBus.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\AudioBus.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\SoundSourceBus.generated.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\engine\public\AudioVirtualLoop.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\engine\public\ActiveSound.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\engine\public\Audio/AudioDebug.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/VolumeFader.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\AudioCompressionSettingsUtils.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\engine\public\AudioPluginUtilities.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/AudioThread.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\HAL/ExceptionHandling.h
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\excpt.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/AudioVirtualLoop.cpp
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/AudioVolume.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Sound/ReverbEffect.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\ReverbEffect.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Components/BrushComponent.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\BrushComponent.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\Net/UnrealNetwork.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/AudioWaveFormatParser.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\AudioWaveFormatParser.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/BasedPosition.cpp
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/BatchedElements.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\SimpleElementShaders.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\RenderCore\Public\GlobalShader.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Renderer\Public\MeshPassProcessor.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\public\MeshMaterialShader.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\MeshMaterialShaderType.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\engine\public\MaterialShaderType.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\public\MaterialShader.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\public\SceneRenderTargetParameters.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\RenderCore\Public\RenderGraph.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\rendercore\public\RenderGraphResources.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\rendercore\public\RenderGraphParameter.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\rendercore\public\RenderGraphTextureSubresource.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\rendercore\public\RenderGraphResources.inl
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\rendercore\public\RenderGraphPass.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\rendercore\public\RenderGraphEvent.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\rendercore\public\RenderGraphEvent.inl
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\rendercore\public\RenderGraphParameters.inl
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\rendercore\public\RenderGraphBuilder.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\rendercore\public\RenderGraphValidation.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\rendercore\public\RenderGraphBuilder.inl
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\rendercore\public\RenderGraphUtils.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\rendercore\public\ShaderParameterStruct.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\RenderCore\Public\ShaderParameterUtils.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\public\MeshDrawShaderBindings.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Experimental/Containers/RobinHoodHashTable.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/BlockingVolume.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/BlockingVolume.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\BlockingVolume.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/Blueprint.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\UObject/BlueprintsObjectVersion.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\UObject/FrameworkObjectVersion.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\Serialization/PropertyLocalizationDataGathering.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\EdGraph/EdGraph.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\BlueprintUtilities.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\EdGraph.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/Breakpoint.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\Breakpoint.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Components/TimelineComponent.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\TimelineComponent.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/InheritableComponentHandler.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\InheritableComponentHandler.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/BlueprintFunctionLibrary.cpp
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/BlueprintGeneratedClass.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Stats/StatsMisc.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/CoreRedirects.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\Serialization/ObjectReader.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\Internationalization/TextPackageNamespaceUtil.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Internationalization/TextNamespaceUtil.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\Serialization/ObjectWriter.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/DynamicBlueprintBinding.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\DynamicBlueprintBinding.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/TimelineTemplate.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\TimelineTemplate.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/LevelScriptActor.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\LevelScriptActor.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/SCS_Node.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/SimpleConstructionScript.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\SimpleConstructionScript.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\SCS_Node.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\UObject/CoreObjectVersion.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Net\Core\Public\Net/Core/PushModel/PushModel.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/BlueprintMapLibrary.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Kismet/BlueprintMapLibrary.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\BlueprintMapLibrary.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/BlueprintSetLibrary.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Kismet/BlueprintSetLibrary.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\BlueprintSetLibrary.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Kismet/KismetArrayLibrary.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\KismetArrayLibrary.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/BoneContainer.cpp
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/BookMark.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/BookMark.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/BookmarkBase.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\BookmarkBase.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\BookMark.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/BookMark2D.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\BookMark2D.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/Breakpoint.cpp
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/Brush.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/Polys.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\Polys.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/BrushBuilder.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\BrushBuilder.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\ActorEditorUtils.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/BrushBuilder.cpp
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/BrushShape.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/BrushShape.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\BrushShape.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/BufferVisualizationData.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\BufferVisualizationData.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/Camera/CameraActor.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Camera/CameraActor.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\CameraActor.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\KismetSystemLibrary.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Sound/DialogueTypes.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\DialogueTypes.generated.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\engine\classes\kismet\GameplayStaticsTypes.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\GameplayStaticsTypes.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\GameplayStatics.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Camera/CameraComponent.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\CameraComponent.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Camera/CameraAnim.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\CameraAnim.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/Camera/CameraAnim.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\Serialization/ArchiveCountMem.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Matinee/MatineeActor.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\MatineeActor.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Matinee/InterpData.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\InterpData.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Matinee/InterpGroupInst.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\InterpGroupInst.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Matinee/InterpGroupCamera.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Matinee/InterpGroup.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\Interpolation.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\InterpGroup.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\InterpGroupCamera.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Matinee/InterpTrackMove.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Matinee/InterpTrack.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\InterpTrack.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\InterpTrackMove.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/Camera/CameraAnimInst.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Camera/CameraAnimInst.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\CameraAnimInst.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Matinee/InterpTrackInstMove.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Matinee/InterpTrackInst.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\InterpTrackInst.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\InterpTrackInstMove.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Matinee/InterpTrackFloatProp.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Matinee/InterpTrackFloatBase.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\InterpTrackFloatBase.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\InterpTrackFloatProp.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/Camera/CameraComponent.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\Misc/UObjectToken.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\Rendering/MotionVectorSimulation.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/MapErrors.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Components/DrawFrustumComponent.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\DrawFrustumComponent.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\HeadMountedDisplay\Public\IHeadMountedDisplay.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\headmounteddisplay\public\HeadMountedDisplayTypes.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\headmounteddisplay\public\IMotionController.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\HeadMountedDisplay\HeadMountedDisplayTypes.generated.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\headmounteddisplay\public\LateUpdateManager.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\HeadMountedDisplay\Public\IXRTrackingSystem.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\headmounteddisplay\public\IIdentifiableXRDevice.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\HeadMountedDisplay\IIdentifiableXRDevice.generated.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\headmounteddisplay\public\IXRInput.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\headmounteddisplay\public\XRGestureConfig.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\HeadMountedDisplay\XRGestureConfig.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\HeadMountedDisplay\Public\IXRCamera.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Slate\Public\Widgets/Input/NumericTypeInterface.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Math/BasicMathExpressionEvaluator.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Internationalization/FastDecimalFormat.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/Camera/CameraModifier.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Camera/CameraModifier.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\CameraModifier.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/Camera/CameraModifier_CameraShake.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Camera/CameraModifier_CameraShake.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\CameraModifier_CameraShake.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Camera/CameraShakeSourceComponent.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\CameraShakeSourceComponent.generated.h

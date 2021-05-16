@@ -1,0 +1,206 @@
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Shipping\NavigationSystem\Definitions.NavigationSystem.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/NavigationSystem/Private/AbstractNavData.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\NavigationSystem\Public\AbstractNavData.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\navigationsystem\public\NavFilters/NavigationQueryFilter.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\navigationsystem\public\NavAreas/NavArea.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavAreaBase.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\NavAreaBase.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\NavigationSystem\NavArea.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\NavigationSystem\NavigationQueryFilter.generated.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\navigationsystem\public\NavigationData.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\navigationsystem\public\NavigationSystemTypes.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\AI/NavigationSystemConfig.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\NavigationSystemConfig.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavigationDataInterface.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\NavigationDataInterface.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\NavigationSystem\NavigationData.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\NavigationSystem\AbstractNavData.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/NavigationSystem/Private/NavAreas/NavArea.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\NavigationSystem\Public\NavigationSystem.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\navigationsystem\public\NavigationOctree.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\navigationsystem\public\NavigationOctreeController.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\navigationsystem\public\NavigationDirtyAreasController.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Math/MovingWindowAverageFast.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\NavigationSystem\NavigationSystem.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/NavigationSystem/Private/NavAreas/NavArea_Default.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\NavigationSystem\Public\NavAreas/NavArea_Default.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\NavigationSystem\NavArea_Default.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/NavigationSystem/Private/NavAreas/NavArea_LowHeight.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\NavigationSystem\Public\NavAreas/NavArea_LowHeight.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\NavigationSystem\NavArea_LowHeight.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/NavigationSystem/Private/NavAreas/NavArea_Null.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\NavigationSystem\Public\NavAreas/NavArea_Null.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\NavigationSystem\NavArea_Null.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\NavigationSystem\Public\NavMesh/RecastNavMesh.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\NavigationSystem\Public\NavMesh/NavMeshPath.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\NavigationSystem\Public\NavigationPath.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\NavigationSystem\NavigationPath.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\NavigationSystem\RecastNavMesh.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/NavigationSystem/Private/NavAreas/NavArea_Obstacle.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\NavigationSystem\Public\NavAreas/NavArea_Obstacle.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\NavigationSystem\NavArea_Obstacle.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/NavigationSystem/Private/NavAreas/NavAreaMeta.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\NavigationSystem\Public\NavAreas/NavAreaMeta.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\NavigationSystem\NavAreaMeta.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/NavigationSystem/Private/NavAreas/NavAreaMeta_SwitchByAgent.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\NavigationSystem\Public\NavAreas/NavAreaMeta_SwitchByAgent.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\NavigationSystem\NavAreaMeta_SwitchByAgent.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/NavigationSystem/Private/NavCollision.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\NavigationSystem\Public\NavCollision.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavCollisionBase.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\AI/NavigationSystemHelpers.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Experimental\ChaosCore\Public\Chaos/Core.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Experimental\ChaosCore\Public\Chaos/Vector.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Experimental\ChaosCore\Public\Chaos/Array.h
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\functional
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\tuple
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\typeinfo
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\vcruntime_typeinfo.h
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\vcruntime_exception.h
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\eh.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt\corecrt_terminate.h
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xstring
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xmemory0
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cstdint
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\limits
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\ymath.h
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cfloat
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cmath
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xtgmath.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Experimental\ChaosCore\Public\Chaos/Pair.h
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\iostream
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\istream
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\ostream
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\ios
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocnum
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\streambuf
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xiosbase
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocale
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\stdexcept
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocinfo
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocinfo.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt\locale.h
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\memory
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xmemory
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xfacet
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\system_error
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cerrno
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xcall_once.h
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xerrc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt\share.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Experimental\ChaosCore\Public\Chaos/Matrix.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Experimental\Chaos\Public\Chaos/Rotation.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Experimental\Chaos\Public\Chaos/Transform.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\NavCollisionBase.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\NavigationSystem\NavCollision.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Developer\DerivedDataCache\Public\DerivedDataPluginInterface.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Developer\DerivedDataCache\Public\DerivedDataCacheInterface.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\ProfilingDebugging/CookStats.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Developer\TargetPlatform\Public\Interfaces/ITargetPlatform.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Developer\TargetPlatform\Public\Interfaces/ITargetDevice.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Developer\TargetPlatform\Public\Interfaces/TargetDeviceId.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/NavigationSystem/Private/NavFilters/NavigationQueryFilter.cpp
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/NavigationSystem/Private/NavFilters/RecastFilter_UseDefaultArea.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\NavigationSystem\Public\NavFilters/RecastFilter_UseDefaultArea.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\NavigationSystem\RecastFilter_UseDefaultArea.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\NavigationSystem\Public\NavMesh/RecastQueryFilter.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Navmesh\Public\Detour/DetourNavMesh.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Navmesh\Public\Detour/DetourAlloc.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Navmesh\Public\Detour/DetourStatus.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Navmesh\Public\Detour/DetourNavMeshQuery.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Navmesh\Public\Detour/DetourCommon.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/NavigationSystem/Private/NavGraph/NavGraphGenerator.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\NavigationSystem\Private\NavGraph/NavGraphGenerator.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\AI/NavDataGenerator.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/NavigationSystem/Private/NavGraph/NavigationGraph.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\NavigationSystem\Public\NavGraph/NavigationGraph.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\NavigationSystem\NavigationGraph.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\EngineUtils.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\NavigationSystem\Public\NavNodeInterface.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\NavigationSystem\NavNodeInterface.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\NavigationSystem\Public\NavGraph/NavigationGraphNodeComponent.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\NavigationSystem\NavigationGraphNodeComponent.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\NavigationSystem\Public\NavGraph/NavigationGraphNode.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\NavigationSystem\NavigationGraphNode.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/NavigationSystem/Private/NavigationData.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\VisualLogger/VisualLogger.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\VisualLogger/VisualLoggerTypes.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/NavigationSystem/Private/NavigationDataHandler.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\NavigationSystem\Public\NavigationDataHandler.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\NavigationSystem\Public\NavMesh/RecastNavMeshGenerator.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\NavigationSystem\Public\NavMesh/RecastHelpers.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\NavigationSystem\Public\NavDebugTypes.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Navmesh\Public\Recast/Recast.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/NavigationSystem/Private/NavigationDirtyAreasController.cpp
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/NavigationSystem/Private/NavigationInterfaces.cpp
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/NavigationSystem/Private/NavigationInvokerComponent.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\NavigationSystem\Public\NavigationInvokerComponent.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\NavigationSystem\NavigationInvokerComponent.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/NavigationSystem/Private/NavigationOctree.cpp
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/NavigationSystem/Private/NavigationOctreeController.cpp
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/NavigationSystem/Private/NavigationPath.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/Canvas.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\CanvasItem.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/Font.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/FontImportOptions.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\FontImportOptions.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Fonts/FontProviderInterface.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\SlateCore\FontProviderInterface.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\Font.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\Canvas.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\DrawDebugHelpers.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Debug/DebugDrawService.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\DebugDrawService.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/NavigationSystem/Private/NavigationSystem.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\NavigationSystem\Public\NavMesh/NavMeshBoundsVolume.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\NavigationSystem\NavMeshBoundsVolume.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavigationDataChunk.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\NavigationDataChunk.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\NavigationSystem\Public\NavLinkCustomInterface.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\NavigationSystem\NavLinkCustomInterface.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\NavigationSystem\Public\CrowdManagerBase.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\NavigationSystem\CrowdManagerBase.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/NavigationSystem/Private/NavigationSystemModule.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\NavigationSystem\Public\NavigationSystemModule.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/NavigationSystem/Private/NavigationSystemTypes.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\NavigationSystem\Public\NavLinkHostInterface.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\NavigationSystem\NavLinkHostInterface.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\NavigationSystem\Public\NavigationPathGenerator.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\NavigationSystem\NavigationPathGenerator.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/NavigationSystem/Private/NavigationTestingActor.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\NavigationSystem\Public\NavigationTestingActor.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavPathObserverInterface.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\NavPathObserverInterface.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\NavigationSystem\NavigationTestingActor.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/CollisionProfile.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\CollisionProfile.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\NavigationSystem\Public\NavMesh/NavTestRenderingComponent.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\DebugRenderSceneProxy.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\NavigationSystem\NavTestRenderingComponent.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Components/CapsuleComponent.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\ShapeComponent.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\CapsuleComponent.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/NavigationSystem/Private/NavLinkComponent.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\NavigationSystem\Public\NavLinkComponent.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\NavigationSystem\NavLinkComponent.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\NavigationSystem\Public\NavLinkRenderingProxy.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\NavigationSystem\Public\NavLinkTrivial.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\NavigationSystem\NavLinkTrivial.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/NavigationSystem/Private/NavLinkCustomComponent.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\NavigationSystem\Public\NavLinkCustomComponent.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\navigationsystem\public\NavRelevantComponent.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\NavigationSystem\NavRelevantComponent.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\NavigationSystem\NavLinkCustomComponent.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\AI/Navigation/PathFollowingAgentInterface.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\PathFollowingAgentInterface.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/NavigationSystem/Private/NavLinkRenderingComponent.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\NavigationSystem\Public\NavLinkRenderingComponent.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\NavigationSystem\NavLinkRenderingComponent.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/NavigationSystem/Private/NavMesh/NavMeshBoundsVolume.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Components/BrushComponent.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\BrushComponent.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/NavigationSystem/Private/NavMesh/NavMeshPath.cpp
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/NavigationSystem/Private/NavMesh/NavMeshRenderingComponent.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\NavigationSystem\Public\NavMesh/NavMeshRenderingComponent.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\NavigationSystem\NavMeshRenderingComponent.generated.h

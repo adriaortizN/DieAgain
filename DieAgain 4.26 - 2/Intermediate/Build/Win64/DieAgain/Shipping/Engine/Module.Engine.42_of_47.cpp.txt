@@ -1,0 +1,122 @@
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/StereoLayerFunctionLibrary.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Kismet/StereoLayerFunctionLibrary.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\StereoLayerFunctionLibrary.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\IStereoLayers.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\engine\public\StereoLayerShapes.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\HeadMountedDisplay\Public\IXRTrackingSystem.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\headmounteddisplay\public\HeadMountedDisplayTypes.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\headmounteddisplay\public\IMotionController.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\HeadMountedDisplay\HeadMountedDisplayTypes.generated.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\headmounteddisplay\public\IIdentifiableXRDevice.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\HeadMountedDisplay\IIdentifiableXRDevice.generated.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\headmounteddisplay\public\IXRInput.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\headmounteddisplay\public\XRGestureConfig.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\HeadMountedDisplay\XRGestureConfig.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\HeadMountedDisplay\Public\IXRLoadingScreen.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/StereoLayerRendering.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\StereoLayerRendering.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\RenderCore\Public\GlobalShader.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\RenderCore\Public\ShaderParameterUtils.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/StereoLayerShapes.cpp
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/StereoRendering.cpp
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/StreamableManager.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/StreamableManager.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Serialization/LoadTimeTrace.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/StreamableRenderAsset.cpp
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/Streaming/AsyncTextureStreaming.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Private\Streaming/AsyncTextureStreaming.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Private\Streaming/StreamingTexture.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Private\Streaming/TextureInstanceView.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Private\Streaming/StreamingManagerTexture.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Private\Streaming/TextureStreamingHelpers.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Private\Streaming/LevelTextureManager.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\engine\private\streaming\StaticTextureInstanceManager.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Private\Streaming/TextureInstanceManager.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Private\Streaming/TextureInstanceState.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Private\Streaming/TextureInstanceTask.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\engine\private\streaming\DynamicTextureInstanceManager.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/Streaming/DynamicTextureInstanceManager.cpp
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/Streaming/LandscapeMeshMobileUpdate.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Private\Streaming/LandscapeMeshMobileUpdate.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Landscape\Classes\LandscapeComponent.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\landscape\classes\LandscapePhysicalMaterial.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\landscape\classes\LandscapeWeightmapUsage.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Landscape\LandscapeWeightmapUsage.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Landscape\LandscapeComponent.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Landscape\Public\LandscapeRenderMobile.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\landscape\public\LandscapeRender.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Landscape\Classes\LandscapeProxy.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Landscape\LandscapeProxy.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/MapBuildDataRegistry.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\LightMap.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/LightMapTexture2D.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\LightMapTexture2D.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/TextureCube.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\TextureCube.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\MapBuildDataRegistry.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime/Landscape/Private/LandscapePrivate.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Private\Streaming/RenderAssetUpdate.inl
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/Streaming/LevelTextureManager.cpp
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/Streaming/RenderAssetUpdate.cpp
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/Streaming/SkeletalMeshUpdate.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Private\Streaming/SkeletalMeshUpdate.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\Rendering/SkeletalMeshRenderData.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\Rendering/SkeletalMeshLODRenderData.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\Rendering/MultiSizeIndexContainer.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\Rendering/SkeletalMeshVertexBuffer.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\Rendering/SkeletalMeshDuplicatedVerticesBuffer.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\Rendering/SkeletalMeshVertexClothBuffer.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\Rendering/MorphTargetVertexInfoBuffers.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/Streaming/StaticMeshUpdate.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Private\Streaming/StaticMeshUpdate.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/Streaming/StaticTextureInstanceManager.cpp
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/Streaming/StreamingManagerTexture.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\DeviceProfiles/DeviceProfile.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/TextureLODSettings.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\TextureLODSettings.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\DeviceProfile.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\DeviceProfiles/DeviceProfileManager.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\DeviceProfileManager.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Developer\TargetPlatform\Public\Interfaces/ITargetPlatformManagerModule.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Developer\TargetPlatform\Public\Interfaces/ITargetDevice.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Developer\TargetPlatform\Public\Interfaces/TargetDeviceId.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Developer\TargetPlatform\Public\Interfaces/ITargetPlatform.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/Streaming/StreamingTexture.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\HAL/FileManager.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/Streaming/Texture2DMipAllocator_AsyncCreate.cpp
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\engine\private\streaming\Texture2DMipAllocator_AsyncCreate.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\engine\private\streaming\TextureMipAllocator.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\Streaming/TextureMipDataProvider.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\Rendering/Texture2DResource.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\Rendering/StreamableTextureResource.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/Streaming/Texture2DMipAllocator_AsyncReallocate.cpp
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\engine\private\streaming\Texture2DMipAllocator_AsyncReallocate.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/Streaming/Texture2DMipDataProvider_DDC.cpp
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\engine\private\streaming\Texture2DMipDataProvider_DDC.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Developer\DerivedDataCache\Public\DerivedDataCacheInterface.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Private\Streaming/Texture2DStreamIn_DDC.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\engine\private\streaming\Texture2DStreamIn.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\engine\private\streaming\Texture2DUpdate.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/Streaming/Texture2DMipDataProvider_IO.cpp
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\engine\private\streaming\Texture2DMipDataProvider_IO.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/Streaming/Texture2DStreamIn.cpp
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/Streaming/Texture2DStreamIn_DDC.cpp
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/Streaming/Texture2DStreamIn_DDC_AsyncCreate.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Private\Streaming/Texture2DStreamIn_DDC_AsyncCreate.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/Streaming/Texture2DStreamIn_DDC_AsyncReallocate.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Private\Streaming/Texture2DStreamIn_DDC_AsyncReallocate.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/Streaming/Texture2DStreamIn_IO.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Private\Streaming/Texture2DStreamIn_IO.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/Streaming/Texture2DStreamIn_IO_AsyncCreate.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Private\Streaming/Texture2DStreamIn_IO_AsyncCreate.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/Streaming/Texture2DStreamIn_IO_AsyncReallocate.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Private\Streaming/Texture2DStreamIn_IO_AsyncReallocate.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/Streaming/Texture2DStreamIn_IO_Virtual.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Private\Streaming/Texture2DStreamIn_IO_Virtual.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/Streaming/Texture2DStreamOut_AsyncReallocate.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Private\Streaming/Texture2DStreamOut_AsyncReallocate.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/Streaming/Texture2DStreamOut_Virtual.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Private\Streaming/Texture2DStreamOut_Virtual.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/Streaming/Texture2DUpdate.cpp
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/Streaming/TextureInstanceState.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Private\Streaming/TextureInstanceView.inl

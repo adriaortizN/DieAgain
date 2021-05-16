@@ -1,0 +1,85 @@
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/AudioDecompress.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\AudioDecompress.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\AudioDevice.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/SpectrumAnalyzer.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/AudioFFT.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/FFTAlgorithm.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\SampleBuffer.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\engine\public\AudioDynamicParameter.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Sound/AudioSettings.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\AudioSettings.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Sound/SoundClass.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\SoundClass.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Sound/SoundMix.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\SoundMix.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Sound/SoundSubmix.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\AudioExtensions\Public\IAudioEndpoint.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/MultithreadedPatching.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\AudioExtensions\IAudioEndpoint.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\AudioExtensions\Public\ISoundfieldEndpoint.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\AudioExtensions\ISoundfieldEndpoint.generated.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\engine\classes\sound\SampleBufferIO.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\engine\classes\sound\SoundEffectSubmix.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\SoundEffectSubmix.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\SoundSubmix.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Sound/SoundSourceBus.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Sound/SoundWaveProcedural.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\SoundWaveProcedural.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Sound/AudioBus.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\AudioBus.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\SoundSourceBus.generated.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\engine\public\AudioVirtualLoop.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\engine\public\ActiveSound.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\engine\public\Audio/AudioDebug.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/VolumeFader.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Developer\TargetPlatform\Public\Interfaces/IAudioFormat.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\ADPCMAudioInfo.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/AudioDerivedData.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\AudioDerivedData.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Developer\DerivedDataCache\Public\DerivedDataPluginInterface.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/ScopedSlowTask.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/SlowTask.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Developer\TargetPlatform\Public\Interfaces/ITargetPlatform.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Developer\TargetPlatform\Public\Interfaces/ITargetDevice.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Developer\TargetPlatform\Public\Interfaces/TargetDeviceId.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Developer\TargetPlatform\Public\Interfaces/ITargetPlatformManagerModule.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Developer\DerivedDataCache\Public\DerivedDataCacheInterface.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\ProfilingDebugging/CookStats.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\AudioCompressionSettingsUtils.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\engine\public\AudioPluginUtilities.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\engine\public\AudioStreamingCache.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\engine\public\AudioStreaming.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/ObjectKey.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/AudioDevice.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\AudioEffect.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\AudioEffect.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\DrawDebugHelpers.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/GameUserSettings.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\Scalability.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\GameUserSettings.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\EngineSettings\Classes\GeneralProjectSettings.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\EngineSettings\GeneralProjectSettings.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\HAL/FileManager.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceArchiveWrapper.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Sound/ReverbEffect.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\ReverbEffect.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Sound/SoundCue.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Sound/SoundNode.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\SoundNode.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\SoundCue.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Sound/SoundNodeWavePlayer.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Sound/SoundNodeAssetReferencer.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\SoundNodeAssetReferencer.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\SoundNodeWavePlayer.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\AudioMixer\Public\AudioMixerDevice.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\audiomixer\public\Quartz/AudioMixerClockManager.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/AudioDeviceManager.cpp
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/AudioDynamicParameter.cpp
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/AudioEffect.cpp
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/AudioPluginUtilities.cpp
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/AudioSettings.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Sound/SoundNodeQualityLevel.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\SoundNodeQualityLevel.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/AudioStreaming.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\HAL/PlatformFile.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformFile.h

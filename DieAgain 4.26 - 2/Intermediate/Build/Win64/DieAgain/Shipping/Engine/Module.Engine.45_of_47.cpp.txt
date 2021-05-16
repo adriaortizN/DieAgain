@@ -1,0 +1,275 @@
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/UnrealExporter.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\UnrealExporter.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Exporters/Exporter.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\Exporter.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\HAL/FileManager.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/FileHelper.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceFile.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Serialization/BufferArchive.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/FeedbackContext.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/SlowTask.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/SlowTaskStack.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\AssetExportTask.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\AssetExportTask.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GCObjectScopeGuard.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/Selection.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\Selection.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/UnrealNetwork.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\Net/UnrealNetwork.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/UpdateTextureShaders.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\UpdateTextureShaders.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\RenderCore\Public\GlobalShader.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/URL.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\EngineSettings\Classes\GameMapsSettings.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\EngineSettings\GameMapsSettings.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\AssetRegistry\Public\AssetRegistryModule.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\assetregistry\public\AssetRegistry/AssetRegistryModule.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\assetregistry\public\AssetRegistry/IAssetRegistry.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\Misc/AssetRegistryInterface.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\AssetRegistry/ARFilter.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\AssetRegistry\IAssetRegistry.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/UserActivityTracking.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\UserActivityTracking.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/UserDefinedEnum.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/UserDefinedEnum.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\UserDefinedEnum.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\UObject/EditorObjectVersion.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/UserDefinedStruct.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/UserDefinedStruct.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\UserDefinedStruct.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\UObject/FrameworkObjectVersion.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/UserInterface/Canvas.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/Canvas.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\Canvas.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Slate\Public\Framework/Application/SlateApplication.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Slate\Public\Framework/Application/IMenu.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Application/SlateWindowHelper.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Rendering/SlateRenderer.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateDynamicImageBrush.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Application/SlateApplicationBase.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Application/ThrottleManager.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Widgets/IToolTip.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Layout/WidgetPath.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Layout/WidgetPath.inl
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Slate\Public\Framework/Application/MenuStack.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Slate\Public\Framework/SlateDelegates.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Slate\Public\Framework/Application/GestureDetector.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\EngineFontServices.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Internationalization/BreakIterator.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Internationalization/IBreakIterator.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\RenderCore\Public\OneColorShader.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\rendercore\public\ShaderParameterUtils.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\RenderCore\Public\ClearQuad.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Renderer\Public\MeshPassProcessor.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\public\MeshMaterialShader.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\MeshMaterialShaderType.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\engine\public\MaterialShaderType.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\public\MaterialShader.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\public\SceneRenderTargetParameters.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\RenderCore\Public\RenderGraph.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\rendercore\public\RenderGraphResources.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\rendercore\public\RenderGraphParameter.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\rendercore\public\RenderGraphTextureSubresource.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\rendercore\public\RenderGraphResources.inl
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\rendercore\public\RenderGraphPass.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\rendercore\public\RenderGraphEvent.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\rendercore\public\RenderGraphEvent.inl
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\rendercore\public\RenderGraphParameters.inl
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\rendercore\public\RenderGraphBuilder.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\rendercore\public\RenderGraphValidation.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\rendercore\public\RenderGraphBuilder.inl
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\rendercore\public\RenderGraphUtils.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\rendercore\public\ShaderParameterStruct.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\renderer\public\MeshDrawShaderBindings.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Experimental/Containers/RobinHoodHashTable.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Debug/ReporterGraph.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Debug/ReporterBase.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\ReporterBase.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\ReporterGraph.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Fonts/FontMeasure.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\EngineModule.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/UserInterface/CanvasItem.cpp
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/UserInterface/Console.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/Console.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\EngineSettings\Classes\ConsoleSettings.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\EngineSettings\ConsoleSettings.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\Console.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/LocalPlayer.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\Subsystems/LocalPlayerSubsystem.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\LocalPlayerSubsystem.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\LocalPlayer.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Slate\Public\Widgets/SViewport.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/LevelScriptActor.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\LevelScriptActor.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/DefaultValueHelper.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/InputSettings.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/PlayerInput.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\GestureRecognizer.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\KeyState.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\PlayerInput.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\InputSettings.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Stats/StatsData.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/TextFilter.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/TextFilterExpressionEvaluator.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/ExpressionParser.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/TextFilterUtils.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/IFilter.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\ApplicationCore\Public\HAL/PlatformApplicationMisc.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\ApplicationCore\Public\Windows/WindowsPlatformApplicationMisc.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\ApplicationCore\Public\GenericPlatform/GenericPlatformApplicationMisc.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/AssetManager.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\engine\classes\engine\AssetManagerTypes.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\AssetManagerTypes.generated.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\engine\classes\engine\StreamableManager.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformChunkInstall.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\engine\classes\engine\ContentEncryptionConfig.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\AssetManager.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/UserInterface/EngineFontServices.cpp
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/UserInterface/InputSettings.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Windows/WindowsHWrapper.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Windows/MinWindows.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\Windows.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\sdkddkver.h
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\excpt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\windef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\minwindef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\winnt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\kernelspecs.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\basetsd.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\guiddef.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\pshpack4.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\pshpack4.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\pshpack2.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\poppack.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\poppack.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\pshpack8.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\poppack.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\pshpack1.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\poppack.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\pshpack1.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\poppack.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\ktmtypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\winbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\minwinbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\processenv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\fileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\debugapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\utilapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\handleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\errhandlingapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\fibersapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\namedpipeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\profileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\heapapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\ioapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\synchapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\interlockedapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\processthreadsapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\sysinfoapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\memoryapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\enclaveapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\threadpoollegacyapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\threadpoolapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\jobapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\jobapi2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\wow64apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\libloaderapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\securitybaseapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\namespaceapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\systemtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\processtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\securityappcontainer.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\realtimeapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\winerror.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\timezoneapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\wingdi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\winuser.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\tvout.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\datetimeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\stringapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\wincon.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\consoleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\winver.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\verrsrc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\winreg.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\reason.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\winnetwk.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\wnnc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\stralign.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\imm.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\ime_cmodes.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/UserInterface/PlayerInput.cpp
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/UserInterface/VisualizeRT.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateColorBrush.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Widgets/Images/SImage.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Widgets/SLeafWidget.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Slate\Public\Widgets/Text/STextBlock.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Slate\Public\Framework/Text/TextLayout.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Slate\Public\Framework/Text/TextRunRenderer.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Slate\Public\Framework/Text/TextLineHighlight.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Slate\Public\Framework/Text/IRun.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Slate\Public\Framework/Text/ShapedTextCacheFwd.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Slate\TextLayout.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SSplitter.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Slate\Public\Widgets/Views/SHeaderRow.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SBorder.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Slate\Public\Widgets/Views/STableViewBase.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Slate\Public\Framework/Layout/IScrollableWidget.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Slate\Public\Framework/Views/ITypedTableView.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Slate\ITypedTableView.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Slate\Public\Framework/Layout/InertialScrollManager.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Slate\Public\Framework/Layout/Overscroll.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Slate\STableViewBase.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Slate\Public\Widgets/Views/STableRow.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SBox.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Slate\Public\Widgets/Views/SExpanderArrow.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Slate\Public\Framework/Views/TableViewTypeTraits.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Widgets/Accessibility/SlateCoreAccessibleWidgets.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Widgets/Accessibility/SlateAccessibleWidgetCache.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Widgets/Accessibility/SlateAccessibleMessageHandler.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Slate\Public\Widgets/Views/SListView.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Slate\Public\Framework/Views/TableViewMetadata.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Types/SlateConstants.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SScrollBar.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\RenderCore\Public\VisualizeTexture.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/UserInterfaceSettings.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/UserInterfaceSettings.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\UserInterfaceSettings.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/DPICustomScalingRule.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\DPICustomScalingRule.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/VectorField.cpp
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\engine\private\VectorField.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\engine\private\VectorFieldVisualization.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\FXSystem.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\VectorField/VectorField.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\VectorField.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\VectorField/VectorFieldAnimated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\VectorFieldAnimated.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\VectorField/VectorFieldStatic.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\VectorFieldStatic.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Components/VectorFieldComponent.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\VectorFieldComponent.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Engine/Private/VectorFieldVisualization.cpp

@@ -1,0 +1,90 @@
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Shipping\AudioSynesthesia\Definitions.AudioSynesthesia.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Runtime/AudioSynesthesia/Source/AudioSynesthesia/Private/AudioSynesthesiaModule.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Runtime\AudioSynesthesia\Source\AudioSynesthesia\Public\AudioSynesthesiaModule.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Runtime\AudioSynesthesia\Source\AudioSynesthesiaCore\Public\LoudnessNRTFactory.h
+e:\ue4.source\unrealengine-4.26\engine\plugins\runtime\audiosynesthesia\source\audiosynesthesiacore\public\LoudnessAnalyzer.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/AudioFFT.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/FFTAlgorithm.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\AudioAnalyzer\Public\IAudioAnalyzerNRTInterface.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/SlidingWindow.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Runtime\AudioSynesthesia\Source\AudioSynesthesiaCore\Public\ConstantQNRTFactory.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/ConstantQ.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/FloatArrayMath.h
+e:\ue4.source\unrealengine-4.26\engine\plugins\runtime\audiosynesthesia\source\audiosynesthesiacore\public\ConstantQAnalyzer.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Runtime\AudioSynesthesia\Source\AudioSynesthesiaCore\Public\OnsetNRTFactory.h
+e:\ue4.source\unrealengine-4.26\engine\plugins\runtime\audiosynesthesia\source\audiosynesthesiacore\public\OnsetAnalyzer.h
+e:\ue4.source\unrealengine-4.26\engine\plugins\runtime\audiosynesthesia\source\audiosynesthesiacore\public\PeakPicker.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/MelScale.h
+e:\ue4.source\unrealengine-4.26\engine\plugins\runtime\audiosynesthesia\source\audiosynesthesia\private\AudioSynesthesiaLog.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Runtime/AudioSynesthesia/Source/AudioSynesthesia/Private/AudioSynesthesiaNRT.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Runtime\AudioSynesthesia\Source\AudioSynesthesia\Classes\AudioSynesthesiaNRT.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\AudioAnalyzer\Classes\AudioAnalyzerNRT.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\audioanalyzer\classes\AudioAnalyzerAsset.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\AudioAnalyzer\AudioAnalyzerAsset.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\AudioAnalyzer\AudioAnalyzerNRT.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\AudioSynesthesia\AudioSynesthesiaNRT.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Runtime/AudioSynesthesia/Source/AudioSynesthesia/Private/ConstantQNRT.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Runtime\AudioSynesthesia\Source\AudioSynesthesia\Classes\ConstantQNRT.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\AudioMixer\Public\AudioMixerBlueprintLibrary.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\AudioMixer\Classes\SubmixEffects/AudioMixerSubmixEffectDynamicsProcessor.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\AudioDevice.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Components/AudioComponent.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Sound/QuartzSubscription.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\audiomixer\public\Quartz/AudioMixerClockHandle.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\audiomixer\public\Quartz/QuartzSubsystem.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\AudioMixer\QuartzSubsystem.generated.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\audiomixer\public\Quartz/QuartzMetronome.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\AudioMixer\AudioMixerClockHandle.generated.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\audiomixer\public\Quartz/AudioMixerQuantizedCommands.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\audiomixer\public\quartz\AudioMixerClock.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\AudioComponent.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/SpectrumAnalyzer.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\SampleBuffer.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\engine\public\AudioDynamicParameter.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Sound/AudioSettings.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\AudioSettings.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Sound/SoundClass.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\SoundClass.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Sound/SoundMix.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\SoundMix.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Sound/SoundSubmix.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\AudioExtensions\Public\IAudioEndpoint.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/MultithreadedPatching.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\AudioExtensions\IAudioEndpoint.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\AudioExtensions\Public\ISoundfieldEndpoint.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\AudioExtensions\ISoundfieldEndpoint.generated.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\engine\classes\sound\SampleBufferIO.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\engine\classes\sound\SoundEffectSubmix.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\SoundEffectSubmix.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\SoundSubmix.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Sound/SoundSourceBus.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Sound/SoundWaveProcedural.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\SoundWaveProcedural.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Sound/AudioBus.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\AudioBus.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\SoundSourceBus.generated.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\engine\public\AudioVirtualLoop.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\engine\public\ActiveSound.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\engine\public\Audio/AudioDebug.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/VolumeFader.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/DynamicsProcessor.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/EnvelopeFollower.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/Delay.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/WaveTableOsc.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\signalprocessing\public\dsp\Filter.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/ModulationMatrix.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/BiQuadFilter.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\AudioMixer\AudioMixerSubmixEffectDynamicsProcessor.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Sound/SoundCue.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Sound/SoundNode.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\SoundNode.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\Engine\SoundCue.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\AudioMixer\AudioMixerBlueprintLibrary.generated.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\AudioSynesthesia\ConstantQNRT.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Runtime\AudioSynesthesia\Source\AudioSynesthesiaCore\Public\InterpolateSorted.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Runtime/AudioSynesthesia/Source/AudioSynesthesia/Private/LoudnessNRT.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Runtime\AudioSynesthesia\Source\AudioSynesthesia\Classes\LoudnessNRT.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\AudioSynesthesia\LoudnessNRT.generated.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Plugins/Runtime/AudioSynesthesia/Source/AudioSynesthesia/Private/OnsetNRT.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Plugins\Runtime\AudioSynesthesia\Source\AudioSynesthesia\Classes\OnsetNRT.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\AudioSynesthesia\OnsetNRT.generated.h

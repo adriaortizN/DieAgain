@@ -1,0 +1,313 @@
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Shipping\BuildPatchServices\Definitions.BuildPatchServices.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Online/BuildPatchServices/Private/BuildPatchDelta.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Online\BuildPatchServices\Public\BuildPatchDelta.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\online\buildpatchservices\public\Interfaces/IBuildManifest.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\online\buildpatchservices\private\BuildPatchUtil.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\online\buildpatchservices\private\BuildPatchManifest.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\online\buildpatchservices\private\Data/ChunkData.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Online\BuildPatchServices\Public\BuildPatchFeatureLevel.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\online\buildpatchservices\private\Data/ManifestData.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/EnumRange.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\online\buildpatchservices\private\BuildPatchMergeManifests.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Online/BuildPatchServices/Private/BuildPatchFeatureLevel.cpp
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Online/BuildPatchServices/Private/BuildPatchFileConstructor.cpp
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\online\buildpatchservices\private\BuildPatchFileConstructor.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\online\buildpatchservices\private\BuildPatchProgress.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\online\buildpatchservices\private\Installer/Controllable.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Online\BuildPatchServices\Public\BuildPatchState.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\online\buildpatchservices\private\Common/SpeedRecorder.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Online\BuildPatchServices\Public\BuildPatchInstall.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\online\buildpatchservices\private\IBuildManifestSet.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Online\BuildPatchServices\Public\BuildPatchSettings.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/Variant.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/NetworkGuid.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\online\buildpatchservices\public\BuildPatchVerify.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\HAL/PlatformFilemanager.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\online\buildpatchservices\private\BuildPatchServicesPrivate.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Online\BuildPatchServices\Public\Interfaces/IBuildInstaller.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Online\BuildPatchServices\Public\BuildPatchMessage.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\online\buildpatchservices\private\Common/StatsCollector.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\online\buildpatchservices\private\Common/FileSystem.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Async/Async.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Async/Future.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/CoreStats.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\online\buildpatchservices\private\Installer/ChunkSource.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\online\buildpatchservices\private\Installer/ChunkReferenceTracker.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\online\buildpatchservices\private\Installer/InstallerError.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\online\buildpatchservices\private\Installer/InstallerAnalytics.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Online\HTTP\Public\Interfaces/IHttpRequest.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Online\HTTP\Public\Interfaces/IHttpBase.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Online/BuildPatchServices/Private/BuildPatchGeneration.cpp
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\online\buildpatchservices\private\BuildPatchGeneration.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Containers/Ticker.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\online\buildpatchservices\private\BuildPatchServicesModule.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Online\BuildPatchServices\Public\Interfaces/IBuildPatchServicesModule.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Online\BuildPatchServices\Public\Interfaces/IBuildStatistics.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Online\BuildPatchServices\Public\Interfaces/IPatchDataEnumeration.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\online\buildpatchservices\private\BuildPatchInstaller.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\online\buildpatchservices\private\Common/HttpManager.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\online\buildpatchservices\private\Core/AsyncHelpers.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\online\buildpatchservices\private\Core/Platform.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\online\buildpatchservices\private\Core/ProcessTimer.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\online\buildpatchservices\private\BuildPatchHash.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\online\buildpatchservices\private\Core/RingBuffer.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\online\buildpatchservices\private\Core/BlockStructure.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\online\buildpatchservices\private\Core/BlockRange.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\online\buildpatchservices\private\Core/BlockData.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\online\buildpatchservices\private\Generation/DataScanner.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\online\buildpatchservices\private\Generation/CloudEnumeration.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\online\buildpatchservices\private\Generation/DeltaEnumeration.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\online\buildpatchservices\private\Generation/BuildStreamer.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\online\buildpatchservices\private\Core/Factory.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\online\buildpatchservices\private\Core/FileSpan.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\online\buildpatchservices\private\Installer/CloudChunkSource.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\online\buildpatchservices\private\Installer/DownloadConnectionCount.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\online\buildpatchservices\private\Generation/ManifestBuilder.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\online\buildpatchservices\private\Generation/FileAttributesParser.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\online\buildpatchservices\private\Generation/ChunkWriter.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\online\buildpatchservices\private\Generation/ChunkMatchProcessor.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Online/BuildPatchServices/Private/BuildPatchHash.cpp
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Online/BuildPatchServices/Private/BuildPatchInstall.cpp
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Online/BuildPatchServices/Private/BuildPatchInstaller.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/FeedbackContext.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/SlowTask.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/SlowTaskStack.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Templates/ValueOrError.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/TVariant.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\core\public\misc\TVariantMeta.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Online\HTTP\Public\HttpModule.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\online\buildpatchservices\private\Common/ChunkDataSizeProvider.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\online\buildpatchservices\private\Common/DataSizeProvider.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\online\buildpatchservices\private\Installer/DiskChunkStore.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\online\buildpatchservices\private\Installer/ChunkStore.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\online\buildpatchservices\private\Installer/MemoryChunkStore.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\online\buildpatchservices\private\Installer/ChunkEvictionPolicy.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\online\buildpatchservices\private\Installer/DownloadService.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\online\buildpatchservices\private\Installer/ChunkDbChunkSource.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\online\buildpatchservices\private\Installer/InstallChunkSource.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\online\buildpatchservices\private\Installer/ChainedChunkSource.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\online\buildpatchservices\private\Installer/Verifier.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\online\buildpatchservices\private\Installer/FileAttribution.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\online\buildpatchservices\private\Installer/Prerequisites.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\online\buildpatchservices\private\Installer/MachineConfig.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\online\buildpatchservices\private\Installer/MessagePump.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\online\buildpatchservices\private\Installer/OptimisedDelta.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\online\buildpatchservices\private\Installer/Statistics/MemoryChunkStoreStatistics.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\online\buildpatchservices\private\Installer/Statistics/DiskChunkStoreStatistics.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\online\buildpatchservices\private\Installer/Statistics/DownloadServiceStatistics.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\online\buildpatchservices\private\Installer/Statistics/ChunkDbChunkSourceStatistics.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\online\buildpatchservices\private\Installer/Statistics/InstallChunkSourceStatistics.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\online\buildpatchservices\private\Installer/Statistics/CloudChunkSourceStatistics.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\online\buildpatchservices\private\Installer/Statistics/FileConstructorStatistics.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\online\buildpatchservices\private\Installer/Statistics/VerifierStatistics.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\online\buildpatchservices\private\Installer/Statistics/FileOperationTracker.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Online/BuildPatchServices/Private/BuildPatchManifest.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/FileHelper.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Json\Public\Policies/PrettyJsonPrintPolicy.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Json\Public\Policies/JsonPrintPolicy.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Json\Public\Policies/CondensedJsonPrintPolicy.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Json\Public\Serialization/JsonTypes.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Json\Public\Serialization/JsonReader.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Json\Public\Serialization/JsonSerializer.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Json\Public\Dom/JsonValue.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Json\Public\Dom/JsonObject.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Json\Public\JsonGlobals.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Json\Public\Serialization/JsonWriter.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Algo/Accumulate.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Algo/Transform.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Online/BuildPatchServices/Private/BuildPatchManifestSet.cpp
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Online/BuildPatchServices/Private/BuildPatchMergeManifests.cpp
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Online/BuildPatchServices/Private/BuildPatchProgress.cpp
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Online/BuildPatchServices/Private/BuildPatchServicesModule.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/CoreDelegates.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/AES.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/App.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/QualifiedFrameTime.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/FrameRate.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/FrameTime.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/ExpressionParserTypes.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/ExpressionParserTypes.inl
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/Timecode.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Online\HTTP\Public\HttpManager.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime/Online/HTTP/Private/IHttpThreadedRequest.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\online\http\public\GenericPlatform/HttpRequestImpl.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\online\http\public\HttpPackage.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\online\buildpatchservices\private\Compactify/PatchDataCompactifier.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\online\buildpatchservices\private\Diffing/DiffManifests.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\online\buildpatchservices\private\Enumeration/PatchDataEnumeration.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\online\buildpatchservices\private\Generation/ChunkDeltaOptimiser.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\online\buildpatchservices\private\Generation/PackageChunkData.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\online\buildpatchservices\private\Installer/BuildStatistics.h
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\online\buildpatchservices\private\BuildPatchVerifyChunkData.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Online\BuildPatchServices\Public\BuildPatchServicesSingleton.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Online/BuildPatchServices/Private/BuildPatchServicesSingleton.cpp
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Online/BuildPatchServices/Private/BuildPatchSettings.cpp
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Online/BuildPatchServices/Private/BuildPatchState.cpp
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Online/BuildPatchServices/Private/BuildPatchUtil.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/Base64.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Online/BuildPatchServices/Private/BuildPatchVerifyChunkData.cpp
+e:\ue4.source\unrealengine-4.26\engine\source\runtime\online\buildpatchservices\private\Generation/ChunkDatabaseWriter.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Online/BuildPatchServices/Private/Common/ChunkDataSizeProvider.cpp
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Online/BuildPatchServices/Private/Common/FileSystem.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Windows/WindowsHWrapper.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Windows/MinWindows.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\Windows.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\sdkddkver.h
+E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\excpt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\windef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\minwindef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\winnt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\kernelspecs.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\basetsd.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\guiddef.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\pshpack4.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\pshpack4.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\pshpack2.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\poppack.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\poppack.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\pshpack8.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\poppack.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\pshpack1.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\poppack.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\pshpack1.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\poppack.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\ktmtypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\winbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\minwinbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\processenv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\fileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\debugapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\utilapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\handleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\errhandlingapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\fibersapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\namedpipeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\profileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\heapapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\ioapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\synchapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\interlockedapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\processthreadsapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\sysinfoapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\memoryapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\enclaveapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\threadpoollegacyapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\threadpoolapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\jobapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\jobapi2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\wow64apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\libloaderapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\securitybaseapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\namespaceapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\systemtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\processtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\securityappcontainer.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\realtimeapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\winerror.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\timezoneapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\wingdi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\winuser.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\tvout.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\datetimeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\stringapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\wincon.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\consoleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\winver.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\verrsrc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\winreg.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\reason.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\winnetwk.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\wnnc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\stralign.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\imm.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\ime_cmodes.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\wtypes.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\rpc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\rpcdce.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\rpcdcep.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\rpcnsi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\rpcnterr.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\rpcasync.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\rpcndr.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\rpcnsip.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\rpcsal.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\wtypesbase.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\guiddef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\winioctl.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Online/BuildPatchServices/Private/Common/HttpManager.cpp
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Online/BuildPatchServices/Private/Common/SpeedRecorder.cpp
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Online/BuildPatchServices/Private/Common/StatsCollector.cpp
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Online/BuildPatchServices/Private/Compactify/PatchDataCompactifier.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Algo/Partition.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Online/BuildPatchServices/Private/Core/BlockStructure.cpp
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Online/BuildPatchServices/Private/Data/ChunkData.cpp
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Online/BuildPatchServices/Private/Data/ManifestData.cpp
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Online\BuildPatchServices\Private\Data/ManifestUObject.h
+E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\BuildPatchServices\ManifestUObject.generated.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/ScriptMacros.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/ScriptInterface.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\Templates/Casts.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/UnrealType.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\Serialization/SerializedPropertyScope.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Serialization/MemoryImage.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/CoreNetTypes.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/LazyObjectPtr.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/PersistentObjectPtr.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\UObject/PropertyPortFlags.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyTag.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/SoftObjectPtr.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/SoftObjectPath.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/SparseDelegate.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/UndefineUPropertyMacros.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/DefineUPropertyMacros.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/Stack.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/EnumProperty.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/FieldPathProperty.h
+E:/UE4.Source/UnrealEngine-4.26/Engine/Source/Runtime/Online/BuildPatchServices/Private/Data/ManifestUObject.cpp
