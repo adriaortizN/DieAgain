@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.AssetTags.cpp.obj": [
+			"AssetTagsModule.cpp.obj",
+			"AssetTagsSubsystem.cpp.obj"
+		],
+		"Module.AssetTags.gen.cpp.obj": [
+			"AssetTags.init.gen.cpp.obj",
+			"AssetTagsSubsystem.gen.cpp.obj"
+		]
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.AnalyticsET.cpp.obj": [
+			"AnalyticsET.cpp.obj",
+			"AnalyticsPerfTracker.cpp.obj",
+			"AnalyticsProviderETEventCache.cpp.obj",
+			"IAnalyticsProviderET.cpp.obj"
+		]
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.NiagaraShader.cpp.obj": [
+			"NiagaraDebugShaders.cpp.obj",
+			"NiagaraScriptBase.cpp.obj",
+			"NiagaraShader.cpp.obj",
+			"NiagaraShaderCompilationManager.cpp.obj",
+			"NiagaraShaderModule.cpp.obj",
+			"NiagaraShaderParticleID.cpp.obj",
+			"NiagaraShared.cpp.obj"
+		],
+		"Module.NiagaraShader.gen.cpp.obj": [
+			"NiagaraScriptBase.gen.cpp.obj",
+			"NiagaraShader.init.gen.cpp.obj",
+			"NiagaraShared.gen.cpp.obj"
+		]
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.ClothingSystemRuntimeCommon.cpp.obj": [
+			"ClothConfig.cpp.obj",
+			"ClothingAsset.cpp.obj",
+			"ClothingAssetCustomVersion.cpp.obj",
+			"ClothingSimulation.cpp.obj",
+			"ClothingSystemRuntimeCommonModule.cpp.obj",
+			"ClothLODData.cpp.obj",
+			"ClothLODData_Legacy.cpp.obj",
+			"ClothPhysicalMeshData.cpp.obj",
+			"ClothingMeshUtils.cpp.obj"
+		],
+		"Module.ClothingSystemRuntimeCommon.gen.cpp.obj": [
+			"ClothConfig.gen.cpp.obj",
+			"ClothConfig_Legacy.gen.cpp.obj",
+			"ClothingAsset.gen.cpp.obj",
+			"ClothingSystemRuntimeCommon.init.gen.cpp.obj",
+			"ClothLODData.gen.cpp.obj",
+			"ClothLODData_Legacy.gen.cpp.obj",
+			"ClothPhysicalMeshData.gen.cpp.obj",
+			"PointWeightMap.gen.cpp.obj"
+		]
+	}
+}

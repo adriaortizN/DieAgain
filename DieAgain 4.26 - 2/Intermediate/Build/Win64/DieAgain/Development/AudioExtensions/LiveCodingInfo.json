@@ -1,0 +1,20 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.AudioExtensions.cpp.obj": [
+			"AudioExtensionsModule.cpp.obj",
+			"IAudioEndpoint.cpp.obj",
+			"IAudioModulation.cpp.obj",
+			"ISoundfieldEndpoint.cpp.obj",
+			"ISoundfieldFormat.cpp.obj"
+		],
+		"Module.AudioExtensions.gen.cpp.obj": [
+			"AudioExtensions.init.gen.cpp.obj",
+			"IAudioEndpoint.gen.cpp.obj",
+			"IAudioExtensionPlugin.gen.cpp.obj",
+			"IAudioModulation.gen.cpp.obj",
+			"ISoundfieldEndpoint.gen.cpp.obj",
+			"ISoundfieldFormat.gen.cpp.obj"
+		]
+	}
+}

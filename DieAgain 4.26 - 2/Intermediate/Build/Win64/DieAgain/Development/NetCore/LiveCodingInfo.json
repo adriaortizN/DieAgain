@@ -1,0 +1,20 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.NetCore.cpp.obj": [
+			"NetAnalytics.cpp.obj",
+			"NetAnalyticsAggregatorConfig.cpp.obj",
+			"DDoSDetection.cpp.obj",
+			"PacketAudit.cpp.obj",
+			"ResizableCircularQueueTests.cpp.obj",
+			"NetCoreModule.cpp.obj",
+			"PushModel.cpp.obj",
+			"NetTraceInternal.cpp.obj",
+			"NetTraceReporter.cpp.obj"
+		],
+		"Module.NetCore.gen.cpp.obj": [
+			"NetAnalyticsAggregatorConfig.gen.cpp.obj",
+			"NetCore.init.gen.cpp.obj"
+		]
+	}
+}

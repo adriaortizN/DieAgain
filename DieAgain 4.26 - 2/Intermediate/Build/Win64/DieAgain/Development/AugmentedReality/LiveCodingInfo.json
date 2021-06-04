@@ -1,0 +1,62 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.AugmentedReality.cpp.obj": [
+			"ARActor.cpp.obj",
+			"ARBlueprintLibrary.cpp.obj",
+			"ARBlueprintProxy.cpp.obj",
+			"ARComponent.cpp.obj",
+			"ARDebugDrawHelpers.cpp.obj",
+			"ARDependencyHandler.cpp.obj",
+			"ARGeoTrackingSupport.cpp.obj",
+			"ARLifeCycleComponent.cpp.obj",
+			"ARLightEstimate.cpp.obj",
+			"AROriginActor.cpp.obj",
+			"ARPin.cpp.obj",
+			"ARSessionConfig.cpp.obj",
+			"ARSharedWorldGameMode.cpp.obj",
+			"ARSharedWorldGameState.cpp.obj",
+			"ARSharedWorldPlayerController.cpp.obj",
+			"ARSkyLight.cpp.obj",
+			"ARSupportInterface.cpp.obj",
+			"ARSystemSupportBase.cpp.obj",
+			"ARTextures.cpp.obj",
+			"ARTraceResult.cpp.obj",
+			"ARTrackable.cpp.obj",
+			"ARTrackableNotifyComponent.cpp.obj",
+			"ARTypes.cpp.obj",
+			"AugmentedRealityModule.cpp.obj"
+		],
+		"Module.AugmentedReality.gen.1_of_5.cpp.obj": [
+			"ARActor.gen.cpp.obj",
+			"ARBlueprintLibrary.gen.cpp.obj",
+			"ARBlueprintProxy.gen.cpp.obj"
+		],
+		"Module.AugmentedReality.gen.2_of_5.cpp.obj": [
+			"ARComponent.gen.cpp.obj",
+			"ARDependencyHandler.gen.cpp.obj",
+			"ARGeoTrackingSupport.gen.cpp.obj"
+		],
+		"Module.AugmentedReality.gen.3_of_5.cpp.obj": [
+			"ARLifeCycleComponent.gen.cpp.obj",
+			"ARLightEstimate.gen.cpp.obj",
+			"AROriginActor.gen.cpp.obj",
+			"ARPin.gen.cpp.obj",
+			"ARSessionConfig.gen.cpp.obj",
+			"ARSharedWorldGameMode.gen.cpp.obj",
+			"ARSharedWorldGameState.gen.cpp.obj",
+			"ARSharedWorldPlayerController.gen.cpp.obj",
+			"ARSkyLight.gen.cpp.obj"
+		],
+		"Module.AugmentedReality.gen.4_of_5.cpp.obj": [
+			"ARTextures.gen.cpp.obj",
+			"ARTraceResult.gen.cpp.obj",
+			"ARTrackable.gen.cpp.obj",
+			"ARTrackableNotifyComponent.gen.cpp.obj",
+			"ARTypes.gen.cpp.obj"
+		],
+		"Module.AugmentedReality.gen.5_of_5.cpp.obj": [
+			"AugmentedReality.init.gen.cpp.obj"
+		]
+	}
+}

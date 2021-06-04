@@ -1,0 +1,152 @@
+#pragma once
+#include "Blueprint/BlueprintSupport.h"
+#include "Animation/AnimClassData.h"
+#include "Runtime/Engine/Classes/Animation/AnimNode_Root.h"
+#include "Runtime/Engine/Classes/Animation/AnimNode_TransitionResult.h"
+#include "Runtime/Engine/Classes/Animation/AnimNode_SequencePlayer.h"
+#include "Runtime/AnimGraphRuntime/Public/AnimNodes/AnimNode_StateResult.h"
+#include "Runtime/Engine/Classes/Animation/AnimNode_StateMachine.h"
+#include "Runtime/Engine/Classes/Animation/AnimNodeBase.h"
+#include "Runtime/Engine/Classes/Animation/AnimInstance.h"
+class AConversation_Actor_C__pf2744501483;
+#include "Talking_Normal_Think_AnimBP__pf1028405882.generated.h"
+UCLASS(config=Engine, Blueprintable, BlueprintType, meta=(ReplaceConverted="/Game/Art/Enemies/Lobby_Animations/Talking_Normal_Think_AnimBP.Talking_Normal_Think_AnimBP_C", OverrideNativeName="Talking_Normal_Think_AnimBP_C"))
+class UTalking_Normal_Think_AnimBP_C__pf1028405882 : public UAnimInstance
+{
+public:
+	GENERATED_BODY()
+	UPROPERTY(meta=(OverrideNativeName="AnimGraphNode_Root"))
+	FAnimNode_Root bpv__AnimGraphNode_Root__pf;
+	UPROPERTY(meta=(OverrideNativeName="AnimGraphNode_TransitionResult_11"))
+	FAnimNode_TransitionResult bpv__AnimGraphNode_TransitionResult_11__pf;
+	UPROPERTY(meta=(OverrideNativeName="AnimGraphNode_TransitionResult_10"))
+	FAnimNode_TransitionResult bpv__AnimGraphNode_TransitionResult_10__pf;
+	UPROPERTY(meta=(OverrideNativeName="AnimGraphNode_TransitionResult_9"))
+	FAnimNode_TransitionResult bpv__AnimGraphNode_TransitionResult_9__pf;
+	UPROPERTY(meta=(OverrideNativeName="AnimGraphNode_TransitionResult_8"))
+	FAnimNode_TransitionResult bpv__AnimGraphNode_TransitionResult_8__pf;
+	UPROPERTY(meta=(OverrideNativeName="AnimGraphNode_TransitionResult_7"))
+	FAnimNode_TransitionResult bpv__AnimGraphNode_TransitionResult_7__pf;
+	UPROPERTY(meta=(OverrideNativeName="AnimGraphNode_TransitionResult_6"))
+	FAnimNode_TransitionResult bpv__AnimGraphNode_TransitionResult_6__pf;
+	UPROPERTY(meta=(OverrideNativeName="AnimGraphNode_TransitionResult_5"))
+	FAnimNode_TransitionResult bpv__AnimGraphNode_TransitionResult_5__pf;
+	UPROPERTY(meta=(OverrideNativeName="AnimGraphNode_TransitionResult_4"))
+	FAnimNode_TransitionResult bpv__AnimGraphNode_TransitionResult_4__pf;
+	UPROPERTY(meta=(OverrideNativeName="AnimGraphNode_TransitionResult_3"))
+	FAnimNode_TransitionResult bpv__AnimGraphNode_TransitionResult_3__pf;
+	UPROPERTY(meta=(OverrideNativeName="AnimGraphNode_TransitionResult_2"))
+	FAnimNode_TransitionResult bpv__AnimGraphNode_TransitionResult_2__pf;
+	UPROPERTY(meta=(OverrideNativeName="AnimGraphNode_TransitionResult_1"))
+	FAnimNode_TransitionResult bpv__AnimGraphNode_TransitionResult_1__pf;
+	UPROPERTY(meta=(OverrideNativeName="AnimGraphNode_TransitionResult"))
+	FAnimNode_TransitionResult bpv__AnimGraphNode_TransitionResult__pf;
+	UPROPERTY(meta=(OverrideNativeName="AnimGraphNode_SequencePlayer_5"))
+	FAnimNode_SequencePlayer bpv__AnimGraphNode_SequencePlayer_5__pf;
+	UPROPERTY(meta=(OverrideNativeName="AnimGraphNode_StateResult_5"))
+	FAnimNode_StateResult bpv__AnimGraphNode_StateResult_5__pf;
+	UPROPERTY(meta=(OverrideNativeName="AnimGraphNode_SequencePlayer_4"))
+	FAnimNode_SequencePlayer bpv__AnimGraphNode_SequencePlayer_4__pf;
+	UPROPERTY(meta=(OverrideNativeName="AnimGraphNode_StateResult_4"))
+	FAnimNode_StateResult bpv__AnimGraphNode_StateResult_4__pf;
+	UPROPERTY(meta=(OverrideNativeName="AnimGraphNode_SequencePlayer_3"))
+	FAnimNode_SequencePlayer bpv__AnimGraphNode_SequencePlayer_3__pf;
+	UPROPERTY(meta=(OverrideNativeName="AnimGraphNode_StateResult_3"))
+	FAnimNode_StateResult bpv__AnimGraphNode_StateResult_3__pf;
+	UPROPERTY(meta=(OverrideNativeName="AnimGraphNode_SequencePlayer_2"))
+	FAnimNode_SequencePlayer bpv__AnimGraphNode_SequencePlayer_2__pf;
+	UPROPERTY(meta=(OverrideNativeName="AnimGraphNode_StateResult_2"))
+	FAnimNode_StateResult bpv__AnimGraphNode_StateResult_2__pf;
+	UPROPERTY(meta=(OverrideNativeName="AnimGraphNode_SequencePlayer_1"))
+	FAnimNode_SequencePlayer bpv__AnimGraphNode_SequencePlayer_1__pf;
+	UPROPERTY(meta=(OverrideNativeName="AnimGraphNode_StateResult_1"))
+	FAnimNode_StateResult bpv__AnimGraphNode_StateResult_1__pf;
+	UPROPERTY(meta=(OverrideNativeName="AnimGraphNode_SequencePlayer"))
+	FAnimNode_SequencePlayer bpv__AnimGraphNode_SequencePlayer__pf;
+	UPROPERTY(meta=(OverrideNativeName="AnimGraphNode_StateResult"))
+	FAnimNode_StateResult bpv__AnimGraphNode_StateResult__pf;
+	UPROPERTY(meta=(OverrideNativeName="AnimGraphNode_StateMachine"))
+	FAnimNode_StateMachine bpv__AnimGraphNode_StateMachine__pf;
+	UPROPERTY(EditDefaultsOnly, BlueprintReadWrite, meta=(DisplayName="Is Talking", Category="Default", MultiLine="true", OverrideNativeName="IsTalking"))
+	bool bpv__IsTalking__pf;
+	UPROPERTY(Transient, DuplicateTransient, meta=(OverrideNativeName="K2Node_DynamicCast_AsConversation_Actor"))
+	AConversation_Actor_C__pf2744501483* b0l__K2Node_DynamicCast_AsConversation_Actor__pf;
+	UPROPERTY(Transient, DuplicateTransient, meta=(OverrideNativeName="K2Node_DynamicCast_bSuccess"))
+	bool b0l__K2Node_DynamicCast_bSuccess__pf;
+	UPROPERTY(Transient, DuplicateTransient, meta=(OverrideNativeName="K2Node_Event_DeltaTimeX"))
+	float b0l__K2Node_Event_DeltaTimeX__pf;
+	UTalking_Normal_Think_AnimBP_C__pf1028405882(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get());
+	virtual void PostLoadSubobjects(FObjectInstancingGraph* OuterInstanceGraph) override;
+	static void __CustomDynamicClassInitialization(UDynamicClass* InDynamicClass);
+	static void __StaticDependenciesAssets(TArray<FBlueprintDependencyData>& AssetsToLoad);
+	static void __StaticDependencies_DirectlyUsedAssets(TArray<FBlueprintDependencyData>& AssetsToLoad);
+	void __InitAllAnimNodes();
+	void __InitAnimNode__AnimGraphNode_Root();
+	void __InitAnimNode__AnimGraphNode_TransitionResult_11();
+	void __InitAnimNode__AnimGraphNode_TransitionResult_10();
+	void __InitAnimNode__AnimGraphNode_TransitionResult_9();
+	void __InitAnimNode__AnimGraphNode_TransitionResult_8();
+	void __InitAnimNode__AnimGraphNode_TransitionResult_7();
+	void __InitAnimNode__AnimGraphNode_TransitionResult_6();
+	void __InitAnimNode__AnimGraphNode_TransitionResult_5();
+	void __InitAnimNode__AnimGraphNode_TransitionResult_4();
+	void __InitAnimNode__AnimGraphNode_TransitionResult_3();
+	void __InitAnimNode__AnimGraphNode_TransitionResult_2();
+	void __InitAnimNode__AnimGraphNode_TransitionResult_1();
+	void __InitAnimNode__AnimGraphNode_TransitionResult();
+	void __InitAnimNode__AnimGraphNode_SequencePlayer_5();
+	void __InitAnimNode__AnimGraphNode_StateResult_5();
+	void __InitAnimNode__AnimGraphNode_SequencePlayer_4();
+	void __InitAnimNode__AnimGraphNode_StateResult_4();
+	void __InitAnimNode__AnimGraphNode_SequencePlayer_3();
+	void __InitAnimNode__AnimGraphNode_StateResult_3();
+	void __InitAnimNode__AnimGraphNode_SequencePlayer_2();
+	void __InitAnimNode__AnimGraphNode_StateResult_2();
+	void __InitAnimNode__AnimGraphNode_SequencePlayer_1();
+	void __InitAnimNode__AnimGraphNode_StateResult_1();
+	void __InitAnimNode__AnimGraphNode_SequencePlayer();
+	void __InitAnimNode__AnimGraphNode_StateResult();
+	void __InitAnimNode__AnimGraphNode_StateMachine();
+	void bpf__ExecuteUbergraph_Talking_Normal_Think_AnimBP__pf_0(int32 bpp__EntryPoint__pf);
+	void bpf__ExecuteUbergraph_Talking_Normal_Think_AnimBP__pf_1(int32 bpp__EntryPoint__pf);
+	void bpf__ExecuteUbergraph_Talking_Normal_Think_AnimBP__pf_2(int32 bpp__EntryPoint__pf);
+	void bpf__ExecuteUbergraph_Talking_Normal_Think_AnimBP__pf_3(int32 bpp__EntryPoint__pf);
+	void bpf__ExecuteUbergraph_Talking_Normal_Think_AnimBP__pf_4(int32 bpp__EntryPoint__pf);
+	void bpf__ExecuteUbergraph_Talking_Normal_Think_AnimBP__pf_5(int32 bpp__EntryPoint__pf);
+	void bpf__ExecuteUbergraph_Talking_Normal_Think_AnimBP__pf_6(int32 bpp__EntryPoint__pf);
+	void bpf__ExecuteUbergraph_Talking_Normal_Think_AnimBP__pf_7(int32 bpp__EntryPoint__pf);
+	void bpf__ExecuteUbergraph_Talking_Normal_Think_AnimBP__pf_8(int32 bpp__EntryPoint__pf);
+	void bpf__ExecuteUbergraph_Talking_Normal_Think_AnimBP__pf_9(int32 bpp__EntryPoint__pf);
+	void bpf__ExecuteUbergraph_Talking_Normal_Think_AnimBP__pf_10(int32 bpp__EntryPoint__pf);
+	void bpf__ExecuteUbergraph_Talking_Normal_Think_AnimBP__pf_11(int32 bpp__EntryPoint__pf);
+	void bpf__ExecuteUbergraph_Talking_Normal_Think_AnimBP__pf_12(int32 bpp__EntryPoint__pf);
+	UFUNCTION(meta=(Comment="/** Executed when the Animation is updated */", ToolTip="Executed when the Animation is updated", CppFromBpEvent, OverrideNativeName="BlueprintUpdateAnimation"))
+	virtual void bpf__BlueprintUpdateAnimation__pf(float bpp__DeltaTimeX__pf);
+	UFUNCTION(meta=(OverrideNativeName="EvaluateGraphExposedInputs_ExecuteUbergraph_Talking_Normal_Think_AnimBP_AnimGraphNode_TransitionResult_B58B8B054EC132D78FEAF28A892DD622"))
+	virtual void bpf__EvaluateGraphExposedInputs_ExecuteUbergraph_Talking_Normal_Think_AnimBP_AnimGraphNode_TransitionResult_B58B8B054EC132D78FEAF28A892DD622__pf();
+	UFUNCTION(meta=(OverrideNativeName="EvaluateGraphExposedInputs_ExecuteUbergraph_Talking_Normal_Think_AnimBP_AnimGraphNode_TransitionResult_B1C5948E4002B152B096E99972189CBF"))
+	virtual void bpf__EvaluateGraphExposedInputs_ExecuteUbergraph_Talking_Normal_Think_AnimBP_AnimGraphNode_TransitionResult_B1C5948E4002B152B096E99972189CBF__pf();
+	UFUNCTION(meta=(OverrideNativeName="EvaluateGraphExposedInputs_ExecuteUbergraph_Talking_Normal_Think_AnimBP_AnimGraphNode_TransitionResult_BBD91A484F609CD5DF659AB13A21BF9E"))
+	virtual void bpf__EvaluateGraphExposedInputs_ExecuteUbergraph_Talking_Normal_Think_AnimBP_AnimGraphNode_TransitionResult_BBD91A484F609CD5DF659AB13A21BF9E__pf();
+	UFUNCTION(meta=(OverrideNativeName="EvaluateGraphExposedInputs_ExecuteUbergraph_Talking_Normal_Think_AnimBP_AnimGraphNode_TransitionResult_FAB5880E4905B79975A2B3A616B87671"))
+	virtual void bpf__EvaluateGraphExposedInputs_ExecuteUbergraph_Talking_Normal_Think_AnimBP_AnimGraphNode_TransitionResult_FAB5880E4905B79975A2B3A616B87671__pf();
+	UFUNCTION(meta=(OverrideNativeName="EvaluateGraphExposedInputs_ExecuteUbergraph_Talking_Normal_Think_AnimBP_AnimGraphNode_TransitionResult_B16E63F142A462D1D841188B8CF8F64F"))
+	virtual void bpf__EvaluateGraphExposedInputs_ExecuteUbergraph_Talking_Normal_Think_AnimBP_AnimGraphNode_TransitionResult_B16E63F142A462D1D841188B8CF8F64F__pf();
+	UFUNCTION(meta=(OverrideNativeName="EvaluateGraphExposedInputs_ExecuteUbergraph_Talking_Normal_Think_AnimBP_AnimGraphNode_TransitionResult_CCDDA37649F595C1E683E18CBEBF44BA"))
+	virtual void bpf__EvaluateGraphExposedInputs_ExecuteUbergraph_Talking_Normal_Think_AnimBP_AnimGraphNode_TransitionResult_CCDDA37649F595C1E683E18CBEBF44BA__pf();
+	UFUNCTION(meta=(OverrideNativeName="EvaluateGraphExposedInputs_ExecuteUbergraph_Talking_Normal_Think_AnimBP_AnimGraphNode_TransitionResult_949A5E8748B5CAAEC40A42B25B6D3C26"))
+	virtual void bpf__EvaluateGraphExposedInputs_ExecuteUbergraph_Talking_Normal_Think_AnimBP_AnimGraphNode_TransitionResult_949A5E8748B5CAAEC40A42B25B6D3C26__pf();
+	UFUNCTION(meta=(OverrideNativeName="EvaluateGraphExposedInputs_ExecuteUbergraph_Talking_Normal_Think_AnimBP_AnimGraphNode_TransitionResult_FED5647142106A04E0801EA1B8EA99B5"))
+	virtual void bpf__EvaluateGraphExposedInputs_ExecuteUbergraph_Talking_Normal_Think_AnimBP_AnimGraphNode_TransitionResult_FED5647142106A04E0801EA1B8EA99B5__pf();
+	UFUNCTION(meta=(OverrideNativeName="EvaluateGraphExposedInputs_ExecuteUbergraph_Talking_Normal_Think_AnimBP_AnimGraphNode_TransitionResult_2DDBBDAB4BD89AE729A4AA91DD2F194A"))
+	virtual void bpf__EvaluateGraphExposedInputs_ExecuteUbergraph_Talking_Normal_Think_AnimBP_AnimGraphNode_TransitionResult_2DDBBDAB4BD89AE729A4AA91DD2F194A__pf();
+	UFUNCTION(meta=(OverrideNativeName="EvaluateGraphExposedInputs_ExecuteUbergraph_Talking_Normal_Think_AnimBP_AnimGraphNode_TransitionResult_5A195AAC414F7C5770CABB98ABC86390"))
+	virtual void bpf__EvaluateGraphExposedInputs_ExecuteUbergraph_Talking_Normal_Think_AnimBP_AnimGraphNode_TransitionResult_5A195AAC414F7C5770CABB98ABC86390__pf();
+	UFUNCTION(meta=(OverrideNativeName="EvaluateGraphExposedInputs_ExecuteUbergraph_Talking_Normal_Think_AnimBP_AnimGraphNode_TransitionResult_6066A693478994EA2B62C9BD3743E482"))
+	virtual void bpf__EvaluateGraphExposedInputs_ExecuteUbergraph_Talking_Normal_Think_AnimBP_AnimGraphNode_TransitionResult_6066A693478994EA2B62C9BD3743E482__pf();
+	UFUNCTION(meta=(OverrideNativeName="EvaluateGraphExposedInputs_ExecuteUbergraph_Talking_Normal_Think_AnimBP_AnimGraphNode_TransitionResult_8A4AC2A7489D9FC4E6EBCF8F3814A958"))
+	virtual void bpf__EvaluateGraphExposedInputs_ExecuteUbergraph_Talking_Normal_Think_AnimBP_AnimGraphNode_TransitionResult_8A4AC2A7489D9FC4E6EBCF8F3814A958__pf();
+	UFUNCTION(BlueprintCallable, meta=(BlueprintInternalUseOnly="true", AnimBlueprintFunction="true", Category, OverrideNativeName="AnimGraph"))
+	virtual void bpf__AnimGraph__pf(/*out*/ FPoseLink& bpp__AnimGraph__pf);
+public:
+};

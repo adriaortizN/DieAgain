@@ -30,7 +30,7 @@
     <LogoHandling>Auto</LogoHandling>
     <TouchScreenUsage>Supported</TouchScreenUsage>
     <Screenshot>Allow</Screenshot>
-    <StartupUserAccount>None</StartupUserAccount>
+    <StartupUserAccount>Required</StartupUserAccount>
     <SaveDataOwnerId>0x01004b9000490000</SaveDataOwnerId>
     <DataLossConfirmation>Required</DataLossConfirmation>
     <CrashReport>Allow</CrashReport>

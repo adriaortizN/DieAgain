@@ -1,0 +1,15 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.PacketHandler.cpp.obj": [
+			"HandlerComponentFactory.cpp.obj",
+			"PacketHandler.cpp.obj",
+			"PacketHandlerProfileConfig.cpp.obj"
+		],
+		"Module.PacketHandler.gen.cpp.obj": [
+			"HandlerComponentFactory.gen.cpp.obj",
+			"PacketHandler.init.gen.cpp.obj",
+			"PacketHandlerProfileConfig.gen.cpp.obj"
+		]
+	}
+}

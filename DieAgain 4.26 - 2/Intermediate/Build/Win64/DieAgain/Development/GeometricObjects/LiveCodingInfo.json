@@ -1,0 +1,25 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.GeometricObjects.cpp.obj": [
+			"PolygonTriangulation.cpp.obj",
+			"DiscMeshGenerator.cpp.obj",
+			"FlatTriangulationMeshGenerator.cpp.obj",
+			"PlanarPolygonMeshGenerator.cpp.obj",
+			"RectangleMeshGenerator.cpp.obj",
+			"SweepGenerator.cpp.obj",
+			"GeometricObjectsModule.cpp.obj",
+			"IndexUtil.cpp.obj",
+			"ContainmentQueries3.cpp.obj",
+			"IntersectionQueries3.cpp.obj",
+			"MathUtil.cpp.obj",
+			"GeometrySet3.cpp.obj",
+			"PointSetHashTable.cpp.obj",
+			"TransformTypes.spec.cpp.obj",
+			"VectorTypes.spec.cpp.obj",
+			"ColorConstants.cpp.obj",
+			"RevolveUtil.cpp.obj",
+			"SmallListSet.cpp.obj"
+		]
+	}
+}

@@ -1,0 +1,20 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.FieldSystemEngine.cpp.obj": [
+			"FieldSystemActor.cpp.obj",
+			"FieldSystemAsset.cpp.obj",
+			"FieldSystemComponent.cpp.obj",
+			"FieldSystemEngine.cpp.obj",
+			"FieldSystemObjects.cpp.obj",
+			"FieldSystemSceneProxy.cpp.obj"
+		],
+		"Module.FieldSystemEngine.gen.cpp.obj": [
+			"FieldSystemActor.gen.cpp.obj",
+			"FieldSystemAsset.gen.cpp.obj",
+			"FieldSystemComponent.gen.cpp.obj",
+			"FieldSystemEngine.init.gen.cpp.obj",
+			"FieldSystemObjects.gen.cpp.obj"
+		]
+	}
+}

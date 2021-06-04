@@ -1,0 +1,18 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.MagicLeapSharedWorld.cpp.obj": [
+			"MagicLeapSharedWorld.cpp.obj",
+			"MagicLeapSharedWorldGameMode.cpp.obj",
+			"MagicLeapSharedWorldGameState.cpp.obj",
+			"MagicLeapSharedWorldPlayerController.cpp.obj"
+		],
+		"Module.MagicLeapSharedWorld.gen.cpp.obj": [
+			"MagicLeapSharedWorld.init.gen.cpp.obj",
+			"MagicLeapSharedWorldGameMode.gen.cpp.obj",
+			"MagicLeapSharedWorldGameState.gen.cpp.obj",
+			"MagicLeapSharedWorldPlayerController.gen.cpp.obj",
+			"MagicLeapSharedWorldTypes.gen.cpp.obj"
+		]
+	}
+}

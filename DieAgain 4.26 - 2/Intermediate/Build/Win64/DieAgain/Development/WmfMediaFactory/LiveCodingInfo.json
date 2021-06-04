@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.WmfMediaFactory.cpp.obj": [
+			"WmfMediaFactoryModule.cpp.obj",
+			"WmfMediaSettings.cpp.obj"
+		],
+		"Module.WmfMediaFactory.gen.cpp.obj": [
+			"WmfMediaFactory.init.gen.cpp.obj",
+			"WmfMediaSettings.gen.cpp.obj"
+		]
+	}
+}

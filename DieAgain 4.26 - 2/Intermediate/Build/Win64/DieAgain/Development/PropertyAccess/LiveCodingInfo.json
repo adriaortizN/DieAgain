@@ -1,0 +1,15 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.PropertyAccess.cpp.obj": [
+			"PropertyAccess.cpp.obj",
+			"PropertyAccessModule.cpp.obj"
+		],
+		"Module.PropertyAccess.gen.cpp.obj": [
+			"IPropertyAccess.gen.cpp.obj",
+			"PropertyAccess.gen.cpp.obj",
+			"PropertyAccess.init.gen.cpp.obj",
+			"PropertyEventInterfaces.gen.cpp.obj"
+		]
+	}
+}

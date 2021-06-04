@@ -1,0 +1,17 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.ProceduralMeshComponent.cpp.obj": [
+			"KismetProceduralMeshLibrary.cpp.obj",
+			"ProceduralMeshBridge.cpp.obj",
+			"ProceduralMeshComponent.cpp.obj",
+			"ProceduralMeshComponentPlugin.cpp.obj",
+			"ProceduralMeshConversion.cpp.obj"
+		],
+		"Module.ProceduralMeshComponent.gen.cpp.obj": [
+			"KismetProceduralMeshLibrary.gen.cpp.obj",
+			"ProceduralMeshComponent.gen.cpp.obj",
+			"ProceduralMeshComponent.init.gen.cpp.obj"
+		]
+	}
+}

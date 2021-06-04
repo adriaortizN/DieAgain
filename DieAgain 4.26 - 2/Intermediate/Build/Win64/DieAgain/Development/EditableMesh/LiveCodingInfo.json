@@ -1,0 +1,29 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.EditableMesh.cpp.obj": [
+			"EditableGeometryCollectionAdapter.cpp.obj",
+			"EditableMesh.cpp.obj",
+			"EditableMeshChanges.cpp.obj",
+			"EditableMeshCustomVersion.cpp.obj",
+			"EditableMeshFactory.cpp.obj",
+			"EditableMeshModule.cpp.obj",
+			"EditableStaticMeshAdapter.cpp.obj",
+			"GeometryCollectionEditableMeshFormat.cpp.obj",
+			"GeometryHitTest.cpp.obj",
+			"MeshElement.cpp.obj",
+			"StaticMeshEditableMeshFormat.cpp.obj"
+		],
+		"Module.EditableMesh.gen.1_of_2.cpp.obj": [
+			"EditableGeometryCollectionAdapter.gen.cpp.obj",
+			"EditableMesh.gen.cpp.obj"
+		],
+		"Module.EditableMesh.gen.2_of_2.cpp.obj": [
+			"EditableMesh.init.gen.cpp.obj",
+			"EditableMeshAdapter.gen.cpp.obj",
+			"EditableMeshFactory.gen.cpp.obj",
+			"EditableMeshTypes.gen.cpp.obj",
+			"EditableStaticMeshAdapter.gen.cpp.obj"
+		]
+	}
+}

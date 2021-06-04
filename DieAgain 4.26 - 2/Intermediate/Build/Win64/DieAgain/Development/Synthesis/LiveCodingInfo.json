@@ -1,0 +1,92 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.Synthesis.cpp.obj": [
+			"ConvolutionReverb.cpp.obj",
+			"EpicSynth1.cpp.obj",
+			"EpicSynth1Component.cpp.obj",
+			"Flexiverb.cpp.obj",
+			"MonoWaveTable.cpp.obj",
+			"SourceEffectBitCrusher.cpp.obj",
+			"SourceEffectChorus.cpp.obj",
+			"SourceEffectDynamicsProcessor.cpp.obj",
+			"SourceEffectEnvelopeFollower.cpp.obj",
+			"SourceEffectEQ.cpp.obj",
+			"SourceEffectFilter.cpp.obj",
+			"SourceEffectFoldbackDistortion.cpp.obj",
+			"SourceEffectMidSideSpreader.cpp.obj",
+			"SourceEffectPanner.cpp.obj",
+			"SourceEffectPhaser.cpp.obj",
+			"SourceEffectRingModulation.cpp.obj",
+			"SourceEffectSimpleDelay.cpp.obj",
+			"SourceEffectStereoDelay.cpp.obj",
+			"SourceEffectWaveShaper.cpp.obj",
+			"SubmixChannelFormatConverter.cpp.obj",
+			"SubmixEffectConvolutionReverb.cpp.obj",
+			"SubmixEffectDelay.cpp.obj",
+			"SubmixEffectFilter.cpp.obj",
+			"SubmixEffectFlexiverb.cpp.obj",
+			"SubmixEffectMultiBandCompressor.cpp.obj",
+			"SubmixEffectStereoDelay.cpp.obj",
+			"SubmixEffectTapDelay.cpp.obj",
+			"SynthComponentGranulator.cpp.obj",
+			"SynthComponentMonoWaveTable.cpp.obj",
+			"SynthComponentToneGenerator.cpp.obj",
+			"SynthComponentWaveTable.cpp.obj",
+			"SynthesisBlueprintUtilities.cpp.obj",
+			"SynthesisModule.cpp.obj",
+			"SSynth2DSlider.cpp.obj",
+			"SSynthKnob.cpp.obj",
+			"SSynthTooltip.cpp.obj",
+			"Synth2DSlider.cpp.obj",
+			"Synth2DSliderStyle.cpp.obj",
+			"SynthKnob.cpp.obj",
+			"SynthKnobStyle.cpp.obj",
+			"SynthSlateStyle.cpp.obj"
+		],
+		"Module.Synthesis.gen.1_of_5.cpp.obj": [
+			"EpicSynth1Component.gen.cpp.obj",
+			"EpicSynth1Types.gen.cpp.obj"
+		],
+		"Module.Synthesis.gen.2_of_5.cpp.obj": [
+			"SourceEffectBitCrusher.gen.cpp.obj",
+			"SourceEffectChorus.gen.cpp.obj",
+			"SourceEffectDynamicsProcessor.gen.cpp.obj",
+			"SourceEffectEnvelopeFollower.gen.cpp.obj",
+			"SourceEffectEQ.gen.cpp.obj",
+			"SourceEffectFilter.gen.cpp.obj",
+			"SourceEffectFoldbackDistortion.gen.cpp.obj",
+			"SourceEffectMidSideSpreader.gen.cpp.obj",
+			"SourceEffectPanner.gen.cpp.obj",
+			"SourceEffectPhaser.gen.cpp.obj",
+			"SourceEffectRingModulation.gen.cpp.obj"
+		],
+		"Module.Synthesis.gen.3_of_5.cpp.obj": [
+			"SourceEffectSimpleDelay.gen.cpp.obj",
+			"SourceEffectStereoDelay.gen.cpp.obj",
+			"SourceEffectWaveShaper.gen.cpp.obj",
+			"SubmixEffectConvolutionReverb.gen.cpp.obj",
+			"SubmixEffectDelay.gen.cpp.obj",
+			"SubmixEffectFilter.gen.cpp.obj",
+			"SubmixEffectFlexiverb.gen.cpp.obj",
+			"SubmixEffectMultiBandCompressor.gen.cpp.obj",
+			"SubmixEffectStereoDelay.gen.cpp.obj",
+			"SubmixEffectTapDelay.gen.cpp.obj",
+			"Synth2DSlider.gen.cpp.obj"
+		],
+		"Module.Synthesis.gen.4_of_5.cpp.obj": [
+			"Synth2DSliderStyle.gen.cpp.obj",
+			"SynthComponentGranulator.gen.cpp.obj",
+			"SynthComponentMonoWaveTable.gen.cpp.obj",
+			"SynthComponentToneGenerator.gen.cpp.obj",
+			"SynthComponentWaveTable.gen.cpp.obj",
+			"Synthesis.init.gen.cpp.obj",
+			"SynthesisBlueprintUtilities.gen.cpp.obj"
+		],
+		"Module.Synthesis.gen.5_of_5.cpp.obj": [
+			"SynthKnob.gen.cpp.obj",
+			"SynthKnobStyle.gen.cpp.obj",
+			"SynthSlateStyle.gen.cpp.obj"
+		]
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.MotoSynth.cpp.obj": [
+			"MotoSynthDataManager.cpp.obj",
+			"MotoSynthEngine.cpp.obj",
+			"MotoSynthModule.cpp.obj",
+			"MotoSynthPreset.cpp.obj",
+			"MotoSynthSourceAsset.cpp.obj",
+			"SynthComponentMoto.cpp.obj"
+		],
+		"Module.MotoSynth.gen.cpp.obj": [
+			"MotoSynth.init.gen.cpp.obj",
+			"MotoSynthPreset.gen.cpp.obj",
+			"MotoSynthSourceAsset.gen.cpp.obj",
+			"SynthComponentMoto.gen.cpp.obj"
+		]
+	}
+}

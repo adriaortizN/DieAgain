@@ -1,0 +1,17 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.GeometryCollectionTracks.cpp.obj": [
+			"GeometryCollectionTracksModule.cpp.obj",
+			"MovieSceneGeometryCollectionSection.cpp.obj",
+			"MovieSceneGeometryCollectionTemplate.cpp.obj",
+			"MovieSceneGeometryCollectionTrack.cpp.obj"
+		],
+		"Module.GeometryCollectionTracks.gen.cpp.obj": [
+			"GeometryCollectionTracks.init.gen.cpp.obj",
+			"MovieSceneGeometryCollectionSection.gen.cpp.obj",
+			"MovieSceneGeometryCollectionTemplate.gen.cpp.obj",
+			"MovieSceneGeometryCollectionTrack.gen.cpp.obj"
+		]
+	}
+}

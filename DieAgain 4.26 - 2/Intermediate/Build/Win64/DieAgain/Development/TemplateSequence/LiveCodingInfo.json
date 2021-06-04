@@ -1,0 +1,27 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.TemplateSequence.cpp.obj": [
+			"CameraAnimationSequence.cpp.obj",
+			"TemplateSequenceSection.cpp.obj",
+			"SequenceCameraShake.cpp.obj",
+			"TemplateSequenceSystem.cpp.obj",
+			"TemplateSequence.cpp.obj",
+			"TemplateSequenceActor.cpp.obj",
+			"TemplateSequencePlayer.cpp.obj",
+			"TemplateSequenceSpawnRegister.cpp.obj",
+			"TemplateSequenceTrack.cpp.obj"
+		],
+		"Module.TemplateSequence.gen.cpp.obj": [
+			"CameraAnimationSequence.gen.cpp.obj",
+			"SequenceCameraShake.gen.cpp.obj",
+			"TemplateSequence.gen.cpp.obj",
+			"TemplateSequence.init.gen.cpp.obj",
+			"TemplateSequenceActor.gen.cpp.obj",
+			"TemplateSequencePlayer.gen.cpp.obj",
+			"TemplateSequenceSection.gen.cpp.obj",
+			"TemplateSequenceSystem.gen.cpp.obj",
+			"TemplateSequenceTrack.gen.cpp.obj"
+		]
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.NetworkFile.cpp.obj": [
+			"NetworkPlatformFile.cpp.obj",
+			"TCPTransport.cpp.obj"
+		]
+	}
+}

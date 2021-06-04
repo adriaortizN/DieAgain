@@ -1,0 +1,15 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.AVEncoder.cpp.obj": [
+			"AVEncoderCommon.cpp.obj",
+			"AVEncoderModule.cpp.obj",
+			"AVEncoderIMFSampleWrapper.cpp.obj",
+			"AVEncoderMicrosoftCommon.cpp.obj",
+			"AmfVideoEncoder.cpp.obj",
+			"NvVideoEncoder.cpp.obj",
+			"WmfAudioEncoder.cpp.obj",
+			"AVEncoder.cpp.obj"
+		]
+	}
+}

@@ -3,8 +3,8 @@ E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\MovieScene\Public\Channels
 E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\MovieScene\Public\Channels\MovieSceneChannel.h
 E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\MovieScene\Public\Channels\MovieSceneChannelData.h
 E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\MovieScene\Public\Channels\MovieSceneFloatChannel.h
-E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\MovieScene\Public\Channels\MovieSceneObjectPathChannel.h
 E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\MovieScene\Public\Channels\MovieSceneIntegerChannel.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\MovieScene\Public\Channels\MovieSceneObjectPathChannel.h
 E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\MovieScene\Public\Compilation\IMovieSceneTrackTemplateProducer.h
 E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\MovieScene\Public\Compilation\MovieSceneCompiledDataManager.h
 E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\MovieScene\Public\EntitySystem\TrackInstance\MovieSceneTrackInstance.h
@@ -29,10 +29,11 @@ E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\MovieScene\Public\Evaluati
 E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\MovieScene\Public\Evaluation\MovieSceneEvalTemplate.h
 E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\MovieScene\Public\Evaluation\MovieSceneEvalTemplateBase.h
 E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\MovieScene\Public\Evaluation\MovieSceneEvaluationField.h
-E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\MovieScene\Public\Evaluation\MovieSceneEvaluationOperand.h
 E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\MovieScene\Public\Evaluation\MovieSceneEvaluationKey.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\MovieScene\Public\Evaluation\MovieSceneEvaluationOperand.h
 E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\MovieScene\Public\Evaluation\MovieSceneEvaluationTemplate.h
 E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\MovieScene\Public\Evaluation\MovieSceneEvaluationTemplateInstance.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\MovieScene\Public\Evaluation\MovieSceneEvaluationTrack.h
 E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\MovieScene\Public\Evaluation\MovieScenePropertyTemplate.h
 E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\MovieScene\Public\Evaluation\MovieSceneSectionParameters.h
 E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\MovieScene\Public\Evaluation\MovieSceneSegment.h
@@ -44,12 +45,12 @@ E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\MovieScene\Public\Evaluati
 E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\MovieScene\Public\Evaluation\MovieSceneTrackIdentifier.h
 E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\MovieScene\Public\Evaluation\MovieSceneTrackImplementation.h
 E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\MovieScene\Public\Generators\MovieSceneEasingCurves.h
-E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\MovieScene\Public\Sections\MovieSceneBoolSection.h
 E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\MovieScene\Public\Generators\MovieSceneEasingFunction.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\MovieScene\Public\Sections\MovieSceneBoolSection.h
 E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\MovieScene\Public\Sections\MovieSceneSpawnSection.h
 E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\MovieScene\Public\Sections\MovieSceneSubSection.h
-E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\MovieScene\Public\Tracks\MovieSceneSubTrack.h
 E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\MovieScene\Public\Tracks\MovieSceneSpawnTrack.h
+E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\MovieScene\Public\Tracks\MovieSceneSubTrack.h
 E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\MovieScene\Public\IMovieScenePlaybackClient.h
 E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\MovieScene\Public\INodeAndChannelMappings.h
 E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\MovieScene\Public\KeyParams.h
@@ -74,5 +75,4 @@ E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\MovieScene\Public\MovieSce
 E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\MovieScene\Public\MovieSceneSpawnable.h
 E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\MovieScene\Public\MovieSceneTrack.h
 E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\MovieScene\Public\MovieSceneTrackEvaluationField.h
-E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\MovieScene\Public\Evaluation\MovieSceneEvaluationTrack.h
 E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Runtime\MovieScene\Private\Tests\MovieSceneTestObjects.h

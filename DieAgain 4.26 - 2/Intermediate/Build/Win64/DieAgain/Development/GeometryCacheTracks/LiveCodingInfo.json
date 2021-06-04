@@ -1,0 +1,17 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.GeometryCacheTracks.cpp.obj": [
+			"GeometryCacheTracksModule.cpp.obj",
+			"MovieSceneGeometryCacheSection.cpp.obj",
+			"MovieSceneGeometryCacheTemplate.cpp.obj",
+			"MovieSceneGeometryCacheTrack.cpp.obj"
+		],
+		"Module.GeometryCacheTracks.gen.cpp.obj": [
+			"GeometryCacheTracks.init.gen.cpp.obj",
+			"MovieSceneGeometryCacheSection.gen.cpp.obj",
+			"MovieSceneGeometryCacheTemplate.gen.cpp.obj",
+			"MovieSceneGeometryCacheTrack.gen.cpp.obj"
+		]
+	}
+}

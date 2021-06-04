@@ -1,0 +1,113 @@
+/Zc:inline
+/nologo
+/Oi
+/c
+/Gw
+/Gy
+/Zm1000
+/wd4819
+/D_CRT_STDIO_LEGACY_WIDE_SPECIFIERS=1
+/D_SILENCE_STDEXT_HASH_DEPRECATION_WARNINGS=1
+/D_DISABLE_EXTENDED_ALIGNED_STORAGE
+/source-charset:utf-8
+/execution-charset:utf-8
+/Ob2
+/Ox
+/Ot
+/GF
+/errorReport:prompt
+/D_HAS_EXCEPTIONS=0
+/Z7
+/MD
+/bigobj
+/fp:fast
+/Zo
+/Zp8
+/we4456
+/we4458
+/we4459
+/wd4463
+/wd4668
+/wd4244
+/wd4838
+/I .
+/I Developer\Windows\LiveCoding\Private
+/I Runtime
+/I Runtime\TraceLog\Public
+/I Runtime\Core\Public
+/I "E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\CoreUObject"
+/I Runtime\CoreUObject\Public
+/I Developer
+/I Developer\Settings\Public
+/I "E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Inc\LiveCoding"
+/I Developer\Windows
+/I Developer\Windows\LiveCoding\Public
+/I "E:\Archivos de programa (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE"
+/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.2\include\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\winrt"
+/DIS_PROGRAM=0
+/DUE_GAME=1
+/DENABLE_PGO_PROFILE=0
+/DUSE_VORBIS_FOR_STREAMING=1
+/DUSE_XMA2_FOR_STREAMING=1
+/DWITH_DEV_AUTOMATION_TESTS=1
+/DWITH_PERF_AUTOMATION_TESTS=1
+/DUNICODE
+/D_UNICODE
+/D__UNREAL__
+/DIS_MONOLITHIC=1
+/DWITH_ENGINE=1
+/DWITH_UNREAL_DEVELOPER_TOOLS=1
+/DWITH_APPLICATION_CORE=1
+/DWITH_COREUOBJECT=1
+/DUSE_STATS_WITHOUT_ENGINE=0
+/DWITH_PLUGIN_SUPPORT=0
+/DWITH_ACCESSIBILITY=1
+/DWITH_PERFCOUNTERS=0
+/DUSE_LOGGING_IN_SHIPPING=0
+/DWITH_LOGGING_TO_MEMORY=0
+/DUSE_CACHE_FREED_OS_ALLOCS=1
+/DUSE_CHECKS_IN_SHIPPING=0
+/DUSE_ESTIMATED_UTCNOW=0
+/DWITH_EDITOR=0
+/DWITH_EDITORONLY_DATA=0
+/DWITH_SERVER_CODE=1
+/DWITH_PUSH_MODEL=0
+/DWITH_CEF3=1
+/DWITH_LIVE_CODING=1
+/DUE_LIVE_CODING_ENGINE_DIR=\"E:\\UE4.Source\\UnrealEngine-4.26\\Engine\"
+/DUE_LIVE_CODING_PROJECT="\"E:\\DieAgainProjects\\DieAgain GitHub\\DieAgain\\DieAgain 4.26 - 2\\DieAgain.uproject\""
+/DUBT_MODULE_MANIFEST=\"DieAgain.modules\"
+/DUBT_MODULE_MANIFEST_DEBUGGAME=\"DieAgain-Win64-DebugGame.modules\"
+/DUBT_COMPILED_PLATFORM=Win64
+/DUBT_COMPILED_TARGET=Game
+/DUE_APP_NAME=\"DieAgain\"
+/DUE_ENGINE_DIRECTORY=\"../../../../../../UE4.Source/UnrealEngine-4.26/Engine/\"
+/DNDIS_MINIPORT_MAJOR_VERSION=0
+/DWIN32=1
+/D_WIN32_WINNT=0x0601
+/DWINVER=0x0601
+/DPLATFORM_WINDOWS=1
+/DPLATFORM_MICROSOFT=1
+/DOVERRIDE_PLATFORM_HEADER_NAME=Windows
+/DRHI_RAYTRACING=1
+/DNDEBUG=1
+/DUE_BUILD_DEVELOPMENT=1
+/DUE_IS_ENGINE_MODULE=1
+/DUSE_DEBUG_LIVE_CODING_CONSOLE=0
+/DUE_ENABLE_ICU=1
+/DWITH_VS_PERF_PROFILER=0
+/DWITH_DIRECTXMATH=0
+/DWITH_MALLOC_STOMP=1
+/DCORE_API=
+/DTRACELOG_API=
+/DCOREUOBJECT_API=
+/DSETTINGS_API=
+/DLIVECODING_API=
+"E:\UE4.Source\UnrealEngine-4.26\Engine\Source\Developer\Windows\LiveCoding\Private\External\xxhash.c"
+/Fo"E:\DieAgainProjects\DieAgain GitHub\DieAgain\DieAgain 4.26 - 2\Intermediate\Build\Win64\DieAgain\Development\LiveCoding\xxhash.c.obj"
+/TC
+/W0

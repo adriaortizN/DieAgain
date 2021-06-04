@@ -1,0 +1,24 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.MagicLeapARPin.cpp.obj": [
+			"IMagicLeapARPinFeature.cpp.obj",
+			"MagicLeapARPinComponent.cpp.obj",
+			"MagicLeapARPinFunctionLibrary.cpp.obj",
+			"MagicLeapARPinInfoActorBase.cpp.obj",
+			"MagicLeapARPinModule.cpp.obj",
+			"MagicLeapARPinRenderer.cpp.obj",
+			"MagicLeapARPinSettings.cpp.obj",
+			"MagicLeapARPinTypes.cpp.obj"
+		],
+		"Module.MagicLeapARPin.gen.cpp.obj": [
+			"MagicLeapARPin.init.gen.cpp.obj",
+			"MagicLeapARPinComponent.gen.cpp.obj",
+			"MagicLeapARPinFunctionLibrary.gen.cpp.obj",
+			"MagicLeapARPinInfoActorBase.gen.cpp.obj",
+			"MagicLeapARPinRenderer.gen.cpp.obj",
+			"MagicLeapARPinSettings.gen.cpp.obj",
+			"MagicLeapARPinTypes.gen.cpp.obj"
+		]
+	}
+}

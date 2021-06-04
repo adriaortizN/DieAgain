@@ -1,0 +1,39 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.VariantManagerContent.cpp.obj": [
+			"FunctionCaller.cpp.obj",
+			"LevelVariantSets.cpp.obj",
+			"LevelVariantSetsActor.cpp.obj",
+			"LevelVariantSetsFunctionDirector.cpp.obj",
+			"PropertyValue.cpp.obj",
+			"PropertyValueColor.cpp.obj",
+			"PropertyValueMaterial.cpp.obj",
+			"PropertyValueOption.cpp.obj",
+			"PropertyValueSoftObject.cpp.obj",
+			"SwitchActor.cpp.obj",
+			"ThumbnailGenerator.cpp.obj",
+			"Variant.cpp.obj",
+			"VariantManagerContentModule.cpp.obj",
+			"VariantManagerObjectVersion.cpp.obj",
+			"VariantObjectBinding.cpp.obj",
+			"VariantSet.cpp.obj"
+		],
+		"Module.VariantManagerContent.gen.cpp.obj": [
+			"FunctionCaller.gen.cpp.obj",
+			"LevelVariantSets.gen.cpp.obj",
+			"LevelVariantSetsActor.gen.cpp.obj",
+			"LevelVariantSetsFunctionDirector.gen.cpp.obj",
+			"PropertyValue.gen.cpp.obj",
+			"PropertyValueColor.gen.cpp.obj",
+			"PropertyValueMaterial.gen.cpp.obj",
+			"PropertyValueOption.gen.cpp.obj",
+			"PropertyValueSoftObject.gen.cpp.obj",
+			"SwitchActor.gen.cpp.obj",
+			"Variant.gen.cpp.obj",
+			"VariantManagerContent.init.gen.cpp.obj",
+			"VariantObjectBinding.gen.cpp.obj",
+			"VariantSet.gen.cpp.obj"
+		]
+	}
+}
