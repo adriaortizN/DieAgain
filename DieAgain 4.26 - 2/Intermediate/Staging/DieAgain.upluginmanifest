@@ -338,57 +338,6 @@
 			}
 		},
 		{
-			"File": "../../../DieAgain/Plugins/FMODStudio/FMODStudio.uplugin",
-			"Descriptor": 
-			{
-				"FileVersion": 3,
-				"Version": 20109,
-				"VersionName": "2.01.09",
-				"FriendlyName": "FMOD Studio Integration",
-				"Description": "FMOD Studio Integration.",
-				"Category": "Audio",
-				"CreatedBy": "Firelight Technologies",
-				"CreatedByURL": "http://fmod.com",
-				"DocsURL": "",
-				"MarketplaceURL": "",
-				"SupportURL": "",
-				"EnabledByDefault": true,
-				"CanContainContent": true,
-				"Installed": true,
-				"Modules": [
-					{
-						"Name": "FMODStudio",
-						"Type": "Runtime",
-						"LoadingPhase": "PreDefault"
-					},
-					{
-						"Name": "FMODStudioEditor",
-						"Type": "Editor",
-						"LoadingPhase": "Default"
-					}
-				]
-			}
-		},
-		{
-			"File": "../../../DieAgain/Platforms/Switch/Plugins/FMODStudio/FMODStudio_Switch.uplugin",
-			"Descriptor": 
-			{
-				"FileVersion": 3,
-				"Version": 0,
-				"VersionName": "",
-				"FriendlyName": "",
-				"Description": "",
-				"Category": "",
-				"CreatedBy": "",
-				"CreatedByURL": "",
-				"DocsURL": "",
-				"MarketplaceURL": "",
-				"SupportURL": "",
-				"CanContainContent": false,
-				"bIsPluginExtension": true
-			}
-		},
-		{
 			"File": "../../../DieAgain/Plugins/NorthernFront/NorthernFront.uplugin",
 			"Descriptor": 
 			{

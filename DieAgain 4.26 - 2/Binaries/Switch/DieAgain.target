@@ -16,7 +16,7 @@
 		"IsLicenseeVersion": 0,
 		"IsPromotedBuild": 0,
 		"BranchName": "++UE4+Release-4.26",
-		"BuildId": "46c5889c-7a63-4eee-80d0-1ec563035b50"
+		"BuildId": "ffa07eca-926f-4c4a-8826-04ea14d16d74"
 	},
 	"BuildProducts": [
 		{
@@ -119,14 +119,6 @@
 		},
 		{
 			"Path": "$(EngineDir)/Plugins/Marketplace/DialoguePlugin/DialoguePlugin.uplugin",
-			"Type": "UFS"
-		},
-		{
-			"Path": "$(ProjectDir)/Plugins/FMODStudio/FMODStudio.uplugin",
-			"Type": "UFS"
-		},
-		{
-			"Path": "$(ProjectDir)/Platforms/Switch/Plugins/FMODStudio/FMODStudio_Switch.uplugin",
 			"Type": "UFS"
 		},
 		{
@@ -340,14 +332,6 @@
 		{
 			"Path": "$(EngineDir)/Platforms/Switch/Plugins/SwitchMoviePlayer/SwitchMoviePlayer.uplugin",
 			"Type": "UFS"
-		},
-		{
-			"Path": "$(ProjectDir)/Platforms/Switch/Plugins/FMODStudio/Binaries/libfmodL.a.debug",
-			"Type": "DebugNonUFS"
-		},
-		{
-			"Path": "$(ProjectDir)/Platforms/Switch/Plugins/FMODStudio/Binaries/libfmodstudioL.a.debug",
-			"Type": "DebugNonUFS"
 		},
 		{
 			"Path": "$(EngineDir)/Content/Slate/Checkerboard.png",
