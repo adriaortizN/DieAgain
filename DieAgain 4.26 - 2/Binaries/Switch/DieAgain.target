@@ -16,7 +16,7 @@
 		"IsLicenseeVersion": 0,
 		"IsPromotedBuild": 0,
 		"BranchName": "++UE4+Release-4.26",
-		"BuildId": "ffa07eca-926f-4c4a-8826-04ea14d16d74"
+		"BuildId": "3163081d-6f11-4335-ae61-5b4dbb6fe615"
 	},
 	"BuildProducts": [
 		{
@@ -119,6 +119,10 @@
 		},
 		{
 			"Path": "$(EngineDir)/Plugins/Marketplace/DialoguePlugin/DialoguePlugin.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/AsyncLoadingScreen-4.26/AsyncLoadingScreen.uplugin",
 			"Type": "UFS"
 		},
 		{
